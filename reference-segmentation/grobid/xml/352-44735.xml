@@ -1,0 +1,124 @@
+<biblStruct   xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Der Multikulti-Irrtum. Wie wir in Deutschland besser zusammen leben können</title>
+		<author>
+			<persName>
+				<forename type="first">Seyran</forename>
+				<surname>Ates</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="55" to="63" />
+			<pubPlace>Berlin, insbes</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title level="a" type="main">1993: Der Streit um Differenz</title>
+		<author>
+			<persName>
+				<forename type="first">Seyla</forename>
+				<surname>Benhabib</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Feminismus und Postmoderne in der Gegenwart. Frankfurt/M</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Verschleierte Wirklichkeit. Die Frau, der Islam und der Westen</title>
+		<author>
+			<persName>
+				<forename type="first">Christina</forename>
+				<surname>Braun</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Bettina</forename>
+				<surname>Mathes</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="16" to="26" />
+			<pubPlace>Bonn, insbes</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Judith</forename>
+				<surname>Butler</surname>
+			</persName>
+		</author>
+		<editor>Abschrift der Rede auf dem Christopher Street Day Berlin</editor>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Raster des Krieges Warum wir nicht jedes Leid beklagen</title>
+		<author>
+			<persName>
+				<forename type="first">Judith</forename>
+				<surname>Butler</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="32" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<analytic>
+		<title level="a" type="main">2010c: „In diesem Kampf gibt es keinen Platz für Rassismus“. Katharina Hamann: Judith Butler im Gespräch über Rassismus, Homophobie und Antisemitismus</title>
+		<author>
+			<persName>
+				<forename type="first">Judith</forename>
+				<surname>Butler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In: Jungle World, Nr. 30</title>
+		<imprint>
+			<biblScope unit="page" from="29" to="36" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Feminism and Islamic Fundamentalism</title>
+		<author>
+			<persName>
+				<forename type="first">Haideh</forename>
+				<surname>Moghissi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<biblScope unit="page" from="49" to="63" />
+			<pubPlace>London, insbes</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+

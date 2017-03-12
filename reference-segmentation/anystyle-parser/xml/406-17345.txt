@@ -1,0 +1,21 @@
+<author>Bahrdt, Hans-Paul</author> <date>(1998/1961),</date> <title>Die moderne Großstadt. Soziologische Überlegungen zum Städtebau, hg. von Ulfert Herlyn, Opladen.</title>
+<author>Bollnow, Otto Friedrich</author> <date>(1980/1963),</date> <title>Mensch und Raum, 4.</title> <publisher>Aufl. Stuttgart u.a.</publisher>
+<author>Elias, Norbert</author> <date>(1997/1938),</date> <title>Über den Prozeß der Zivilisation. Soziogenetische und psychogenetische</title> <journal>Untersuchungen,</journal> <volume>2</volume> <location>Bde., Frankfurt a.M.</location>
+<author>Führ, Eduard (Hg.)</author> <date>(2000),</date> <title>Heideggers Begründung einer Phänomenologie der Architektur,</title> <location>Münster/New York.</location>
+<author>Giedion, Siegfried</author> <date>(1976/1941),</date> <title>Raum Zeit Architektur. Die Entstehung einer neuen Tradition,</title> <location>Basel.</location>
+<author>Goffman, Erving</author> <date>(1974/1971),</date> <title>Das Individuum im öffentlichen Austausch. Mikrostudien zur öffentlichen Ordnung, Frankfurt a.M.</title>
+<author>Habermas, Jürgen</author> <date>(1985/1982),</date> <title>Moderne und postmoderne Architektur, in: ders. (Hg.), Die neue Unübersichtlichkeit. Kleine Politische Schriften V, Frankfurt a.M.</title>
+<author>Hall, Edward T.</author> <date>(1976/1966),</date> <title>Die Sprache des Raumes,</title> <location>Düsseldorf.</location>
+<author>Hamm, Bernd/Neumann, Ingo</author> <date>(1996),</date> <title>Siedlungs-, Umwelt und Planungssoziologie. Ökologische Soziologie Bd. 2, unter Mitarbeit von Peter Suska und Gabi Gotzen, Opladen.</title>
+<author>Hamm, Bernd</author> <date>(2002),</date> <title>»Architektursoziologie«, in: Trommsdorff, Gisela (Hg.), Wörterbuch der Soziologie, 2.</title> <location>Aufl., Stuttgart,</location> <pages>S. 33–34.</pages>
+<author>Janson, Alban/Bürklin, Thorsten</author> <date>(2002),</date> <title>Auftritte – Scenes. Interaktionen mit dem architektonischen Raum: die Campi Venedigs. Interaction with Architectual Space: the campi of</title> <location>Venice,</location> <publisher>Basel/Boston/ Berlin.</publisher>
+<author>Jencks, Charles</author> <date>(1980/1977),</date> <title>Die Sprache der postmodernen Architektur. Die Entstehung einer alternativen Tradition,</title> <location>Stuttgart.</location>
+<author>Klotz, Heinrich</author> <date>(1996),</date> <title>Architektur. Texte zur Geschichte, Theorie und Kritik des Bauens,</title> <location>Ostfildern.</location>
+<author>Köhler, Gabriele</author> <date>(2002),</date> <title>»Wahrnehmung, soziale«,</title> <editor>in: Schäfers, Bernhard (Hg.),</editor> <booktitle>Grundbegriffe der Soziologie, 8. neu bearb. Aufl., Opladen,</booktitle> <pages>S. 424–427.</pages>
+<author>Lenk, Hans</author> <date>(1995),</date> <title>Schemaspiele. Über Schemainterpretationen und Interpretationskonstrukte, Frankfurt a.M.</title>
+<author>Löw, Martina</author> <date>(2001),</date> <title>Raumsoziologie, Frankfurt a.M.</title>
+<author>Riehl, Wilhelm Heinrich</author> <date>(1855/1861/1936),</date> <authority>Die Familie, Stuttgart/Paderborn.</authority>
+<author>Simmel, Georg</author> <date>(1968/1908),</date> <title>»Der Raum und die räumlichen Ordnungen der Gesellschaft«, in: ders. (Hg.), Soziologie. Untersuchungen über die Formen der Vergesellschaftung,</title> <location>Berlin.</location>
+<author>Simmel, Georg</author> <date>(1998),</date> <title>»Soziologische Ästhetik«, in: Lichtblau, Klaus (Hg.), Darmstadt, (darin die hier wichtigen Beiträge: Soziologische Ästhetik,</title> <pages>S. 77–92;</pages> <title>Die Großstädte und das Geistesleben,</title> <pages>S. 119–134;</pages> <booktitle>Das Problem des Stils,</booktitle> <pages>S. 151–160).</pages>
+<author>Sturm, Gabriele</author> <date>(2000),</date> <title>Wege zum Raum. Methodologische Annäherungen an ein Basiskonzept raumbezogener</title> <publisher>Wissenschaften, Opladen.</publisher>
+<author>Thurn, Hans Peter</author> <date>(1972),</date> <title>»Architektursoziologie. Zur Situation einer interdisziplinären Forschungsrichtung in der BRD«, Kölner Zeitschrift für Soziologie und Sozialpsychologie,</title> <journal>Jg.</journal> <volume>24,</volume> <pages>S. 301–341.</pages>

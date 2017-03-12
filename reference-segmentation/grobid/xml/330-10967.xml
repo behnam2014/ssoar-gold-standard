@@ -1,0 +1,557 @@
+<biblStruct   xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">letzter Sekunde vor dem Unfall</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Norbert</forename>
+				<surname>Aschenbrenner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pictures of the Future</title>
+		<meeting><address><addrLine>Herbst</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clevere Beifahrer</publisher>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="40" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Doris</forename>
+				<forename type="middle">/</forename>
+				<surname>Blutner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Stephan</forename>
+				<surname>Cramer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Tobias</forename>
+				<surname>Haertel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Der Mensch als Problemlöser in logistischen Ketten</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Rad am Draht</title>
+		<author>
+			<persName>
+				<forename type="first">Detlef</forename>
+				<surname>Grell</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="170" to="183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Jürgen</forename>
+				<surname>Goroncy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pictures of the Future</title>
+		<meeting><address><addrLine>Herbst</addrLine></address></meeting>
+		<imprint>
+			<publisher>Das Auto bekommt Augen</publisher>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="46" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Faced with Automation. The Pilot, the Controller and the Engineer</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gras</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Moricot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">L</forename>
+				<surname>Poirot-Delpech</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Scardigli</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Paris: Publications de la Sorbonne</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Auf Distanz Technik im Detail: Unterwegs im BMW 530d mit aktiver Geschwindigkeitsregelung, in: FAZ 09</title>
+		<author>
+			<persName>
+				<forename type="first">Gert</forename>
+				<surname>Hack</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">G</forename>
+				<surname>Herrtwich</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Fahrzeuge am Netz</publisher>
+			<biblScope unit="page" from="63" to="83" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Wolfgang / Johannes</forename>
+				<surname>Krohn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Weyer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soziale Welt</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="349" to="373" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note>Gesellschaft. als Labor. Die Erzeugung sozialer Risiken durch experimentelle Forschung</note>
+</biblStruct>
+
+<biblStruct   xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Mattern</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2003: Total vernetzt. Szenarien einer informatisierten Welt</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Berliner Kolloquium der Gottlieb Daimler-und Karl Benz-Stiftung)</title>
+		<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Rammert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Schulz-Schaeffer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<pubPlace>Können Maschinen handelnSoziologische Beiträge zum Verhältnis von Mensch und Technik, Frankfurt</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Ralf</forename>
+				<surname>Rossberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Roman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Ausfall der Zugsteuerung ließ CitySprinter ins</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Driving Without Awareness</title>
+		<author>
+			<persName>
+				<forename type="first">Andreas</forename>
+				<forename type="middle">/</forename>
+				<surname>Schulz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">/ Manfred</forename>
+				<surname>Monica De Filippis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Thüring</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Eine experimentelle Untersuchung zum Vigilanzabfall während des Autofahrens</title>
+		<imprint>
+			<date type="published" when="2005-02" />
+			<biblScope unit="page" from="71" to="76" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Die Physik des Staus. Neue Wege gegen den Kollaps auf der Straße</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Spehr</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="14" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Mein Auto versteht mich, in: Pictures of the Future</title>
+		<author>
+			<persName>
+				<forename type="first">Rolf</forename>
+				<surname>Sterbak</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="56" to="58" />
+			<pubPlace>Herbst</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Auf dem Weg zur intelligenten Mobilität Kurzfassung des TA-Arbeitsdokumentes &quot;Das vernetzte Fahrzeug</title>
+		<author>
+			<persName>
+				<forename type="first">Ta-Swissta</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">43a</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>KF_Verkehrstelematik_d. .pdf (06.10.03</note>
+</biblStruct>
+
+<biblStruct   xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Leon</forename>
+				<forename type="middle">/</forename>
+				<surname>Urbas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Christiane</forename>
+				<surname>Steffens</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hg.), 2005: Zustandserkennung und Systemgestaltung. 6. Berliner Werkstatt Mensch-Maschnie-Systeme</title>
+		<meeting><address><addrLine>Düsseldorf</addrLine></address></meeting>
+		<imprint>
+			<publisher>VDI Verlag</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Vanberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Die zwei Soziologien. Individualismus und Kollektivismus in der Sozialtheorie</title>
+		<editor>J.C.B. Mohr</editor>
+		<meeting><address><addrLine>Tübingen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Vasek</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technology Review</title>
+		<editor>Rechner auf Rädern</editor>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="20" to="41" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Forschen fürs Cockpit der nächsten Generation</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Vernaleken</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Luft-und Raumfahrt</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="22" to="24" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Softwareagenten-Einführung und Überblick über eine alternative Art der Softwareentwicklung</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Wagner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Göhner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">G</forename>
+				<surname>Urbano</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Automatisierungstechnische Praxis</title>
+		<imprint>
+			<biblScope unit="volume">04</biblScope>
+			<biblScope unit="issue">11 2</biblScope>
+			<biblScope unit="page" from="48" to="57" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>Teil. 3</note>
+</biblStruct>
+
+<biblStruct   xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Die Risiken der Automationsarbeit. Mensch-Maschine-Interaktion und Störfallmanagement in hochautomatisierten Verkehrsflugzeugen</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Weyer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift für Soziologie</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="239" to="257" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Creating Order in Hybrid Systems. Reflexions on the Interaction of Man and Smart Machines</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Weyer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Die neuen Fahrer heißen Bit und Byte. Deutschlands erste vollautomatische U-Bahn, in: FAZ 19</title>
+		<author>
+			<persName>
+				<forename type="first">Walter</forename>
+				<surname>Wille</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Fliegendes Rechnernetz. IT-Technik an Bord des Airbus A380</title>
+		<author>
+			<persName>
+				<forename type="first">Peter-Michael /</forename>
+				<surname>Ziegler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Benz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Benjamn</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="84" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+

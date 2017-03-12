@@ -1,0 +1,8 @@
+<author>Sanfuentes, Andrés</author> <date>( 2006):</date> <title>Perspectivas económicas favorables: la visión del Banco Central.</title> <journal>Informe</journal> <volume>No.</volume> <note>522 in: www.asuntospublicos.org (Stand 14.2.2006).</note>
+<author>PNUD</author> <date>( 2002):</date> <title>Informe chileno de desarrollo humano. Nosotros los chilenos: un desafío cultural. Programa de las Naciones Unidas para el Desarrollo,</title> <location>Santiago</location> <publisher>de Chile.</publisher>
+<author>---</author> <date>( 2004):</date> <title>Informe chileno de desarrollo humano. Poder: ¿para qué y para quién? Programa de las Naciones Unidas para el Desarrollo,</title> <location>Santiago</location> <publisher>de Chile.</publisher>
+<author>Vargas Llosa, Mario</author> <date>( 2006):</date> <title>Bostezos chilenos.</title> <journal>El País,</journal> <volume>1.2.2006.</volume>
+<title>Consejo Nacional de Televisión (CNTV): www.cntv.cl</title>
+<title>Foro Asuntos Públicos: www.asuntospublicos.org</title>
+<title>Instituto Nacional de Estadísticas (INE): www.ine.cl</title>
+<title>Ofizielle Seite der Wahlergebnisse:</title> <url>www.elecciones.gov.cl</url>

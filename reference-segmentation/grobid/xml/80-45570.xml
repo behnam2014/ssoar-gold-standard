@@ -1,0 +1,73 @@
+<biblStruct   xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Exekutive Funktionen bei Jungen mit Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung im Kindesalter</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hampel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Petermann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Desman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kindheit und Entwicklung</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="144" to="152" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Wissen und Fehlannahmen von deutschen Lehrkräften über die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS)</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Schmiedeler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychologie in Erziehung und Unterricht</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">143153</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Die esoterische Verführung. Fragwürdige Therapien bei Verhaltensproblemen</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hessische Lehrerzeitung</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="22" to="23" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+

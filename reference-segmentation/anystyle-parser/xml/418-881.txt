@@ -1,0 +1,105 @@
+<author>Arendt, H.</author> <date>( 1981):</date> <title>Vita activa,</title> <location>München.</location>
+<author>Asdonk, J./Bredeweg, U./Kowol, U.</author> <date>( 1994):</date> <title>Evolution in technikerzeugenden und technikverändernden Sozialsystemen – dargestellt am Beispiel des Werkzeugmaschinenbaus.</title> <booktitle>In: Technik und Gesellschaft. Jahrbuch 7.</booktitle>
+<author>Bechmann, G./Petermann, T. (Hg.)</author> <date>( 1994):</date> <publisher>Interdisziplinäre Technikforschung, Frankfurt/M.</publisher>
+<author>Bell, B.</author> <date>( 1979):</date> <title>Die nachindustrielle Gesellschaft, Frankfurt/M.</title> <genre>(zuerst</genre> <date>1973).</date>
+<author>Blumenberg, H.</author> <date>( 1981):</date> <title>Lebenswelt und Technisierung unter Aspekten der Phänomenologie.</title> <booktitle>In: ders., Wirklichkeiten in denen wir leben,</booktitle> <location>Stuttgart.</location>
+<author>Böhme, G.</author> <date>( 1992):</date> <title>Technische Zivilisation. In: Technik und Gesellschaft.</title> <journal>Jahrbuch</journal> <volume>6.</volume>
+<author>Braun, J./Joerges, B. (Hg.)</author> <date>( 1994):</date> <title>Technik ohne Grenzen, Frankfurt/M.</title>
+<author>Braverman, H.</author> <date>( 1977):</date> <title>Die Arbeit im modernen Produktionsprozeß, Frankfurt/M.</title>
+<author>Callon, M.</author> <date>( 1993):</date> <title>Varieties and Irreversabilities in Networks of Technique Conception and Adoption.</title> <editor>In: D. Foray/C. Freeman (Hg.),</editor> <booktitle>Technology and the Wealth of</booktitle> <location>Nations, London.</location>
+<author>Cassirer, E.</author> <date>( 1985):</date> <title>Form und Technik. In: ders.</title> <publisher>Symbol, Technik, Sprache, Hamburg</publisher> <date>(zuerst 1930).</date>
+<author>Castells, M.</author> <date>( 1996):</date> <title>The Rise of the Network</title> <publisher>Society, Oxford.</publisher>
+<author>David, P.</author> <date>( 1985):</date> <title>Clio and the Economics of Querty.</title> <booktitle>In: American Ecomic Review 75.</booktitle>
+<author>Dewey, J.</author> <date>( 1995):</date> <title>Erfahrung und Natur, Frankfurt/M.</title> <date>(1925).</date>
+<editor>Dierkes, M. (Hg.) (</editor> <date>1997):</date> <location>Technikgenese, Berlin.</location>
+<author>Dierkes, M./Hoffmann, U. (Hg.)</author> <date>( 1992):</date> <title>New Technologies at the Outset. Social Forces in the Shaping of Technological Innovation. Frankfurt/M.</title> <publisher>/ Boulder.</publisher>
+<author>Dierkes, M.,/Hoffmann, U./Marz, L.</author> <date>( 1992):</date> <booktitle>Leitbild und Technik,</booktitle> <location>Berlin.</location>
+<author>Dosi, G. u.a. (Hg.)</author> <date>( 1988):</date> <booktitle>Technical Change and Economic Theory,</booktitle> <location>London.</location>
+<author>Ellul, J.</author> <date>( 1964):</date> <title>The Technological Society,</title> <location>New York (Paris</location> <date>1954).</date>
+<author>Elster, J.</author> <date>( 1983):</date> <title>Explaining Technical Change,</title> <location>Cambridge.</location>
+<author>Esposito, E.</author> <date>( 1993):</date> <title>Der Computer als Medium und Maschine. In: Zeitschrift für Soziologie,</title> <journal>H.</journal> <volume>5.</volume>
+<author>Fischer, P.</author> <date>( 1996):</date> <title>Zur Genealogie der Technikphilosophie. In: ders.</title> <location>(Hg.), Technikphilosophie, Leipzig.</location>
+<author>Freyer, J.</author> <date>( 1960):</date> <title>Über das Dominantwerden technischer Kategorien in der Lebenswelt der industriellen Gesellschaft,</title> <location>Mainz.</location>
+<author>Gehlen, A.</author> <date>( 1953):</date> <title>Die Technik in der Sichtweise der Anthropologie.</title> <location>In: Merkur, Nr. 65.</location>
+<author>Gehlen, A.</author> <date>( 1957):</date> <title>Die Seele im technischen Zeitalter,</title> <location>Reinbek.</location>
+<author>Gilfillan, S.C.</author> <date>( 1936):</date> <title>The Sociology of Invention,</title> <location>Chicago.</location>
+<author>Grimm, J./Grimm, W.</author> <date>( 1935):</date> <booktitle>Deutsches Wörterbuch, Bd.</booktitle> <volume>21,</volume> <location>Leipzig.</location>
+<author>Habermas, J.</author> <date>( 1968):</date> <title>Technik und Wissenschaft als ‘Ideologie’, Frankfurt/M.</title>
+<author>Habermas, J.</author> <date>( 1981):</date> <title>Theorie des kommunikativen Handelns,</title> <edition>2 Bände, Frankfurt/M.</edition>
+<author>Halfmann, J.</author> <date>( 1996):</date> <title>Die gesellschaftliche ‘Natur’ der Technik, Opladen.</title>
+<author>Havelock, E.</author> <date>( 1963):</date> <note>Preface to Plato, Cambridge.</note>
+<author>Heintz, B.</author> <date>( 1993):</date> <title>Die Herrschaft der Regel. Zur Grundlagengeschichte des Computers, Frankfurt/M.</title>
+<author>Hickman, L.</author> <date>( 1990):</date> <publisher>John Dewey’s Pragmatic Technology, Bloomington.</publisher>
+<author>Hirsch-Kreinsen, H.</author> <date>( 1993):</date> <title>NC-Entwicklung als gesellschaftlicher Prozeß, Frankfurt/M.</title>
+<author>Hughes, T.P.</author> <date>( 1987):</date> <title>The Evolution of Large Technological Systems. In: W.E. Bijker/T.P. Hughes/T.J. Pinch (Hg.): The Social Construction of Technological Systems,</title> <location>Cambridge.</location>
+<author>Husserl, E.</author> <date>( 1982):</date> <title>Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie, Hamburg 2.</title> <publisher>Auflage</publisher> <date>(zuerst 1936).</date>
+<author>Ihde, D.</author> <date>( 1990):</date> <booktitle>Technology and the Lifeworld, Bloomington.</booktitle>
+<author>Illich, I.</author> <date>( 1975):</date> <title>Selbstbegrenzung. Eine politische Kritik der Technik,</title> <location>Reinbek.</location>
+<author>Innis, H,</author> <date>1972):</date> <title>Empire and Communication,</title> <location>Toronto.</location>
+<author>Joerges, B. (Hg.)</author> <date>( 1988):</date> <title>Technik im Alltag, Frankfurt/M.</title>
+<author>Joerges, B.</author> <date>( 1998):</date> <title>Technik – Körper der</title> <publisher>Gesellschaft, Frankfurt/M.</publisher>
+<author>Kapp, E.</author> <date>( 1877):</date> <title>Grundlinien einer Philosophie der Technik,</title> <publisher>Nachdruck Düsseldorf</publisher> <date>1978.</date>
+<author>Knie, A.</author> <date>( 1993):</date> <title>Gemachte Technik. In: Technik und Gesellschaft.</title> <booktitle>Jahrbuch 7.</booktitle>
+<author>Knie, A.</author> <date>( 1997):</date> <title>Eigenzeit und Eigenraum: Zur Dialiktik von Mobilität und Verkehr.</title> <location>In:</location> <publisher>Soziale Welt, H.</publisher> <volume>1.</volume>
+<author>Krämer, S.</author> <date>( 1988):</date> <booktitle>Symbolische Maschinen,</booktitle> <location>Darmstadt.</location>
+<author>Krohn, W.</author> <date>( 1989):</date> <title>Die Verschiedenheit der Technik und die Einheit der Techniksoziologie.</title> <editor>In: P. Weingart (Hg.),</editor> <booktitle>Technik als sozialer Prozeß, Frankfurt/M.</booktitle>
+<author>Krohn, W./Weyer, J.</author> <date>( 1989):</date> <title>Die Gesellschaft als Labor.</title> <location>In:</location> <publisher>Soziale Welt, H.</publisher> <volume>3.</volume>
+<author>Latour, B.</author> <date>( 1995):</date> <title>Wir sind nie modern gewesen,</title> <location>Berlin.</location>
+<author>Latour, B.</author> <date>( 1996):</date> <title>On actor-network theory.</title> <booktitle>In Soziale Welt,</booktitle> <volume>H.</volume> <pages>4.</pages>
+<author>Latour, B.</author> <date>( 1998):</date> <title>Über technische Vermittlung. Philosophie, Soziologie, Genealogie.</title> <editor>In: W. Rammert (Hg.),</editor> <booktitle>Technik und Sozialtheorie, Frankfurt/M.</booktitle>
+<author>Lenk, H./Ropohl, G.</author> <title>(Hg.): Technik und Ethik,</title> <location>Stuttgart.</location>
+<author>Lenk, H./Agazzi, E./Durbin, P. (Hg.)</author> <date>( 1998):</date> <title>Advances in the Philosophy of Technology?</title> <journal>In: Society for Philosophy and Technology: Quarterly Electronic Journal.</journal>
+<author>Leroi-Gourhan, A.</author> <date>( 1980):</date> <title>Hand und Wort. Die Evolution von Technik, Sprache und</title> <publisher>Kunst, Frankfurt/M.</publisher>
+<author>Luhmann, N.</author> <date>(1975,</date> <location>Macht, Stuttgart.</location>
+<author>MacKenzie, D./Wajcman, J. (Hg.),</author> <date>1985,</date> <title>The Social Shaping of</title> <publisher>Technology,</publisher> <location>London.</location>
+<author>Marcuse, H.</author> <date>(1967,</date> <title>Der eindimensionale Mensch,</title> <location>Neuwied.</location>
+<author>Marx, K.,</author> <date>1844,</date> <title>Pariser Manuskripte (wiederveröffentlicht in Texte zu Theorie und Praxis</title> <location>II, Reinbek</location> <date>1968).</date>
+<author>Marx, K.</author> <date>( 1969):</date> <title>Das Kapital. Kritik der politischen Ökonomie, Bd.</title> <note>I, Berlin (zuerst 1867).</note>
+<author>Mayntz, R./Hughes, T.P. (Hg.)</author> <date>( 1988):</date> <title>The Development of Large Technical Systems, Frankfurt/M.</title>
+<author>Mayntz, R./Schneider, V.</author> <date>( 1995):</date> <title>Akteurzentrierter Institutionalismus in der Technikforschung. In: Technik und</title> <journal>Gesellschaft. Jahrbuch</journal> <volume>8.</volume>
+<author>McLuhan, M.</author> <date>( 1968):</date> <title>Die magischen Kanäle. ‘Understanding</title> <location>Media’, Düsseldorf.</location>
+<author>Meyrowitz, J.</author> <date>( 1987):</date> <publisher>Die Fernsehgesellschaft, Weinheim / Basel.</publisher>
+<author>Mitcham, C.</author> <date>( 1994):</date> <title>Thinking Through Technology. The Path between Engineering and</title> <publisher>Philosophy, Chicago.</publisher>
+<author>Mumford, L.</author> <date>( 1963):</date> <title>Technics and Civilization,</title> <location>New York.</location>
+<author>Mumford, L.</author> <date>( 1977):</date> <title>Der Mythos der Maschine.</title> <booktitle>Kultur, Technik und Macht, Frankfurt/M.</booktitle>
+<author>Nelson, R.R./Winter, S.</author> <date>( 1982):</date> <title>An Evolutionary Theory of Economic Change,</title> <location>Cambridge.</location>
+<author>Noble, D.F.</author> <date>( 1984):</date> <title>Social Forces of Production,</title> <location>Oxford.</location>
+<author>Ogburn, W.F.</author> <date>( 1936):</date> <booktitle>Technological Trends and National Policy,</booktitle> <location>Washington.</location>
+<author>Ogburn, W.F.</author> <date>( 1922):</date> <title>Social Change: With Respect to Culture and Original Nature,</title> <location>New York.</location>
+<author>Ong, W.J.</author> <date>( 1987):</date> <title>Oralität und Literalität. Die Technologisierung des Wortes, Opladen.</title>
+<author>Perrow, C.</author> <date>( 1987):</date> <publisher>Normale Katastrophen, Frankfurt/M.</publisher>
+<author>Pickering, A.</author> <date>( 1995):</date> <title>The Mangle of Praxis,</title> <location>Chicago.</location>
+<author>Pinch, T.J./Bijker, W.E.</author> <date>( 1987):</date> <title>The Social Construction of Facts and Artifacts. In: W.E. Bijker/T.P. Hughes/T.J. Pinch (Hg.), The Social Construction of Technological Systems,</title> <location>Cambridge, MA.</location>
+<author>Popitz, H.</author> <date>( 1995):</date> <title>Der Aufbruch zur Artifiziellen</title> <publisher>Gesellschaft,</publisher> <location>Tübingen.</location>
+<author>Postman, N.</author> <date>( 1985):</date> <title>Wir amüsieren uns zu Tode.</title> <publisher>Frankfurt/M.</publisher>
+<author>Rammert, W.</author> <date>( 1989):</date> <title>Technisierung und Medien in Sozialsystemen. [Annäherungen an eine soziologische Theorie der Technik.]</title> <editor>In: P. Weingart</editor> <title>(Hg.): Technik als sozialer Prozeß, Frankfurt/M.</title>
+<author>Rammert, W.</author> <date>( 1992):</date> <title>Wer oder was steuert den technischen Fortschritt?</title> <location>In:</location> <publisher>Soziale Welt, H.</publisher> <volume>1.</volume>
+<author>Rammert, W.</author> <date>( 1993):</date> <title>Technik aus soziologischer Perspektive, Opladen.</title>
+<author>Rammert, W.</author> <date>( 1995a):</date> <title>Von der Kinematik zur Informatik. In: ders. (Hg.), Soziologie und künstliche Intelligenz, Frankfurt/M.</title>
+<author>Rammert, W.</author> <date>( 1995b):</date> <title>Technology within Society. In: T. Cronberg/K. Sörensen (Hg.), Similar Concerns, Different Styles?</title> <booktitle>Technology Studies in Western Europe,</booktitle> <location>Luxembourg.</location>
+<author>Rammert, W.</author> <date>( 1998a):</date> <title>Die kulturelle Orientierung der technischen Entwicklung. [Eine technikgenetische Perspektive.] In: P. Eulenhöfer u.a. (Hg.): Sozialgeschichte der Informatik. Soziale Praktiken und Orientierungen,</title> <location>Wiesbaden.</location>
+<author>Rammert, W.</author> <date>( 1998b):</date> <title>Die Form der Technik und die Differenz der Medien. Auf dem Weg zu einer pragmatistischen Techniktheorie. In: W. Rammert (Hg.): Technik und Sozialtheorie. Frankfurt/M.</title>
+<author>Rammert, W. u.a.</author> <date>( 1998):</date> <publisher>Wissensmaschinen, Frankfurt/M.</publisher>
+<author>Rapp, F. (Hg.),</author> <title>Technik und Philosophie,</title> <location>Düsseldorf.</location>
+<author>Ropohl, G.</author> <date>( 1979):</date> <title>Eine Systemtheorie der Technik,</title> <publisher>München / Wien.</publisher>
+<author>Rosenberg, N.</author> <date>(1982,</date> <title>Inside the Black Box: Technology and Economics,</title> <location>Cambridge.</location>
+<author>Schadewaldt, F.</author> <date>(1970,</date> <title>Die Begriffe ‘Natur’ und ‘Technik’ bei den Griechen. In: ders., Hellas und Hesperien.</title> <publisher>Gesammelte Schriften, Zürich.</publisher>
+<author>Schegloff, E.A.</author> <date>( 1972):</date> <title>Sequencing in Conversational Openings. In: Directions in Sociolinguistics. The Ethnography of Communication,</title> <location>New York.</location>
+<author>Schelsky, H.</author> <date>( 1961):</date> <title>Der Mensch in der wissenschaftlichen Zivilisation,</title> <publisher>Köln / Opladen.</publisher>
+<author>Simon, H.A.</author> <date>( 1981):</date> <title>The Sciences of the Artificial,</title> <location>Cambridge</location> <edition>(2nd ed.).</edition>
+<author>Technik und Gesellschaft</author> <date>( 1993):</date> <title>Konstruktion und Evolution von Technik.</title> <editor>Jahrbuch 7, hg. von W.</editor> <title>Rammert und G.</title> <publisher>Bechmann, Frankfurt/M.</publisher>
+<author>Technik und Gesellschaft,</author> <date>1995):</date> <title>Theoriebausteine der Techniksoziologie.</title> <genre>Jahrbuch 8, hg.</genre> <journal>von J. Halfmann u.a., Frankfurt/M.</journal>
+<author>Turing, A.</author> <date>( 1987):</date> <title>Intelligence Service, Gesammelte Schriften, hg. von B. Dotzler und F.</title> <location>Kittler, Berlin.</location>
+<author>Turkle, S.</author> <date>( 1998):</date> <title>Leben im Netz.</title> <booktitle>Identität in Zeiten des Internet,</booktitle> <location>Reinbek.</location>
+<author>Tushman, M./Rosenkopf, L.</author> <date>( 1992):</date> <title>Organizational Determinants of Technological Change.</title> <booktitle>In: Research in Organization Behaviour 14.</booktitle>
+<author>Ullrich, O.</author> <date>( 1977):</date> <title>Technik und Herrschaft, Frankfurt/M.</title>
+<author>Virilio, P.</author> <date>( 1989):</date> <title>Der negative Horizont.</title> <location>Bewegung/Geschwindigkeit/Beschleunigung, München.</location>
+<author>Wajcman, J.</author> <date>( 1994):</date> <title>Technik und Geschlecht, Die feministische Technikdebatte, Frankfurt/M.</title>
+<author>Werle, R.</author> <date>( 1990):</date> <note>Telekommunikation in der Bundesrepublik, Frankfurt/M.</note>
+<author>Weyer, J. u.a.</author> <date>( 1997):</date> <title>Technik, die Gesellschaft schafft,</title> <location>Berlin.</location>
+<author>White, L.</author> <date>( 1962):</date> <title>Medieval Technology and Social Change,</title> <location>Oxford.</location>
+<author>White, L.</author> <date>( 1968):</date> <title>Deus ex Machina,</title> <location>Cambridge.</location>
+<author>Wiener, N.</author> <date>( 1965):</date> <editor>Gott &amp; Golem Inc.,</editor> <location>Düsseldorf (Cambridge</location> <date>1964).</date>
+<author>Wiener, N.</author> <date>( 1968):</date> <title>Kybernetik. Regelung und Nachrichtenübertragung in Lebewesen und Maschinen,</title> <location>Reinbek (Cambridge</location> <date>1948).</date>
+<author>Winner, L.</author> <date>( 1977):</date> <title>Autonomous Technology. Technics-out-of-Control as a Theme in Political Thought,</title> <location>Cambridge.</location>
+<author>Wittgenstein, L.</author> <date>( 1984):</date> <publisher>Philosophische Untersuchungen, Frankfurt/M.</publisher>

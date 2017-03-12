@@ -1,0 +1,57 @@
+<date>( 1972):</date> <title>Mujo deluks.</title> <location>In: Svet, 09.06.1972.</location>
+<date>( 1973):</date> <title>Jugosloveni hrane Nemce. In: Ekspres politika, 13.05.1973.</title>
+<date>( 1974):</date> <title>Ustav SFRJ 1974. In: Službeni list</title> <journal>SFRJ</journal> <volume>30 (9/74).</volume>
+<date>( 1977):</date> <title>Ustav SFRJ.</title> <location>In:</location> <publisher>Službeni list</publisher> <date>(19/77).</date>
+<date>( 1977):</date> <title>Zwanglos und ganz ohne Programm.</title> <location>In:</location> <publisher>Mannheimer Morgen,</publisher> <date>01.12. 1977.</date>
+<date>( 1978):</date> <title>Ne možemo svi u kafedžije.</title> <booktitle>In: Ilustrovana Politika,</booktitle> <volume>22.03.1978.</volume>
+<date>( 1987):</date> <title>Vom Čimbur bis Gibanica. Rezepte aus Jugoslawien.</title> <location>Leipzig:</location> <publisher>Verlag für die Frau.</publisher>
+<title>[Berlin.de]: BerlinFinder. Jugoslawische Restaurants. Online verfügbar unter: http://www.berlin.de/adressen/jugoslawisches-restaurant/, letzter Zugriff am 29.06.2014.</title>
+<author>[Generalni konzulat Minhen]</author> <date>( 1975):</date> <title>Generalni konzulat Minhen SSIP-u, 01.11.1975.</title> <location>DASMIP, PA,</location> <date>1975,</date> <volume>F-103,</volume> <pages>451790.</pages>
+<author>Ahtakar, Salman</author> <date>( 2007):</date> <title>Imagination und Identität. Psychosoziale Aspekte und kulturübergreifende Therapie.</title> <location>Gießen:</location> <publisher>Psychosozial-Verlag.</publisher>
+<author>Appadurai, Arjun</author> <date>( 1988):</date> <title>How to make a National Cuisine: Cookbooks in Contemporary India.</title> <booktitle>In: Comparative Studies in Society and History</booktitle> <volume>30 (1),</volume> <pages>S. 3–24.</pages>
+<author>Baberowski, Jörg</author> <date>( 2009):</date> <title>Was sind Repräsentationen sozialer Ordnungen im Wandel? Anmerkungen zu einer Geschichte interkultureller Begegnungen. In: Jörg Baberowski (Hg.): Arbeit an der Geschichte. Wie viel Theorie braucht die Geschichtswissenschaft? Frankfurt am Main;</title> <location>New York:</location> <publisher>Campus,</publisher> <pages>S. 7–18.</pages>
+<editor>Barkan, Elliott Robert (Hg.)</editor> <date>( 2007):</date> <title>Immigration, incorporation &amp; transnationalism.</title> <location>New Brunswick:</location> <publisher>Transaction Publishers.</publisher>
+<author>Baučić, Ivo; Groß, Bernd</author> <date>( 1988):</date> <title>Rückkehr und Reintegration jugoslawischer Arbeitnehmer aus der Bundesrepublik Deutschland. Bonn: Bundesministerium für Arbeit und Soziales (Forschungsbericht</title> <journal>Sozialforschung,</journal> <volume>163),</volume> <pages>S. 9.</pages>
+<editor>Belasco, Warren James; Scranton, Philip (Hg.) (</editor> <date>2002):</date> <title>Food nations. Selling taste in consumer societies.</title> <location>New York:</location> <publisher>Routledge</publisher> <note>(Hagley perspectives on business and culture).</note>
+<author>Bracewell, Wendy</author> <date>( 2012):</date> <title>Eating up Yugoslavia, Cookbooks and Consumption in Socialist Yugoslavia. In: Paulina Bren und Mary Neuburger (Hg.): Communism Unwrappred: Consumption in Cold War Eastern Europe.</title> <location>Oxford; New York:</location> <publisher>Oxford University Press.</publisher> <pages>S. 169–196.</pages>
+<author>Budde, Gunilla-Friederike; Conrad, Sebastian; Janz, Oliver (Hg.)</author> <date>( 2006):</date> <title>Transnationale Geschichte. Themen, Tendenzen und Theorien.</title> <location>Göttingen:</location> <publisher>Vandenhoeck &amp; Ruprecht.</publisher>
+<author>Calic, Marie-Janine</author> <date>( 2010):</date> <title>Geschichte Jugoslawiens im 20.</title> <location>Jahrhundert. München:</location> <publisher>C.H. Beck.</publisher>
+<author>Čapo Žmegač, Jasna</author> <date>( 2006):</date> <title>Dynamik der Beziehungen der Migranten zum Herkunftsland: biographische Perspektive.</title> <booktitle>In: Schweizerisches Archiv für Volkskunde 102,</booktitle> <pages>S. 1–20.</pages>
+<author>Davidović-Primorac, Milena</author> <date>( 1982):</date> <title>O povratku naših radnika iz inostranstva. In: Sociološki pregled</title> <location>16</location> <date>(1-2),</date> <pages>S. 5–45.</pages>
+<author>Derndinger, Renate (Hg.)</author> <date>( 1989):</date> <title>Balkan-Küche. Über 150 Rezepte: von pfefferscharf bis zuckersüß.</title> <location>Herrsching:</location> <publisher>Pawlak (Burda).</publisher>
+<author>Goldsworthy, Vesna</author> <date>( 1998):</date> <title>Inventing Ruritania, Imperialism of Imagination.</title> <location>New</location> <publisher>Haven: Yale University Press.</publisher>
+<author>Grandits, Hannes; Brunnbauer, Ulf</author> <date>( 2013):</date> <title>The Ambiguous Nation. Socialist and Post-Socialist NationBuilding in Southeastern Europe in Perspective (Introduction). In: Ulf Brunnbauer und Hannes Grandits (Hg.): The Ambiguous Nation. Case Studies from</title> <booktitle>Southeastern Europe in the 20th Century.</booktitle> <location>München:</location> <publisher>Oldenbourg Verlag</publisher> <journal>(Südosteuropäische Arbeiten,</journal> <volume>151),</volume> <pages>S. 9–39.</pages>
+<author>Higman, Barry W.</author> <date>( 2012):</date> <title>How food made history.</title> <location>Malden:</location> <publisher>Wiley-Blackwell.</publisher>
+<editor>Hobsbawm, Eric</editor> <date>( 1992):</date> <title>The Invention of Tradition.</title> <location>Cambridge:</location> <publisher>Cambridge University Press.</publisher>
+<editor>Hobsbawm, Eric J. (</editor> <date>1995):</date> <title>Age of extremes. The short twentieth century, 1914-1991.</title> <location>London:</location> <publisher>Michael Joseph.</publisher>
+<title>Interview mit dem Besitzer des Imbiss Restaurants „Balkan grill“.</title> <location>Berlin, 14.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Adriatic“.</title> <location>Berlin, 30.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Dalmacija Grill“, Potsdamer Straße.</title> <location>Berlin, 27.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Dalmacija grill“.</title> <location>Berlin, 27.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Emona“,</title> <location>Berlin, 28.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Marko Schlemmerstube“.</title> <location>Berlin, 29.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Split“ und mit dem Besitzer des Restaurants „Dalmacija“.</title> <location>Berlin,</location> <note>22.04. und 27.04.2013.</note>
+<title>Interview mit dem Besitzer des Restaurants „Split“.</title> <location>Berlin, 22.04.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Tijarica“.</title> <location>Split, 22.08.2013.</location>
+<title>Interview mit dem Besitzer des Restaurants „Ziko grill“.</title> <location>Berlin, 29.04.2013.</location>
+<author>Ivanović, Vladimir</author> <date>( 2012):</date> <title>Geburtstag pišeš normalno. Jugoslovenski gastarbajteri u Austriji i SR Nemačkoj</title> <date>(1965-1973).</date> <title>Beograd: Institut za savremenu istoriju.</title>
+<author>Karapandža, Stevo; Bogataj, Janez (Hg.)</author> <date>( 2011):</date> <title>Ukusi regiona. Odabrana jela Jugoistočne Evrope i Balkana.</title> <location>Novi Sad:</location> <publisher>Studio Moderna.</publisher>
+<author>Köstlin, Konrad</author> <date>( 1991):</date> <title>Heimat geht durch den Magen. Oder: Das Maultaschensyndrom – Soul food in der Moderne.</title> <booktitle>In: Beiträge zur Volkskünde in Baden-Württemberg,</booktitle> <pages>S.147–164.</pages>
+<author>Marjanović, Dika</author> <date>( 1984):</date> <title>Dalmatinska kuhinja.</title> <location>Zagreb:</location> <publisher>Mladost.</publisher>
+<author>Marković, Spasenija Pata (Hg.)</author> <date>( 1961):</date> <title>Jugoslovenska kuhinja – specijaliteti.</title> <location>Beograd:</location> <publisher>Mladost.</publisher>
+<title>Menu „Adriatic“</title> <location>Berlin.</location>
+<title>Menu „Dalmacija grill“,</title> <publisher>Reinickendorf.</publisher>
+<authority>Menu „Dalmacija“, Prager Platz, Berlin.</authority>
+<author>Mintz, Sydney W.</author> <date>( 1996):</date> <title>Testing Food, Testing Freedom. Excursions into Eating, Power, and the Past.</title> <location>Boston:</location> <publisher>Beacon Press.</publisher>
+<author>Möhring, Maren</author> <date>( 2012):</date> <title>Fremdes Essen. Die Geschichte der ausländischen Gastronomie in der Bundesrepublik Deutschland.</title> <location>München: Oldenburg</location> <publisher>Verlag.</publisher>
+<author>Novak-Markovič, Olga</author> <date>( 1983):</date> <title>Jugoslavenska kuhinja,</title> <location>Ljubljana:</location> <publisher>Cankarjeva založba.</publisher>
+<author>Novak-Markovič, Olga</author> <date>( 1987):</date> <title>Die jugoslawische Küche.</title> <location>Ljubljana:</location> <publisher>Cankarjeva založba.</publisher>
+<author>Petranović, Branko</author> <date>( 1988):</date> <title>Istorija Jugoslavije.</title> <genre>1918-1988. Knj. 3. Socijalistička Jugoslavija. 1945-1948.</genre> <location>Beograd:</location> <publisher>Nolit.</publisher>
+<title>Restaurant „Dalmacija Grill“ (Hg.): Speisekarte. Online verfügbar unter http://www.dalmacijagrill.de/speisekarte.html, letzter Zugriff am: 20.09.2013.</title>
+<author>Scheibenpflug, Lotte</author> <date>( 1973: )</date> <title>Das Beste der Balkanküche.</title> <location>Innsbruck:</location> <publisher>Pinguin Verlag,</publisher> <editor>S. 34.&lt;(ref&gt; &lt;ref&gt;Sundhaussen, Holm (</editor> <date>2012):</date> <title>Jugoslawien und seine Nachfolgestaaten 1943-2011. Eine ungewöhnliche Geschichte des Gewöhnlichen. Wien u.a.:</title> <publisher>Böhlau.</publisher>
+<author>Todorova, Maria</author> <date>( 1997):</date> <title>Imagining the Balkans.</title> <location>Oxford:</location> <publisher>Oxford University Press.</publisher>
+<author>Totović, Vida (Hg.)</author> <date>( 1960):</date> <title>Vojvođanski kuvar.</title> <location>Novi Sad:</location> <publisher>Forum.</publisher>
+<editor>Veliki Burdin kuvar</editor> <date>( 1984):</date> <title>500 najboljih recepata burdinog kulinarskog studija: 450 fotografija u boji.</title> <location>Beograd:</location> <publisher>Nolit.</publisher>
+<author>Vučetić, Mira</author> <date>( 1943):</date> <producer>Kuharstvo. 7. Aufl. Zagreb:</producer> <title>Zagrebačka priradna tiskara.</title>
+<author>Ward, Robin; Jenkins, Richard (Hg.)</author> <date>( 2010):</date> <title>Ethnic communities in business. Strategies for economic survival.</title> <location>Cambridge; New York:</location> <publisher>Cambridge University Press</publisher> <title>(Comparative ethnic and race relations series).</title>
+<author>Žaper, Ana</author> <date>( 2004):</date> <title>Kulinarstvo – dio kulture življenja i duhovne baštine u hrvatskoj turističkoj ponudi.</title> <booktitle>In: Naše more</booktitle> <volume>51,</volume> <pages>S. 228–238.</pages>

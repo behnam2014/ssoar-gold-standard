@@ -1,0 +1,7 @@
+<author>Europäische Kommission</author> <date>( 2005):</date> <title>Angesichts des demografischen Wandels – eine neue Solidarität zwischen den Generationen.</title> <journal>Grünbuch. KOM</journal> <date>(2005)</date> <title>94 endgültig.</title>
+<author>Kommission der Europäischen Gemeinschaften</author> <date>( 2006):</date> <title>Die demografische Zukunft Europas – von der Herausforderung zur Chance. Mitteilung der Kommission der Europäischen Gemeinschaften.</title> <journal>KOM</journal> <date>(2006)571</date> <pages>endgültig.</pages>
+<author>www.un.org/NewLinks/older/99/principles.htm, vgl.</author> <booktitle>insbesondere Artikel 7-9</booktitle>
+<url>www.who.int/ageing/events/idop_rationale/en/print.html</url>
+<author>vgl. www.seniortrainer.de,</author> <url>http://www.isab-institut.de/front_content.php?idcat=67</url> <note>oder www.efi-d.de</note>
+<author>vgl.</author> <volume>www.isab-institut.de/front_content.php?client=1&amp;lang=1&amp;idcat=36&amp;idart=401,</volume> <title>www.lace-project.net oder den Abschlussbericht: Klercq,</title> <editor>Jumbo/Zwart, Joke (Hrsg.)</editor> <date>( 2007):</date> <title>Lifelong Learning as Key to Active Citizenship. A guide to the implementation of LACE models in Europe.</title> <location>Baarn.</location>
+<title>Europäische Kommission 2005:</title> <pages>10</pages>

@@ -1,0 +1,64 @@
+<biblStruct   xml:id="b0">
+	<monogr>
+		<title level="m" type="main">10 0 :rh0000U :r0h001U :r0h020U :r0h030U :r0h004U :r0h005U :rh0006U :rh0007U :rh0080U :r0h090U :r0h001U :r0h011U :r0012hU :r0013hU :r0014hU :r0015hU :r0016hU</title>
+		<imprint>
+			<biblScope unit="page" from="17" to="0081" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Quelle: Betriebliche Kinderbetreuung – Recherche ÖIF</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Bundesministerium Für Familie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Senioren</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Frauen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Unternehmen Kinderbetreuung. Praxisleitfaden für die betriebliche Kinderbetreuung</title>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Statistik</forename>
+				<surname>Austria</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Verlag Österreich</publisher>
+			<pubPlace>Wien</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+

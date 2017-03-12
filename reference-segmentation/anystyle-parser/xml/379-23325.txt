@@ -1,0 +1,27 @@
+<editor>Bachmair, Ben ( ) Fernsehkultur. Subjektivität</editor> <title>in einer Welt bewegter Bilder.</title> <publisher>Opladen.</publisher>
+<editor>Bachmair, Ben ( ) Mediensozialisation</editor> <title>im Alltag. In: Mikos, Lothar/ Wegener, Claudia (HgInnen) Qualitative Medienforschung.</title> <location>Konstanz, –</location> <unknown>.</unknown>
+<editor>Beauvoir, Simone de ( / Orig. ) Das</editor> <title>andere Geschlecht.</title> <location>Hamburg.</location>
+<author>Beck, Ulrich</author> <date>( /</date> <author>Orig. ) Risikogesellschaft.</author> <title>Auf dem Weg in eine andere Moderne.</title> <location>Frankfurt a.</location> <publisher>M.</publisher>
+<editor>Bourdieu, Pierre ( ) Die</editor> <title>männliche Herrschaft. In: Dölling, Irene/ Krais, Beate (Hginnen) Ein alltägliches Spiel. Geschlechterkonstruktion in der sozialen Praxis.</title> <location>Frankfurt a.</location> <publisher>M.</publisher>
+<editor>Connell, Raewyn W. ( ) Der</editor> <title>gemachte Mann. Konstruktion und Krise von Männlichkeiten.</title> <publisher>Opladen.</publisher>
+<editor>Fend, Helmut ( ) Gesellschaftliche</editor> <title>Bedingungen schulischer Sozialisation.</title> <location>Weinheim.</location>
+<editor>Fludernik, Monika ( ) Einführung in</editor> <title>die Erzähltheorie.</title> <location>Darmstadt.</location>
+<editor>Hall, Stuart ( ) Kodieren/ Dekodieren. In: Bromley, Roger</editor> <title>u. a. (Hg.) Cultural Studies.</title> <location>Lüneburg, –</location> <unknown>.</unknown>
+<editor>Hall, Stuart ( ) Die</editor> <title>Zentralität von Kultur: Anmerkungen zu den kulturellen Revolutionen unserer Zeit. In: Hepp, Andreas/ Löffelholz, Martin (Hg.) Grundlagentexte zur transkulturellen Kommunikation.</title> <location>Konstanz, –</location> <unknown>.</unknown>
+<editor>Hall, Stuart/ Jefferson, Tony (eds.) ( ) Resistance</editor> <title>through Rituals.</title> <booktitle>Youth Subcultures in Post-war Britain.</booktitle> <location>London.</location>
+<editor>Kress, Gunther/ Van Leeuwen, Theo ( ) Reading</editor> <title>Images. The Grammar of Visual Design.</title> <location>London.</location>
+<author>Mannheim, Karl</author> <date>( /</date> <author>Orig. )</author> <title>Das Problem der Generation. In: ders.: Wissenssoziologie.</title> <location>Neuwied, –</location> <unknown>.</unknown>
+<editor>Mecheril, Paul ( ) Politik der</editor> <title>Unreinheit. Über die Anerkennung von Hybridität.</title> <location>Wien.</location>
+<editor>Meuser, Michael ( ) Geschlecht</editor> <title>und Männlichkeit. Soziologische Theorie und kulturelle Deutungsmuster.</title> <publisher>Opladen.</publisher>
+<editor>Mikos, Lothar ( )</editor> <title>Alltag und Mediatisierung. In: Mikos, Lothar/ Wegener, Claudia (HgInnen) Qualitative Medienforschung.</title> <location>Konstanz, –</location> <unknown>.</unknown>
+<editor>Mikos, Lothar/ Feise, Patricia ( ) Im</editor> <title>Auge der Kamera. Das Fernsehereignis Big Brother.</title> <location>Berlin.</location>
+<editor>Morse, Janice ( )</editor> <title>Principles of Mixed Methods and Multimethod Research Design. In: Tashakkori, Abbas/ Teddlie,</title> <booktitle>Charles (eds.) Handbook of Mixed Methods in Social and Behavioural Research.</booktitle> <location>London, –</location> <unknown>.</unknown>
+<editor>Ortner, Sherry ( ) Is</editor> <title>Female to Male as Nature is to Culture?</title> <editor>In: Rosaldo, Michelle/ Lamphere, Louise (eds.) Women, Culture and Society.</editor> <location>Stanford,</location> <publisher>–</publisher> <unknown>.</unknown>
+<editor>Paus-Hasebrink, Ingrid ( ) Kinder</editor> <title>als Konstrukteure ihrer Alltagsbeziehungen – zur Rolle von »Medienmarken« in Kinder-PeerGroups.</title> <location>In: SWS-Rundschau, Nr. , –</location> <unknown>.</unknown>
+<author>Pollak, Alexander/ Scheibelhofer, Paul/ Weingärtner, Julia</author> <date>( )</date> <title>Animationsfilme als Ausdruck jugendlicher Wahrnehmungswelten. Bericht zum Projekt Nr.</title> <genre>P -G</genre> <title>des österreichischen Wissenschaftsfonds FWF.</title> <location>Wien.</location>
+<editor>Said, Edward W. ( ) Orientalism.</editor> <location>New York.</location>
+<editor>Schäfers, Bernhard/ Scherr, Albert ( ) Jugendsoziologie. Einführung</editor> <booktitle>in Grundlagen und Theorien.</booktitle> <location>Wiesbaden.</location>
+<editor>Strauss, Anselm ( ) Grundlagen</editor> <title>qualitativer Sozialforschung.</title> <location>München.</location>
+<author>Strauss, Anselm/ Corbin, Juliet</author> <date>(</date> <title>Theory: Grundlagen qualitativer Sozialforschung.</title> <location>Weinheim.</location>
+<editor>Van Leeuwen, Theo ( ) Semiotics and Iconography. In: Van Leeuwen, Theo/ Jewitt, Carey (eds.)</editor> <booktitle>Handbook of Visual Analysis.</booktitle> <location>London, –</location> <unknown>.</unknown>
+<editor>Weiß, Ralph ( ) Fernsehen</editor> <title>im Alltag. Zur Sozialpsychologie der Medienrezeption.</title> <location>Wiesbaden.</location>

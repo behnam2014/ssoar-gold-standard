@@ -1,0 +1,98 @@
+<biblStruct   xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Perspectivas económicas favorables: la visión del Banco Central</title>
+		<author>
+			<persName>
+				<forename type="first">Andrés</forename>
+				<surname>Sanfuentes</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>Stand. 14.2.</note>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Informe chileno de desarrollo humano Nosotros los chilenos: un desafío cultural</title>
+	</analytic>
+	<monogr>
+		<title level="m">Programa de las Naciones Unidas para el Desarrollo</title>
+		<meeting><address><addrLine>Santiago de Chile</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Informe chileno de desarrollo humano Poder: ¿para qué y para quién? Programa de las Naciones Unidas para el Desarrollo</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<pubPlace>Santiago de Chile</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bostezos chilenos</title>
+		<author>
+			<persName>
+				<forename type="first">Vargas</forename>
+				<surname>Llosa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Mario</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">El País</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Consejo Nacional de Televisión (CNTV): www.cntv.cl</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Foro Asuntos Públicos: www.asuntospublicos.org</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Instituto Nacional de Estadísticas (INE): www.ine.cl</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Ofizielle Seite der Wahlergebnisse: www.elecciones.gov</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+

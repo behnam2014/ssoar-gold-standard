@@ -1,0 +1,170 @@
+<biblStruct   xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Formal Organizations. A Comparative Approach</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">M</forename>
+				<surname>Blau</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977" />
+			<pubPlace>London: Routledge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Holger</forename>
+				<surname>Braun-Thürmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Innovation. (1. Aufl.) Bielefeld: Transcript</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Verfahren partizipativer Technikentwicklung Working Papers kultur-und techniksoziologische Studien Hg</title>
+		<author>
+			<persName>
+				<forename type="first">Diego</forename>
+				<forename type="middle">/</forename>
+				<surname>Compagna</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Stefan</forename>
+				<surname>Derpmann</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Diego Compagna / Karen Shire</publisher>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Von der Technik-zur Nutzerorientierung-neue Ansätze in der Innovationsforschung</title>
+		<author>
+			<persName>
+				<forename type="first">Susanne</forename>
+				<surname>Giesecke</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dies. (Hg.): Technikakzeptanz durch Nutzerintegration? Beiträge zur Innovations-und Technikanalyse. Teltow: VDI/VDE-Technologiezentrum Informationstechnik GmbH. (S. 917)</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Gerätetechnik und Alltagshandeln In: Ders: Technik im Alltag</title>
+		<author>
+			<persName>
+				<forename type="first">Bernward</forename>
+				<surname>Joerges</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">K.-L</forename>
+				<surname>Resch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In: Forschende Komplementärmedizin. Basel</title>
+		<editor>Karger. (S</editor>
+		<imprint>
+			<publisher>Von Bedarfen und Bedürfnissen</publisher>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="72" to="74" />
+			<date type="published" when="2009" />
+			<publisher>Von Bedarfen und Bedürfnissen</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystemtechnik (WiMi-Care) Website: http</title>
+		<author>
+			<persName>
+				<surname>Wimi-Care</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystemtechnik (WiMi-Care), Working Brief 3: Die Personengebundenheit von Wissen</title>
+	</analytic>
+	<monogr>
+		<title level="j">Working Brief</title>
+		<editor>Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire</editor>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystemtechnik (WiMi-Care), Working Brief 13: Erste Methodenreflexion: Die Anwendung der Grounded Theory zur Durchführung von Bedarfsanalysen</title>
+	</analytic>
+	<monogr>
+		<title level="j">Working Brief</title>
+		<editor>Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire</editor>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystemtechnik (WiMi-Care), Working Brief 15: Die Einstellung von Pflegekräften gegenüber technischen Neuerungen</title>
+	</analytic>
+	<monogr>
+		<title level="j">Working Brief</title>
+		<editor>Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire</editor>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+

@@ -1,0 +1,358 @@
+<biblStruct   xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Dialoge mit Kindern führen. Die Sprache der Kinder im dritten Lebensjahr beobachten, entdecken und anregen</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Best</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Laier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Jampert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Leuckefeld</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Herausgegeben. von der Stiftung Baden-Württemberg. – Weimar</note>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Alltagsintegrierte Sprachförderung in der Kinderkrippe</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Buschmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Jooss</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Effektivität eines sprachbasierten Interaktionstrainings für pädagogisches Fachpersonal. Verhaltenstherapie &amp; psychosoziale Praxis</title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="303" to="312" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ein sprachbasiertes Interaktionstraining für ErzieherInnen („Heidelberger Trainingsprogramm“) zur alltagsintegrierten Sprachförderung in Krippe und Kindergarten – Konzept und Evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Buschmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Simon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Jooss</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Sachse</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">): Forschung in der Frühpädagogik III. Schwerpunkt: Sprachentwicklung &amp; Sprachförderung. Materialien zur Frühpädagogik</title>
+		<editor>Fröhlich-Gildhoff, K./Nentwig-Gesemann, I./ Strehmel, P. (Hrsg.</editor>
+		<meeting><address><addrLine>Freiburg, S</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="107" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Jampert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Thanner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Schattel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Zehnbauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Best</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Laier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Die Sprache der Jüngsten entdecken und begleiten. Sprachliche Bildung und Förderung für Kinder unter Drei</title>
+		<meeting><address><addrLine>Weimar ; Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Jampert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Zehnbauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Best</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Leuckefeld</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Laier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sprache stärken! Sprachliche Bildung und Förderung in der Kita. Das Praxismaterial. – Weimar</title>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Kompensatorische (Sprach-)Förderung. Was lässt sich aus USamerikanischen Projekten lernen? Frühe Bildung</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Kuger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Sechtig</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Anders</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="181" to="193" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Evaluation einer Sprachfördermaßnahme für Vorschulkinder</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Sachse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Budde</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Rinker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Groth</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frühe Bildung</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="194" to="201" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ergebnisse einer Evaluation von Sprachfördermaßnahmen in Mannheimer und Heidelberger Kitas</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Schöler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Roos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Fröhlich-Gildhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Nentwig-Gesemann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Strehmel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hrsg.): Forschung in der Frühpädagogik III. Schwerpunkt: Sprachentwicklung &amp; Sprachförderung. Materialien zur Frühpädagogik</title>
+		<meeting><address><addrLine>Freiburg, S</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="35" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">M</forename>
+				<surname>Wolf</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Felbrich</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Stanat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Wendt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Evaluation der kompensatorischen Sprachförderung in Brandenburger Kindertagesstätten. Empirische Pädagogik</title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="423" to="438" />
+		</imprint>
+	</monogr>
+</biblStruct>
+

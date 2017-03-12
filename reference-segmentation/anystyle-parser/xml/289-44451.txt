@@ -1,0 +1,3 @@
+<author>M. Escolar et al.,</author> <title>Ultimas Imágenes del Naufragio: las elecciones del 2001 en la Argentina, in: Desarrollo</title> <journal>Económico</journal> <volume>Vol. 42 (2002), No. 165,</volume> <pages>S. 25-44.</pages>
+<author>Guillermo Molinelli et al., Congreso,</author> <title>Presidencia y Justicia en Argentina, Buenos Aires</title> <date>1999.</date>
+<author>Juan Carlos Torre,</author> <title>Los huérfanos de la política de partidos. Sobre alcances y la naturaleza de la crisis de representación partidaria,</title> <location>in:</location> <publisher>Desarrollo Económico</publisher> <volume>Vol. 43 (2003), No. 168,</volume> <pages>S. 647-665.</pages>

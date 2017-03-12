@@ -1,0 +1,81 @@
+<biblStruct   xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Ivo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">/</forename>
+				<surname>Daalder</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>James</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Goldgeier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Putting Europe First Survival</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="91" />
+			<date type="published" when="2001-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Europes Postmodern Identity: A Critical Appraisal) 2, S. 229251&lt;ref&gt; &lt;ref&gt;Martin Marcussen »Constructing Europe? The Evolution of French British and German Nation States Identities«</title>
+		<author>
+			<persName>
+				<forename type="first">Ham</forename>
+				<surname>Peter Van</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Politics</title>
+		<editor>Engelmann-Martin/Hans Joachim Knopf/Klaus Roscher</editor>
+		<imprint>
+			<publisher>Journal of European Public Policy, Special Issue</publisher>
+			<date type="published" when="1999" />
+			<biblScope unit="page" from="614" to="633" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Après Nice: vers un gouvernement fédéral?</title>
+		<author>
+			<persName>
+				<forename type="first">Philippe</forename>
+				<surname>Moreau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Defarges</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Politique Etrangère</publisher>
+			<biblScope unit="page" from="277" to="288" />
+		</imprint>
+	</monogr>
+</biblStruct>
+

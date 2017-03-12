@@ -1,0 +1,525 @@
+<biblStruct   xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Jutta</forename>
+				<forename type="middle">;</forename>
+				<surname>Allmendinger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Stephan</forename>
+				<surname>Leibfried</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lebenszeiten. Erkundungen zur Soziologie der Generationen. Martin Kohli zum 60. Geburtstag. Opladen: Leske+Budrich</title>
+		<imprint>
+			<publisher>Jürgen Wolf (Hg</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="287" to="315" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Jacob</forename>
+				<surname>Burckhart</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1905" />
+			<publisher>Beck</publisher>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Über. das Studium der Geschichte. Kritische Gesamtausgabe</note>
+</biblStruct>
+
+<biblStruct   xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Trade Policy and Economic Welfare</title>
+		<author>
+			<persName>
+				<forename type="first">Warner</forename>
+				<surname>Corden</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Max</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974" />
+			<publisher>Clarendon Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Three Worlds of Welfare Capitalism</title>
+		<author>
+			<persName>
+				<forename type="first">Gösta</forename>
+				<surname>Esping-Andersen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+			<publisher>Princeton University Press und Polity</publisher>
+			<pubPlace>Princeton, NJ ; Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b4">
+	<monogr>
+		<title level="m" type="main">„Social Protection and the Formation of Skills: A Reinterpretation of the Welfare State“, in: Peter Hall; David Soskice (Hg.), Varieties of Capitalism. The Institutional Foundations of Comparative Advantage</title>
+		<author>
+			<persName>
+				<forename type="first">Margarita</forename>
+				<forename type="middle">;</forename>
+				<surname>Estevez-Abe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Iversen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Torben</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">David</forename>
+				<surname>Soskice</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page" from="145" to="183" />
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b5">
+	<analytic>
+		<title level="a" type="main">1998: „Deregulierung und Flexibilität als Wunderheilmittel</title>
+		<author>
+			<persName>
+				<forename type="first">Bob</forename>
+				<surname>Hancké</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fragen zur Übertragbarkeit des flexiblen Modells“, WSIMitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="255" to="257" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Pragmatism and the Political Economy of Cultural Revolutions, 1850-1940</title>
+		<author>
+			<persName>
+				<forename type="first">James</forename>
+				<surname>Livingstone</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Chapel Hill und University of North Carolina Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">H</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bürgerrechte und soziale Klassen. Zur Soziologie des Wohlfahrtsstaates</title>
+		<editor>ders. [Elmar Rieger</editor>
+		<meeting><address><addrLine>Frankfurt/New York: Campus, 95108</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b8">
+	<monogr>
+		<title level="m" type="main">1981: „Afterthought on ‚Value-Problems of Welfare-Capitalism‘. The ‚Hyphenated Society‘“, in: ders., The Right to Welfare and Other Essays</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">H</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+		<imprint>
+			<publisher>Free Press</publisher>
+			<biblScope unit="page" from="123" to="136" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b9">
+	<analytic>
+		<title level="a" type="main">1964: „The Welfare State – A Comparative Study“, in: ders</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">H</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Class, Citizenship, and Social Development. Garden City, NY: Doubleday</title>
+		<imprint>
+			<biblScope unit="page" from="277" to="295" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Müller; Thilo Raufer</title>
+		<author>
+			<persName>
+				<forename type="first">Frank</forename>
+				<surname>Nullmeier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Der Sinn der Politik. Kulturwissenschaftliche Politikanalysen</title>
+		<meeting><address><addrLine>Konstanz</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michael Darius Zifonun (Hg UKV Verlagsgesellschaft</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="157" to="175" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b11">
+	<analytic>
+		<title level="a" type="main">„Sozialpolitik als marktregulative Politik“, Zeitschrift für Sozialreform 47</title>
+		<author>
+			<persName>
+				<forename type="first">Frank</forename>
+				<surname>Nullmeier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heft</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="645" to="667" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The New Politics of the Welfare State</title>
+		<author>
+			<persName>
+				<forename type="first">Paul</forename>
+				<surname>Pierson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b13">
+	<monogr>
+		<title level="m" type="main">„Coping with Permanent Austerity. Welfare State Restructuring in Affluent Societies“, in: Pierson</title>
+		<author>
+			<persName>
+				<forename type="first">Paul</forename>
+				<surname>Pierson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page">410456</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b14">
+	<analytic>
+		<title level="a" type="main">„The New Politics of the Welfare State“, World Politics 48</title>
+		<author>
+			<persName>
+				<forename type="first">Paul</forename>
+				<surname>Pierson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heft</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="143" to="179" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note>zuerst. erschienen als ZeS-Arbeitspapier 3/95</note>
+</biblStruct>
+
+<biblStruct   xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Dismantling the Welfare State? Reagan, Thatcher and the Politics of Retrenchment Cambridge</title>
+		<author>
+			<persName>
+				<forename type="first">Paul</forename>
+				<surname>Pierson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Limits to Globalization. Welfare States and the World Economy</title>
+		<author>
+			<persName>
+				<forename type="first">Elmar</forename>
+				<surname>Rieger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Stephan</forename>
+				<surname>Leibfried</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Polity</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Grundlagen der Globalisierung. Perspektiven des Wohlfahrtsstaats</title>
+		<author>
+			<persName>
+				<forename type="first">Elmar</forename>
+				<surname>Rieger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Stephan</forename>
+				<surname>Leibfried</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page">Suhrkamp</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Has Globalization Gone too Far</title>
+		<author>
+			<persName>
+				<forename type="first">Dani</forename>
+				<surname>Rodrik</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b19">
+	<analytic>
+		<title level="a" type="main">2002: „Warum Mittelmaß? Deutschlands Bildungsausgaben im Vergleich“, Politische Vierteljahresschrift 43</title>
+		<author>
+			<persName>
+				<forename type="first">Manfred</forename>
+				<forename type="middle">G</forename>
+				<surname>Schmidt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heft</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="3" to="19" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Antrittsvorlesung. an der Ruprecht-Karls Universität Heidelberg 12.12</note>
+</biblStruct>
+
+<biblStruct   xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Joseph</forename>
+				<forename type="middle">A</forename>
+				<surname>Schumpeter</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="19503" />
+			<publisher>Capitalism, Socialism and Democracy Harper &amp; Row</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b21">
+	<analytic>
+		<title level="a" type="main">2001: Konzeptpapier für die Errichtung eines Sonderforschungsbereichs „Staatlichkeit im Wandel“ – The State of the State, Bd. I: Konzeptpapier inklusive Kurzfassungen der Teilprojekte, 184 S.; Bd. II: Anhang, 427 S</title>
+	</analytic>
+	<monogr>
+		<title level="m">Sonderforschungsbereich (Sfb)</title>
+		<meeting><address><addrLine>Bremen</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sonderforschungsbereich 1953 (inzwischen Sfb 597) Staatlichkeit im Wandel, Bd.1: Allgemeine Angaben und Projektbereiche A und B, Bd. 2: Projektbereiche C und D sowie Teilprojekt Z</title>
+	</analytic>
+	<monogr>
+		<title level="j">Sonderforschungsbereich</title>
+		<imprint>
+			<biblScope unit="volume">944</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b23">
+	<analytic>
+		<title level="a" type="main">„Divergent Production Regimes: Coordinated and Uncoordinated Market Economies in the 1980s and 1990s“, in: Herbert Kitschelt</title>
+		<author>
+			<persName>
+				<forename type="first">David</forename>
+				<surname>Soskice</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Continuity and Change in Contemporary Capitalism. Cambride</title>
+		<meeting><address><addrLine>Gary Marks</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lange John D. Stephens (Hg Cambridge University Press</publisher>
+			<date type="published" when="1999" />
+			<biblScope unit="page" from="101" to="134" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Von der Organisation von Industrienormen zur Organisation der Berufsausbildung. Eine vergleichende Analyse am Beispiel Großbritannien, Deutschland, Japan und Frankreich. DP FS I 96-310</title>
+		<author>
+			<persName>
+				<forename type="first">David</forename>
+				<surname>Soskice</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Bob</forename>
+				<surname>Hancké</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996-08" />
+			<publisher>WZB</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b25">
+	<monogr>
+		<title level="m" type="main">„Wahlrecht und Demokratie in Deutschland“, in: ders., Gesammelte politische Schriften</title>
+		<author>
+			<persName>
+				<forename type="first">Max</forename>
+				<surname>Weber</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1917" />
+			<publisher>Mohr</publisher>
+			<biblScope unit="page" from="245" to="291" />
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct   xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Tätigkeitsbericht Januar 1999 bis Dezember</title>
+	</analytic>
+	<monogr>
+		<title level="j">ZeSZentrum für Sozialpolitik)</title>
+		<imprint>
+			<publisher>Zentrum für Sozialpolitik</publisher>
+			<date type="published" when="2001" />
+			<publisher>Zentrum für Sozialpolitik</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
