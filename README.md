@@ -15,8 +15,8 @@ This repository contains manually inspected datasets for evaluating the differen
 The Extracted refrence strings from each papers fead to different tools and saved the result into the following listed subfolders. 
 Metadata (e.g authors, years , titles and etc.) of each refernce strings are extracted by this tools.
 			
-			* Anystyle-parser (https://github.com/inukshuk/anystyle-parser)
-			* Grobid (https://github.com/kermitt2/grobid)
-			* Cermine(https://github.com/CeON/CERMINE)
-			* manually_checked
+			1. Anystyle-parser (https://github.com/inukshuk/anystyle-parser)
+			2. Grobid (https://github.com/kermitt2/grobid)
+			3. Cermine(https://github.com/CeON/CERMINE)
+			4. manually_checked
 				We picked outputs of Cermine and then Manually correct the tags of metadata in each refrence string (we only focuse on three tags 1- authors name , 2- titles 3- years)
