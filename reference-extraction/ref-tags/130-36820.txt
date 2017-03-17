@@ -1241,11 +1241,11 @@ Abbildung 9: Öffnungs- und Schließzeiten der betrieblichen Betreuungsangebote
 40
 30
 20
-<ref>10
+10
 0
-:rh0000U :r0h001U :r0h020U :r0h030U :r0h004U :r0h005U :rh0006U :rh0007U :rh0080U :r0h090U :r0h001U :r0h011U :r0012hU :r0013hU :r0014hU :r0015hU :r0016hU :r0017hU :r0081hU :r090h1U :r000h2U :r0012hU :r0h022U :r0h032U :r0h024U</ref>
+:rh0000U :r0h001U :r0h020U :r0h030U :r0h004U :r0h005U :rh0006U :rh0007U :rh0080U :r0h090U :r0h001U :r0h011U :r0012hU :r0013hU :r0014hU :r0015hU :r0016hU :r0017hU :r0081hU :r090h1U :r000h2U :r0012hU :r0h022U :r0h032U :r0h024U
 Angaben in %
-<ref>Quelle: Betriebliche Kinderbetreuung – Recherche ÖIF</ref>
+Quelle: Betriebliche Kinderbetreuung – Recherche ÖIF
 Die meisten betrieblichen Einrichtungen sperren in der Zeit von 6:30 Uhr bis 7:00 Uhr auf.
 Haben vor 6:30 Uhr nur 18% der Einrichtungen bereits geöffnet, sind es ab diesem Zeitpunkt
 43%. Dies bedeutet, dass ein Viertel der Angebote um 6:30 Uhr aufsperrt. Einen noch
