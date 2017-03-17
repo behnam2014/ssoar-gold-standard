@@ -14,7 +14,7 @@ This repository contains manually inspected datasets for evaluating the differen
 
 ## ssoar-gold-standard/reference-segmentation
 The Extracted refrence strings from each papers were feaded to different tools and the result also were saved into the following listed subfolders. 
-Metadata (e.g authors, years , titles and etc.) of each refernce strings were extracted by these tools.
+Metadata (e.g authors, years , titles and etc.) of each reference string were extracted by these tools.
 			
 			1. Anystyle-parser (https://github.com/inukshuk/anystyle-parser)
 			2. Grobid (https://github.com/kermitt2/grobid)
