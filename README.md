@@ -21,7 +21,7 @@ This repository contains manually inspected datasets for evaluating the differen
 We randomly select our papers from the 33954 available publications that were available on [SSOAR repository](http://www.ssoar.info/).
 The random order of SSOAR publications that we used can be found at .
 For easier referencing we introduce a second ID, the EXCITEID, which refers to the position of a SSOAR ID in the above list.
-For example, ``109-12826.pdf'' refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
+For example, ``109-12826.pdf`` refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
 By replacing SSOARID in [http://www.ssoar.info/ssoar/handle/document/SSOARID](http://www.ssoar.info/ssoar/handle/document/SSOARID), you can access each paper (metadata + pdf).
 
 We excluded the following publications from our gold standard:
