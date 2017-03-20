@@ -1,7 +1,7 @@
 # SSOAR Gold Standard
 
 
-This repository contains manually inspected datasets for evaluating the different steps during the reference extraction process. All datasets consist of research papers in German and come from the [SSOAR repository](http://www.ssoar.info/). We will constantly grow this corpus.
+This repository contains manually inspected datasets for evaluating the different steps during the reference extraction process. All datasets consist of research papers in German and come from the [SSOAR repository](http://www.ssoar.info/). We will constantly grow this corpus. For now, the PDF files of this corpus can be downloaded [here](http://excite-compute.west.uni-koblenz.de/ssoar-pdf/).
 
 ## Content
 
