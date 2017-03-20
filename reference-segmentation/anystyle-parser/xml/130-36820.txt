@@ -1,4 +1,0 @@
-<producer>10 0 :rh0000U :r0h001U :r0h020U :r0h030U :r0h004U :r0h005U :rh0006U :rh0007U :rh0080U :r0h090U :r0h001U :r0h011U :r0012hU :r0013hU :r0014hU :r0015hU :r0016hU :r0017hU :r0081hU :r090h1U :r000h2U :r0012hU :r0h022U :r0h032U :r0h024U</producer>
-<title>Quelle: Betriebliche Kinderbetreuung – Recherche</title> <publisher>ÖIF</publisher>
-<title>Bundesministerium für Familie, Senioren, Frauen und</title> <publisher>Jugend</publisher> <date>( 2006):</date> <title>Unternehmen Kinderbetreuung. Praxisleitfaden für die betriebliche Kinderbetreuung.</title> <location>Berlin.</location>
-<author>Statistik Austria</author> <date>( 2010): Kindertagesheimstatistik 2009/10.</date> <location>Wien:</location> <publisher>Verlag Österreich</publisher>

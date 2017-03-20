@@ -1,2 +1,0 @@
-<author>BURKHART, G.</author> <date>1982:</date> <title>Strukturtheoretische Vorüberlegungen zur Analyse universitärer Sozialisationsprozesse. In: Kölner Zeitschrift für Soziologie und</title> <journal>Sozialpsychologie,</journal> <volume>1,</volume> <pages>26-28</pages>
-<author>PARSONS, T.</author> <date>1980:</date> <title>Sozialstruktur und symbolische Tauschmedien.</title> <editor>In: JENSEN, S. (Hrsg.):</editor> <title>Zur Theorie der sozialen Intraktionsmedien.</title> <publisher>Opladen: Westdeutscher Verlag</publisher>
