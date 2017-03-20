@@ -30,7 +30,7 @@ We excluded the following publications from our gold standard:
 * Publications that were scanned
 * Publications that do not contain a reference section
 
-A list of excluded papers can be found at ...
+A list of excluded papers can be found at [corpus/de/sorted-out.csv](corpus/de/sorted-out.csv). All other papers that were excluded are scanned publications.
 
 
 
