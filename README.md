@@ -1,23 +1,45 @@
-## ssoar-gold-standard
-This repository contains manually inspected datasets for evaluating the different steps during the reference extraction process. All datasets consist of research papers in German and come from the SSOAR repository http://www.ssoar.info/.
+# SSOAR Gold Standard
 
 
-## ssoar-gold-standard/reference-extraction
+This repository contains manually inspected datasets for evaluating the different steps during the reference extraction process. All datasets consist of research papers in German and come from the [SSOAR repository](http://www.ssoar.info/).
 
-	1. ref-tags
-		This folder contains text of randomly picked SSOAR papers. In these files, reference strings in reference sections are tagged by <ref></ref>.
-		The name of each files contains two parts (ExciteID-SSOARID.txt - e.g 109-12826.txt, ExciteID: 109 and SSOARID:12826)
-		By using this url (http://www.ssoar.info/ssoar/handle/document/SSOARID), you can easily access each paper (meta data+ pdf). You only need to replace the SSOARID part in the URL.
-	
-	2. ref-strings
+## Content
+
+* [reference-extraction](reference-extraction)
+	* [ref-tags](reference-extraction/ref-tags)
+
+	    Currently containing 90 randomly picked German SSOAR publications with annotated reference strings (see [Paper Selection](##paper-selection)).
+	    The name of each files contains two parts (EXCITEID-SSOARID.txt - e.g 109-12826.txt, EXCITEID: 109 and SSOARID:12826).
+	    By replacing SSOARID in [http://www.ssoar.info/ssoar/handle/document/SSOARID](http://www.ssoar.info/ssoar/handle/document/SSOARID), you can access each paper (metadata + pdf).
+	* [ref-strings](reference-extraction/ref-strings)
+
 		The reference strings (only in reference section) of papers are extracted from <ref></ref> tags and saved in text files. Each text file contains references of a paper and each reference string is saved in a separated line.
 
-## ssoar-gold-standard/reference-segmentation
-The extracted reference strings from each paper were fed to different tools and the result also were saved into the following listed subfolders. 
-Metadata (e.g authors, years, titles and etc.) of each reference string were extracted by these tools.
-			
-			1. Anystyle-parser (https://github.com/inukshuk/anystyle-parser)
-			2. Grobid (https://github.com/kermitt2/grobid)
-			3. Cermine (https://github.com/CeON/CERMINE)
-			4. manually_checked
-				We picked outputs of Cermine and then manually correct the tags of metadata in each refrence string (we only focuse on three tags 1- authors name , 2- titles 3- years)
+* [reference-segmentation](reference-segmentation)
+	* [cermine/xml](reference-segmentation/cermine/xml)
+
+## Paper Selection
+
+We randomly select our papers from the 33954 available publications that were available on [SSOAR repository](http://www.ssoar.info/).
+The random order of SSOAR publications that we used can be found at .
+For easier referencing we introduce a second ID, the EXCITEID, which refers to the position of a SSOAR ID in the above list.
+For example, ``109-12826.pdf'' refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
+
+We excluded the following publications from our gold standard:
+
+* Non-German publications
+* Publications that were scanned
+* Publications that do not contain a reference section
+
+A list of excluded papers can be found at ...
+
+
+
+
+
+
+
+
+
+
+
