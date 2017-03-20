@@ -8,9 +8,7 @@ This repository contains manually inspected datasets for evaluating the differen
 * [reference-extraction](reference-extraction)
 	* [ref-tags](reference-extraction/ref-tags)
 
-	    Currently containing 90 randomly picked German SSOAR publications with annotated reference strings (see [Paper Selection](##paper-selection)).
-	    The name of each files contains two parts (EXCITEID-SSOARID.txt - e.g 109-12826.txt, EXCITEID: 109 and SSOARID:12826).
-	    By replacing SSOARID in [http://www.ssoar.info/ssoar/handle/document/SSOARID](http://www.ssoar.info/ssoar/handle/document/SSOARID), you can access each paper (metadata + pdf).
+	    Currently contains 85 randomly picked German SSOAR publications with annotated reference strings (see [Paper Selection](#paper-selection)).
 	* [ref-strings](reference-extraction/ref-strings)
 
 		The reference strings (only in reference section) of papers are extracted from <ref></ref> tags and saved in text files. Each text file contains references of a paper and each reference string is saved in a separated line.
@@ -24,6 +22,7 @@ We randomly select our papers from the 33954 available publications that were av
 The random order of SSOAR publications that we used can be found at .
 For easier referencing we introduce a second ID, the EXCITEID, which refers to the position of a SSOAR ID in the above list.
 For example, ``109-12826.pdf'' refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
+By replacing SSOARID in [http://www.ssoar.info/ssoar/handle/document/SSOARID](http://www.ssoar.info/ssoar/handle/document/SSOARID), you can access each paper (metadata + pdf).
 
 We excluded the following publications from our gold standard:
 
