@@ -1,0 +1,2507 @@
+1.
+„Linked Lives“ in der Wissenschaft –
+Herausforderungen für berufliche Karrieren
+und Koordinierungsarrangements
+Alessandra Rusconi & Heike Solga
+Gegenstand des vorliegenden Buches sind inner- und außerpartnerschaftliche
+Faktoren, die die Berufskarrieren von Frauen und Männern beeinflussen,
+wenn sie in einer Akademikerpartnerschaft leben. Dies sind Partnerschaften,
+in denen beide Partner über einen Hochschulabschluss und damit über ein
+sehr hohes Potenzial für professionelle Karrieren verfügen. Vielfältige Unter-
+suchungen zu Berufsverläufen von Frauen und Akademikerinnen zeigen,
+dass die gestiegenen Bildungsressourcen und beruflichen Erfahrungen von
+Frauen häufig nicht in professionelle Karrieren und damit auf Paarebene
+nicht in Doppelkarrieren umgesetzt werden. So ist der Anteil an so genannten
+Einverdienerpaaren, in denen nur der Mann erwerbstätig ist, bei Akademiker-
+partnerschaften von 44% (1971) auf 17% (2004) zwar gesunken (vgl. Solga/
+Rusconi 2008). Gleichwohl lag auch 2004 der Anteil an Akademikerpaaren,
+in denen beide in Vollzeit einer professionellen Tätigkeit nachgingen, nur bei
+30%. In vielen dieser Partnerschaften hat sich somit die Berufsrolle der Frauen
+verändert, d. h. sie gehen heute mehrheitlich einer Erwerbstätigkeit nach.
+Dies geschieht allerdings häufig in Teilzeit und nicht immer entsprechend
+ihrem Bildungsniveau. Trotz der erheblichen Ausbildungsinvestitionen beider
+Partner hat die Mehrzahl der Akademikerpartnerschaften kein Doppelkarriere-
+arrangement.
+Warum ist es so schwer, Doppelkarrieren zu verwirklichen? Und warum
+scheitern sie auch heute noch zumeist an der Karriere der Frau? In diesem
+Buch wollen wir Antworten auf diese Frage geben und uns dabei insbesondere
+mit den beruflichen Karrieren von Frauen und Männern in der Wissenschaft
+beschäftigen. Grundannahme unserer Analysen ist, dass Doppelkarrieren das
+Ergebnis inner- und außerpartnerschaftlicher Faktoren sind, die nicht neben-
+einander agieren, sondern in einer wechselseitigen Beziehung zueinander
+stehen. Das heißt, gemeinsam bestimmen die Institutionen des Arbeitsmarkts,
+die Laufbahnlogiken und Berufskulturen wissenschaftlicher Disziplinen und
+die innerpartnerschaftlichen Koordinierungsarrangements, in welchem Maße
+die Rhythmiken der Berufsverläufe der beiden Partner hierarchisch oder egali-
+12
+Alessandra Rusconi & Heike Solga
+tär in Einklang gebracht werden (können) und ob der jeweilige berufliche
+Erfolg der beiden Partner (un-)gleich ist (siehe Abschnitt 1.3).
+Datengrundlage des Buches ist die Erhebung von über 1.300 standardi-
+sierten Lebensverlaufsinterviews mit Wissenschaftler/innen unterschiedlicher
+deutscher Hochschulen sowie von 45 themenzentrierten qualitativen Interviews
+(siehe Abschnitt 1.4). Diese Interviews und deren Auswertung fanden im
+Rahmen des Projekts „Gemeinsam Karriere machen. Die Verflechtung von
+Berufskarrieren und Familie in Akademikerpartnerschaften“ am Wissen-
+schaftszentrum Berlin für Sozialforschung statt (gefördert durch das BMBF
+und den Europäischen Sozialfonds, siehe Vorwort in diesem Buch).
+Gegenstand des vorliegenden Kapitels ist erstens, unsere Analysen in das
+Karrierefeld Wissenschaft sowie die historische Entwicklung von Karrieren im
+Paarkontext einzubetten (siehe Abschnitte 1.1 und 1.2). Daran anschließend
+folgen Ausführungen zum analytischen Rahmen und zu den zentralen Frage-
+stellungen des Buches (Abschnitt 1.3), zur Datengrundlage (Abschnitt 1.4.)
+sowie zur Definition von Doppelkarrieren, wie sie im Buch verwendet wird
+(Abschnitt 1.5). Abschließend werden wichtige Ergebnisse der nachfolgen-
+den Kapitel hinsichtlich der zentralen Fragestellung des Buches nach den
+Hindernissen für und Realisierungsbedingungen von Doppelkarrieren in
+Akademikerpartnerschaften bilanziert (Abschnitt 1.6).
+1.1
+Frauen in der Wissenschaft
+Die älteste Universität Europas ist die Rechtsschule zu Bologna, gegründet
+1088. Damit blicken europäische Hochschulen auf eine über 900-jährige
+Geschichte zurück – eine Geschichte jedoch, von der Frauen bis auf die letz-
+ten 100 Jahre beharrlich ausgeschlossen wurden. In den USA wurden Frauen
+erstmalig 1833 zum College zugelassen. In Europa dauerte es bei den „Vor-
+reitern“ Frankreich und Schweiz bis 1865. Und in Deutschland wurde Frauen
+gar erst 1908 der Zugang zum Studium in allen Ländern des Deutschen
+Reichs gestattet (Geenen 1994: 23f.). Bis 1920 durften sie allerdings weiter-
+hin nicht habilitieren (Mertens 1989: 5). Berufliche Karrieren von Frauen in
+der Wissenschaft in größerem Umfang sind damit ein relativ junges Phäno-
+men.
+Der Anstieg des Frauenanteils unter den Studierenden in Deutschland bis
+hin zur heutigen Parität von ca. 50% war ein langwieriger Prozess. Bis zum
+Beginn des Dritten Reichs stieg der Frauenanteil an den Studierenden zu-
+nächst relativ rasch auf 19% (1932). Mit der stark traditionellen Geschlech-
+terideologie des Nationalsozialismus ging der Frauenanteil dann wieder auf
+15% (1939) zurück (Mertens 1989: 3). Erst 1950 wurde in den beiden Teilen
+des nun geteilten Deutschlands das Niveau der Weimarer Republik wieder
+„Linked Lives“ in der Wissenschaft
+13
+erreicht. Seit den 1960er Jahren stieg mit dem Wirtschaftswunder sowie der
+beginnenden Bildungsexpansion der Frauenanteil stetig an, wenn auch mit
+unterschiedlichen Geschwindigkeiten in der DDR und der BRD. Während es
+in der DDR bereits ab Mitte der 1970er Jahre eine Geschlechtergleichheit
+beim Zugang zum Studium gab (Geißler 1996: 278), dauerte dies in der BRD
+bzw. im wiedervereinten Deutschland bis zum Übergang ins 21. Jahrhundert.
+Der Abbau von Ungleichheiten beim allgemeinen Zugang zum Studium
+zwischen jungen Männern und Frauen benötigte damit fast ein ganzes Jahr-
+hundert.
+Zwischen den Fächern gibt es große Unterschiede hinsichtlich des Verlaufs
+dieser Entwicklung sowie im heute erreichten Frauenanteil. So studierten
+bereits in der Weimarer Republik Frauen vor allem Medizin und philosophi-
+sche Fächer. Im Dritten Reich war die oben erwähnte Abnahme des Frauen-
+anteils keinesfalls gleichmäßig über alle Fächer verteilt. Angesichts des Wider-
+spruchs zwischen ideologischen Überzeugungen und wirtschaftlichen Interes-
+sen stieg der Frauenanteil in der Medizin und Pharmazie; insbesondere in den
+philosophischen Fächern sowie den Rechtswissenschaften sank er jedoch
+(vgl. Mertens 1989).
+Diese horizontale Segregation in den Studienfächern von Frauen und
+Männern setzt sich bis heute fort. So liegt beispielsweise heute der Frauenanteil
+unter den Studienanfänger/innen in der Humanmedizin sowie den Sprach-
+und Kulturwissenschaften bei 66% bzw. 74%, in der Mathematik und den
+Naturwissenschaften bei 41% und in den Ingenieurwissenschaften bei 22%
+(siehe Abbildung 1.1). Verantwortlich dafür sind nicht mehr formale Zugangs-
+beschränkungen, sondern Sozialisationsprozesse, Geschlechterideologien und
+berufskulturelle Geschlechterstereotype sowie berufsspezifische Karriere-
+chancen von Frauen (vgl. Solga/Pfahl 2009).
+Über die Disziplinen hinweg gilt allerdings, dass der Frauenanteil ab der
+Promotion mit jeder Karrierestufe abnimmt, d. h. Frauen in stärkerem Maße
+als gleich gebildete Männer die wissenschaftliche Laufbahn verlassen (müssen)
+(siehe Abbildung 1.1). Im Vergleich zu den 1990er Jahren sind hier zwar
+einige Verbesserungen zu verzeichnen, allerdings zeigt sich insbesondere bei
+den Professuren – vor allem auf der höchsten Stufe (den C4- bzw. W3-Pro-
+fessuren) – weiterhin ein starkes Absinken der Frauenanteile im Vergleich zu
+den Promovierten, Juniorprofessuren oder Habilitierten. Der Vergleich der
+Besetzungen von C4- und der (seit 2005 berufenen) W3-Professuren signali-
+siert einen leichten Aufwärtstrend; Gleiches gilt für den Vergleich des Frau-
+enanteils bei den Juniorprofessuren und den Habilitationen. Angesichts des
+Generationswechsels und der damit verbundenen erhöhten Möglichkeit der
+Neubesetzung von Professuren in den letzten zehn Jahren ist dieser Unter-
+schied bzw. Anstieg allerdings als relativ gering einzuschätzen. Nach Ab-
+schluss des Generationswechsels (d. h. ab ca. 2016) werden – ohne ver-
+gleichbare Hochschulexpansion wie Ende der 1960er und zu Beginn der
+14
+Alessandra Rusconi & Heike Solga
+1970er Jahre – deutlich weniger Professuren neu besetzt, so dass der Frauen-
+anteil (ohne „Quote“ oder andere wirksame Gleichstellungsanstrengungen)
+sich dann noch langsamer nach oben bewegen wird, wenn er denn unter den
+Bedingungen eines solchen Stellenengpasses und einer erhöhten Konkurrenz
+überhaupt weiter ansteigen wird.
+Abbildung 1.1: Frauenanteil in unterschiedlichen Stadien einer wissenschaft-
+lichen Karriere, 2009/2010 (in %)
+100
+75
+50
+25
+0
+Sprach- und Kulturwiss.
+Humanmedizin,
+Gesundheitswiss.
+Sozial-, Rechts- und
+Wirtschaftswiss.
+Mathematik, Naturwiss.
+Ingenieurwiss.
+Studien- Master-
+anfänger absolvent Promo-
+/innen /innen tion
+74 73 54
+66 52 55
+54
+41
+22
+47
+30
+25
+35
+39
+17
+Habili- W1-Prof. C3/W2- C4-Prof. W3-Prof.
+tation Prof.
+41
+20
+21
+14
+15
+55
+38
+32
+29
+19
+43
+19
+27
+15
+12
+20
+7
+8
+6
+4
+30
+13
+16
+12
+8
+Quelle: Statistisches Bundesamt (2009a: Tab. 4; 2009b: Tab. 3, 12; 2010: Tab. 7)
+Die Zusammenschau dieser Befunde zeigt, dass der überproportionale Ver-
+lust von Frauen bei den unterschiedlichen Übergängen einer wissenschaftli-
+chen Karriere in allen Fächergruppen präsent ist. Er findet nicht nur in den
+männlich dominierten Disziplinen wie den Ingenieurwissenschaften oder
+Naturwissenschaften statt, sondern auch in den gemischten Disziplinen der
+Sozial-, Rechts- und Wirtschaftwissenschaften und selbst in den weiblich
+dominierten Disziplinen wie den Sprach- und Kulturwissenschaften oder der
+Humanmedizin. Steigende oder gar paritätische Frauenanteile bei den Studie-
+renden und Absolvent/innen bringen also nicht automatisch steigende bzw.
+gleiche Chancen für Frauen auf den weiteren akademischen Karrierestufen
+mit sich. Mit dem Studium von Frauen ist eine Gleichheit auf dem Akademi-
+kerarbeitsmarkt – und, wie wir sehen werden (siehe Kapitel 3 und 4 in die-
+sem Buch), in der Familienarbeit – nicht zwangsläufig gegeben.
+„Linked Lives“ in der Wissenschaft
+15
+Sicherlich bildet die Hochschule nicht nur für die Wissenschaft aus, und
+nicht alle Frauen und Männer studieren und promovieren mit dem Berufsziel
+Wissenschaft bzw. Professur. Gleichwohl stellt sich die Frage, warum we-
+sentlich weniger Frauen als Männer diesen Karriereweg einschlagen bzw. in
+der Wissenschaft verbleiben und dort Spitzenpositionen erreichen (können).
+Diese Frage stellt sich umso mehr, als die Karrierechancen außerhalb der
+Wissenschaft nicht unbedingt eine attraktive Alternative für Frauen darstellen.
+Im Gegenteil, auch dort zeigt sich, dass Frauen ihre Qualifikationen nicht im
+gleichen Umfang wie Männer in berufliche Karrieren und Führungspositionen
+umsetzen können (vgl. Holst 2009; Holst/Wiemer 2010). Und selbst wenn
+unterstellt wird, dass ein Teil der Frauen beides nicht will – weder eine Kar-
+riere in der Wissenschaft noch in der Wirtschaft oder Verwaltung –, so bleibt
+immer noch die Frage offen, warum eigentlich nicht, wo sie doch in Bildung
+(zum Teil bis zur Promotion) ebenso viel und so lange investiert haben wie
+Männer. Dieser und weiteren Fragen geht das vorliegende Buch nach (siehe
+Abschnitt 1.3).
+Für die Beantwortung dieser Frage ist es jedoch wichtig, nicht nur die
+Anforderungen und Hindernisse im Berufsfeld der Wissenschaft zu betrachten,
+sondern auch den Lebens- und Haushaltskontext von Frauen. Nur bei einer
+Einbettung von Karriereanforderungen, beruflichen Entscheidungen und
+Karrierewegen in den Paarkontext kann die Frage des Könnens und Wollens
+sowie der Barrieren und Realisierungsbedingungen von wissenschaftlichen
+Karrieren von Frauen – im Vergleich zu Männern – angemessen beantwortet
+werden (siehe Abschnitt 1.3).
+1.2
+Anforderungen an wissenschaftliche Karrieren im
+Doppelpack
+Frauen sind, wie bereits erwähnt, historisch gesehen eine relativ neue „Er-
+scheinung“ an deutschen Hochschulen. Doch obgleich der Frauenanteil unter
+den Studierenden stark angestiegen ist, war und ist die Wissenschaft angesichts
+des geringen Frauenanteils auf Professuren immer noch eine Institution, die von
+Männern geprägt wird und deren Karrierewege traditionelle Geschlechtermus-
+ter der beruflichen und privaten Arbeitsteilung unterstellen (Geenen 1994:
+23). Wissenschaftskarrieren und ihre Anforderungen in Form von Leitbil-
+dern, Arbeitskulturen, Zeitstrukturen sowie Alters- und Verfügbarkeitserwar-
+tungen orientieren sich immer noch – zumindest implizit – am Idealtypus der
+männlichen „Normalbiografie“ (vgl. Geenen 1994; Jacobs/Winslow 2004;
+Knights/Richards 2003; Moen 2010). Gefragt ist also eine berufszentrierte
+Lebensführung mit einer geradlinigen und lückenlosen Berufsbiografie. Wie
+von Sandra Beaufaÿs (2003: 243) beeindruckend beschrieben, wird von
+16
+Alessandra Rusconi & Heike Solga
+Wissenschaftler/innen eine ungeteilte Hingabe für und vollkommene Identifi-
+kation mit ihrem Beruf erwartet. Als legitime Indikatoren dafür, dass Personen
+dies (anscheinend) auch leben, dienen unter anderem solche symbolisch zu
+verstehenden Praktiken wie die Vollzeitverfügbarkeit, Arbeitszeiten am Wo-
+chenende oder die Bewältigung langer und unsicherer Karrierewege (mit einem
+vergleichweise geringen Einkommen). Anwesenheit und zeitliche Flexibilität
+sowie monetärer Verzicht gelten immer noch als stärkerer Ausweis für intrin-
+sische Motivation, Zielstrebigkeit und Anstrengung als eine hohe Qualität
+der Arbeit oder eine hohe Produktivität trotz eingeschränkter (verfügbarer)
+Zeit.
+Die Erfüllung bzw. Erfüllbarkeit dieser alltäglichen und langfristigen „zeit-
+lichen Leistungsindikatoren“ berührt unmittelbar die private Lebenssituation
+und Lebensführung von Wissenschaftler/innen. Die wissenschaftliche Be-
+rufskultur verlangt den ganzen Menschen und setzt somit die Entlastung
+„durch eine stillschweigende Hintergrundarbeit“ (für Haushalt und ggf. Kin-
+derbetreuung) sowie die uneingeschränkte räumliche und zeitliche Flexibili-
+tät einer weiteren Person – zumeist der Frau – voraus (vgl. Beck-Gernsheim
+1983; Moen/Roehling 2005). Dies schafft die notwendigen zeitlichen und
+räumlichen Freiräume für den Partner, dessen wissenschaftliche Karriere
+Priorität hat, um für den Beruf und die beruflichen Anforderungen physisch
+und geistig allseits verfügbar sein zu können.
+Dieses beruflich-private „Gleichgewicht“ der Arbeitsteilung ist zum einen
+für Frauen, die eine wissenschaftliche Karriere verfolgen wollen, in der Regel
+nicht gegeben und wird zum anderen auch für Männer nun teilweise durch
+den Anstieg akademisch gebildeter Partnerinnen infrage gestellt. Anfang der
+1970er Jahre hatte nur jeder siebte akademisch gebildete (30- bis 50-jährige)
+Mann in Westdeutschland eine akademisch gebildete Partnerin (15%); im
+Jahr 2004 war es bereits jeder dritte (in Gesamtdeutschland; vgl. Rusconi/
+Solga 2007). Frauen mit einem Hochschulabschluss hatten dagegen damals
+wie heute zu etwa der Hälfte einen gleichfalls akademisch gebildeten Partner.
+Damit ist mit der Bildungsexpansion zwischen 1971 und 2004 der Anteil an
+Akademikerpartnerschaften von nur 1% aller (westdeutschen) Paare auf 9%
+(gesamtdeutsch) gestiegen (Rusconi/Solga 2007: 312).
+Darüber hinaus gibt es eine weitere interessante und relevante Entwick-
+lung zum Paarkontext von Akademiker/innen. 1971 lebte jede dritte Frau mit
+einem akademischen Abschluss ohne einen Partner, bei den Männern waren
+es nur 11% (d. h. etwa jeder neunte). Dieser Anteil an Singles blieb bei den
+(30- bis 50-jährigen) Frauen über die Zeit relativ konstant, bei den Männern
+stieg er allerdings auf 27% an. Das heißt, auch bei akademisch gebildeten
+Männern ist heute fast jeder dritte nicht durch das Zusammenleben mit einer
+Partnerin „gebunden“ oder „unterstützt“. Diese Entwicklung mag ein Hin-
+weis dafür sein, dass hoch qualifizierte Männer zunehmend Schwierigkeiten
+haben, eine „traditionelle“ Frau zu finden, und/oder ein gestiegenes Interesse
+„Linked Lives“ in der Wissenschaft
+17
+daran haben, sich zunächst beruflich zu etablieren, bevor sie eine Partner-
+schaft mit einem gemeinsamen Haushalt und ggf. mit Kindern eingehen.
+Deutsche Akademikerpaare sind häufig – und häufiger als Paare mit an-
+deren Bildungskonstellationen – Doppelverdienerpaare. Ursache dafür ist die
+seit den 1990er Jahren stark gestiegene Erwerbsbeteiligung akademisch ge-
+bildeter Frauen (vgl. Anger/Konegen-Grenier 2008). Dies betrifft auch Akade-
+mikerpaare mit Kindern. In ihnen verzichten Frauen heute deutlich seltener
+als früher auf eine Erwerbstätigkeit. Während 1971 bei jedem zweiten Aka-
+demikerpaar mit zumindest einem schulpflichtigen bzw. minderjährigen Kind
+nur der Mann erwerbstätig gewesen ist, traf dies 1997 nur noch bei jedem
+dritten Paar und 2004 bei jedem fünften Paar zu (Rusconi/Solga 2007: 319;
+2004).
+Damit ist allerdings noch nicht gesagt, dass die beiden Partner dieser
+Doppel-Verdiener-Paare auch jeweils eine Karriere und damit Doppel-Kar-
+rieren verwirklichen. Selbst 2004 arbeitete jede fünfte (30- bis 50-jährige)
+akademisch gebildete Frau in einer Tätigkeit, die keinen Hochschulabschluss
+voraussetzte (Rusconi/Solga 2007: 318). Und so ist zu konstatieren, dass die
+Realisierung von Doppelkarrieren in Akademikerpartnerschaften zumeist an
+Einschränkungen der beruflichen Entwicklung der Frauen scheitert.
+In der Wissenschaft gibt es ähnliche Unterschiede zwischen Männern
+und Frauen hinsichtlich der Unterstützung durch eine unbezahlte „Hinter-
+grundarbeit“ oder hinsichtlich des Lebens in einer Akademikerpartnerschaft.
+Während Wissenschaftlerinnen auf dem Weg zur Professur häufiger als
+Männer ohne Partner waren oder mehrheitlich mit einem akademisch gebil-
+deten Mann und in Doppelverdiener-, wenn nicht gar Doppelkarrierearran-
+gements lebten, hatten ihre männlichen Kollegen häufiger Frauen ohne
+Hochschulabschluss sowie Ein- oder „nur“ Doppelverdienerarrangements.
+So zeigt eine Studie über Professor/innen an deutschen Universitäten Mitte
+der 2000er Jahre, dass ca. 90% der Professoren in einer festen Partnerschaft
+lebten, aber „nur“ 66% ihrer Kolleginnen (Zimmer/Krimmer/Stallmann
+2007: 148). Ferner stellen Doppel-Verdiener-Arrangements zwar für Profes-
+sorinnen wie Professoren die mehrheitliche Lebensform dar, doch während
+so gut wie alle Partner der Professorinnen durchgängig erwerbstätig waren,
+war immerhin knapp ein Fünftel der Partnerinnen der Professoren (zumindest
+zeitweise) nicht erwerbstätig. Schließlich war ca. ein Drittel der Partner der
+Professorinnen ebenfalls Hochschullehrer (bei den Professoren waren dies nur
+5% der Partnerinnen), während fast ein Viertel (23%) der Partnerinnen ihrer
+männlichen Kollegen Lehrerin gewesen sind (Krimmer/Zimmer 2003: 29).
+Damit bestehen bei männlichen und weiblichen Wissenschaftlern sehr unter-
+schiedliche Herausforderungen und Ressourcen für die Verwirklichung einer
+akademischen Karriere. So gehört z. B. der Lehrerberuf zu jenen Berufen,
+die überall nachgefragt sind (vgl. Cooke 2003); dies erleichtert die Jobsuche
+an einem neuen Ort, wenn das Paar aufgrund seiner Wissenschaftskarriere
+18
+Alessandra Rusconi & Heike Solga
+umziehen muss. Eine Befragung an deutschen Hochschulen von 2000 zeigt
+zudem, dass Hochschulleitungen sich insbesondere dann in der Lage sahen,
+die Jobsuche der Partner/in neu berufener Professor/innen zu unterstützen,
+wenn diese Lehrer/in waren (vgl. Rusconi/Solga 2002; Solga/Rusconi 2004).
+Bei Frauen geht eine Wissenschaftslaufbahn zudem häufiger mit Ein-
+schränkung bei der Familiengründung einher. Im Vergleich zu Hochschulab-
+solventinnen im Allgemeinen waren Wissenschaftlerinnen an deutschen
+Hochschulen wesentlich häufiger – auch dauerhaft – kinderlos. Während drei
+Viertel aller (über 43-jährigen) akademisch gebildeten Frauen Kinder hatte,
+war es bei den Wissenschaftlerinnen nur die Hälfte (Metz-Göckel/Selent/
+Schürmann 2010: 20).1 Zudem hatten Wissenschaftlerinnen auf allen Karrie-
+restufen seltener (und weniger) Kinder als ihre männlichen Kollegen – ein
+Unterschied, der mit zunehmenden Alter bzw. Karrierestufe größer wird.2 Im
+Ergebnis waren 2006 zwei Drittel der Professorinnen, aber nur ein Drittel der
+Professoren kinderlos (vgl. Metz-Göckel/Selent/Schürmann 2010).3 Beim
+wissenschaftlichen Mittelbau (in der Promotions- oder Postdoc-Phase) war
+die Kinderlosigkeit von Frauen noch höher (75%) – gleichwohl werden an-
+gesichts des geringeren Alters hier wohl noch einige Kinder geboren. Auch
+hier haben mehr Männer als Frauen bereits Kinder, auch wenn der Unter-
+schied zwischen Männern und Frauen in dieser Karrierephase geringer ist als
+bei der Professor/innen. Gleichwohl haben auch Männer in diesen
+Statuspassagen häufig (noch) keine Kinder (71%). Diese hohe Kinderlosig-
+keit bei Männern und vor allem bei Frauen an deutschen Hochschulen führen
+die Autorinnen der Studie auf die besonderen Anforderungen und Beschäfti-
+gungsverhältnisse im (deutschen) Wissenschaftssystem zurück, die durch
+lange Qualifikationswege und überwiegend befristete Arbeitsverträge unter-
+halb der Professur gekennzeichnet sind. Zudem stellen sie seit Ende der
+1990er Jahre eine Verschlechterung – eine „zunehmenden Prekarisierung“ –
+der Rahmenbedingungen für wissenschaftliche Karrieren und damit zuneh-
+1
+2
+3
+Die Zahlen beziehen sich auf Baden-Württemberg, Berlin, Brandenburg, Niedersachsen,
+Nordrhein-Westfalen, Rheinland-Pfalz, Sachsen und Thüringen, die zusammen etwa 60%
+des wissenschaftlichen Personals deutscher Hochschulen umfassen (Metz-Göckel/Selent/
+Schürmann 2010: 18).
+Bei den 21- bis 29-jährigen Wissenschaftler/innen betrug dieser Geschlechterunterschied
+nur einen Prozentpunkt, bei den 43- bis 53-jährigen hingegen sieben Prozentpunkte (Metz-
+Göckel/Selent/Schürmann 2010: 20).
+In der Studie von Zimmer, Krimmer und Stallmann (2007: 147f.) war „nur“ ein Fünftel der
+Professoren, aber die Hälfte der Professorinnen kinderlos. Bei Letzteren gab es einen be-
+merkenswerten Ost-West-Unterschied: Während fast alle (der allerdings sehr wenigen) Pro-
+fessorinnen, die noch in der DDR promoviert hatten, Kinder hatten (94%), traf dies auf we-
+niger als die Hälfte ihrer westdeutschen Kolleginnen zu (43%). Erklärungen dafür sehen die
+Autor/innen in einer anderen Laufbahnlogik für Hochschulkarrieren in der DDR, die dem
+Prinzip des „Tenure Track“ folgte, in einem gut ausgebauten Kinderbetreuungsangebot so-
+wie auch in einer geringeren Attraktivität der Wissenschaft als Beruf (Zimmer/Krimmer/
+Stallmann 2007: 151f.).
+„Linked Lives“ in der Wissenschaft
+19
+mende Unsicherheiten, die eine Familiengründung einschränken (können), fest
+(Metz-Göckel/Selent/Schürmann 2010: 14). Diese Erklärung wird dadurch
+gestärkt, dass es keine Evidenz dafür gibt, dass sich der Kinderwunsch hoch
+qualifizierter Frauen von dem anderer Frauen unterscheidet; im Gegenteil,
+auch bei ihnen besteht nach wie vor mehrheitlich der Wunsch nach ein bis
+zwei Kindern (siehe Kapitel 3 in diesem Buch sowie Esping-Andersen 2009:
+28).
+Neben den Arbeitszeitmustern sowie den finanziellen Unsicherheiten in
+der Wissenschaft sind auch die Geschlechterarrangements der Partnerschaf-
+ten von Wissenschaftler/innen kein unwesentlicher Faktor dafür, ob und
+wann Kinder geboren werden. Kinder sind für männliche Wissenschafter
+kein Problem, „solange sie sich auf ein traditionelles Geschlechterverhältnis
+in ihrer privaten Arbeitsteilung stützen konnten“ (Metz-Göckel/Selent/Schür-
+mann 2010: 10) – und weit häufiger als Frauen können sie darauf zurückgrei-
+fen. So zeigen beispielsweise Zimmer, Krimmer und Stallmann (2007: 154),
+dass männliche Professoren nur in Einzelfällen selbst die Hauptverantwor-
+tung für die Betreuung ihrer Kinder im Vorschulalter übernommen haben
+(2%) und nur eine Minderheit auf externe (private oder öffentliche) Betreu-
+ungsangebote zurückgegriffen hat (7%). Bei zwei Dritteln wurden die Kinder
+– „traditionell“ – hauptsächlich von der Partnerin betreut. Bei den Professo-
+rinnen gab es – nicht überraschend – ein deutlich anderes Bild. Sie nutzten zu
+40% private oder öffentliche Betreuungsangebote; knapp ein Fünftel betreute
+ihre Kinder hauptsächlich selbst, und bei immerhin einem weiterem Fünftel
+wurde die Verantwortung für die Kinderbetreuung mit dem Partner geteilt.
+Letzteres ist ein erster Indikator dafür, dass auch akademisch gebildete Män-
+ner zunehmend in die Pflicht der Kinderbetreuung genommen werden oder
+genommen werden wollen, so dass auch sie verstärkt Schwierigkeiten haben
+(werden), dem allumfassenden Anspruch männlich normierter wissenschaft-
+licher Karrieremuster entsprechend zu können (oder zu wollen).
+1.3
+„Linked Lives“ – Analytischer Rahmen und
+Fragestellungen des Buches
+Zusammenfassend zeigen diese historischen und empirischen Entwicklun-
+gen, dass heute bereits jedes zehnte Paar in Deutschland ein Akademikerpaar
+ist – ein Trend, der mit der höheren Bildung von Männern und Frauen weiter
+zunehmen wird (vgl. Blossfeld/Timm 2003; Skopek/Schulz/Blossfeld 2009).
+Ferner ist zu beobachten, dass in vielen dieser Partnerschaften die Frauen
+häufiger berufstätig und Einverdienerarrangements auf dem Rückzug sind,
+wenngleich sie auch noch immer nicht marginal sind. Schließlich ist zu kons-
+20
+Alessandra Rusconi & Heike Solga
+tatieren, dass trotz erheblicher Ausbildungsinvestitionen beider Partner Dop-
+pelkarrierearrangements keine Selbstverständlichkeit sind.
+Angesichts dieser Forschungsbefunde und Entwicklungen lautet die zen-
+trale These dieses Buches daher, dass die Unterrepräsentanz von Frauen in
+Führungspositionen in der Wissenschaft auch dadurch verursacht ist, dass
+Frauen der Weg zur Professur in Verflechtung mit der beruflichen Karriere
+ihres Partners, d. h. als Doppelkarriere, gelingen muss (da Männer einerseits
+wohl nicht auf ihre Karrieren verzichten werden und andererseits ein Rollen-
+tausch und damit eine Benachteiligung von Männern kein wünschenswertes
+Ergebnis im Sinne der Gleichstellung sein kann). Eingedenk der Tatsache,
+dass die überwiegende Mehrheit der Frauen und Männer in einer Partner-
+schaft lebt, kann auch der Verzicht auf eine Partnerschaft für die Karriere,
+wenn dies überhaupt förderlich ist, kein gewünschtes Ziel sein.
+Doppelkarrieren unterliegen allerdings spezifischen Herausforderungen:
+zum einen der zeitlich-räumlichen Koordinierung zweier – in der Wissen-
+schaft zumeist längerfristig unsicherer – Karrieren und zum anderen den
+gleichzeitig zu erfüllenden Ansprüchen hinsichtlich Partner- und ggf. Eltern-
+schaft. Diese wechselseitigen beruflich-privaten Herausforderungen können
+die beruflichen Entwicklungsmöglichkeiten eines Partners – zumeist der Frau
+– einschränken oder gänzlich verhindern. Von daher sind die Karrierechancen
+von (partnerschaftlich gebundenen) Frauen in der Wissenschaft zumeist an
+die Realisierungschancen von Doppelkarrieren gebunden.
+Im Unterschied zu anderen Studien, die entweder nur die berufliche Ent-
+wicklung von Frauen (mit und ohne Kinder) im Vergleich zu Männern oder
+die Arbeitsmarkt- und Organisationsstrukturen professioneller Karrieren
+betrachten, beziehen wir daher die Paarebene systematisch in unsere Be-
+trachtung mit ein. Dafür reicht es nicht, nur die jeweils individuellen Merk-
+male der beiden Partner zu berücksichtigen. Vielmehr sind der Verflechtung
+der beruflichen Entwicklungen beider Partner und der familialen Arbeitstei-
+lung in ihrer Dynamik besondere Aufmerksamkeit zu schenken (vgl. Moen
+2003). Diese Verflechtungs- und Koordinierungsarrangements sind Resultat
+und zugleich zentrale Einflussfaktoren dafür, wie Paare mit den sozialen,
+kulturellen und institutionellen Rahmenbedingungen in ihren beruflichen und
+familiären Entscheidungen umgehen. Auch wenn externe Rahmenbedingun-
+gen für Frauen – mit oder ohne Partnerschaft – benachteiligend sind, so sind
+sie doch keinesfalls deterministisch. Für Frauen in Partnerschaften heißt das,
+dass ihre Karrierechancen durch paarinterne Arrangements und Geschlech-
+terrollenzuschreibungen in ihrer Wirkung verstärkt oder reduziert werden
+können. Welche paarinternen Arrangements es hinsichtlich der Verflechtung
+zweier Berufskarrieren und Partnerschaft bei Wissenschaftler/innen in unter-
+schiedlichen Karrierestadien gibt und welchen Einfluss sie kurz- und länger-
+fristig auf die Karrierechancen von Frauen in der Wissenschaft haben, ist
+Gegenstand des Buches.
+„Linked Lives“ in der Wissenschaft
+21
+Bei der Untersuchung dieser These bzw. der Realisierungsbedingungen
+von Doppelkarrieren von akademisch gebildeten Paaren gehen wir von einem
+Dreiebenenmodell aus, in dem Karrierefaktoren auf der individuellen, paar-
+externen und paarinternen Ebene wechselseitig die beruflichen Entwicklungs-
+möglichkeiten der beiden Partner beeinflussen (vgl. Rusconi/Solga 2008;
+2010). Karrierekonstellationen und Verflechtungsarrangements von Paaren
+sind durch dieses wechselseitige Zusammenspiel der drei Ebenen jedoch
+keinesfalls stabil (siehe Kapitel 2 in diesem Buch). Sie unterliegen verschie-
+denen Dynamiken. Diese ergeben sich aus wechselnden externen Anforde-
+rungen (durch Veränderungen in Arbeitsmarkt- und Organisationsbedingun-
+gen von Karrieren inner- und außerhalb der Wissenschaft), durch berufliche
+Übergänge eines oder beider Partner, durch die Geburt von Kindern sowie
+letztlich durch die Beendigung und den Neubeginn von Partnerschaften.
+Auf der Individualebene beeinflussen Prozesse der beruflichen Segregation
+die Berufschancen von Frauen und Männern – auch ganz unabhängig von
+ihrer Einbindung in eine Partnerschaft (vgl. auch Krimmer/Zimmer 2003).
+Wie in Abschnitt 1.1 kurz skizziert, unterscheiden sich auch heute noch jun-
+ge Frauen und Männer in ihren Studienfächern. Wie in der Literatur vielfach
+belegt ist, verbinden sich mit dieser horizontalen Segregation des Akademi-
+kerarbeitsmarkts ungleiche Karrierechancen (vertikale Segregationsprozesse)
+hinsichtlich der Entlohnung, der Laufbahnmuster und Aufstiegsmöglichkeiten
+(vgl. z. B. Allmendinger/Podsiadlowski 2001; Anger/Konegen-Grenier 2008;
+England 2005). Der Zugang von Frauen zu Führungspositionen wird darüber
+hinaus auch – unabhängig vom Studienfach – durch diskriminierende Prakti-
+ken seitens der Arbeitgeber beschränkt, z. B. durch Prozesse der statistischen
+Diskriminierung, durch die verallgemeinernd bei Frauen von einer geringe-
+ren Produktivität ausgegangen wird (vgl. England 2005; Konrad/Cannings
+1997; Reskin/Padavic 1994). Die Folge sind geringere Chancen für Frauen
+bei der Rekrutierung für oder Beförderung auf Führungspositionen.
+Diese horizontalen und vertikalen Segregationsprozesse werden durch
+zwei weitere Segregationsprozesse verstärkt: informelle sowie arbeitsvertrag-
+liche Unterschiede in der Beschäftigung von Männern und Frauen. So zeigen
+Untersuchungen, dass berufliche Netzwerke nach Geschlecht segregiert sind
+und hoch qualifizierte Frauen weniger in die „High Trust“-Beziehungen
+beruflicher Netzwerke einbezogen sind (vgl. Allmendinger et al. 1999; Ander-
+sen/Oppen/Simon 1999; Wimbauer 1999). Frauen fehlen damit nicht nur In-
+formationen über die Karriereanforderungen und -kriterien der zumeist
+männlich besetzten Auswahlkommissionen für die Besetzung von wissen-
+schaftlichen Positionen; sie haben damit nicht nur geringere Chancen, dass
+ihnen in Besetzungsverfahren ein sie kennender „Leumund“ eine Wahrneh-
+mung ihrer Leistungen und Reputationsgewinne verschafft. Sie haben
+zugleich auch weniger Gelegenheit zur Vertrauensgenerierung, die jedoch
+eine wesentliche Voraussetzung für Kooperationen oder eine berufliche (Be-)
+22
+Alessandra Rusconi & Heike Solga
+Förderung ist. Zudem sind die beruflichen Entwicklungsmöglichkeiten von
+Frauen durch oft schlechtere vertragliche Arbeitsbedingungen beeinträchtigt.
+Sie promovieren häufiger auf Stipendien; sie haben seltener eine Vollzeitstel-
+le (auch wenn sie dies wünschen); ihre Arbeitsverträge sind häufiger und mit
+kürzeren Laufzeiten befristet als die von Männern (vgl. Metz-Göckel/Selent/
+Schürmann 2010; Zimmer/Krimmer/Stallmann 2007). Auch dies schränkt
+ihre berufliche Integration und beruflichen Entwicklungsmöglichkeiten ein
+(vgl. z. B. Gash/Mcginnity 2007; Webber/Williams 2008).
+Diese beruflichen Segregationsprozesse führen – zunächst unabhängig
+davon, ob Frauen in einer Partnerschaft leben oder nicht – zu ungleichen
+Arbeitsmarkt- und Berufschancen von Frauen und Männern. Gleichwohl
+müssen sie für die internen Paarbeziehungen und Verflechtungsarrangements
+von zwei Berufstätigkeiten keinesfalls folgenlos bleiben. Denn diese unter-
+schiedlichen Berufsaussichten und -positionen auf dem Arbeitsmarkt bedeu-
+ten für (heterosexuelle) Paarbeziehungen häufig, dass die Karrierechancen im
+Paar ungleich verteilt sind und Entscheidungen im Paar für oder gegen die
+Karriere des einen oder der anderen beeinflussen können.
+Auf der externen Paarebene werden die beruflichen Chancen von Frauen
+und Männern dadurch beeinflusst, dass Personen, die in einer Partnerschaft
+leben, sich auf Arbeitsmärkten als Partner (und ggf. Eltern) bewegen. Die
+Gestaltungs- und Handlungsspielräume von Männern und Frauen in Partner-
+schaften, bei denen beide Partner einer Karriere nachgehen (wollen), sind
+durch die zeitlich-räumlichen, häufig konfligierenden beruflichen Anforde-
+rungen der beiden Partner sowie durch familiäre Anforderungen geprägt (vgl.
+Rapoport/Rapoport 1969; Sonnert 2005).
+Berufsbedingte räumliche Mobilität stellt dabei für akademisch gebildete
+Paare eine zentrale Herausforderung dar (vgl. Hess/Rusconi/Solga 2011a;
+Sonnert 2005). Akademiker/innen ziehen überdurchschnittlich häufig um und
+leben häufiger in multilokalen Lebensformen (tägliches und Wochenend-
+pendeln sowie Living-apart-together-Arrangements), da räumliche Mobilität
+ein wesentliches Element der berufliche Entwicklung von Personen mit ei-
+nem akademischen Abschluss ist (vgl. Becker et al. 2011; Büchel/Frick/Witte
+2002; Schneider et al. 2008). Ergeben sich Mobilitätsanforderungen auf-
+grund von zwei Karrieren, so stehen diese oft im Widerstreit zu den Stabili-
+tätsanforderungen der Familie. Es ist dann zumeist die Frau, die auf ihre
+Karriere verzichtet – und zwar vor allem dann, wenn Kinder vorhanden sind
+(siehe unten). Und so zeigt sich, dass Frauen in Partnerschaften und insbe-
+sondere in solchen mit Kindern entweder weniger mobil sind als Singles oder
+häufiger mit dem Partner mitziehen (vgl. Becker et al. 2011; Schneider et al.
+2008).
+Eine Strategie von Paaren im Umgang mit Mobilität ist daher, vor allem
+Jobs in Regionen zu suchen, die beiden Partnern eine gute Arbeitsmarktsitua-
+tion versprechen (vgl. Costa/Kahn 2000; Moen/Wethington 1992). Darüber
+„Linked Lives“ in der Wissenschaft
+23
+hinaus werden Doppelkarriereregelungen seitens der Arbeitgeber (Hochschu-
+le), wie das Job-Sharing, das Double-Hiring oder die Unterstützung bei der
+Jobsuche außerhalb der Hochschule, aus diesem Grund zunehmend relevant
+– insbesondere an „isolierten“ Hochschulstandorten. Auch wenn eine Be-
+schäftigung am gleichen Ort für die Partnerschaft und Familie vorteilhaft sein
+mag, so muss dies keinesfalls notwendigerweise für die Berufsperspektiven
+der beiden Partner der Fall sein. Möglicherweise sind die beruflichen Chan-
+cen eines oder beider Partner andernorts besser, so dass der Kompromiss, an
+einem Ort zu leben und zu arbeiten, zu beruflichen Einschränkungen für
+einen oder beide Partner führen und so langfristig die Realisierung einer
+Doppelkarriere gefährden kann (vgl. Rusconi 2002).
+Auf der paarexternen Ebene spielen auch die Kinderbetreuungsangebote
+eine wichtige Rolle. Davon hängt ganz wesentlich ab, ob und in welchem
+Umfang Paare mit Kindern Betreuungsanforderungen externalisieren können
+(siehe paarinterne Ebene unten). Gerade in Deutschland sind die Vorausset-
+zungen dafür sehr unzureichend, da Ganztagsschulen in der Grundschule
+immer noch nicht die Regel sind, Ganztagskindergärten (bis 17 Uhr) vieler-
+orts noch eine Ausnahme darstellen und für den gesetzlichen Ausbau des
+Kinderkrippenangebots nur eine Zielmarke von ca. 35% der Ein- bis Dreijäh-
+rigen vorgesehen ist. Es mangelt somit an öffentlichen Kinderbetreuungsan-
+geboten im Allgemeinen (vgl. Plantenga et al. 2008) und vor allem an sol-
+chen, die mit Vollzeit und flexiblen Arbeitszeiten von zwei anspruchsvollen
+Berufstätigkeiten kompatibel sind. Zudem gilt normativ immer noch die
+Kinderbetreuung als Zuständigkeitsbereich der Mütter, wie beispielsweise
+das deutliche Ungleichgewicht der vorgesehenen Partnermonate, der so ge-
+nannten Väter-Monate, zeigt, da es als ausreichend angesehen wird, dass der
+zweite Elternteil nur zwei Monate die Elternzeit in Anspruch nimmt (vgl.
+Henninger/Wimbauer/Dombrowski 2008 sowie auch Esping-Andersen 2009;
+Morgan/Zippel 2003).
+Mit diesen Rahmenbedingungen werden den Paaren – dabei vor allem
+den Frauen – Erwerbsunterbrechungen oder Arbeitszeitreduzierungen zur
+Vereinbarkeit von Beruf und Familie nahegelegt. Ein solches Vereinbar-
+keitsmodell steht jedoch im Widerspruch zu den Berufsbahnlogiken in Wis-
+senschaft und Privatwirtschaft, die kontinuierliche Erwerbsbiografien erwar-
+ten und häufig auch Altersnormen für die Abfolge von Karriereschritten
+sowie den Zugang zu Positionen beinhalten.4 Doch die Wahl zwischen
+Erwerbsunterbrechung oder Arbeitszeitreduzierung scheint einer Wahl zwi-
+schen Cholera und Pest gleichzukommen. Eine Erwerbsunterbrechung ver-
+stärkt z. B. die Annahme von Motivationsdefiziten und bestärkt, wenn es
+Frauen betrifft, Geschlechterstereotype; sie erhöht die Gefahr des Ausschlus-
+ses aus beruflichen Netzwerken oder den Vorwurf „veralteten Wissens“
+4
+Zum Teil handelt es sich dabei um gesetzlich fixierte Normen, wie z. B. die Altersgrenze
+bei der Verbeamtung.
+24
+Alessandra Rusconi & Heike Solga
+(siehe oben: Individualebene). Eine signifikante Reduzierung der Arbeitszeit
+(z. B. auf 50%) könnte aus mehreren Gründen keine gute Alternative hin-
+sichtlich der Karrierechancen darstellen. Zum einen widerspricht Teilzeit
+dem Vollzeit-Ideal von wissenschaftlichen Karrieren und kann gleichfalls als
+Motivationsdefizit ausgelegt werden. Selbst die oft anzutreffenden vertragli-
+chen Teilzeitstellen während der Promotion betreffen nur die Bezahlung,
+nicht jedoch die erwartete ausgeübte Arbeitszeit. Teilzeit-Professuren aus
+familialen Gründen sind gleichfalls Mangelware. Existierende Teilzeit-Pro-
+fessuren gibt es zumeist aufgrund von (einträglichen) Nebenerwerbstätigkei-
+ten, so dass die „Arbeitswilligkeit“ der Inhaber/innen nicht infrage gestellt
+wird. Zum anderen wird Teilzeit in der Qualifizierungsphase bestraft, denn
+für die Anrechnung der Jahre gemäß der Zwölf-Jahres-Regelung an deut-
+schen Hochschulen ist die vertragliche Arbeitszeit (d. h. wie viele Stunden
+gearbeitet wird) irrelevant. Damit wird aber zugleich die Erbringung gleicher
+Qualifikationsleistungen im gleichen Zeitraum – trotz ggf. unterschiedlicher
+Arbeitszeiten – erwartet.
+Die Einflussfaktoren der Individual- und der paarexternen Ebene stellen
+die Rahmenbedingungen dar, in denen Frauen und Männer in Akademiker-
+paaren ihre – gemeinsamen oder individuellen – familialen und beruflichen
+Entscheidungen treffen. Die benannten Ungleichbehandlungen von Frauen
+und Männern auf Arbeitsmärkten, die häufig widersprüchlichen zeitlich-
+räumlichen Anforderungen wissenschaftlicher Karrieren sowie die institutio-
+nellen und organisatorischen Bedingungen von Arbeit bzw. Wissenschaft
+und Familie stellen zwar Einschränkungen für den Gestaltungsspielraum von
+Paaren dar, keinesfalls bedeuten sie notwendigerweise jedoch, dass akade-
+misch gebildete Frauen in diesen Paaren auf ihre berufliche Karriere verzich-
+ten müssen. Wie der jeweils vorhandene Gestaltungsspielraum genutzt wird,
+d. h. wie Paare mit diesen Anforderungen und Konflikten umgehen, ist auch
+abhängig von den Geschlechterrollenvorstellungen der beiden Partner, der
+jeweiligen Interpretation der externen Bedingungen durch die beiden Partner
+sowie den damit begründeten und gelebten Verflechtungs- und Koordinie-
+rungsarrangements des Paares.
+Insofern sind mit der internen Paarebene auch innerpartnerschaftliche
+Aushandlungsprozesse und Koordinierungsstrategien in Bezug auf Arbeit –
+Karriere – Familie in Rechnung zu stellen. In ihnen werden die auf den beiden
+anderen Ebenen geschaffenen Bedingungen ver- und bearbeitet und dadurch
+die Wirkungsmächtigkeit dieser Faktoren hinsichtlich der Ermöglichung oder
+Be- bzw. Verhinderung von Doppelkarrieren mitbestimmt. Aus der vorliegen-
+den Forschung lassen sich diesbezüglich im Wesentlichen drei Verflech-
+tungsweisen von Berufsverläufen in Partnerschaften unterscheiden, die die
+paarinternen Interpretationen und Machtverhältnisse der externen Karriere-
+chancen widerspiegeln: a) hierarchische, b) individualistische und c) egalitäre
+Verflechtungsweisen.
+„Linked Lives“ in der Wissenschaft
+25
+Mit hierarchischen Verflechtungsweisen wird einem Partner – zumeist
+dem Mann – die primäre Berufsrolle zugeschrieben, und der andere Partner –
+zumeist die Frau – unterstützt dessen Karriere durch die Zuständigkeit für die
+privaten Belange. Sind beide Partner erwerbstätig, kommt es zu einer Defini-
+tion einer „führenden“ und einer „folgenden“ Berufstätigkeit, deren Arbeits-
+anforderungen in Sachen Arbeitszeit und räumliche Mobilität/Stabilität den
+Anforderungen der führenden Karriere untergeordnet werden. Das heißt,
+berufliche Entscheidungen der untergeordneten Berufstätigkeiten werden aus
+dem Blickwinkel der Karriere des anderen Partners sowie des Zusammenlebens
+am selben Ort getroffen (vgl. z. B. Becker/Moen 1999).
+Mit individualistischen Verflechtungsweisen verfolgen beide Partner je-
+weils eigenständig ihre beruflichen Karrieren. Der Partnerschaft, d. h. der
+gemeinsamen Zeit sowie ggf. dem Leben an einem Ort, kommt hier eine
+sekundäre Rolle zu. Fern- oder Pendelbeziehungen stellen hier eine mögliche
+(wenn auch nicht unbedingt gewünschte) Koordinierungsstrategie im Hin-
+blick auf die Karrierechancen für beide Partner dar. Mit der Geburt von Kin-
+dern geraten individualistische Koordinierungsarrangements nicht nur auf-
+grund dieser örtlichen Distanz ins Wanken. Paarextern wie -intern kommen
+mit der Elternschaft geschlechtsspezifische Rollenerwartungen wieder an die
+Oberfläche. Es obliegt dann den beiden Partnern zu entscheiden, ob sie diese
+Erwartungen erfüllen oder ob sie nach externen oder geteilten Kinderbetreu-
+ungsmöglichkeiten suchen. Die Forschung zeigt hier, dass temporär gedachte
+Zugeständnisse (zumeist seitens der Frauen) in dieser Situation eine große
+Gefahr langfristig negativer Karrierekonsequenzen in sich bergen. Kommt es
+dadurch zu einer „Revitalisierung“ traditioneller Geschlechterrollenzuschrei-
+bungen auch in der beruflichen Sphäre, dann wird langfristig zum hierarchi-
+schen Muster der innerfamilialen Arbeitsteilung in Beruf und Familie über-
+gegangen (vgl. Levy/Ernst 2002; Schulz/Blossfeld 2006). Frauen, die ein
+individualistisches Verflechtungsmodell aufrechterhalten wollen, verzichten
+möglicherweise auf Kinder oder verschieben den Kinderwunsch so lange, bis
+sie ihre Karriereabsichten erfüllt oder nicht mehr gefährdet sehen (siehe
+Abschnitt 1.2 sowie Kapitel 3 und 4 in diesem Buch).
+Deutlich seltener als individualistische Verflechtungsweisen gibt es egali-
+täre Koordinierungsarrangements in Partnerschaften. Angesichts der äuße-
+ren Rahmenbedingungen bergen sie die Gefahr in sich, dass beide Partner für
+ein Zusammenleben (im Sinne von gemeinsamer Zeit und gemeinsamem Ort)
+bereit sind, Abstriche und Kompromisse hinsichtlich der eigenen Karriere zu
+machen (vgl. Bathmann/Müller/Cornelißen 2011; Becker/Moen 1999; Behnke/
+Meuser 2005). Für die langfristige Realisierung einer Gleichwertigkeit von
+Karriere, Partnerschaft und evtl. Elternschaft müssten somit ggf. Einschrän-
+kungen der Karrieren beider Partner in Kauf genommen bzw. könnten Kar-
+rierepotenziale zugunsten der Familie nicht ausgeschöpft werden.
+26
+Fragestellungen und Aufbau des Buches
+Alessandra Rusconi & Heike Solga
+Das hochschul- und wissenschaftspolitische Interesse an Doppelkarrieren ist
+deutlich gestiegen – und es wird dafür auch einiges unternommen. So hat
+beispielsweise eine wachsende Zahl deutscher Universitäten Dual Career
+Offices eingerichtet (vgl. z. B. Gramespacher/Funk/Rothhäusler 2010). Zudem
+liegen Forschungsbefunde zu Doppelkarrierepaaren aus den zahlreichen
+(auch deutschen) Studien vor, die in den letzten zehn Jahren entstanden sind.
+Somit könnte sich für die eine oder den anderen an dieser Stelle vielleicht die
+Frage stellen: Wozu dieses Buch? Wissen wir nicht schon alles? Die einfache
+Antwort lautet: Wir brauchen dieses Buch, denn wir wissen längst nicht alles.
+Es gibt zahlreiche Forschungslücken, die wir selbst in diesem Buch nicht alle
+schließen können. Von daher werden wir uns auf einige, wenn auch sehr zen-
+trale offene Fragen beschränken (müssen).5
+Unbekannt sind in Anbetracht des oben erwähnten Spannungsverhältnis-
+ses von Herausforderungen und unterschiedlichen Einflussfaktoren in Bezug
+auf wissenschaftliche Karrieren in (Akademiker-)Partnerschaften (a) die
+Dynamiken von Verflechtungsarrangements hinsichtlich der Erwerbstätigkeit
+(Ein- vs. Doppelverdiener) bei männlichen und weiblichen Wissenschaftlern
+und (b), welche Rolle dabei berufliche Veränderungen oder die Geburt von
+Kindern spielen. Damit verbunden sind folgende offene Fragen: Sind Doppel-
+verdienerarrangements in früheren Phasen der Berufsbiografie einfacher zu
+bewerkstelligen als in späteren, da einerseits die zeitlich-räumlichen Heraus-
+forderungen im Karriereverlauf zunehmen und andererseits die Familien-
+gründung häufig erst nach der beruflichen Etablierung stattfindet? Wie wich-
+tig ist es, welches Verflechtungsmuster die beiden Partner vor dem ersten
+Kind praktiziert haben, dafür, wie das Arrangement nach der Geburt des
+Kindes aussieht? Und schließlich: Lassen sich Unterschiede in Verflech-
+tungsmustern und deren Dynamiken zwischen jüngeren und älteren Geburts-
+jahrgängen beobachten, und wenn ja, führen sie zu einer größeren Gleichheit
+zwischen männlichen und weiblichen Wissenschaftlern? Diesen zentralen
+Fragestellungen widmet sich das Kapitel 2 dieses Buches.
+Für den Zusammenhang von Kind und Karriere scheint gleichfalls alles
+gesagt bzw. erforscht zu sein. Doch unbeantwortet sind immer noch folgende
+Fragen: Welchen Einfluss haben die im Paar verfolgten Betreuungsstrate-
+gien und praktizierten Betreuungsarrangements für ihre Kinder auf die wissen-
+schaftliche Karriere von Frauen? Welche Aushandlungsprozesse zwischen
+den beiden Partnern liegen den jeweils praktizierten Betreuungsmustern
+eigentlich zugrunde? Und sind die Karrierechancen – wie viele annehmen –
+wirklich besser, wenn die Geburt des ersten Kindes nach hinten verschoben
+wird, oder sind eher die paarinternen Betreuungsarrangements in Verbindung
+mit (externen) Betreuungsleistungen durch Dritte ausschlaggebend? Diese
+5
+Für weitere Aspekte siehe Hess/Rusconi (2010); Hess/Rusconi/Solga (2011a, b).
+„Linked Lives“ in der Wissenschaft
+27
+Fragen werden in Kapitel 3 beantwortet. Besondere Aufmerksamkeit wird
+dabei – mit einem Vergleich einerseits von Wissenschaftlerinnen mit und
+ohne Kinder sowie andererseits von Müttern mit und ohne Karriere – der
+übergreifenden Frage geschenkt, in welchem Fall Kinder nicht zu einem
+„Karriereknick“, sondern zu einer Fortsetzung der wissenschaftlichen Karrie-
+re von Frauen führen (können).
+In der Forschung wird zudem immer noch davon ausgegangen, dass
+Frauen weniger karriereorientiert sind oder ihren beruflichen Erfolg darin
+sehen, Beruf und Familie gut vereinbaren zu können. Ungefragt bleibt je-
+doch, warum Frauen ggf. eine andere Karriere- und Erfolgsdefinition haben
+als Männer. Welche Rolle spielt die individuelle und im Paar hergestellte
+Verarbeitung externer Rahmenbedingungen (siehe Individualebene und paar-
+externe Ebene oben) für die Karriereorientierungen von Wissenschaftlerin-
+nen? Das ist die zentrale Frage, der die Autorinnen in Kapitel 4 nachgehen.
+Dabei untersuchen sie, welche berufsbiografischen Orientierungen für Ent-
+scheidungen von Wissenschaftlerinnen im Spannungsfeld von Wissenschaft
+und Familie handlungsleitend waren. Welche Karrierenachteile von Frauen
+in der Wissenschaft werden von den Frauen und ihren Partnern antizipiert,
+und wie gehen sie hinsichtlich der Karriere- und Lebensplanung im Paar
+damit um? Zur Beantwortung dieser Fragen werden in diesem Kapitel nur
+erfolgreiche Wissenschaftlerinnen, d. h. jene, die zum Zeitpunkt des Inter-
+views eine Karriere haben (siehe Abschnitt 1.5), miteinander verglichen, um
+so Gemeinsamkeiten, aber auch die interne Varianz „erfolgreicher“ Karriere-
+orientierungen aufgrund unterschiedlicher Paarkonstellationen und Erfahrun-
+gen mit externen Rahmenbedingungen aufzeigen zu können.
+Abschließend stellt sich die Frage: Wie wichtig sind die langfristig prak-
+tizierten Verflechtungsmuster früherer Phasen – die in Kapitel 2 behandelt
+werden – für die späteren Karriere- und Doppelkarrierechancen von Wissen-
+schaftler/innen? Verlangt der Erfolg in der Wissenschaft wirklich eine durch-
+gängige Berufsbiografie à la männliche Normalbiografie? Werden Unter-
+brechungen generell bestraft? Werden Mobilität oder multilokale Wohn-
+arrangements belohnt? Diese Fragen beantwortend, geht es in Kapitel 5 im
+Grunde um die große Frage: Ist die „Maskulinisierung“ weiblicher Lebens-
+verläufe der derzeit einzige Weg für Frauen zum Erfolg, oder gibt es jenseits
+des Karrieremythos (vgl. Moen 2010; Moen/Roehling 2005) individuelle und
+Paarstrategien, die gleichfalls Chancen für Frauenkarrieren in der Wissen-
+schaft und Doppelkarrieren im Paar eröffnen?
+Antworten auf diese Fragen sollen letztlich dazu beitragen herauszufinden,
+was förderliche Bedingungen oder „Gelingensbedingungen“ von wissenschaft-
+lichen Karrieren von Frauen – und damit verbunden von Doppelkarrieren –
+sind und inwiefern Faktoren, die wir häufig für besonders wichtig halten,
+vielleicht gar nicht so ausschlaggebend sind.
+28
+1.4
+Alessandra Rusconi & Heike Solga
+„Linked Lives“ von wem? – Datengrundlage des
+Buches
+Das Buch basiert auf einer einmaligen Datenbasis, bestehend aus quantitati-
+ven und qualitativen Interviews, die im Rahmen des Projekts erhoben wur-
+den. Für die Beantwortung unserer Forschungsfragen und das Schließen der
+oben genannten Forschungslücken ist es erforderlich, zum einen Informatio-
+nen von Wissenschaftler/innen zu haben, die in einem Paarkontext leben, und
+zum anderen Informationen zu beiden Partnern zu haben, die auch von bei-
+den Partnern jeweils selbst gegeben werden. Gerade Informationen zum
+Lebensverlauf der Partner vor der Partnerschaft sowie subjektive Einschät-
+zungen hinsichtlich Arbeitsteilung oder Karriereambitionen können nicht aus
+„dritter Hand“ gegeben werden. Einen solchen Datensatz gab es bisher in der
+Bundesrepublik nicht.
+Es liegen inzwischen zwar eine Reihe von qualitativen Studien zu Dop-
+pelkarrieren bzw. zur Verflechtung von Berufskarrieren in Partnerschaften
+vor (vgl. z. B. Behnke/Meuser 2005; Dettmer/Hoff 2005; Hirseland/Herma/
+Schneider 2005; Wimbauer 2010). Deren Aussagekraft ist allerdings auf-
+grund der zumeist sehr kleinen Fallzahlen und des jeweils sehr spezifischen
+Samples eingeschränkt. Die vorhandenen bevölkerungsrepräsentativen Da-
+tensätze sind auch nicht ausreichend zur Untersuchung von Doppelkarriere-
+paaren. Der Mikrozensus bietet zwar eine sehr große Fallzahl (auch an Aka-
+demikerpaaren), es gibt allerdings kaum Informationen zur Identifizierung von
+Doppelkarrieren oder zum Arbeitsort der beiden Partner. Durch sein Quer-
+schnittsdesign sind Erwerbskonstellationen in Partnerschaften zudem nur als
+punktuelles Phänomen erfassbar. Innerpartnerschaftliche Aushandlungspro-
+zesse und Entscheidungssituationen können nicht rekonstruiert werden. Für
+die Untersuchung von Akademikerpartnerschaften ist die Fallzahl in den
+vorhandenen repräsentativen Längsschnittstudien, d. h. im Sozio-oekonomi-
+schen Panel (SOEP) des Deutschen Instituts für Wirtschaftsforschung oder in
+den Deutschen Lebensverlaufsstudien des Max-Planck-Instituts für Bildungs-
+forschung, zu gering. Zudem würden sie bei höherer Fallzahl zumeist auch
+nicht weiterhelfen, da z. B. Wohnarrangements der beiden Partner im Zu-
+sammenhang mit den beiden Berufsbiografien nicht erhoben werden bzw.
+wurden. Gerade Letzteres kann jedoch als ein zentraler Bestandteil von in-
+nerpartnerschaftlichen Verflechtungsarrangements nicht unberücksichtigt
+gelassen werden (siehe Kapitel 5 in diesem Buch). Ferner wäre die Durch-
+führung eigenständiger qualitativer Interviews mit Wissenschaftlerinnen und
+ihren Partnern – rückgekoppelt an eine größere Fallzahl – nicht möglich
+gewesen.
+„Linked Lives“ in der Wissenschaft
+Stichprobendesign und Inhalte der quantitativen Befragung
+29
+Doch eine eigene Datenerhebung durchzuführen, ist leichter gesagt als getan.
+Denn es existiert kein Register für Wissenschaftler/innen – und schon gar
+nicht eines, in dem der Partnerschaftsstatus registriert wäre –, auf dessen
+Basis dann eine Stichprobenziehung möglich gewesen wäre. In dem Projekt
+haben wir daher folgenden Weg gewählt: Das Erhebungsinstitut Infas Bonn
+hat im Sommersemester 2008 eine Recherche der Mitarbeiterverzeichnisse
+auf den Internetseiten von 18 ausgewählten Hochschulen (in Großstädten
+und mittelgroßen Städten mit großen Universitäten) durchgeführt. Für eine
+große Zahl der sozial-, technik- und naturwissenschaftlichen Fachbereiche
+(ohne Medizin) wurden ein Personenverzeichnis und eine (soweit möglich
+erste) Klassifikation nach Karrierestufen erstellt. Auf dieser Grundlage er-
+folgte eine Zufallsziehung innerhalb der nach Geschlecht, Karrierestufe,
+Disziplin und regionalem Kontext definierten Zellen (siehe Tabelle 1.1).
+Im Wintersemester 2008/09 wurde mit diesen Wissenschaftler/innen ein
+standardisiertes telefonisches Lebensverlaufsinterview (CATI) von Infas
+Bonn durchgeführt. Befragt wurden dabei nur wissenschaftliche Beschäftigte
+der Hochschulen, die seit mindestens zwei Jahren in einer festen Partner-
+schaft lebten und deren Partner/innen (zum Interviewzeitpunkt) ebenfalls
+einen Hochschulabschluss hatten.
+In den Telefoninterviews wurden detaillierte Angaben zu allen Ausbil-
+dungs- und Hochschulabschlüssen sowie für den Zeitraum seit dem ersten
+Hochschulabschluss bis zum Interviewzeitpunkt erhoben sowie monatsge-
+naue Angaben zu allen Aktivitäten der Berufsbiografie (inkl. Unterbrechun-
+gen aufgrund von Kindererziehung, Arbeitslosigkeit oder sonstigen Aktivitä-
+ten) und zu allen Partnerschaften und Kindern (inkl. Angaben zur Kinder-
+betreuung bis zum sechsten Lebensjahr). Zudem wurde für jede Episode
+dieser Berufsbiografie das überwiegende Wohn-, Erwerbs-, Einkommens-
+und Arbeitsteilungsarrangement des Paares erfragt; ferner Einzelheiten zu
+zentralen Rahmenbedingungen und Entscheidungskonstellationen.
+Viele dieser Informationen können nicht oder nicht zuverlässig (ohne
+„Rationalisierungs“-Prozesse) retrospektiv, d. h. im Nachhinein, erhoben
+werden. Daher wurden Wissenschaftler/innen auf vier Karrierestufen befragt,
+um so möglichst „nah“ an den jeweiligen Entscheidungssituationen zu sein:
+1. nicht promovierte Mitarbeiter/innen (Promovierende);
+2. Promovierte, deren Promotion maximal drei Jahre zurücklag;
+3. Promovierte, deren Promotion mehr als drei Jahre zurücklag, und Junior-
+professor/innen;
+4. Professor/innen (C3/C4 und W2/W3).
+Da die Angaben zur Partnerschaft nicht und zur Karrierestufe nicht immer
+aktuell oder eindeutig auf Internetseiten verfügbar sind, wurde über ein kurzes
+30
+Alessandra Rusconi & Heike Solga
+Eingangs-Screening sichergestellt, dass die Person den Stichprobenkriterien
+(wissenschaftliche/r Beschäftigte/r dieser Hochschulen, seit mindestens zwei
+Jahren in einer Partnerschaft mit einem/r gleichfalls akademisch gebildeten
+Partner/in lebend und Einordnung in eine der vier Karrierestufen) entsprach
+und bereit war, eine Kontakttelefonnummer für ihre/n Partner/in zu vermit-
+teln (da auch das Partnerinterview für die Untersuchung wichtig war, siehe
+oben). War dies der Fall, wurde ein (vollständiges) Interview durchgeführt.
+Nach Abschluss des Interviews wurden dann der/die Partner/in für das stan-
+dardisierte Partnerinterview kontaktiert und die Zielpersonen für ein qualita-
+tives Interview ausgewählt (siehe unten).
+Tabelle 1.1:
+Realisierte Interviews mit Wissenschaftler/innen und ihren
+Partner/innen nach Karrierestufe, Geschlecht und Disziplin
+(absolute Anzahl)
+Disziplin
+Technikwissenschaften
+Naturwissenschaften
+Sozialwissenschaften
+Gesamt
+Geplante Fallzahl
+(absolut)
+Realisierte Fallzahl
+(in%)
+Technikwissenschaften
+Naturwissenschaften
+Sozialwissenschaften
+Gesamt
+M = Männer, F = Frauen
+Promo- Promovierte
+vierende (seit maximal
+drei Jahren)
+M F M F
+Wissenschaftler/innen
+29 32 22 15
+31 35 21 28
+34 38 26 22
+94 105 69 65
+90
+90
+104% 117%
+Partner/innen
+21 22
+26 23
+24 32
+71 77
+90
+77%
+14
+17
+17
+48
+90
+9
+18
+17
+44
+72%
+140%
+123%
+110%
+78%
+Quelle: Datensatz „Gemeinsam Karriere machen“; eigene Berechnungen
+Für jede der vier Karrierestufen wurden für Männer und Frauen und die drei
+Disziplinengruppen jeweils 30 bzw. bei den Professoren/innen 35 standardi-
+sierte Interviews angestrebt (insgesamt 750 Interviews). Zudem sollten
+500 standardisierte Interviews mit ihren Partner/innen durchgeführt werden.
+Realisiert wurden letztlich 767 Interviews mit Wissenschaftler/innen und
+552 mit ihren Partner/innen. Gleichwohl konnte nicht in allen Gruppen die
+angestrebte Fallzahl erreicht werden (siehe Tabelle 1.1). Dies betrifft insbe-
+sondere die Gruppe der Professorinnen in den Technikwissenschaften (bei
+denen die Grundgesamtheit bereits extrem klein ist) sowie die Gruppe der
+Promovierte
+(seit mehr als
+drei Jahren)
+M F
+Professor/in-
+nen
+46
+42
+38
+126
+90
+36
+30
+29
+95
+36
+44
+31
+111
+90
+29
+34
+26
+89
+M
+37
+36
+42
+115
+105
+22
+27
+27
+76
+F
+13
+32
+37
+82
+105
+9
+21
+22
+52
+„Linked Lives“ in der Wissenschaft
+31
+Wissenschaftler/innen, deren Promotion maximal drei Jahre zurücklag. Letz-
+tere konnten größtenteils mit Interviews der Promovierten, deren Promotion
+mehr als drei Jahre zurücklag, ausgeglichen werden.
+Der Arbeitsort und die Erwerbstätigkeit bzw. Nichterwerbstätigkeit der
+Partner/innen der befragten Wissenschaftler/innen mussten nicht in der
+Hochschule oder in der Wissenschaft sein. Damit können sehr unterschiedli-
+che Konstellationen verglichen werden: Beide Partner in der Wissenschaft
+(wissenschaftshomogene Paare); ein Partner in und einer außerhalb der Wis-
+senschaft erwerbstätig (berufsfeldheterogene Paare); ein Partner in der Wis-
+senschaft und der andere Partner nicht erwerbstätig (Einverdienerpaare in der
+Wissenschaft). Nicht berücksichtigt werden in unseren Analysen – wenn sie
+sich auf den Interviewzeitpunkt beziehen – damit „nur“ Doppelverdiener-
+und Einverdienerpaare außerhalb der Wissenschaft sowie Paare, in denen
+beide Partner nicht erwerbstätig sind. All diese Konstellationen können
+gleichwohl für den Zeitraum vor dem Interview auch bei den von uns befrag-
+ten Paaren auftreten und damit berücksichtigt werden.
+Ähnliches gilt für das Auswahlkriterium „Leben in einer Partnerschaft“.
+Die von uns befragten Wissenschaftler/innen hatten zum Interviewzeitpunkt
+seit mindestens zwei Jahren eine Partnerschaft. Das schließt allerdings nicht
+aus, dass sie in den Zeiten davor zeitweise keine/n Partner/in hatten. Im Daten-
+satz sind damit nur jene nicht enthalten, die entweder zum Interviewzeitpunkt
+temporär keine/n Partner/in hatten oder (bis zum Interviewzeitpunkt) nie in
+einer Partnerschaft gelebt haben. Wie groß dieser Anteil ist, ist schwer abzu-
+schätzen, denn es gibt keine verlässliche Datenbasis, um dies zu berechnen
+(siehe oben). Gleichwohl ist angesichts der Verbreitung von Partnerschaften
+auch bei Hochschulabsolvent/innen davon auszugehen, dass mit dieser Stich-
+probe ein substanzieller Anteil der an Hochschulen arbeitenden Wissen-
+schaftler und die Mehrheit der dort tätigen Wissenschaftlerinnen erfasst werden
+(siehe Abschnitt 1.2).
+Die standardisierten Lebensverlaufsinterviews wurden für die Kapitel
+des Buches in vielfältiger Weise deskriptiv und multivariat ausgewertet.
+Dabei lassen sich zwei wichtige Auswertungsstrategien unterscheiden:
+(a) verlaufsbezogene Auswertungen zum individuellen Karriereverlauf der
+Wissenschaftler/innen oder zu den Verflechtungsarrangements im Paar (z. B.
+als Verteilungsgrafiken des jeweiligen individuellen oder im Paar realisierten
+Karrierestatus über einen bestimmten Zeitraum sowie Auswertungen mittels
+Sequenz- und Regressionsanalysen) und (b) ereignisbezogene Auswertungen
+(z. B. bis zur Promotion oder zu einem der nächsten Karriereschritte in der
+Postdoc-Phase – siehe Abschnitt 1.5 – sowie vor und nach der Geburt von
+Kindern).
+Bei den deskriptiven Auswertungen – wenn sie nicht fachgruppenspezi-
+fisch sind – wurde durch eine entsprechende Gewichtung berücksichtigt, dass
+unterschiedliche Fallzahlen für die drei Disziplinengruppen vorliegen. Bezo-
+32
+Alessandra Rusconi & Heike Solga
+gen z. B. auf das Gesamtsample liegen bei den Frauen aus den naturwissen-
+schaftlichen Fächern mit 139 Gesprächen mehr Interviews vor als aus den
+sozialwissenschaftlichen (128) und den technikwissenschaftlichen (96) Fä-
+chern. Bei den Männern gibt es ein leichtes Übergewicht der Sozialwissen-
+schaftler (140) gegenüber den Technik- und Naturwissenschaftlern (134 bzw.
+130). Ähnliche Unterschiede bestehen auch, wenn einzelne Karrieregruppen
+oder nur jene Fälle ausgewertet werden, bei denen auch Interviews der Part-
+ner/innen vorliegen. Angesichts unterschiedlicher Karrierelogiken in diesen
+drei Fächergruppen (vgl. Hess/Rusconi/Solga 2011a) würde eine ungewich-
+tete Verwendung der Daten in deskriptiven Analysen dazu führen, dass die
+Logiken der Disziplinen, die mit höheren Fallzahlen vertreten sind, durch-
+schlagen würden und somit die Verallgemeinerbarkeit eingeschränkt wäre. In
+die deskriptiven Analysen gehen die einzelnen Fälle der drei Disziplinen-
+gruppen daher mit einem unterschiedlichen Gewicht ein, womit sichergestellt
+wird, dass keine Gruppe ein Übergewicht erhält bzw. dass alle drei Gruppen
+gleichermaßen zum Ergebnis beitragen. In den multivariaten Analysen wird
+diese ungleiche Fallzahl durch die Schätzung entsprechender Koeffizienten
+angemessen berücksichtigt.
+Design und Inhalte der qualitativen Befragung
+Als zweiter Teil des Projekts wurde eine qualitative Befragung mit einer
+Auswahl von Wissenschaftlerinnen und ihren Partnern durchgeführt. Gegen-
+stand dieser qualitativen Interviews waren das subjektive Planungsverhalten,
+die innerpartnerschaftlichen Handlungsstrategien und Bewertungsdimensionen,
+die Aushandlungsprozesse im Paar sowie die Antizipationen, Deutungen und
+Verarbeitungen der institutionellen Umweltfaktoren wissenschaftlicher Karrie-
+ren im Spannungsfeld von Partnerschaft und Familie. Am Ende der standar-
+disierten Lebensverlaufsinterviews wurden daher alle Interviewpartner/innen
+um ihre Zustimmung zu einer weiteren Befragung gebeten. Die erteilte
+Panelbereitschaft war mit 96% der Wissenschaftler/innen und 97% der Part-
+ner/innen sehr hoch. Letztlich war die reale Teilnahmebereitschaft an einem
+qualitativen Interview etwas geringer. Von den 47 angeschriebenen Wissen-
+schaftlerinnen konnten 33 für ein Interview gewonnen werden. Darüber
+hinaus wurden – wie geplant – zwölf Interviews mit Partnern dieser Wissen-
+schaftlerinnen durchgeführt.
+Alle panelbereiten Wissenschaftlerinnen wurden nach einem theoriege-
+leiteten Sampling-Verfahren in die Auswahl für die qualitativen Interviews
+einbezogen. Die darin festgelegten Gruppen kontrastieren in Bezug auf theo-
+retisch festgesetzte Kriterien, wobei durch Variation dieser Kategorien eine
+maximale Heterogenität der Merkmalskombinationen im Sample vertreten ist
+(„model of deliberate sampling of heterogeneity“ nach Campbell/Cook
+1979). Nach dem von Glaser/Strauss (1967) formulierten Sättigungsprinzip
+„Linked Lives“ in der Wissenschaft
+33
+für qualitative Interviews genügen zehn bis zwölf themenzentrierte Inter-
+views mit Experten des zu sondierenden Themenfeldes, da weitere Inter-
+views keine themenrelevanten zusätzlichen Informationen erbringen. Diese
+Vergleichsgruppenkonstruktion ermöglicht spätere kontrastierende Fallver-
+gleiche bestimmter Untergruppen (vgl. Kluge/Kelle 2001).
+Zentrale Auswahlkriterien waren die Paar-Karriere-Konstellation zum
+Zeitpunkt des Interviews sowie die Disziplinenzugehörigkeit. Bei der Paar-
+Karriere-Konstellation (zum Interviewzeitpunkt der standardisierten Erhe-
+bung) haben wir folgende Gruppen unterschieden: (a) Wissenschaftlerinnen,
+bei denen beide Partner eine Karriere haben (d. h. Doppelkarrierepaare,
+n=15), (b) Wissenschaftlerinnen, bei denen nur der Mann (n=9) oder (c) nur
+die Frau eine Karriere hatte (n=9). Von den insgesamt 33 interviewten Frau-
+en waren elf Professorinnen, 24 der Frauen hatten Kinder und neun hatten
+(noch) keine. Darüber hinaus wurde die Fächer- und die Berufsfeldkonstella-
+tion der Paare zum Zeitpunkt des standardisierten Interviews berücksichtigt.
+Es wurden 14 Frauen mit einem wissenschaftshomogenen Partner und 19
+Frauen mit einem fachhomogenen Partner interviewt. Die meisten Wissen-
+schaftlerinnen befanden sich zum Interviewzeitpunkt in der Gruppe der Pro-
+movierten, deren Promotion mehr als drei Jahre zurücklag. Darüber hinaus
+wurden auch „frisch“ Promovierte (Karrierestufe 2) sowie Professorinnen
+befragt.
+Die interviewten Partner von zwölf dieser Wissenschaftlerinnen wurden
+nach folgenden Kriterien ausgewählt: Alter zwischen 30 und 49 Jahren (bzw.
+zwischen 1960 und 1979 geboren), aus Doppelkarriere- sowie Einkarriere-
+paaren sowie aus Paaren mit typischer und egalitärer Arbeitsteilung im Haus-
+halt. Darüber hinaus sind alle drei Disziplinengruppen sowie Partner mit
+Berufstätigkeiten innerhalb und außerhalb der Wissenschaft vertreten.
+Die Erhebung der qualitativen Interviews folgte der im SFB 186 entwi-
+ckelten Methode des problemzentrierten Interviews (vgl. Witzel 2000). Auf
+der Grundlage eines Leitfadens mit einem Themenkatalog, der sicherstellt,
+dass alle interessierenden Themenkomplexe angesprochen und ggf. nachge-
+fragt werden, erlaubt diese Interviewform die Konzentration auf vordefinierte
+Themenbereiche und Einflussfaktoren. Durch die Verknüpfung von offenen
+Erzählaufforderungen mit dialogischen Sondierungssequenzen, die Bezug
+auf bestimmte Karriere- und Partnerschaftsphasen nehmen, bietet diese
+Interviewform genügend Raum für die Selbstthematisierungen der Befragten.
+Um die Erinnerungsarbeit und Rekonstruktion der faktischen Sequenzierung
+der Karriere- und Beziehungsphasen im Interview zu erleichtern, wurde aus
+den Daten der quantitativen Befragung für jede/n Interviewpartner/in eine
+persönliche Verlaufsgrafik erstellt. Die Interviews thematisierten die dort
+verzeichneten Sequenzen, die interessierenden (institutionellen) sichtbaren
+„turning points“ sowie weitere subjektiv bedeutsame „turning points“. Dieses
+Verfahren der dokumentengestützten Rekapitulation ermöglicht eine sehr
+34
+Alessandra Rusconi & Heike Solga
+gute Verbindung von quantitativen Lebensverlaufsdaten und qualitativen
+Sinnstrukturen.
+Zentrale Charakteristika der befragten Wissenschaftler/innen
+Die standardisiert befragten Wissenschaftler/innen waren zum Interviewzeit-
+punkt je nach Karrierestufe (im Median) zwischen knapp 29 und 54 Jahren
+alt (Tabelle 1.2). Bei den Professor/innen gab es deutliche Altersunter-
+schiede: Professorinnen waren im Schnitt sechs Jahre jünger als Professoren
+(dies weist auf eine noch stärkere Unterrepräsentanz von Frauen in früheren
+Generationen hin). Beim ersten Hochschulabschluss waren die männlichen
+Wissenschaftler aller Karrierestufen im Schnitt 26 Jahre alt, Wissenschaftle-
+rinnen ein Jahr jünger. Im Median haben die promovierten Wissenschaft-
+ler/innen und Professor/innen mit Anfang 30, d. h. etwa fünf Jahre nach dem
+(ersten) Hochschulabschluss, promoviert. Auch hier gab es kaum Geschlech-
+terunterschiede. Anders sieht es bei der Habilitation aus. Sie wurde von den
+Professoren – im Median – 14 Jahre nach dem Hochschulabschluss erwor-
+ben, von den Professorinnen nach 15,5 Jahren.
+Tabelle 1.2:
+Ausgewählte Merkmale der Wissenschaftler/innen nach
+Karrierestufe und Geschlecht (Median* in Jahren)
+Promovierende
+Promovierte
+Professor/innen
+M
+F
+M
+F
+M
+F
+w
+e
+i
+v
+r
+e
+t
+n
+I
+30,8
+28,7
+39,0
+38,8
+54,1
+48,4
+Alter bei …
+-
+l
+schhu lssh
+u
+c c
+.oH sab
+1
+26,7
+25,4
+25,9
+25,5
+25,7
+25,1
+n
+o
+it
+o
+m
+o
+r
+P
+–
+–
+31,4
+31,4
+30,8
+30,8
+n
+o
+it
+a
+ilit
+b
+a
+H
+–
+–
+–
+–
+37,3
+39,0
+Dauer vom
+1. Hochschulabschluss
+bis …
+n
+o
+it
+o
+m
+o
+r
+P
+r
+u
+z
+–
+–
+5,4
+5,4
+4,8
+5,2
+n
+o
+it
+a
+ilit
+b
+a
+H
+r
+u
+z
+–
+–
+–
+–
+14,3
+15,5
+d
+n
+i
+K
+.
+1
+m
+u
+z
+9,4
+7,0
+8,0
+12,0
+Dauer
+n ft
+llee cha
+tu rs
+k e
+a t
+n
+rde raP
+7,8
+6,4
+13,1
+15,9
+29,2
+24,9
+* Der Median gibt Auskunft über das Alter, bis zu dem bei 50% des Samples das jeweilige
+„Ereignis“ eingetreten ist. Im Unterschied zum arithmetischen Mittel (Durchschnitt) ist
+der Median nicht anfällig für Extremfälle. Zudem erlaubt er für Ereignisse, die (noch)
+nicht bei allen Personen des Samples stattgefunden haben (z. B. Geburt des ersten Kindes
+oder Habilitation), das gesamte Sample für die Berechungen zu berücksichtigen.
+M = Männer, F = Frauen
+Quelle: Datensatz „Gemeinsam Karriere machen“; eigene Berechnungen
+„Linked Lives“ in der Wissenschaft
+35
+Wie die Dauer der Partnerschaften zum Interviewzeitpunkt zeigt, handelt es
+sich um langjährige Paarbeziehungen. Die Bindung an eine/n Partner/in war
+bereits zu Beginn der beruflichen Laufbahn weit verbreitet. Knapp drei Vier-
+tel aller Wissenschaftler/innen lebten bereits beim ersten Hochschulabschluss
+in einer Partnerschaft; bei drei Vierteln von ihnen dauert(e) sie bis zum Inter-
+viewzeitpunkt an. Die befragten Wissenschaftlerinnen lebten etwas häufiger
+in einer Partnerschaft als ihre männlichen Kollegen (78% vs. 71%) sowie
+etwas häufiger auch mit dem gleichen Partner während ihres – vom ersten
+Hochschulabschluss bis zum Interviewzeitpunkt beobachteten – beruflichen
+Werdegangs (79% der Frauen vs. 74% der Männer). Dieser hohe Anteil an
+(langjährigen) Partnerschaften ist teilweise der Stichprobenkonstruktion
+geschuldet. Personen, die nie in einer Partnerschaft gelebt haben oder längere
+Zeiten ohne Partner/in waren, hatten keine bzw. eine statistisch geringere
+Chance, als Zielperson in die Befragung aufgenommen zu werden (siehe
+oben). Gleichwohl ist dies kein Manko für die Analysen, da gerade bei der
+Verflechtung von Berufsbiografien in der Partnerschaft ein Forschungsdefizit
+besteht (siehe Abschnitt 1.3) und dies der Gegenstand des Buches ist.
+Die Wissenschaftlerinnen waren etwa 23 Monate (Median) jünger als
+ihre Partner, Wissenschaftler umgekehrt elf Monate älter als ihre Partnerin-
+nen. Bei der Hälfte der Wissenschaftler studierte die Partnerin noch, als er
+bereits sein Studium abgeschlossen hatte (vs. 31% der Wissenschaftlerinnen,
+die zum Zeitpunkt des Hochschulabschlusses ihrer Partner noch studierten).
+Hinsichtlich der Kinder gab es nur bei den Professor/innen deutliche
+Unterschiede: 85% der Professoren waren Väter (im Schnitt von zwei Kin-
+dern), aber „nur“ 61% der Professorinnen hatten (im Durchschnitt) ein Kind.
+Drei Viertel der promovierten Wissenschaftler/innen hatten (mindestens) ein
+Kind; bei den Promovierenden hatten hingegen drei Viertel (noch) keine
+(leiblichen) Kinder. Für den Zeitpunkt der Geburt des ersten Kindes gibt es
+gleichfalls deutliche Unterschiede sowohl zwischen den als auch innerhalb
+der Karrierestufen: 50% der promovierte Frauen hatten ihr erstes Kind bis
+sieben Jahre nach ihrem ersten Hochschulabschluss und somit zwei Jahre
+früher als ihre männlichen Kollegen. Im Unterschied dazu fand bei den Pro-
+fessorinnen die Geburt des ersten Kindes im Schnitt zwölf Jahre nach dem
+Hochschulabschluss und damit vier Jahre später als bei ihren Kollegen statt.
+Diese Unterschiede zwischen den Karrierestufen sind ein erneuter Hin-
+weis darauf, dass es Frauen mit Kindern in der Wissenschaft schwerer haben.
+Die Verringerung des Kinderanteils sowie die Erhöhung des Alters, wann
+diese Kinder geboren wurden, bei den Professorinnen im Vergleich zu den
+Promovierten sind Anzeichnen dafür, dass promovierte Wissenschaftlerinnen
+mit (frühen) Kindern schlechtere Chancen haben, auf eine Professur zu kom-
+men. Diese Interpretation scheint angebracht zu sein, da der Altersunter-
+schied zwischen den weiblichen Promovierten und Professorinnen nur durch-
+schnittlich zehn Jahre beträgt (siehe Tabelle 1.2). Somit wäre es sehr frag-
+36
+Alessandra Rusconi & Heike Solga
+lich, diese Unterschiede als „Generationenunterschiede“ zu interpretieren.
+Die Befunde für die (älteren) Professorinnen sind daher nicht nur auf sie zu
+beschränken. Vielmehr lässt sich aus ihnen wohl auch ein häufigerer „Aus-
+stieg“ aus der Wissenschaft von Frauen mit Kindern bei den (jüngeren) Pro-
+movierten antizipieren (siehe dazu auch Kapitel 3 in diesem Buch).
+Aussagekraft der Daten
+Die Daten, die in diesem Buch für die Analysen verwendet werden, sind
+nicht repräsentativ für alle Wissenschaftler/innen an deutschen Universitäten.
+Positiv formuliert, stehen die Ergebnisse für folgende Personengruppen:
+–
+–
+–
+Personen mit einem Hochschulabschluss, die mindestens eine gewisse
+Zeit (mindestens zum Interviewzeitpunkt) an einer der 18 ausgewählten
+Universitäten (in Groß- und mittelgroßen Städten) beschäftigt waren;
+Wissenschaftler/innen, die mindestens eine zweijährige Partnerschaft mit
+einem gleichfalls akademisch gebildeten Partner hatten;
+Wissenschaftler/innen aus Fachrichtungen der Technik-, Natur- und
+Sozialwissenschaften (aus Gründen der Anonymisierung verzichten wir
+angesichts qualitativen Interviews auf die Benennung der ausgewählten
+Fachrichtungen in diesen drei Disziplinengruppen).
+Diese Untersuchungsgruppe ist für die Beantwortung der oben formulierten
+Fragestellungen des Buches zu Wissenschaftskarrieren in (heterosexuellen)
+Partnerschaften sehr geeignet.6 Die Berücksichtigung der drei Fachdiszipli-
+nen – Technik- (stark männlich dominiert), Natur- (männlich dominiert) und
+Sozialwissenschaften (gemischt bis männlich dominiert) – schützt zudem vor
+disziplinären Verkürzungen aufgrund von unterschiedlichen Karrierelogiken
+oder geschlechteranteilsmäßigen Realitäten.
+Mit dieser Konstruktion der Untersuchungspopulation gehen auch einige
+Einschränkungen einher. Erstens haben wir es eher mit einer positiven Aus-
+wahl an Personen hinsichtlich des Verbleibs in der Wissenschaft zu tun. Alle
+Personen, die sich – aus welchen Gründen auch immer – generell gegen die
+Wissenschaft entschieden haben, sind nicht im Sample enthalten (gleichwohl
+sind „Rückkehrer/innen“ enthalten, die zeitweise – vor der Befragung – nicht
+in der Wissenschaft waren). Der Ausstieg aus der Wissenschaft kann daher
+nicht direkt untersucht werden, sondern nur über einen Vergleich der Merk-
+male der Gruppen der Promovierenden, Promovierten und Professor/innen
+erfolgen (siehe oben das Beispiel bei den Kindern). Dabei ist daran zu erin-
+nern, dass Wissenschaftler/innen, die (noch) nie eine Partnerschaft hatten
+oder deren Partner/in keinen Hochschulabschluss hat, nicht Teil der Untersu-
+chungspopulationen sind (siehe oben). Zweitens haben in unserem Sample
+6
+Interviews mit Wissenschaftler/innen in gleichgeschlechtlichen Paarbeziehungen bleiben
+aufgrund der zu geringen Fallzahl in den Analysen dieses Buches unberücksichtigt.
+„Linked Lives“ in der Wissenschaft
+37
+mehr Wissenschaftler/innen Kinder als in anderen Studien, da wir nur jene
+untersuchen, die in einer Partnerschaft leben und damit mit höherer Wahr-
+scheinlichkeit auch Kinder haben als Singles. Schließlich können wir drittens
+keine Aussagen machen zu den Geistes- und Kulturwissenschaften sowie zu
+kleinen Universitäten, in denen nicht alle drei Fachdisziplinen vertreten sind,
+und zu kleineren Städten. Ihre Nichtberücksichtigung ist forschungspragmati-
+schen Gründen, d. h. der Kostenbegrenzung hinsichtlich der Fallzahlen, ge-
+schuldet.
+1.5
+Doppelkarriere – Was ist das?
+In älteren wie neueren Studien werden Doppelkarrierepaare selten explizit
+und einheitlich definiert und operationalisiert (vgl. Hiller/Dyehouse 1987;
+Saraceno 2007). Damit ist die Vergleichbarkeit unterschiedlicher For-
+schungsergebnisse über unterschiedliche Untersuchungspopulationen und die
+Zeit hinweg nur in eingeschränktem Maße möglich. Dieser Sachverhalt ist
+jedoch weniger einer „Nachlässigkeit“ der Forscher/innen geschuldet, sondern
+großteils der realen Problematik der Definition von dem, was denn eigentlich
+eine Karriere ist (vgl. Moen 2003; 2010), und damit einhergehend auch, was
+eine Doppelkarriere ist. Insofern werden auch wir keine allgemeingültige
+Definition geben können, gleichwohl möchten wir unsere Definition offenlegen
+und begründen.
+Dazu ist zunächst ein Blick auf die Defizite vorliegender Definitionen
+oder Operationalisierungen von Doppelkarrieren sinnvoll. Erstens werden
+(immer noch) häufig Doppel-Karriere-Paare mit Doppel-Verdiener-Paaren
+gleichgesetzt (vgl. z. B. Aldous 1982; Bernasco/De Graaf/Ultee 1998; Bloss-
+feld/Drobnič 2001). Damit ist jede Teilnahme an (bezahlter) Erwerbsarbeit –
+unabhängig von Niveau, Laufbahnstufe oder sonstigen Charakteristika der
+ausgeübten Tätigkeit – eine „Karriere“.
+Zweitens gibt es auch in Studien, die eine solche Unterscheidung treffen,
+keine einheitlichen Kriterien für die Definition einer Karriere. Verwendet
+werden hier ganz unterschiedliche strukturelle Merkmale der Erwerbstätig-
+keit, so etwa die berufliche Stellung (vgl. z. B. Gross 1980; Lucchini/Sarace-
+no/Schizzerotto 2007), das erforderliche Bildungsniveau zur Ausübung einer
+Tätigkeit (vgl. z. B. Rusconi/Solga 2007) oder das Ausüben einer Profession
+(vgl. z. B. Bryson/Bryson 1980; Dettmer/Hoff 2005; Poloma/Pendelton/Gar-
+land 1981).
+Drittens wird aus subjektiven Indikatoren häufig eine real vorhandene
+Karriere abgeleitet. So definieren einige Autor/innen die Karriere anhand von
+subjektiven Karriereeinstellungen oder -ambitionen – oft zusammengefasst
+unter dem Begriff des „job commitment“ (für eine Kritik siehe Hiller/Dye-
+38
+Alessandra Rusconi & Heike Solga
+house 1987; Levy/Bühlmann/Widmer 2007) – und setzen dies mit der Reali-
+sierung von Karrieren gleich.
+Viertens wird von einigen Autoren zu Recht darauf hingewiesen, dass
+Karrieren nicht statisch definiert werden sollten, sondern dynamisch als eine
+Entwicklung, was allerdings sehr selten geschieht. Von daher sollte die Kar-
+rieredefinition die Betrachtung der (bisherigen) Gesamtbiografie und deren
+Kumulativität sowie Entwicklungsrichtung einbeziehen (vgl. Bielby/Bielby
+1984; Hiller/Dyehouse 1987; Levy/Bühlmann/Widmer 2007).
+Diese Vielfalt der Definitionskriterien und ihrer Operationalisierung ist
+auch auf die ursprüngliche Karrieredefinition von Rapoport und Rapoport
+(1969) zurückzuführen. In dem ersten Beitrag zu Doppelkarrieren definieren
+sie Karrieren (im Unterschied zur Erwerbstätigkeit) als „jobs which are high-
+ly salient personally, have a developmental sequence and require a high
+degree of commitment“ (Rapoport/Rapoport 1969: 3). In der bisherigen For-
+schung werden allerdings nur jeweils einzelne Dimensionen berücksichtigt,
+und nur selten wird die hier formulierte Mehrdimensionalität von Karriere
+umgesetzt.
+Darüber hinaus wird diskutiert, ob sich Doppelkarrieren auf Paare oder
+Familien beziehen. Der Titel der ersten Studie von Rapoport und Rapoport
+(1969) zu Doppelkarrieren bezog sich nicht auf das Paar, sondern auf „The
+Dual Career Family“. Hier untersuchten sie also Paare, bei denen beide
+(Ehe-)Partner eine Karriere und zumindest ein Kind hatten. Eine neuere Studie
+definiert Kinder als eine Bedingung von Doppelkarrieren – mit der Begrün-
+dung, dass erst durch „die damit verbundenen Pflichten und die ‚Familien-
+arbeit‘“ die Berufskarrieren beider Partner schwer realisierbar wären (Cle-
+ment/Clement 2001: 255). Aus dieser Perspektive haben wir es quasi mit
+einer doppelten Doppelkarriere zu tun: der Realisierung zweier Berufskarrieren
+und deren Verbindung mit der Geburt und Erziehung von Kindern. Diese
+Definition ist jedoch aus zwei Gründen problematisch. Erstens wird damit
+die Beziehungs- und Hausarbeit von Paaren ohne Kinder a priori als „ein-
+fach“ abgewertet; zweitens wird auf diese Weise normativ gesetzt, dass Kinder
+zu einer (vollkommenen) Paarbeziehung dazugehören, denn kinderlose Paare
+könnten per Definition keine Doppelkarriere haben. Es gibt nun aber nicht
+nur zahlreiche Studien für unterschiedliche Länder, die belegen, dass die
+Geburt von Kindern die Chance von Frauen für eine Erwerbstätigkeit und
+Karriere – und demzufolge die Wahrscheinlichkeit von Doppelkarrieren –
+verringert (vgl. z. B. Levy/Bühlmann/Widmer 2007; Levy/Ernst 2002; Luc-
+chini/Saraceno/Schizzerotto 2007; Rusconi/Solga 2007; Schulz/Blossfeld
+2006). Genauso zahlreich sind die Belege auch dafür, dass die Verflechtung
+von zwei Berufsbiografien auch ohne Kinder weder selbstverständlich noch
+unkompliziert bzw. immer erfolgreich ist (vgl. z. B. Becker/Moen 1999;
+Bielby/Bielby 1992; Hertz 1986; Klein 1996; Rusconi/Solga 2007). Die oft
+mit Karrieren verbundenen Erfordernisse in zeitlicher und räumlicher Hin-
+„Linked Lives“ in der Wissenschaft
+39
+sicht stellen nicht erst bei Kindern große Herausforderungen für Paare dar
+(siehe Abschnitte 1.2 und 1.3 sowie die weiteren Kapitel dieses Buches).
+Definition von Karriere und Doppelkarriere in diesem Buch
+Angesichts dieser Forschungs- und Diskussionslage unterscheiden wir in
+diesem Buch explizit zwischen Erwerbstätigkeit und Karriere. Die bloße
+Erwerbsarbeit ist zwar eine notwendige Voraussetzung, jedoch kein hinrei-
+chendes Merkmal für das Vorhandensein einer Karriere. Für diese Unter-
+scheidung verwenden wir die folgenden Kriterien.
+Als Erstes muss es sich um die Ausübung einer bildungsadäquaten
+Tätigkeit handeln, d. h. die ausgeübte Tätigkeit muss den bisher erworbenen
+Qualifikationen entsprechen. Insofern ist nicht das Einkommen, sondern der
+Tätigkeitsinhalt ausschlaggebend.
+Zweitens ist – wie bereits von Rapoport und Rapoport (1969) ausgeführt
+– die Aussicht auf eine berufliche (Weiter-)Entwicklung wichtig. Karrieren in
+unterschiedlichen Berufen, Tätigkeitsbereichen und Wirtschaftssektoren
+folgen zwar unterschiedlichen Logiken und Anforderungen hinsichtlich
+Laufbahnmustern und Professionskulturen; allen ist jedoch gemein, dass sie
+Aufstiegsmöglichkeiten beinhalten. Dies entspricht auch der Karrieredefini-
+tion des Dudens einer (schnellen, erfolgreichen) beruflichen Laufbahn, einem
+beruflichen Vorwärtskommen sowie dem zugrunde liegenden französischen
+Wort „carrière“ (Rennbahn, Laufbahn) (vgl. Drosdowski 1989). Dementspre-
+chend müssen Karrieren im Längschnitt definiert werden, um die kumulati-
+ven und aufwärtsgerichteten Veränderungen der Qualifikation, beruflichen
+Stellung sowie den sozialen Aufstieg beobachten zu können. Das Vorhanden-
+sein einer Karriere wird von uns deshalb anhand der realisierten beruflichen
+Entwicklung bzw. der Aussicht darauf entsprechend dem Lebens- oder bes-
+ser institutionellen Alter definiert (siehe unten). So wäre z. B. eine Stelle in
+der Wissenschaft, auf der promoviert werden kann, fünf Jahre nach dem
+Abschluss des Studiums karrierekonform, nicht jedoch zehn Jahre danach.
+Kinder sowie „job commitment“ und Karriereambitionen werden als
+Definitionskriterium von uns nicht berücksichtigt. Sie können sicherlich
+wichtige Einflussfaktoren für die Realisierung von Karrieren darstellen – was
+allerdings empirisch zu prüfen wäre (Levy/Bühlmann/Widmer 2007: 264;
+siehe auch die Kapitel 3 und 4 in diesem Buch); sie definieren selbst jedoch
+nicht, ob man beruflich, im Sinne einer Karriere, erfolgreich ist oder nicht.
+Aus diesen Überlegungen ergibt sich folgende Operationalisierung des
+Karrierebegriffs in diesem Buch, die auch anhand der erhobenen Daten der
+standardisierten Interviews umgesetzt werden konnte. Werden diese Krite-
+rien von beiden Partnern erfüllt, liegen dementsprechend Doppelkarrieren
+vor. Abbildung 1.2 zeigt unsere zentralen Kriterien für Karrieren in der Wis-
+senschaft entsprechend dem institutionellen Alter und der Karrierestufe.
+40
+Alessandra Rusconi & Heike Solga
+Abbildung 1.2: Zentrale Definitionskriterien für Karrieren im Wissen-
+schaftssystem
+Promotionsstipendien
+Habilitationsstipendien
+Hoch qualifizierte, wissenschaft-
+lich Tätigkeit
+Projektleitung mit mindestens
+1 Mitarbeiter/in
+Professur
+Direktor
+u. Ä.
+Professur
+Juniorprofessur (W1) Direktor u. Ä.
+T10
+T16
+T17
+T18
+Technikwissenschaften
+ohne Habilitation, dafür
+n Projektleitung mit min-
+iliittao 5deMsitteanrbseiter/innen
+b
+a
+H
+s
+s
+u
+l
+h
+c
+s
+b
+a
+l
+u
+h
+c
+s
+h
+c
+o
+H
+.
+1
+T0
+T6
+s
+s
+u
+l
+h
+c
+s
+b
+a
+s
+n
+o
+it
+o
+m
+o
+r
+P
+Anmerkung: T0 definiert den Zeitpunkt des ersten Studienanschlusses, T6 steht für „sechs
+Jahre nach dem Hochschulabschluss“ usw.
+Hinsichtlich des Erwerbs von Qualifikationen sollten sechs Jahre nach dem
+ersten Hochschulabschluss die Promotion und 16 Jahre danach die Habilita-
+tion vorliegen (siehe unterer Teil von Abbildung 1.2). Eine Juniorprofessur
+wurde bis maximal 17 Jahre nach dem Hochschulabschluss als adäquat defi-
+niert. Schaut man sich diejenigen an, die es (schon) auf eine Professur ge-
+schafft haben (mit der Promotion im Durchschnitt nach fünf Jahren und der
+Habilitation nach zwölf Jahren, siehe Tabelle 1.2), so geben wir mit diesen
+Schwellenwerten etwas „mehr Zeit“ im Vergleich zu den darin zum Aus-
+druck kommenden Karrierelogiken (vgl. auch Zimmer/Krimmer/Stallmann
+2007: 103). (Noch) Längere Zeiträume für das Erreichen dieser Karriere-
+schritte stellen eine „Abweichung von der vorherrschenden Norm“ dar und
+gehen vermutlich auch mit Nachteilen hinsichtlich der weiteren beruflichen
+Entwicklung bzw. Karriere einher.
+Hinsichtlich der bildungsadäquaten beruflichen Stellung (oberer Teil
+von Abbildung 1.2) werden hoch qualifizierte Tätigkeiten bzw. wissenschaft-
+liche Mitarbeiterstellen mit den dafür angemessenen Besoldungen bzw. Ver-
+gütungen (mindestens BAT IIa, TVL oder TVöD 13, A13 oder C1) als
+Grundlage der Definition genommen. Promotionsstipendien werden bis
+höchstens sechs Jahre nach dem Hochschulabschluss und Habilitations-
+stipendien bis zehn Jahre danach als karrierekonform betrachtet. Zehn Jahre
+„Linked Lives“ in der Wissenschaft
+41
+nach dem Hochschulabschluss sollte eine gewisse Selbstständigkeit bzw.
+Leistungsverantwortung erreicht sein. Hierfür wird das Kriterium „Leitung
+von Projekten mit mindestens einem/r Mitarbeiter/in (inkl. studentische Mit-
+arbeiter/innen)“ herangezogen. Bei Promovierten wurde schließlich ein Zeit-
+limit von 18 Jahren nach dem Hochschulabschluss für den Wechsel auf eine
+unbefristete Professur oder Direktorenposition oder Ähnliches gegeben; d. h.
+all jene, die danach noch in der Wissenschaft, aber nicht auf einer solchen
+Position waren, wurden zu diesem Zeitpunkt als „ohne Karriere“ klassifiziert.
+In den hier vorliegenden Daten wechselten die befragten Professor/innen
+bereits etwas früher – 15 Jahre nach ihrem ersten Hochschulabschluss (Median)
+– auf ihre erste Professur oder Direktorenposition (vgl. auch
+Zimmer/Krimmer/
+Stallmann 2007: 103).
+In ähnlicher Weise wurden auch für berufliche Tätigkeiten außerhalb der
+Wissenschaft Karrierekriterien bzw. Zeitpunkte, bis zu denen die Übernahme
+von Leitungspositionen erfolgt sein sollte, definiert.
+1.6
+Unsere Bilanz: Hindernisse für und Realisierungs-
+bedingungen von Doppelkarrieren in
+Akademikerpartnerschaften
+In Abschnitt 1.3 wurde eine Reihe von offenen Forschungsfragen formuliert,
+die in den nachfolgenden Kapiteln beantwortet werden. Anliegen unserer
+Bilanzierung an dieser Stelle ist es, anhand von wichtigen Befunden aus diesen
+Kapiteln zusammenfassend die zentrale Fragestellung des Buches „Was sind
+Hindernisse für und was sind Realisierungsbedingungen von wissenschaftli-
+chen Karrieren von Frauen und damit verbunden von Doppelkarrieren in
+Akademikerpartnerschaften?“ zu beantworten.
+Unsere Ausgangsthese war, dass Doppelkarrieren in Akademikerpartner-
+schaften fragile Arrangements sind, die jederzeit durch partnerschaftsexterne
+und -interne Faktoren (siehe Abschnitt 1.3) infrage gestellt werden können.
+Denn wer den „Ton“ in diesen Partnerschaften angibt – er, sie oder beide –
+oder wie die Rhythmik der Karriereverläufe der beiden Partner aussieht, ist
+das wechselseitige Ergebnis der Institutionen des Arbeitsmarktes bzw. des
+Wissenschaftssystems, deren Interpretationen und Bearbeitungen in der Part-
+nerschaft sowie der daraus resultierenden innerpartnerschaftlich praktizierten
+Verflechtungsarrangements. Letztere stellen zugleich die „Verbundsysteme“
+der vergeschlechtlichten Statusbiografien der beiden Partner in Bildung,
+Arbeitsmarkt und Familie dar und tragen so zu einer (Re-)Produktion oder
+Verringerung der Ungleichheiten in den Karrierechancen von Frauen und
+42
+Alessandra Rusconi & Heike Solga
+Männern inner- und außerhalb der Partnerschaft bei. Wie sehen jedoch diese
+Verbundsysteme aus, und welchen Einfluss haben sie auf die Realisierung
+von Doppelkarrieren?
+Kapitel 2 zeigt, dass Doppelverdiener-Arrangements sowohl in der Pro-
+motions- als auch in der Postdoc-Phase mit 55% bzw. 58% die häufigste
+Verflechtungsweise der von uns untersuchten Akademikerpartnerschaften
+sind. Dabei bestehen markante Unterschiede zwischen Frauen und Männern
+– nicht jedoch zwischen den Disziplinen, so dass der unterschiedliche Frau-
+enanteil in dem jeweiligen beruflichen Umfeld darauf keinen Einfluss hat.
+Ein erster Unterschied besteht darin, dass bereits in der Promotionsphase die
+Alleinverdienerkonstellation, in der nur der Mann erwerbstätig ist, bei den
+Männern deutlich häufiger und in durchaus substanziellem Umfang vorzu-
+finden ist (35% vs. 13% bei den Frauen), während Frauen zu 66% in einer
+Doppelverdienerkonstellation leben. Dieser Unterschied zeigt sich bei Paaren
+mit und ohne Kinder gleichermaßen; er ist also nicht durch die Erwerbsunter-
+brechung von Frauen durch Kinder verursacht. Dass diese Unterschiede in
+den Erwerbskonstellationen des Paares von Wissenschaftlerinnen und Wis-
+senschaftlern relativ unabhängig vom Vorhandensein von Kindern sind, zeigt
+sich auch daran, dass es eine hohe Stabilität der Verflechtungsweisen vor und
+nach der Geburt von Kindern gibt.
+Zweitens leben Wissenschaftlerinnen deutlich häufiger in Doppelverdie-
+nerarrangements als ihre männlichen Kollegen. Das heißt, Wissenschaftle-
+rinnen müssen ihr berufliches Karriereziel sehr viel häufiger als Männer mit
+den Berufsanforderungen ihrer Partner abstimmen. Eine wichtige Vorausset-
+zung dafür ist sicherlich, dass sie und ihre Partner langfristig – in der Promo-
+tions- und Postdoc-Phase – ein Doppelverdienerarrangement praktizieren.
+Dies gelingt einem relativ großen Anteil. Mehr als die Hälfte der Paare, die
+in der Promotionsphase in einem wissenschaftshomogenen Doppelverdiener-
+arrangement lebten, führten dieses fort (57%), und weitere 13% wurden
+berufsfeldheterogene Doppelverdienerpaare, in denen überwiegend der Mann
+nach der Promotion die Wissenschaft verlassen hat. Ein ähnliches Muster
+zeigt sich für die Partnerschaften der Frauen, die in der Promotionsphase ein
+berufsfeldheterogenes Arrangement praktiziert haben.
+Drittens ist die alleinige Erwerbstätigkeit des Mannes, wenn Kinder ge-
+boren werden, bei Wissenschaftlern mit 40% genauso weit verbreitet wie
+Doppelverdienerarrangements. Wissenschaftlerinnen leben jedoch auch nach
+der Geburt von Kindern mehrheitlich (zu über 50%) in einem Doppelverdie-
+nerarrangement. Das heißt, wissenschaftliche Karrieren von Frauen müssen
+in deutlich stärkerem Maße unter den Bedingungen, nicht die Unterstützung
+„einer stillschweigenden Hintergrundarbeit“ des Partners zu haben (vgl. Beck-
+Gernsheim 1983) und zugleich die Herausforderungen von zwei Erwerbs-
+tätigkeiten und Kinderbetreuung zu vereinbaren, realisiert werden. Männer
+hingegen starten nicht nur häufiger als Alleinverdiener ihre Karriere, sondern
+„Linked Lives“ in der Wissenschaft
+43
+bleiben dies zu 42% auch in der Phase nach der Promotion bzw. über den
+gesamten Berufsverlauf. Nur ein Drittel von ihnen wechselte zu einem Dop-
+pelverdienerarrangement. Gleichwohl ist zu betonen, dass Männer, wenn sie
+denn mit einer Wissenschaftlerin in einer Partnerschaft leben, auch in stärke-
+rem Maße mit den Herausforderungen der Realisierung von Doppelverdie-
+nerarrangements konfrontiert sind, wie die Befunde zu den Wissenschaftle-
+rinnen zeigen.
+Führt nun jedoch der relativ hohe Anteil an Doppelverdienerpaaren, ins-
+besondere bei den Wissenschaftlerinnen, auch zu – für die wissenschaftli-
+chen Karrieren von Frauen so bedeutsamen – Doppelkarrieren? Zunächst ist
+festzuhalten, dass sich Doppelkarrieren trotz der erheblichen Investitionen in
+Studium und Promotion sowie Doppelerwerbsarbeit nicht automatisch her-
+stellen. Die Befunde in Kapitel 5 zeigen, dass zwölf Jahre nach dem Hoch-
+schulabschluss nur 53% der Wissenschaftlerinnen und 40% der Wissen-
+schaftler eine Doppelkarriere im Paar hatten. Während jedoch dennoch die
+Mehrzahl der der Wissenschaftler (nämlich 86%) gleichwohl eine Karriere
+bewerkstelligen konnte (wenn auch zu 45% als einziger im Paar), konnten
+dies nur 73% der Wissenschafterinnen (mit 20% als alleinige Karriere im
+Paar). Dieser – angesichts der hohen Bildung und Erwerbsbeteiligung beider
+Partner – doch hohe Anteil einer Priorisierung der männlichen Karriere im
+Paar (45% in den Partnerschaften der Wissenschaftler und 23% bei den Wis-
+senschaftlerinnen) war zu Beginn der Berufskarriere – d. h. in den ersten
+sechs Jahren nach dem Hochschulabschluss – deutlich schwächer ausgeprägt.
+Hier konnten noch 55% der Wissenschaftler und 77% ihrer Kolleginnen
+gemeinsam mit ihren Partner/innen eine Karriere verwirklichen, und in nur
+jedem dritten Paar wurde seiner Karriere die Priorität gegeben. Insgesamt
+scheiterte damit bei doppelt so vielen Wissenschaftlerinnen ab dem sechsten
+Jahr nach ihrem Hochschulabschluss die Doppelkarriere im Paar an ihrer
+Karriere im Vergleich zu ihren männlichen Kollegen.
+Was zeichnet nun aber Paare, die eine Doppelkarriere und die dafür not-
+wendige, aber schwieriger zu bewerkstelligende Karriere der Frauen realisie-
+ren konnten, gegenüber den nicht erfolgreichen Paaren aus? Hinsichtlich der
+Erwerbsbeteiligung ist aus den Befunden von Kapitel 5 interessant, dass
+Wissenschaftlerinnen, die über lange Zeit ein Doppelverdienerarrangement
+bewerkstelligt haben, erstens keine höhere Karriere- und Doppelkarriere-
+chance hatten als Frauen mit Unterbrechungen und dass sie zweitens dennoch
+nicht die gleichen Karrierechancen wie ihre männlichen Kollegen hatten.
+Daran wird zweierlei deutlich. Doppelkarrieren in Akademikerpartnerschaften
+von Frauen scheitern nicht an Kindern, wenn die Partner ein Verflechtungs-
+und Betreuungsarrangement finden, dass ihr einen Wiedereinstieg sicherstellt
+– wenn auch (zunächst) mit einer reduzierten Arbeitszeit. Zum anderen weisen
+diese Befunde aber auch darauf hin, dass innerpartnerschaftliche Verflech-
+tungsarrangements externe Karrierehemmnisse für Wissenschaftlerinnen nur
+44
+Alessandra Rusconi & Heike Solga
+partiell ausgleichen können. Gleichwohl sind sie keinesfalls irrelevant, denn
+für die Partnerschaften von den Wissenschaftlern zeigt sich, dass die geringe-
+ren Karrierechancen ihrer Frauen maßgeblich durch eine traditionelle Priori-
+sierung seiner Karriere durch ein Alleinverdiener- bzw. Einkarrierearrange-
+ment verursacht ist – dass Kinder jedoch für diese traditionelle Arbeitsteilung
+keine Rolle spielten.
+Sind Kinder für die Karriere damit bedeutungslos? Nein, das sind sie
+nicht. Die oben genannten Befunde machen jedoch deutlich, dass Frauen in
+der Wissenschaft zum einen auch ohne Kinder seltener als ihren männlichen
+Kollegen eine Karriere bzw. gemeinsam mit ihren Partnern eine Doppelkar-
+riere gelingt. Zum anderen ist die Frage der Erwerbsunterbrechung und ihrer
+Dauer von zentraler Bedeutung. Damit kommt nicht Kindern per se, sondern
+den jeweiligen Betreuungsarrangements eine besondere Bedeutung zu, wie
+Kapitel 3 zeigt. Eine Karriere konnten Frauen mit Kindern vor allem dann
+realisieren, wenn sie – angesichts der sehr starken Verbreitung einer traditio-
+nellen Arbeitsteilung zwischen den beiden Partnern – bereits im ersten
+Lebensjahr des Kindes externe Betreuungseinrichtungen in Kombination mit
+Unterstützungsleistungen durch private dritte Personen nutzten. Diese früh-
+zeitige und flexible Externalisierung ermöglichte ihnen einen schnellen Wie-
+dereinstieg, verbunden mit einer größeren Flexibilität hinsichtlich der täglichen
+Arbeitzeit, da sie nicht an die Öffnungszeiten der Betreuungseinrichtungen
+gebunden waren, zugleich aber auch durch die Nutzung der Betreuungsein-
+richtungen ihre Netzwerke nicht überforderten. Ferner zeigte sich eine par-
+tielle Weiterarbeit auch während der (kurzen) Elternzeit als Erfolgsbedin-
+gung, die eine kontinuierliche Integration in die beruflichen Netzwerke er-
+leichterte (siehe Abschnitt 1.3). Gelang dies nicht, bestand eine deutlich
+höhere Gefahr eines Karriereknicks oder gar -abbruchs.
+Damit bleibt immer noch die Frage offen, warum nicht alle Akademiker-
+paare diesem Betreuungsarrangement folgten. Was waren die förderlichen
+Bedingungen für die Realisierung eines solchen Arrangements? Dafür zeigt
+Kapitel 3 zunächst, dass es nicht an Motivationsunterschieden lag. Frauen
+mit Kindern hatten sogar häufiger das Berufsziel Wissenschaft als Frauen
+ohne Kinder (77% vs. 63%). Gleichwohl ist beobachtbar, dass erfolgreiche,
+aber kinderlose Frauen für dieses Ziel häufiger ihren Kinderwunsch noch
+nicht realisiert hatten, aber auch nicht generell auf Kinder verzichten möch-
+ten. Unterschiede in den Karriereorientierungen der Frauen waren damit
+nicht vom Kinderwunsch, sondern vor allem – wie Kapitel 4 zeigt – durch
+ihre Erfahrungen mit den externen Rahmenbedingungen wissenschaftlicher
+Karrieren und der beruflichen Situation im Paar geprägt. Dabei ist zunächst
+festzuhalten, dass die berufliche Situation der männlichen Partner in der
+Regel sicherer war als die der Frauen (als Erklärung dafür siehe die Ausfüh-
+rungen in Abschnitt 1.3, Individualebene). Vor dem Hintergrund dieser un-
+gleichen Erfahrung im Paar sowie ihrer jeweiligen eigenen Erfahrungen mit
+„Linked Lives“ in der Wissenschaft
+45
+befristeten Verträgen oder Arbeitslosigkeit haben auch Wissenschaftlerinnen
+einerseits das männliche Berufsethos der Wissenschaft (siehe Abschnitt 1.2)
+verinnerlicht und messen andererseits erst aufgrund dieser Erfahrungen – und
+nicht qua Geschlecht – der Vereinbarkeitsproblematik von Beruf und Familie
+einen höheren Stellenwert zu als ihre Männer und männlichen Kollegen.
+Erfolgreiche Wissenschaftlerinnen entwickeln dabei sehr unterschiedliche
+berufliche Orientierungen, die ihnen den Umgang mit dieser Vereinbarkeits-
+problematik ermöglichen: Ein Teil von ihnen gibt der individuellen Verfol-
+gung der Karriereziele beider Partner gegenüber der Familie die Priorität, ein
+anderer Teil hält hingegen eine gleichberechtigte Familienorientierung auf-
+recht. Die „Berufung zur Wissenschaft“ geht bei Letzteren über die Inhalte,
+nicht den Aufstieg, und der Verbleib in der Wissenschaft wird von den Mög-
+lichkeiten flexibler Arbeitsbedingungen abhängig gemacht. Der Karriere-
+erfolg dieser Wissenschaftlerinnen ist jedoch innerpartnerschaftlich voraus-
+setzungsvoll, denn er bedarf der Unterstützung des Mannes durch eine in
+beruflicher Hinsicht egalitär orientierte Paarbeziehung sowie einer sicheren
+Beschäftigung bzw. eines guten Einkommens des Mannes.
+Zentral dafür, welches Betreuungsarrangement im Paar praktiziert wur-
+de, waren also nicht Motivationslagen, sondern die Betreuungsstrategien der
+Paare und die ihnen zugrunde liegenden Geschlechtervorstellungen hinsicht-
+lich Mutter- und Vaterschaft der beiden Partner. Abbildung 1.3 zeigt dafür
+die drei wesentlichen Muster, die in den Analysen von Kapitel 3 beobachtet
+werden konnten. Auffällig ist, dass erstens traditionelle Gleichheitsvorstel-
+lungen im Paar mit einer stärkeren Externalisierung der Kinderbetreuung und
+nicht – wie wohl viele erwartet hätten – mit einer geringeren einhergehen
+können. Zweitens müssen egalitäre Gleichheitsvorstellungen der Frauen,
+wenn sie nicht auf gleichfalls egalitäre Vorstellungen bei ihren Partnern
+stoßen, nicht zu einer derartigen stärkeren Externalisierung führen. Diese
+Frauen laufen dann aber Gefahr, dass sie gegen ihren Willen die Hauptver-
+antwortung und Hauptlast der Kinderbetreuung – ohne Hilfe – übernehmen
+und dadurch Karriereeinschränkungen erfahren.
+Es ist hier nicht der Ort, diese drei Muster detailliert darzustellen bzw.
+deren Zustandekommen zu erklären (siehe dazu Kapitel 3 in diesem Buch).
+Wichtig ist an dieser Stelle, hinsichtlich der Bilanzierung der Realisierungs-
+bedingungen von wissenschaftlichen Karrieren von Frauen und von Doppel-
+karrieren hervorzuheben, dass traditionelle Vorstellungen der Arbeitsteilung
+bei der Kinderbetreuung nicht mit traditionellen Karrierevorstellungen von
+Frauen einhergehen müssen; gleichwohl ist wichtig, dass Frauen daran fest-
+halten, beide Partner als Gleiche im Beruf wahrzunehmen, damit diese Frau-
+en dann externe Unterstützung suchen und ihre Karriere fortsetzen (siehe
+Gruppe 1 in Abbildung 1.3).
+46
+Alessandra Rusconi & Heike Solga
+Abbildung 1.3: Betreuungsstrategien und familiäre Rollenvorstellungen in
+Akademikerpaaren mit Kindern
+Rollenvorstellungen zu Mutter-
+und Vaterschaft
+der Frau des Mannes
+Traditionell
+(Zuständigkeit der Mutter)
+Egalitär
+Traditionell
+Egalitär
+Inanspruchnahme externer Betreuungsleistungen
+(bereits im ersten Lebensjahr des Kindes)
+Häufiger Selten
+(1)
+Technik- und Natur-
+wissenschaftlerinnen*
+(2)
+Sozial- und Natur-
+wissenschaftlerinnen*
+(3)
+Sozial- und Natur-
+wissenschaftlerinnen*
+* Nennung der Disziplinengruppen, in denen dieses Muster am häufigsten war
+Quelle: Zusammenstellung von Befunden aus Kapitel 3 in diesem Buch
+Umgekehrt kann der Gleichheitsanspruch von Frauen bei der Kinderbetreu-
+ung, der auf eine traditionelle Rollenvorstellung des Mannes trifft, zu einer
+späteren Einbeziehung von „Dritten“ führen. Der Gleichheitsanspruch an den
+Partner wird (zu) lange aufrechterhalten. Zwar werden Legitimationsstrate-
+gien seitens dieser Frauen dafür entwickelt zu erklären, warum ihr Partner
+nicht mehr tun könne (z. B. werden auch von ihnen traditionelle Geschlech-
+terrollenannahmen seitens des Arbeitgebers für den männlichen Partner anti-
+zipiert); doch selbst diese sowie die konflikthaften Auseinandersetzungen
+über die fehlende Beteiligung des Partners im Paar (in denen auch die tradi-
+tionelle Einstellung des Partners sichtbar wird, da er sich trotz dieser explizi-
+ten Aushandlungsprozesse im Paar nicht beteiligt) führen nicht dazu, dass
+diese Frauen frühzeitig(er) nach externer Unterstützung bzw. Entlastung
+suchen.
+Hinsichtlich der beruflichen Kontinuität nach der Geburt von Kindern
+sowie des Erfolgs der externen Unterstützung bei ihrer Betreuung zeigt Kapi-
+tel 3 zudem, dass sie mit „nur“ einem Kind besser zu bewerkstelligen waren.
+So hatten beruflich erfolgreiche Mütter häufiger nur ein Kind (48% vs. 74%
+der Mütter ohne Karriere). Über das Betreuungsarrangement hinaus – aber
+durchaus auch als begünstigender Faktor für die Inanspruchnahme externer
+Unterstützungsleistungen – ist zudem der Zeitpunkt der Geburt des Kindes
+von Bedeutung. Wissenschaftlerinnen, die ihre Kinder nach der Promotion
+bekommen haben und/oder aus einer erfolgreichen Karriere heraus, konnten
+danach ihre Karriere eher fortsetzen als Frauen, die zu einem eher frühen
+Zeitpunkt in der wissenschaftlichen Karriere ihre Kinder bekommen haben
+oder zu einem Zeitpunkt, als sie beruflich nicht erfolgreich waren. Wesentli-
+che Faktoren für diese Vorteile des späteren Timings sind Unterschiede in
+den finanziellen Ressourcen für (flexible) externe Betreuung, in den Karrie-
+„Linked Lives“ in der Wissenschaft
+47
+reressourcen beider Partner, in den Motivationsannahmen seitens der Arbeit-
+geber und Kolleg/innen sowie in den Möglichkeiten der Fortsetzung oder
+Wiederanknüpfung an bereits etablierte berufliche Netzwerke. Für Männer
+hat die Familiengründung (bisher noch) keine Auswirkungen auf die Karrie-
+rechancen – auch nicht, wenn sie mit einer Wissenschaftlerin (mit Karriere)
+zusammenleben.
+Diese Befunde dürfen dabei keinesfalls als ein Plädoyer dafür verstanden
+werden, dass junge Frauen und ihre Partner in stärkerem Maße ihre Famili-
+engründung strategisch planen und nach hinten verlagern sollten und dass
+damit notwendigerweise den Anforderungen in der Berufssphäre der Vorrang
+zukommt. Sie verdeutlichen aber, dass den externen Betreuungsmöglichkei-
+ten sowie den paarinternen Betreuungsstrategien eine besondere Bedeutung
+bei der Realisierung von Karriere mit Kind zukommt – und können somit
+auch als Hinweis auf Veränderungen gesehen werden, die notwendig wären,
+um den Zusammenhang von Karrierechancen für Frauen mit der Familien-
+gründung und deren Zeitpunkt zu verringern (siehe unten). Dies wäre auch
+deshalb lohnend, weil die Frage des richtigen Zeitpunkts – die sich viele der
+interviewten Akademikerpaare in der Tat stellen – für viele von ihnen emotio-
+nal sehr belastend ist.
+Wie wichtig sind nun räumliche Mobilität und Wohnarrangements in
+Akademikerpartnerschaften? Hierzu weist Kapitel 5 aus, dass nur 60% der
+wissenschaftshomogenen und 66% der berufsfeldheterogenen Doppelverdie-
+nerpaare am selben Ort lebten. Doch auch bei Wissenschaftler/innen mit
+nicht erwerbstätigen Partner/innen waren es nur 70%. Multilokale Wohn-
+arrangements gehören damit (zumindest zeitweise) für viele Wissenschaft-
+ler/innen zum Familienalltag. Doch sie sind per se kein Erfolgsfaktor für eine
+Doppelkarriere. So zeigte sich beispielsweise in den Analysen von Kapitel 5,
+dass bei wissenschaftshomogenen Paaren Wissenschaftlerinnen mit multilo-
+kalen Wohnarrangements keine höhere Doppelkarrierechance hatten als ihre
+Kolleginnen, die mit ihrem Partner an einem Ort lebten. Wichtiger als das
+Wohnarrangement war vielmehr die Frage, ob der Arbeitgeber im Verlauf
+der Berufsbiografie gewechselt wurde, denn angesichts der Karrieremuster in
+der Wissenschaft geht räumliche Stabilität mit einer deutlichen Verringerung
+der Realisierungschance von individuellen und damit auch Doppelkarrieren
+bei Wissenschaftler/innen einher. Das heißt, das Wohnen an getrennten Orten,
+das nicht durch Arbeitgeberwechsel verursacht ist, trägt nicht zur Karriere
+bei. Umgekehrt erhöht der strategische Umgang mit Arbeitgeber- und damit
+karriererelevanten Jobwechseln, die beide Partner ggf. an einen Ort zusam-
+menführen können, die Wahrscheinlichkeit, dass dem Paar eine Doppelkar-
+riere gelingt. Hier zeigt sich wiederum: Beides – externe Karrierebedingungen
+auf den lokalen Arbeitsmärkten verbunden mit paarinternen Karrierestrategien
+– trägt zu einer höheren Chance bei, Doppelkarrieren zu realisieren.
+48
+Alessandra Rusconi & Heike Solga
+Die Zusammenschau dieser Befunde zeigt, dass selbst bei Akademiker-
+partnerschaften eine berufliche Gleichstellung von Männern und Frauen in
+Form von Doppelkarrieren keinesfalls die Regel darstellt und zudem keine
+hinreichende Bedingung für eine Gleichstellung der Geschlechter in der
+innerfamilialen Arbeitsteilung ist. Umgekehrt ist ein egalitäres Beziehungs-
+arrangement hinsichtlich Beruf und Familie in der Partnerschaft keine hinrei-
+chende Bedingung für eine Gleichstellung der Geschlechter auf dem Arbeits-
+markt.
+Doppelkarrieren werden durch egalitäre oder individualistische Paarbe-
+ziehungen – mit denen eine allzu schnelle traditionelle Priorisierung der
+männlichen Karriere durch männlich normierte externe Rahmenbedingungen
+beruflicher Karrieren verhindert werden kann – zwar eher möglich, aber
+nicht notwendigerweise durchsetzbar. Mitverantwortlich dafür sind instituti-
+onalisierte Geschlechterrollen sowie „individualistische“ professionelle Kar-
+rieremuster, die sich in der Partnerschaft „konfligierend“ kreuzen. Die Ver-
+flechtung von Lebensverläufen zu Doppelkarrieren ist damit mehr als nur
+eine Frage der Logistik oder der innerpartnerschaftlichen Abstimmung von
+institutionellen Ansprüchen.
+Gleichwohl sollte die innerpartnerschaftliche Perspektive nicht unter-
+schätzt werden – und zwar auch nicht seitens der Paare. Eine wichtige Vor-
+aussetzung für die Realisierung von Doppelkarrieren ist der reflektierte Um-
+gang mit Karrieremustern und Kinderbetreuung sowie mit der Dekonstruktion
+von außer- und innerpartnerschaftlichen Geschlechterrollenvorstellungen im
+Paar – und damit eine angemessene Einschätzung der jeweiligen Situation.
+Diese ist wichtig, um einerseits Ungleichheiten der Karrierechancen im Paar
+zu erkennen und andererseits bei Bedarf Möglichkeiten der Beseitigung
+auszuloten.
+Abbildung 1.4 zeigt in dieser Hinsicht allerdings eine große Diskrepanz:
+Sowohl Wissenschaftlerinnen als auch Wissenschaftler überschätzen deutlich
+die Realisierung einer Doppelkarriere in ihrer Partnerschaft. Subjektiv ist die
+weit überwiegende Mehrheit von ihnen der Meinung, dass sie eine Doppel-
+karriere führt; real sind es aber in allen Karrierestufen deutlich weniger.
+Damit wird in vielen dieser Partnerschaften der Problemdruck nicht erkannt
+und den Karrierehemmnissen der Frauen (denn wie oben ausgeführt, schei-
+tern die – objektiven – Doppelkarrieren zumeist an ihren Karrieren) nicht
+aktiv begegnet. Ein Weiter-so führt jedoch zu einer Verfestigung der Un-
+gleichheiten im Paar.
+Besonders auffällig ist die Diskrepanz bei den promovierten Wissen-
+schaftlerinnen (mit einem Unterschied von 41 Prozentpunkten), bei denen
+der letzte Karriereschritt auf die Professur noch aussteht, der angesichts der
+zumeist fehlenden objektiv erreichten Karriere mit dieser falschen Wahr-
+nehmung wohl nicht leichter bzw. wahrscheinlicher wird. Ferner wird deut-
+lich, dass Wissenschaftler in allen Karrierestufen häufiger eine verzerrte
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Nein
+Ja
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+„Linked Lives“ in der Wissenschaft
+49
+Wahrnehmung der Realisierung einer Doppelkarriere in ihrer Partnerschaft
+haben als ihre weiblichen Kolleginnen – und auch dadurch begründet sel-
+ten(er) Handlungsbedarf hinsichtlich der beruflichen Karrierechancen ihrer
+Frauen sehen. Bei Männern wie Frauen zeigt sich dabei, dass Doppelverdie-
+ner-Arrangements allzu häufig bereits mit Doppelkarrieren gleichgesetzt
+werden – eine Gleichsetzung, die jedoch, wie die Analysen in diesem Buch
+zeigen, mit dazu beiträgt, dass Frauen weniger Karriere in der Wissenschaft
+machen (können).
+Abbildung 1.4: Unterschiede zwischen dem objektiven Vorhandensein von
+Doppelkarrieren und der subjektiven Einschätzung
+Frauen
+Männer
+jitkvbeO jitkvuebS jitkvbeO jitkvebuS jitkvbeO jitkvebuS
+Promovierende Promovierte Professorinnen
+jitkvbeO jitkvebuS jitkvbeO jitkvbueS jitkvebO jitkvbueS
+Promovierende Promovierte Professoren
+Subjektive Doppelkarriere:
+Sind Sie der Meinung, dass Sie und Ihr/e Partner/in eine erfolgreiche Doppelkarriere führen?
+Objektive Doppelkarriere: Entsprechend Definition in Abschnitt 1.5.
+Quelle: Datensatz „Gemeinsam Karriere machen“; eigene Berechnungen
+Fragen wir daher abschließend danach, was man tun kann, so zeigen unsere
+Befunde, dass für eine Verbesserung der Karrierechancen von Frauen in der
+Wissenschaft und damit verbunden von Doppelkarrieren sowohl geeignete
+externe Rahmenbedingungen in der Berufswelt als auch erhöhte Reflexions-,
+Aushandlungs- und Koordinationsleistungen in der Partnerschaft notwendig
+sind. Um eine professionelle Karriere für beide Partner – bei gleichzeitiger
+Pflege von Partner- und ggf. Elternschaft – zu ermöglichen, bedarf es daher
+flexiblerer Arbeitsorganisationen, mit denen auch die Anforderungen der
+Familie in Einklang gebracht werden können; es bedarf flexibler und mit der
+Arbeitswelt abgestimmter externer Kinderbetreuungsmöglichkeiten (unab-
+hängig von jeweiligen Geldbeutel der Paare) sowie veränderter Leitbilder in
+Bezug auf Geschlecht und Karriere in der Gesellschaft sowie auch in der
+50
+Alessandra Rusconi & Heike Solga
+Partnerschaft selbst. Vorstellungen dazu, wie dies aussehen könnte, haben
+wir in einer eigenständigen Handlungsbroschüre formuliert (vgl. Hess/Rus-
+coni/Solga 2011b).
+Literatur
+<ref>Acker, Joan (1990): Hierarchies, jobs, bodies: A theory of gendered organization. In:
+Gender & Society 4, 2, S. 139-158.</ref>
+<ref>Ackers, Louise (2004): Managing relationships in peripatetic careers: Scientific mo-
+bility in the European Union. In: Women’s Studies International Forum 27, 3,
+S. 189-201.</ref>
+<ref>Aldous, Joan (1982): From dual-earner to dual-career families and back. In: Aldous,
+Joan (Hrsg.): Two paychecks: Life in dual-earner families. Beverly Hills: Sage,
+S. 11-26.</ref>
+<ref>Allmendinger, Jutta/von Stebut, Janina/Fuchs, Stefan/Brückner, Hannah (1999): Eine
+Liga für sich? Berufliche Werdegänge von Wissenschaftlerinnen in der Max-
+Planck-Gesellschaft. In: Neusel, Ayla/Wetterer, Angelika (Hrsg.): Vielfältige
+Verschiedenheiten: Geschlechterverhältnisse in Studium, Hochschule und Beruf.
+Frankfurt/Main: Campus, S. 193-220.</ref>
+<ref>Allmendinger, Jutta/Podsiadlowski, Astrid (2001): Segregation in Organisationen und
+Arbeitsgruppen. In: Heintz, Bettina (Hrsg.): Geschlechtersoziologie. Opladen:
+Westdeutscher Verlag, S. 276-307.</ref>
+<ref>Andresen, Sünne/Oppen, Maria/Simon, Dagmar (1999): Karrieren und Barrieren im
+Wissenschaftsbetrieb. Geschlechterdifferenz als Ergebnis von Aushandlungspro-
+zessen in Organisationen. WZB Discussion Paper P99-601, Berlin. http://
+bibliothek.wzb.eu/pdf/1999/p99-601.pdf [Zugriff: 31.05.2011]</ref>
+<ref>Anger, Christina/Konegen-Grenier, Christiane (2008): Die Entwicklung der Akade-
+mikerbeschäftigung. In: IW-Trends 35, 1, S. 1-16.</ref>
+<ref>Backhaus, Beate/Ninke, Lars/Over, Albert (2002): Brain Drain – Brain Gain: Eine
+Untersuchung über internationale Berufskarrieren. Stifterverband für die Deutsche
+Wissenschaft, Essen. http://www.stifterverband.org/publikationen_und_podcasts/
+positionen_dokumentationen/braindrain_braingain_2002.pdf [Zugriff: 31.05.2011]</ref>
+<ref>Bathmann, Nina/Müller, Dagmar/Cornelißen, Waltraud (2011): Karriere, Kinder,
+Krisen. Warum Karrieren von Frauen in Paarbeziehungen scheitern oder gelin-
+gen. In: Cornelißen, Waltraud/Rusconi, Alessandra/Becker, Ruth (Hrsg.): Beruf-
+liche Karrieren von Frauen. Hürdenläufe in Partnerschaft und Arbeitswelt. Wies-
+baden: VS Verlag, S. 105-149.</ref>
+<ref>Beaufaÿs, Sandra (2003): Wie werden Wissenschaftler gemacht? Beobachtungen zur
+wechselseitigen Konstitution von Geschlecht und Wissenschaft. Bielefeld: tran-
+script.</ref>
+<ref>Beaufaÿs, Sandra (2004). Wissenschaftler und ihre alltägliche Praxis: Ein Einblick in
+die Geschlechterordnung des wissenschaftlichen Feldes [22 Absätze]. In: Forum
+Qualitative Sozialforschung (Online-Journal), 5, 2, Art. 10. http://www.
+qualitative-research.net/index.php/fqs/article/view/613 [Zugriff: 31.05.2011]</ref>
+<ref>Beaufaÿs, Sandra (2005): Aus Leistung folgt Elite? Nachwuchsförderung und Exzel-
+lenz-Konzept. In: Forum Wissenschaft 2005, 2, S. 54-57.</ref>
+180
+Literatur
+<ref>Beck-Gernsheim, Elisabeth (1983): Vom ‚Dasein für andere‘ zum Anspruch auf ‚ein
+Stück eigenes Leben‘: Individualisierung im weiblichen Lebenszusammenhang.
+In: Soziale Welt 34, 3, S. 307-340.</ref>
+<ref>Becker, Gary Stanley (1991): A treatise on the family. Cambridge, Massachusetts:
+Harvard University Press.</ref>
+<ref>Becker, Penny Edgell/Moen, Phyllis (1999): Scaling back: Dual-earner couples’
+work-family strategies. In: Journal of Marriage and the Family 61, 4, S. 995-
+1007.</ref>
+<ref>Becker, Ruth/Hilf, Ellen/Lien, Shih-cheng/Köhler, Kerstin/Meschkutat, Bärbel/
+Reuschke, Darja/Tippel, Cornelia (2011): Bleiben oder gehen? Räumliche Mobi-
+lität in verschiedenen Lebensformen und Arbeitswelten. In: Cornelißen, Wal-
+traud/Rusconi, Alessandra/Becker, Ruth (Hrsg.): Berufliche Karrieren von Frau-
+en. Hürdenläufe in Partnerschaft und Arbeitswelt. Wiesbaden: VS Verlag, S. 21-
+63.</ref>
+<ref>Behnke, Cornelia/Meuser, Michael (2003): Karriere zu zweit – Projekt oder Problem?
+Zum Verhältnis von beruflichem Erfolg und Lebensform. In: Hitzler, Roland/
+Pfadenhauer, Michaela (Hrsg.): Karrierepolitik. Beiträge zur Rekonstruktion
+erfolgsorientierten Handelns. Opladen: Leske + Budrich: S.189-200.</ref>
+<ref>Behnke, Cornelia/Meuser, Michael (2005): Vereinbarkeitsmanagement. Zuständigkei-
+ten und Karrierechancen bei Doppelkarrierepaaren. In: Solga, Heike/Wimbauer,
+Christine (Hrsg.): „Wenn zwei das Gleiche tun ...“ Ideal und Realität sozialer
+(Un-)Gleichheit in Dual Career Couples. Opladen: Barbara Budrich Verlag,
+S. 123-139.</ref>
+<ref>Bernasco, Wim/de Graaf, Paul M./Ultee, Wout C. (1998): Coupled careers. Effects of
+spouse’s resources on occupational attainment in the Netherlands. In: European
+Sociological Review 14, 1, S. 15-31.</ref>
+<ref>Bielby, Denise Del Vento/Bielby, William T. (1984): Work commitment, sex-role
+attitudes, and women’s employment. In: American Sociological Review 49, 2,
+S. 234-247.</ref>
+<ref>Bielby, William T./Bielby, Denise D. (1992): I will follow him: Family ties, gender-
+role beliefs, and reluctance to relocate for a better job. In: American Journal of
+Sociology 97, 5, S. 1241-1267.</ref>
+<ref>Biller-Andorno, Nikola/Jakovljevic, Anna-Karina/Landfester, Katharina/Lee-Kirsch,
+Min Ae (2005): Karriere und Kind. Erfahrungsberichte von Wissenschaftlerin-
+nen. Frankfurt/New York: Campus.</ref>
+<ref>Blood, Robert O./Wolfe, Donald M. (1960): Husbands and wives: The dynamics of
+married living. New York: The Free Press.</ref>
+<ref>Blossfeld, Hans-Peter/Drobnič, Sonja, (Hrsg.) (2001): Careers of couples in contem-
+porary societies: From male breadwinner to dual earner families. Oxford: Oxford
+University Press.</ref>
+<ref>Blossfeld, Hans-Peter/Timm, Andreas (2003): Assortative mating in cross-national
+comparison: A summary of results and conclusions. In: Blossfeld, Hans-Peter/
+Timm, Andreas (Hrsg.): Who marries whom? Educational systems as marriage
+markets in modern societies. Dordrecht: Kluwer, S. 331-342.</ref>
+<ref>Bock, Bettina/de Jong, A. (1994): Carrières van vrouwen en mannen. Ministerie van
+Binnenlandse Zaken, Den Haag.</ref>
+Literatur
+181
+<ref>Boyle, Paul/Cooke, Thomas J./Halfacree, Keith/Smith, Darren (2001): A cross-
+national comparison of the impact of family migration on women’s employment
+status. In: Demography 38, 2, S. 201-213.</ref>
+<ref>Bryson, Jeff B./Bryson, Rebecca (1980): Salary and job performance differences in
+dual-career couples. In: Pepitone-Rockwell, Fran (Hrsg.): Dual-Career Couples.
+Beverly Hills/London: Sage, S. 241-259.</ref>
+<ref>Brzinsky-Fay, Christian (2007): Lost in Transition? Labour market entry sequences
+of school leavers in Europe. In: European Sociological Review 23, 4, S. 409-422.</ref>
+<ref>Brzinsky-Fay, Christian/Kohler, Ulrich/Luniak, Magdalena (2006): Sequence analysis
+with Stata. In: The Stata Journal 6, 4, S. 435-460.</ref>
+<ref>Büchel, Felix (2000): Tied movers, tied stayers: The higher risk of overeducation
+among married women in West Germany. In: Gustafsson, Siv S./Meulders,
+Danièle E. (Hrsg.): Gender and the labour market. Econometric evidence of ob-
+stacles to achieving gender equality. London: Macmillan Press, S. 133-146.</ref>
+<ref>Büchel, Felix/Frick, Joachim R./Witte, James, C. (2002): Regionale und berufliche
+Mobilität von Hochqualifizierten. Ein Vergleich Deutschland – USA. In: Bell-
+mann, Lutz/Velling, Johannes (Hrsg.): Arbeitsmärkte für Hochqualifizierte.
+Nürnberg: IAB, S. 207-244.</ref>
+<ref>Bundeszentrale für Gesundheitliche Aufklärung (Hrsg.) (2005): Kinderwunsch und
+Familiengründung bei Frauen und Männern mit Hochschulabschluss. Repräsen-
+tativbefragungen. Bundeszentrale für Gesundheitliche Aufklärung, Köln.</ref>
+<ref>Campbell, Donald T./Cook, Thomas D. (1979): Quasi-experimentation. Design and
+analysis issues for field settings. Chicago: Rand McNally College.</ref>
+<ref>Clement, Ulrich/Clement, Ute (2001): Doppelkarrieren. Familien- und Berufsorgani-
+sation von Dual Career Couples. In: Familiendynamik 26, 3, S. 253-274.</ref>
+<ref>Cooke, Thomas J. (2003): Family migration and the relative earnings of husbands and
+wives. In: Annals of the Association of American Geographers 93, 2, S. 338-349.</ref>
+<ref>Correll, Lena (2010): Anrufungen zur Mutterschaft. Eine wissenssoziologische Unter-
+suchung von Kinderlosigkeit. Münster: Westfälisches Dampfboot.</ref>
+<ref>Costa, Dora L./Kahn, Matthew E. (2000): Power couples: Changes in the locational
+choice of the college educated, 1940-1990. In: The Quarterly Journal of Econom-
+ics 115, 4, S. 1287-1315.</ref>
+<ref>Dettmer, Susanne/Hoff, Ernst-H. (2005): Berufs- und Karrierekonstellationen in Paar-
+beziehungen: Segmentation, Integration, Entgrenzung. In: Solga, Heike/Wimbau-
+er, Christine (Hrsg.): „Wenn zwei das Gleiche tun ...“ Ideal und Realität sozialer
+(Un-)Gleichheit in Dual Career Couples. Opladen: Barbara Budrich Verlag,
+S. 53-75.</ref>
+<ref>Diaz-Bone, Rainer/Glöckner, Ulf/Küffer, Anne-Cathérine (2004): Berufliche Situa-
+tion und Tätigkeitsfeld von Sozialwissenschaftlern. Eine Analyse mit dem Mik-
+rozensus 2000. In: Sozialwissenschaften und Berufspraxis 27, 2, S. 171-184.</ref>
+<ref>Dressel, Christian (2005): Erwerbstätigkeit – Arbeitsmarktintegration von Frauen und
+Männern. In: Cornelißen, Waltraud (Hrsg.): Gender-Datenreport – Kommentier-
+ter Datenreport zur Gleichstellung von Frauen und Männern in der Bundesrepu-
+blik Deutschland. Im Auftrag des Bundesministeriums für Familie, Senioren,
+Frauen und Jugend, München, S. 99-158.</ref>
+<ref>Drosdowski, Günther (1989): Der Duden in 12 Bänden. Das Standardwerk zur deut-
+schen Sprache. Mannheim: Dudenverlag.</ref>
+182
+Literatur
+<ref>Emerson, Robert (1976): Social exchange theory. In: Annual Review of Sociology 2,
+S. 335-362.</ref>
+<ref>Enders, Jürgen (2003): Flickwerkkarrieren und Strickleitern in einer prekären Profes-
+sion. Ein Beitrag zur Nachwuchspolitik an den Hochschulen. In: Hitzler, Ronald/
+Pfadenhauer, Michaela (Hrsg.): Karrierepolitik. Beiträge zur Rekonstruktion er-
+folgsorientierten Handelns. Opladen: Leske + Budrich, S. 254-262.</ref>
+<ref>Enders, Jürgen/Bornmann, Lutz (2001): Karriere mit Doktortitel? Ausbildung, Be-
+rufsverlauf und Berufserfolg von Promovierenden. Frankfurt/New York: Cam-
+pus.</ref>
+<ref>England, Paula (2005): Gender inequality in labor markets: The role of motherhood
+and segregation. In: Social Politics 12, 2, S. 264-288.</ref>
+<ref>Engler, Steffani (2001): „In Einsamkeit und Freiheit“? Zur Konstruktion der wissen-
+schaftlichen Persönlichkeit auf dem Weg zur Professur. Konstanz: UVK-Ver-
+lagsgesellschaft.</ref>
+<ref>Engler, Stefanie (2003): „Aufsteigen oder Aussteigen“. Soziale Bedingungen von
+Karrieren in der Wissenschaft. In: Hitzler, Roland/Pfadenhauer, Michaela
+(Hrsg.): Karrierepolitik. Beiträge zur Rekonstruktion erfolgsorientierten Han-
+delns. Opladen, S.113-128.</ref>
+<ref>Esping-Andersen, Gosta (2009): The incomplete revolution: Adapting to women’s
+new roles. Cambridge: Polity Press.</ref>
+<ref>Gash, Vanessa/McGinnity, Frances (2007): Fixed-term contracts – the new European
+inequality? Comparing men and women in West Germany and France. In: Socio-
+Economic Review 5, 3, S. 467-496.</ref>
+<ref>Geenen, Elke M. (1993): Brüche und Kontinuitäten in den Biographien von Wissen-
+schaftlern. In: Pasero, Ursula/Braun, Friederike (Hrsg.): Frauenforschung in uni-
+versitären Disziplinen. Opladen: Leske + Budrich, S. 41-65.</ref>
+<ref>Geenen, Elke M. (1994): Blockierte Karrieren: Frauen in der Hochschule. Opladen:
+Leske + Budrich.</ref>
+<ref>Geißler, Rainer (1996): Die Sozialstruktur Deutschlands. Opladen: Westdeutscher
+Verlag.</ref>
+<ref>Geissler, Birgit/Oechsle, Mechtild (2001): Zeitordnungen des Erwerbssystems und
+biographische Bindungen an Andere: Verflechtung und Entkoppelung. In: Born,
+Claudia/Krüger, Helga (Hrsg.): Individualisierung und Verflechtung. Geschlecht
+und Generation im deutschen Lebenslaufregime. Weinheim/München: Juventa,
+S. 83-106.</ref>
+<ref>Gildemeister, Regine/Robert, Günther (2008): Geschlechterdifferenzierungen in
+lebenszeitlicher Perspektive. Interaktion – Institution – Biografie. Wiesbaden:
+VS Verlag.</ref>
+<ref>Glaser, Barney G./Strauss, Anselm L. (1967): The discovery of grounded theory:
+Strategies for qualitative research. Chicago: Aldine Publishing.</ref>
+<ref>Gramespacher, Elke/Funk, Julika/Rothhäusler, Iris (Hrsg.) (2010): Dual Career Cou-
+ples an Hochschulen. Opladen/Farmington Hills: Barbara Budrich Verlag.</ref>
+<ref>Gross, Harriet Engel (1980): Dual-career couples who live apart: Two types. In:
+Journal of Marriage and the Family 42, 3, S. 567-576.</ref>
+<ref>Gülker, Silke (2010): Arbeitsmarkt Wissenschaft – Strukturen und Trends. In: WSI-
+Mitteilungen 63, 5, S. 227-233.</ref>
+<ref>Hardill, Irene/van Loon, Joost (2007): Individualization and identity risks in dual-
+career households. In: Perrons, Diane/Fagan, Collette/McDowell, Linda/Ray,
+<oth>Literatur
+183</oth>
+Kath/Ward, Kevin (Hrsg.): Gender divisions and working time in the new econ-
+omy: Changing patterns of work, care and public policy in Europe and North
+America. Cheltenham: Edward Elgar, S. 162-177.</ref>
+<ref>Hartmann, Michael (2002): Der Mythos von den Leistungseliten. Spitzenkarrieren
+und soziale Herkunft in Wirtschaft, Politik, Justiz und Wissenschaft. Frankfurt/
+Main: Campus.</ref>
+<ref>Henninger, Annette/Wimbauer, Christine/Dombrowski, Rosine (2008): Demography
+as a push toward gender equality? Current reforms of German family policy. In:
+Social Politics 15, 3, S. 287-314.</ref>
+<ref>Herma, Holger (2009): Liebe und Authentizität. Generationswandel in Paarbeziehun-
+gen. Wiesbaden: VS Verlag.</ref>
+<ref>Hertz, Rosanna (1986): More equal than others: Women and men in dual-career
+marriages. Berkeley: University of California Press.</ref>
+<ref>Hess, Johanna/Rusconi, Alessandra (2010): Langlebige Rollenmuster. Wissenschaft-
+lerinnen mit kleinen Kindern stehen meist hintan. In: WZB-Mitteilungen 129,
+S. 24-27.</ref>
+<ref>Hess, Johanna/Rusconi, Alessandra/Solga, Heike (2011a): „Wir haben dieselben Ziele
+…“ – Zur Bedeutung von Paarkonstellationen und Disziplinenzugehörigkeit für
+Karrieren von Frauen in der Wissenschaft. In: Cornelißen, Waltraud/Rusconi,
+Alessandra/Becker, Ruth (Hrsg.): Berufliche Karrieren von Frauen. Hürdenläufe
+in Partnerschaft und Arbeitswelt. Wiesbaden: VS Verlag, S. 65-104.</ref>
+<ref>Hess, Johanna/Rusconi, Alessandra/Solga, Heike (2011b): Wissenschaftlerinnen in
+Partnerschaften – das Spannungsfeld von Disziplinenlogiken und privaten An-
+forderungen. In: Becker, Ruth/Cornelißen, Waltraud/Rusconi, Alessandra
+(Hrsg.): Frauen an die Spitze – was ist zu tun? Handlungsempfehlungen für Wirt-
+schaft, Wissenschaft und Politik. Berlin, Dortmund, München, S. 10-14. http://
+www.wzb.eu/sites/default/files/%2Bwzb/bal/aam/bmbf-broschure.pdf [Zugriff:
+31.05.2011]</ref>
+<ref>Hiller, Dana Vannoy/Dyehouse, Janice (1987): A case for banishing “dual-career
+marriages” from the research literature. In: Journal of Marriage and the Family
+49, 4, S. 787-795.</ref>
+<ref>Hirseland, Andreas/Herma, Holger/Schneider, Werner (2005): Geld und Karriere –
+Biographische Synchronisation und Ungleichheit bei karriereorientierten Paaren.
+In: Solga, Heike/Wimbauer, Christine (Hrsg.): „Wenn zwei das Gleiche tun ...“
+Ideal und Realität sozialer (Un-)Gleichheit in Dual Career Couples. Opladen:
+Barbara Budrich Verlag, S. 163-186.</ref>
+<ref>Hitzler, Ronald/Honer, Anne (1997): Sozialwissenschaftliche Hermeneutik. Leske +
+Budrich: Opladen.</ref>
+<ref>Holst, Elke (2009): Führungskräfte-Monitor 2001-2006. Baden-Baden: Nomos Ver-
+lag.</ref>
+<ref>Holst, Elke/Wiemer, Anita (2010): Frauen in Spitzengremien großer Unternehmen
+weiterhin massiv unterrepräsentiert. In: Wochenbericht des DIW Berlin 4, S. 2-
+10.</ref>
+<ref>Hood, Jane (1983): Becoming a two-job family. New York: Praeger.</ref>
+<ref>Hopf, Christel (1978). Die Pseudo-Exploration. Überlegungen zur Technik qualitati-
+ver Interviews in der Sozialforschung, Zeitschrift für Soziologie 7, S. 97-115.</ref>
+184
+Literatur
+<ref>Jacobs, Jerry A./Winslow, Sarah E. (2004): Overworked faculty: Job stresses and
+family demands. In: The ANNALS of the American Academy of Political and
+Social Science 569, 1, S. 104-129.</ref>
+<ref>Jaksztat, Steffen/Schinder, Nora/Briedis, Kolja (2010): Wissenschaftliche Karrieren.
+Beschäftigungsbedingungen, berufliche Orientierungen und Kompetenzen des
+wissenschaftlichen Nachwuchses. HIS: Forum Hochschule, 14/2010.</ref>
+<ref>Janson, Kerstin/Schomburg, Harald/Teichler, Ulrich (2006): Wissenschaftliche Wege
+zur Professur oder ins Abseits? Strukturinformationen zu Arbeitsmarkt und
+Beschäftigung an Hochschulen in Deutschland und den USA. Internationales
+Zentrum für Hochschulforschung, Kassel.</ref>
+<ref>Jürges, Hendrik (1998a): Beruflich bedingte Umzüge von Doppelverdienern. Eine
+empirische Analyse mit Daten des SOEP. In: Zeitschrift für Soziologie 27, 5,
+S. 358-377.</ref>
+<ref>Jürges, Hendrik (1998b): Einkommen und berufliche Situation von Doppelverdienern
+nach Umzügen. In: Mitteilungen aus der Arbeitsmarkt- und Berufsforschung 31,
+2, S. 234-243.</ref>
+<ref>Jürges, Hendrik (2006): Gender ideology, division of housework, and the geographic
+mobility of families. In: Review of Economics of the Household 4, 4, S. 299-323.</ref>
+<ref>Kahlert, Heike (2010): Triadische Karriereberatung in der Wissenschaft – ein neues
+Konzept der Politik der Chancengleichheit. In: Gender. Zeitschrift für Ge-
+schlecht, Kultur und Gesellschaft 2 (2), S. 69-86.</ref>
+<ref>Klein, Thomas (1996): Der Altersunterschied zwischen Ehepartnern. Ein neues Ana-
+lysemodell. In: Zeitschrift für Soziologie 25, 5, S. 346-370.</ref>
+<ref>Kluge, Susann/Kelle, Udo (Hrsg.) (2001): Methodeninnovation in der Lebenslauffor-
+schung. Integration qualitativer und quantitativer Verfahren in der Lebenslauf-
+und Biographieforschung. Weinheim/München: Juventa.</ref>
+<ref>Knie, Andreas/Simon, Dagmar (2009): Verlorenes Vertrauen? Auf der Suche nach
+neuen Governance-Formen in einer veränderten Wissenschaftslandschaft. In:
+Botzem, Sebastian/Hofmann, Jeanette/Quack, Sigrid/Schuppert, Gunnar Fol-
+ke/Straßheim, Holger (Hrsg.): Governance als Prozess – Koordinationsformen im
+Wandel. Baden-Baden: Nomos Verlag, S. 527-545.</ref>
+<ref>Knights, David/Richards, Wendy (2003): Sex discrimination in UK Academia. In:
+Gender, Work and Organization 10, 2, S. 213-238.</ref>
+<ref>Kohli, Martin (1985): Die Institutionalisierung des Lebenslaufs. Historische Befunde
+und theoretische Argumente. In: Kölner Zeitschrift für Soziologie und Sozialpsy-
+chologie 37, 1, S. 1-29.</ref>
+<ref>Könekamp, Bärbel (2007): Chancengleichheit in akademischen Berufen. Wiesbaden:
+VS Verlag.</ref>
+<ref>Konrad, Alison M./Cannings, Kathy (1997): The effects of gender role congruence
+and statistical discrimination on managerial advancement. In: Human Relations
+50, 10, S. 1305-1328.</ref>
+<ref>Krais, Beate (Hrsg.) (2000): Wissenschaftskultur und Geschlechterordnung. Über die
+verborgenen Mechanismen männlicher Dominanz in der akademischen Welt.
+Frankfurt/New York: Campus.</ref>
+<ref>Krimmer, Holger/Zimmer, Annette (2003): Karrierewege von Professorinnen an
+Hochschulen in Deutschland. In: Zeitschrift für Frauenforschung und Geschlech-
+terstudien 21, 4, S. 18-33.</ref>
+Literatur
+185
+<ref>Krüger, Helga (2002): Territorien – Zur Konzeptualisierung eines Bindeglieds zwi-
+schen Sozialisation und Sozialstruktur. In: Breitenbach, Eva/Bürmann, Ilse/
+Liebsch, Katharina (Hrsg.): Geschlechterforschung als Kritik. Bielefeld: Kleine
+Verlag, S. 29-47.</ref>
+<ref>Levy, René/Ernst, Michèle (2002): Lebenslauf und Regulation in Paarbeziehungen:
+Bestimmungsgründe der Ungleichheit familialer Arbeitsteilung. In: Zeitschrift
+für Familienforschung 14, 2, S. 103-131.</ref>
+<ref>Levy, René/Bühlmann, Felix/Widmer, Eric (2007): Dual and single career couples in
+Switzerland: Exploring partners’ trajectories. In: Zeitschrift für Familienfor-
+schung 19, 3, S. 263-289.</ref>
+<ref>Lind, Inken (2008): Aufgeschobene Kinderwünsche, eingeschränkte Perspektiven?
+Zur Vereinbarkeit von Wissenschaft und Elternschaft – Ergebnisse einer aktuel-
+len Studie. In: Forschung & Lehre 15, 11, S. 754-756.</ref>
+<ref>Lucchini, Mario/Saraceno, Chiara/Schizzerotto, Antonio (2007): Dual-earner and
+dual-career couples in contemporary Italy. In: Zeitschrift für Familienforschung
+19, 3, S. 290-310.</ref>
+<ref>Matthies, Hildegard (2006): Die Organisation der Wissenschaft: Chancen und Risiken
+für Karrieren. In: Liebig, Brigitte/Dupuis, Monique/Kriesi, Irene/Peitz, Martina
+(Hrsg.): Mikrokosmos Wissenschaft. Transformationen und Perspektiven. Zü-
+rich: Vdf Hochschulverlag, S. 57-73.</ref>
+<ref>Mayer, Karl Ulrich (1991): Soziale Ungleichheit und die Differenzierung von Le-
+bensverläufen. In: Zapf, Wolfgang (Hrsg.): Die Modernisierung moderner Ge-
+sellschaften. Verhandlungen des 25. Deutschen Soziologentages in Frankfurt am
+Main 1990. Frankfurt/Main: Campus, S. 667-687.</ref>
+<ref>Mayring, Philipp (2000): Qualitative Inhaltsanalyse. In: Flick, Uwe/Kardorff, Ernst
+von/Steinke, Ines (Hrsg.): Qualitative Forschung. Ein Handbuch. Reinbek bei
+Hamburg: Rowohlt Taschenbuch Verlag, S. 468-475.</ref>
+<ref>Mayring, Philipp (2003): Qualitative Inhaltsanalyse: Grundlagen und Techniken.
+Weinheim: Beltz.</ref>
+<ref>Mertens, Lothar (1989): Die Entwicklung des Frauenstudiums in Deutschland bis
+1945. In: Aus Politik und Zeitgeschichte 28, S. 3-12.</ref>
+<ref>Metz-Göckel, Sigrid/Möller, Christina/Auferkorte-Michaelis, Nicole (2009): Wissen-
+schaft als Lebensform – Eltern unerwünscht? Kinderlosigkeit und Beschäfti-
+gungsverhältnisse des wissenschaftlichen Personals aller nordrhein-westfälischen
+Universitäten. Opladen: Barbara Budrich Verlag.</ref>
+<ref>Metz-Göckel, Sigrid/Selent, Petra/Schürmann, Ramona (2010): Integration und Se-
+lektion. Dem Dropout von Wissenschaftlerinnen auf der Spur. In: Beiträge zur
+Hochschulforschung 32, 1, S. 8-35.</ref>
+<ref>Mittelstraß, Jürgen (2006): Wissenschaft als Lebensform – eine Erinnerung und eine
+Einleitung. In: Liebig, Brigitte/Dupuis, Monique/Kriesi, Irene/Peitz, Martina
+(Hrsg.): Mikrokosmos Wissenschaft. Transformationen und Perspektiven.
+Zürich: S. 17-36.</ref>
+<ref>Moen, Phyllis (Hrsg.) (2003): It’s about time: Couples and careers. Ithaca: ILR Press.</ref>
+<ref>Moen, Phyllis (2010): From ‘Work-Family’ to the ‘Gendered Life Course’ and ‘Fit’:
+Five challenges to the field. WZB Discussion Paper SP I 2010-501, Berlin.
+http://bibliothek.wz-berlin.de/pdf/2010/i10-501.pdf [Zugriff: 31.05.2011]</ref>
+<ref>Moen, Phyllis/Wethington, Elaine (1992): The concept of family adaptive strategies.
+In: Annual Review of Sociology 18, S. 233-251.</ref>
+186
+Literatur
+<ref>Moen, Phyllis/Roehling, Patricia (2005): The career mystique. Cracks in the Ameri-
+can dream. Lanham, Maryland: Lanham Rowman & Littlefield.</ref>
+<ref>Morgan, Kimberly J./Zippel, Kathrin (2003): Paid to care: The origins and effects of
+care leave policies in Western Europe. In: Social Politics 10, 1, S. 49-85.</ref>
+<ref>Münch, Richard (2006): Drittmittel und Publikationen. Forschung zwischen Normal-
+wissenschaft und Innovation. In: Soziologie 35, 4, S. 440-461.</ref>
+<ref>Nock, Steven L. (1998): Turn-taking as rational behavior. In: Social Science Research
+27, 3, S. 235-244.</ref>
+<ref>Oevermann, Ulrich/Allert, Tilmann/Konau, Elisabeth/Krambeck, Jürgen (1979): Die
+Methodologie einer „objektiven Hermeneutik” und ihre allgemeine forschungs-
+logische Bedeutung in den Sozialwissenschaften. In: Soeffner, Hans Georg
+(Hrsg.): Interpretative Verfahren in den Sozial- und Textwissenschaften. Stutt-
+gart: Metzlerische Verlagsbuchhandlung, S. 352-433.</ref>
+<ref>Ott, Notburga (2001): Der Erklärungsansatz der Familienökonomik. In: Huinink,
+Johannes/Strohmeier, Klaus Peter/Wagner, Michael (Hrsg.): Solidarität in Part-
+nerschaft und Familie. Zum Stand familiensoziologischer Theoriebildung. Würz-
+burg: Ergonverlag, S. 129-144.</ref>
+<ref>Pfahl, Svenja/Reuyß, Stefan (2009): Das neue Elterngeld. Erfahrungen und betriebli-
+che Nutzungsbedingungen von Vätern – eine explorative Studie. Hans-Böckler-
+Stiftung, Düsseldorf.</ref>
+<ref>Plantenga, Janneke/Remery, Chantal/Siegel, Melissa/Sementini, Loredana (2008):
+Childcare services in 25 European Union member states: The Barcelona targets
+revisited. In: Leira, Arnlaug/Saraceno, Chiara (Hrsg.): Childhood: Changing con-
+texts. Bingley: Emerald, S. 27-53.</ref>
+<ref>Poloma, Margaret M./Pendelton, Brian F./Garland, T. Neal (1981): Reconsidering the
+dual-career marriage: A longitudinal approach. In: Journal of Family Issues 2, 2,
+S. 205-224.</ref>
+<ref>Rabe-Hesketh, Sophia/Skrondal, Anders (2005): Multilevel and longitudinal model-
+ing using Stata. Texas: StataPress.</ref>
+<ref>Rapoport, Rhona/Rapoport, Robert N. (1969): The dual career family. A variant
+pattern and social change. In: Human Relations 22, 1, S. 3-30.</ref>
+<ref>Reichart, Elisabeth/Chesley, Noelle/Moen, Phyliss (2007): The end of the career
+mystique? Policy and cultural frameworks that structure the work-family inter-
+face in the United States and Germany. In: Zeitschrift für Familienforschung 19,
+3, S. 337-370.</ref>
+<ref>Reichertz, Jo/Schröer, Norbert (1994): Erheben, Auswerten, Darstellen. Konturen
+einer hermeneutischen Wissenssoziologie. In: Schröer, Norbert (Hrsg.): Interpre-
+tative Sozialforschung: Auf dem Weg zu einer hermeneutischen Wissenssoziolo-
+gie. Opladen: Leske + Budrich, S. 56-84.</ref>
+<ref>Reskin, Barbara F./Padavic, Irene (1994): Women and men at work. Thousand Oaks:
+Pine Forge Press.</ref>
+<ref>Rhodes, Angel R. (2002): Long-distance relationships in dual-career commuter cou-
+ples: A review of counseling issues. In: The Family Journal 10, 4, S. 398-404.</ref>
+<ref>Rusconi, Alessandra (2002): “What can universities do?” Dual-career policies at
+American universities. Arbeitsbericht der Arbeitsgruppe „Wissenschaftspolitik“
+der Jungen Akademie, Berlin.</ref>
+<ref>Rusconi, Alessandra/Solga, Heike (2002): Auswertung der Befragung deutscher
+Hochschulen zur „Verflechtung von beruflichen Karrieren in Akademikerpart-</ref>
+Literatur
+187
+nerschaften“. Arbeitsbericht der Arbeitsgruppe „Wissenschaftspolitik“ der Jun-
+gen Akademie, Berlin.
+<ref>Rusconi, Alessandra/Solga, Heike (2004): Alters- und Erwerbskonstellationen in
+Akademikerpartnerschaften: Ein Vergleich zwischen 1971 und 1997. Arbeitsbe-
+richt der Arbeitsgruppe „Wissenschaftspolitik“ der Jungen Akademie, Berlin.</ref>
+<ref>Rusconi, Alessandra/Solga, Heike (2007): Determinants of and obstacles to dual
+careers in Germany. In: Zeitschrift für Familienforschung 19, 3, S. 311-336.</ref>
+<ref>Rusconi, Alessandra/Solga, Heike (2008): A systematic reflection upon dual career
+couples. WZB Discussion Paper SP I 2008-505, Berlin. http://bibliothek.wzb.eu/
+pdf/2008/i08-505.pdf [Zugriff: 31.05.2011]</ref>
+<ref>Rusconi, Alessandra/Solga, Heike (2010): Doppelkarrieren – Eine wichtige Bedin-
+gung für die Verbesserung der Karrierechancen von Frauen. In: Gramespacher,
+Elke/Funk, Julika/Rothhäusler, Iris (Hrsg.): Dual Career Couples an Hochschu-
+len. Opladen/Farmington Hills: Barbara Budrich Verlag, S. 37-55.</ref>
+<ref>Saraceno, Chiara (1989): The concept of the family strategy and its application to the
+family-work complex: Some theoretical and methodological problems. In: Mar-
+riage Family Review 14, 1-2, S. 1-18.</ref>
+<ref>Saraceno, Chiara (2007): Introduction to the special issue: Dual-career couples. In:
+Zeitschrift für Familienforschung 19, 3, S. 255-262.</ref>
+<ref>Schneider, Norbert F./Limmer, Ruth/Ruckdeschel, Kerstin (2002): Mobil, flexibel,
+gebunden. Familie und Beruf in der mobilen Gesellschaft. Frankfurt/Main: Cam-
+pus.</ref>
+<ref>Schneider, Norbert F./Ruppenthal, Silvia/Lück, Detlev/Rüger, Heiko/Dauber, Andrea
+(2008): Germany – A country of locally attached but highly mobile people. In:
+Schneider, Norbert F./Meil, Gerardo (Hrsg.): Mobile living across Europe. Rele-
+vance and diversity of job-related spatial mobility in six European countries.
+Opladen/Farmington Hills: Barbara Budrich Verlag, S. 105-147.</ref>
+<ref>Schubert, Frank/Engelage, Sonja (2010): Sind Kinder ein Karrierehindernis für
+Hochgebildete? Karriere und Familie bei Promovierten in der Schweiz. In: Zeit-
+schrift für Soziologie 39, 5, S. 382-401.</ref>
+<ref>Schulz, Florian/Blossfeld, Hans-Peter (2006): Wie verändert sich die häusliche Ar-
+beitsteilung im Eheverlauf? Eine Längsschnittstudie der ersten 14 Ehejahre in
+Westdeutschland. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie 58,
+2, S. 23-49.</ref>
+<ref>Schütze, Fritz (1984): Kognitive Figuren des autobiografischen Stegreiferzählens. In:
+Kohli, Martin/Robert, Günter (Hrsg.): Biografie und soziale Wirklichkeit. Neue
+Beiträge und Forschungsperspektiven. Stuttgart: Metzlerische Verlagsbuchhand-
+lung, S. 78-117.</ref>
+<ref>Shauman, Kimberlee A. (2010): Gender asymmetry in family migration: Occupatio-
+nal inequality or interspousal comparative advantage? In: Journal of Marriage
+and Family 72, 2, S. 375-392.</ref>
+<ref>Skopek, Jan/Schulz, Florian/Blossfeld, Hans-Peter (2009): Partnersuche im Internet.
+Bildungsspezifische Mechanismen bei der Wahl von Kontaktpartnern. In: Kölner
+Zeitschrift für Soziologie und Sozialpsychologie 61, 2, S. 183-210.</ref>
+<ref>Solga, Heike/Rusconi, Alessandra (2004): Deutsche Hochschule und ihr ambivalentes
+Verhältnis zu Doppelkarrieren in Akademikerpartnerschaften. In: Vedder, Gün-
+ther (Hrsg.): Familiengerechte Hochschule: Analysen, Konzepte, Perspektiven.
+Hertie-Stiftung, Frankfurt/Main, S. 64-89.</ref>
+188
+Literatur
+<ref>Solga, Heike/Wimbauer, Christine (Hrsg.) (2005): „Wenn zwei das Gleiche tun ...“
+Ideal und Realität sozialer (Un-)Gleichheit in Dual Career Couples. Opladen:
+Barbara Budrich Verlag.</ref>
+<ref>Solga, Heike/Rusconi, Alessandra/Krüger, Helga (2005): Gibt der ältere Partner den
+Ton an? Die Alterskonstellation in Akademikerpartnerschaften und ihre Bedeu-
+tung für Doppelkarrieren. In: Solga, Heike/Wimbauer, Christine (Hrsg.): „Wenn
+zwei das Gleiche tun ...“ Ideal und Realität sozialer (Un-)Gleichheit in Dual
+Career Couples. Opladen: Barbara Budrich Verlag, S. 27-52.</ref>
+<ref>Solga, Heike/Rusconi, Alessandra (2008): Das schwierige Unterfangen von Doppel-
+karrieren in Akademikerpartnerschaften. Ergebnisse des Mikrozensus 2004. In:
+Rolf, Gabriele/Zwick, Markus/Wagner, Gert G. (Hrsg.): Fortschritte der informa-
+tionellen Infrastruktur in Deutschland. Festschrift für Johann Hahlen zum 65.
+Geburtstag und Hans-Jürgen Krupp zum 75. Geburtstag. Baden-Baden: Nomos
+Verlag, S. 324-337.</ref>
+<ref>Solga, Heike/Pfahl, Lisa (2009): Doing Gender im technisch-naturwissenschaftlichen
+Bereich. In: Milberg, Joachim (Hrsg.): Förderung des Nachwuchses in Technik
+und Naturwissenschaft. Berlin: Springer Verlag, S. 155-218.</ref>
+<ref>Sonnert, Gerhard (2005): Geteiltes soziales Kapital oder innerpartnerschaftliche
+Konkurrenz in Dual Career Couples? In: Solga, Heike/Wimbauer, Christine
+(Hrsg.): „Wenn zwei das Gleiche tun ...“ Ideal und Realität sozialer (Un-)Gleich-
+heit in Dual Career Couples. Opladen: Barbara Budrich Verlag, S. 101-122.</ref>
+<ref>Statistisches Bundesamt (2009a). Prüfungen an Hochschulen. Fachserie 11, Reihe 4.2.
+Wiesbaden: DESTATIS.
+Statistisches Bundesamt (2009b). Personal an Hochschulen. Fachserie 11, Reihe 4.4.
+Wiesbaden: DESTATIS.</ref>
+<ref>Statistisches Bundesamt (2010). Studierende an Hochschulen. Fachserie 11, Reihe
+4.1. Wiesbaden: DESTATIS.</ref>
+<ref>Stebut, Nina von (2003): Eine Frage der Zeit? Zur Integration von Frauen in die
+Wissenschaft. Eine empirische Untersuchung der Max-Planck-Gesellschaft.
+Opladen: Leske + Budrich.</ref>
+<ref>van Doorne-Huiskes, Anneke/den Dulk, Laura/Peper, Bram (2005): Organisational
+change, gender and integration of work and private life. In: Peper, Bram/Doorne-
+Huiskes, Anneke van/den Dulk, Laura (Hrsg.): Flexible Working and Organisa-
+tional change. The Integration of Work and Personal Life. Cheltenham, UK/
+Northhampton: Edward Elgar Publishing, S. 39-61.</ref>
+<ref>Vogel, Ulrike/Hinz, Christiana (2003): Karrieren von Wissenschaftlerinnen und Wis-
+senschaftlern an der Hochschule – Ein Bericht über eine qualitative Studie. In:
+Zeitschrift für Frauenforschung & Geschlechterstudien 21, 1, S. 23-38.</ref>
+<ref>Walther, Kathrin/Schaeffer-Hegel, Barbara (2007): Karriere mit Kindern?! In: Aus
+Politik und Zeitgeschichte 7, S. 15-20.</ref>
+<ref>Weber, Max (1992) [1919]: Wissenschaft als Beruf. In: Mommsen, Wolfgang J./
+Schluchter, Wolfgang (Hrsg.): Max Weber Gesamtausgabe. Schriften und Reden.
+Band 17, Wissenschaft als Beruf: 1917/1919; Politik als Beruf: 1919. Tübingen:
+J.C.B. Mohr (Paul Siebeck), S. 71-109.</ref>
+<ref>Webber, Gretchen/Williams, Christine (2008): Mothers in “good” and “bad” part-time
+jobs: Different problems, same results. In: Gender & Society 22, 6, S. 752-777.</ref>
+<ref>Wimbauer, Christine (1999): Organisation, Geschlecht, Karriere. Fallstudien aus
+einem Forschungsinstitut. Opladen: Leske + Budrich.</ref>
+Literatur
+189
+<ref>Wimbauer, Christine (2010): Subjektivierte Arbeit und die ‚Tücken‘ der Anerken-
+nung in Doppelkarriere-Paaren. In: Frey, Michael/Heilmann, Andreas/Lohr, Ka-
+rin/Manske, Alexandra/Völker, Susanne (Hrsg.): Perspektiven auf Arbeit und
+Geschlecht. Transformationen, Reflexionen, Interventionen. München/Mering:
+Rainer Hampp Verlag, S. 165-187.</ref>
+<ref>Wimbauer, Christine/Henninger, Anette/Spura, Anke/Gottwald, Markus (2008): Eine
+Frage der Anerkennung. Wie Doppelkarriere-Paare Familie und Beruf vereinba-
+ren. In: WZB-Mitteilungen Nr. 119, S. 11-14.</ref>
+<ref>Witzel, Andreas (2000): Das problemzentrierte Interview [25 Absätze]. In: Forum
+Qualitative Sozialforschung (Online-Journal) 1, 1, Art. 22. http://nbn-resolving.
+de/urn:nbn:de:0114-fqs0001228 [Zugriff: 31.05.2011]</ref>
+<ref>Zimmer, Annette/Krimmer, Holger/Stallmann, Freia (2007): Frauen an Hochschulen:
+Winners among Losers. Zur Feminisierung der deutschen Universität. Opla-
+den/Farmington Hills: Barbara Budrich Verlag.</ref>

@@ -8,7 +8,7 @@ This repository contains manually inspected datasets for evaluating the differen
 * [reference-extraction](reference-extraction)
 	* [ref-tags](reference-extraction/ref-tags)
 
-	    Currently contains 85 randomly picked German SSOAR publications with annotated reference strings (see [Paper Selection](#paper-selection)).
+	    Currently contains 100 randomly picked German SSOAR publications with annotated reference strings (see [Paper Selection](#paper-selection)).
 	* [ref-strings](reference-extraction/ref-strings)
 
 		The reference strings (only in reference section) of papers are extracted from <ref></ref> tags and saved in text files. Each text file contains references of a paper and each reference string is saved in a separated line.
