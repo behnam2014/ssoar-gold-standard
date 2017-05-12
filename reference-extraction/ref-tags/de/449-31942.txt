@@ -2388,11 +2388,11 @@ ples: A review of counseling issues. In: The Family Journal 10, 4, S. 398-404.</
 American universities. Arbeitsbericht der Arbeitsgruppe „Wissenschaftspolitik“
 der Jungen Akademie, Berlin.</ref>
 <ref>Rusconi, Alessandra/Solga, Heike (2002): Auswertung der Befragung deutscher
-Hochschulen zur „Verflechtung von beruflichen Karrieren in Akademikerpart-</ref>
-Literatur
-187
+Hochschulen zur „Verflechtung von beruflichen Karrieren in Akademikerpart-
+<oth>Literatur
+187</oth>
 nerschaften“. Arbeitsbericht der Arbeitsgruppe „Wissenschaftspolitik“ der Jun-
-gen Akademie, Berlin.
+gen Akademie, Berlin.</ref>
 <ref>Rusconi, Alessandra/Solga, Heike (2004): Alters- und Erwerbskonstellationen in
 Akademikerpartnerschaften: Ein Vergleich zwischen 1971 und 1997. Arbeitsbe-
 richt der Arbeitsgruppe „Wissenschaftspolitik“ der Jungen Akademie, Berlin.</ref>
