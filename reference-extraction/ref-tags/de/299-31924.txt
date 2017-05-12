@@ -642,7 +642,7 @@ P
 1,00
 0,00 0 ≥001 ≥300 ≥500 ≥700 ≥900 ≥1010 ≥1030 ≥1050 ≥1070 B≥0190ruttoe≥2010inko≥2030mmen≥2050 in €≥2070je Mo≥2090nat ≥0310 ≥3030 ≥3050 ≥3070 ≥3090 ≥0410 ≥0430 ≥4050 ≥4070 ≥0490 ≥0510
 BEH 2004 EVS 2003 SOEP 2004
-<ref>Quelle: Eigene Berechnungen, EVS 2003, SOEP 2004, Beschäftigtenhistorik des IABs 2004.</ref>
+Quelle: Eigene Berechnungen, EVS 2003, SOEP 2004, Beschäftigtenhistorik des IABs 2004.
 Die Verteilung der Bruttoarbeitseinkommen zeigt eine deutliche Unterer-
 fassung von geringen Arbeitseinkommen zwischen 300 € je Monat und
 1.400 € und eine Übererfassung höherer Arbeitseinkommen. Allerdings ist
