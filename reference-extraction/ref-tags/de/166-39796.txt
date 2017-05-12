@@ -1044,8 +1044,8 @@ gen anzuschließen.
 Literatur
 <ref>Agnew, Ronald, 2006: Storylines as a Neglected Cause of Crime. Journal of Research in Crime
 and Delinquency 43: 119-147.
-<oth>94</oth>
-23. Jahrgang 2012, Heft 1</ref>
+<oth>94
+23. Jahrgang 2012, Heft 1</oth></ref>
 [Soziale Probleme]
 Steffen Zdun
 <ref>Anderson, Elijah, 1999: Code of the Street: Decency, Violence, and Moral Life of the Inner City.
@@ -1094,10 +1094,10 @@ cher türkischer Inhaftierter im geschlossenen Jugendstrafvollzug in Nordrhein-W
 Frankfurt: Peter Lang.</ref>
 <ref>Koch-Arzberger, Claudia/Bott, Klaus/Kerner, Hans-Jürgen/Reich, Kerstin, 2008: Mehrfach- und
 Intensivtäter in Hessen. Basisbericht. Wiesbaden: Hessisches Landeskriminalamt.
-[Soziale Probleme]
-<oth>95</oth>
+<oth>[Soziale Probleme]
+95
 Russlanddeutsche im Jugendstrafvollzug
-23. Jahrgang 2012, Heft 1</ref>
+23. Jahrgang 2012, Heft 1</oth></ref>
 <ref>Lösel, Friedrich/Bliesener, Thomas, 2003: Aggression und Delinquenz unter Jugendlichen. Mün-
 chen: Luchterhand.</ref>
 <ref>Osterloh, Kay, 2003: „Kriminelle Subkulturen“ bei Migranten und Migrantinnen aus der GUS.
@@ -1145,8 +1145,8 @@ gewalttätiger Verhaltensweisen in Cliquen junger Russlanddeutscher. Frankfurt/M
 Lang.</ref>
 <ref>Zdun, Steffen, 2008: Die Rechtfertigung abweichenden Verhaltens von Heranwachsenden im
 sozialen Kontext. Soziale Probleme 19: 178-202.
-<oth>96</oth>
-23. Jahrgang 2012, Heft 1</ref>
+<oth>96
+23. Jahrgang 2012, Heft 1</oth></ref>
 [Soziale Probleme]
 Steffen Zdun
 <ref>Zdun, Steffen, 2011: Immigration as a Trigger to Knife Off From Delinquency? Desistance and
