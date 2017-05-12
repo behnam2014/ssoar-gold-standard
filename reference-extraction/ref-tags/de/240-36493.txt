@@ -526,7 +526,7 @@ Europe First, in: Survival, 43 (Frühjahr
 <ref>Peter van Ham, Europes Postmodern
 Identity: A Critical Appraisal, in:
 International Politics, 38 (Juni 2001) 2,
-S. 229251<ref>
+S. 229251</ref>
 <ref>Martin Marcussen/Thomas Risse/Daniela
 Engelmann-Martin/Hans Joachim
 Knopf/Klaus Roscher, »Constructing
@@ -537,7 +537,7 @@ Special Issue, 1999, S. 614633</ref>
 <ref>Philippe Moreau Defarges, Après Nice: vers
 un gouvernement fédéral?, in: Politique
 Etrangère, 66 (2001) 2, S. 277288</ref>
-Hans Stark, FranceAllemagne: quel après-
+<ref>Hans Stark, FranceAllemagne: quel après-
 Nice?, in: Politique Etrangère, 66 (2001) 2,
 S. 289299</ref>
 © Stiftung Wissenschaft und
