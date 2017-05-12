@@ -3429,8 +3429,8 @@ Women. N Engl J Med 332 (17), S. 1138-1143 (http://content.nejm.org/cgi/reprint/
 <ref>Blumenthal, David (2006a). Employer-Sponsored Health Insurance in the United States – Origins and Im-
 plications. N Engl J Med 355 (1), S. 82-88 (http://content.nejm.org/cgi/reprint/355/1/82.pdf).</ref>
 <ref>Blumenthal, David (2006b). Employer-Sponsored Insurance – Riding the Health Care Tiger. N Engl J Med
-355 (2), S. 195-202 (http://content.nejm.org/cgi/reprint/355/2/195.pdf).
-Blustein, Jan (2000). Drug coverage and drug purchases by Medicare beneficiaries with hypertension. H Aff
+355 (2), S. 195-202 (http://content.nejm.org/cgi/reprint/355/2/195.pdf).</ref>
+<ref>Blustein, Jan (2000). Drug coverage and drug purchases by Medicare beneficiaries with hypertension. H Aff
 19 (2), S. 219-230 (http://content.healthaffairs.org/cgi/reprint/19/2/219).</ref>
 <ref>Bodenheimer, Thomas (2001). Affordable Prescriptions for the Elderly. JAMA 286 (14), S. 1762-1763
 (http://jama.ama-assn.org/cgi/reprint/286/14/1762).</ref>
@@ -3438,8 +3438,8 @@ Blustein, Jan (2000). Drug coverage and drug purchases by Medicare beneficiaries
 Med 142 (10), S. 847-854 (http://www.annals.org/cgi/reprint/142/10/847.pdf).</ref>
 73
 <ref>Bodenheimer, Thomas (2005). High and Rising Health Care Costs. Part 3: The Role of Health Care Provid-
-ers. Ann Intern Med 142 (12), S. 996-1002 (http://www.annals.org/cgi/reprint/142/12_Part_1/996.pdf).
-Böcken, Jan; Butzlaff, Martin; Esche, Andreas (Hrsg.) (2000). Reformen im Gesundheitswesen. Ergebnisse
+ers. Ann Intern Med 142 (12), S. 996-1002 (http://www.annals.org/cgi/reprint/142/12_Part_1/996.pdf).</ref>
+<ref>Böcken, Jan; Butzlaff, Martin; Esche, Andreas (Hrsg.) (2000). Reformen im Gesundheitswesen. Ergebnisse 
 der internationalen Recherche. Verlag Bertelsmann Stiftung, Gütersloh (http://www.bertelsmann-
 stiftung.de/cps/rde/xbcr/SID-0A000F0A-1EB3E760/stiftung/515.pdf).</ref>
 <ref>Boos-Nünning, Ursula; Lauterbach, Karl; Karsten, Rudolf; Weisskirchen, Gerd (2004). Mut zur Verände-
@@ -3748,8 +3748,8 @@ Drugs. Working Paper 10738, National Bureau of Economic Research, Cambridge
 health and labor outcomes: Experimental evidence. RAND, Santa Monica (http://www-
 personal.umich.edu/~bschoeni/irms2.pdf).</ref>
 <ref>Downs, John; Clearfield, Michael; Weis, Stephen; Whitney, Edwin; Shapiro, Deborah; Beere, Polly; Lan-
-gendorfer, Alexandra; Stein, Evan; Kruyer, William; Gotto, Antonio Jr for the AFCAPS/TexCAPS Research</ref>
-<ref>Group (1998). Primary prevention of acute coronary events with lovastatin in men and women with average
+gendorfer, Alexandra; Stein, Evan; Kruyer, William; Gotto, Antonio Jr for the AFCAPS/TexCAPS Research 
+Group (1998). Primary prevention of acute coronary events with lovastatin in men and women with average
 cholesterol levels: results of AFCAPS/TexCAPS. Air Force/Texas coronary atherosclerosis prevention
 study. JAMA 279 (20), S. 1615–22 (http://jama.ama-assn.org/cgi/reprint/279/20/1615).</ref>
 <ref>Drèze, Jacques (2001). Loss reduction and implicit deductibles in Medical Insurance. Université Catholique,
@@ -3764,8 +3764,8 @@ of psychoanalytic treatment) Der Nervenarzt 36 (4), S. 166–169 [Nachdruck in Z
 <ref>Dunn, Jeffrey; Cannon, Eric; Mitchell, Matthew; Curtiss, Frederic (2006). Utilization and drug cost out-
 comes of a step-therapy edit for generic antidepressants in an HMO in an integrated health system. J Manag
 Care Pharm 12 (4) S. 294-302 (http://www.amcp.org/data/jmcp/May06_Journal.pdf).</ref>
-<ref>Dustan, Harriet; Caplan, Louis; Curry, Charles; de Leon, Antonio; Douglas, Frank; Frishman, William; Hill,</ref>
-<ref>Martha; Washington, Reginald; Steigerwalt, Susan; Shulman, Neil (1992). Report of the Task Force on the
+<ref>Dustan, Harriet; Caplan, Louis; Curry, Charles; de Leon, Antonio; Douglas, Frank; Frishman, William; Hill, 
+Martha; Washington, Reginald; Steigerwalt, Susan; Shulman, Neil (1992). Report of the Task Force on the
 Availability of Cardiovascular Drugs to the Medically Indigent. Circ 85 (2), S. 849–860
 (http://circ.ahajournals.org/cgi/reprint/85/2/849).</ref>
 <ref>Eichner, Matthew (1998). The Demand for Medical Care: What People Pay does Matter. Am Econ Rev 88
@@ -3796,8 +3796,8 @@ and supply. J H Econ 5 (2), S. 129-151.</ref>
 <ref>Elofsson, Stig; Unden, Anna-Lena; Krakau, Ingvar. (1998). Patient charges – A Hindrance to Financially
 and Psicosocially Disadvantaged Groups Seeking Care. Soc Sc Med 46 (10), S. 1375-1380.</ref>
 <ref>Ensor, Tim; Duran-Moreno, Antonio (2002). Corruption as a challenge to effective regulation in the health
-sector. Saltman, Busse, Mossialos 2002, S. 106-124 (http://www.who.dk/document/OBS/REBC05.pdf).
-Enthoven, Alain (2004). Perspective: Market Forces And Efficient Health Care Systems. H Aff 23 (2), S.
+sector. Saltman, Busse, Mossialos 2002, S. 106-124 (http://www.who.dk/document/OBS/REBC05.pdf).</ref>
+<ref>Enthoven, Alain (2004). Perspective: Market Forces And Efficient Health Care Systems. H Aff 23 (2), S.
 25-27 (http://content.healthaffairs.org/cgi/reprint/23/2/25).</ref>
 <ref>Entwistle, Vikki (2004).Trust and shared decision-making: an emerging research agenda. H Expect 7 (4), S.
 271–273 (http://www.blackwell-synergy.com/doi/full/10.1111/j.1369-7625.2004.00304.x).</ref>
@@ -3962,8 +3962,8 @@ ployers Adopt New Forms of Cost Sharing. H Aff 22 (5), S. 117-126
 (http://content.healthaffairs.org/cgi/reprint/22/5/117).</ref>
 <ref>Galbraith, Alison; Wong, Sabrina; Kim, Sue; Newacheck, Paul (2005). Out-of-pocket financial burden for
 low-income families with children: socioeconomic disparities and effects of insurance. H Serv Res 40 (6), S.
-1722-1736 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2005.00421.x;</ref>
-<ref>http://www.findarticles.com/p/articles/mi_m4149/is_6_40/ai_n16015023).</ref>
+1722-1736 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2005.00421.x; 
+http://www.findarticles.com/p/articles/mi_m4149/is_6_40/ai_n16015023).</ref>
 <ref>Garber, Alan (2004). Cost-Effectiveness And Evidence Evaluation As Criteria For Coverage Policy. H Aff –
 Web Excl, S. w4 284-296 (http://content.healthaffairs.org/cgi/reprint/hlthaff.w4.284v1).</ref>
 <ref>Garfield, Sarah; Smith, Felicity; Francis, Sally-Anne; Chalmers, Colin (2007). Can patients’ preferences for
@@ -4178,8 +4178,8 @@ form: the New Zealand experiment. H Pol 72 (1), S. 9-23.</ref>
 (2004). The health effects of restricting prescription medication use because of cost. Med Care 42 (7), S.
 626-634.</ref>
 <ref>Heller, Simon (2007). Self monitoring of blood glucose in type 2 diabetes. Clinicians should Stopp patients
-doing this if it has no benefit. BMJ 335 (7611), S. 105-106 (http://www.bmj.com/cgi/reprint/335/7611/105).
-Helms, Jay; Newhouse, Joseph; Phelps, Charles (1978). Copayments and Demand for Medical Care: The
+doing this if it has no benefit. BMJ 335 (7611), S. 105-106 (http://www.bmj.com/cgi/reprint/335/7611/105).</ref>
+<ref>Helms, Jay; Newhouse, Joseph; Phelps, Charles (1978). Copayments and Demand for Medical Care: The
 California Medicaid Experience. Bell J Econ 9 (1), S. 192-208 (http://links.jstor.org/sici?sici=0361-
 915X%28197821%299%3A1%3C192%3ACADFMC%3E2.0.CO%3B2-H;
 http://www.rand.org/pubs/reports/2005/R2167.pdf).</ref>
@@ -4239,8 +4239,8 @@ Law Journal 78 (2), S. 659-721 (http://www.law.indiana.edu/ilj/volumes/v78/no2/h
 <ref>Hoffmann, Barbara; Moebus, Susanne; Möhlenkamp, Stefan; Stang, Andreas; Lehmann, Nils; Dragano,
 Nico; Schmermund, Axel; Memmesheimer, Michael; Mann, Klaus; Erbel, Raimund; Jöckel, Karl-Heinz;
 Heinz Nixdorf Recall Study Investigative Group (2007). Residential Exposure to Traffic Is Associated With
-Coronary Atherosclerosis. Circ 116 (5), S. 489-496 (http://circ.ahajournals.org/cgi/reprint/116/5/489).
-Hohmann, Jürgen (1998). Gesundheits-, Sozial- und Rehabilitationssysteme in Europa. Gesellschaftliche So-
+Coronary Atherosclerosis. Circ 116 (5), S. 489-496 (http://circ.ahajournals.org/cgi/reprint/116/5/489).</ref>
+<ref>Hohmann, Jürgen (1998). Gesundheits-, Sozial- und Rehabilitationssysteme in Europa. Gesellschaftliche So-
 lidarität auf dem Prüfstand. Verlag Hans Huber. Bern.</ref>
 <ref>Höhn, Werner (1986). Selbstbeteiligung – Nicht nur ein gesundheitsökonomisches, sondern auch ein ge-
 sundheitspolitisches Thema. Mensch, Medizin, Gesellschaft 11 (1), S. 23-31.</ref>
@@ -4321,8 +4321,8 @@ assn.org/cgi/reprint/62/4/435).</ref>
 The Effect of Three-Tier Formulary Adoption on Medication Continuation and Spending among Elderly Re-
 tirees. H Serv Res 42 (5), S. 1926-1942 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475
 6773.2007.00722.x).</ref>
-<ref>Huttin, Christine (1994). The use of prescription charges. H Pol 27 (1), S. 53-73.
-Initiative Neue Soziale Marktwirtschaft (ISNM) (o.J.). Eigeninitiative und Solidarität. Der zukunftssichere
+<ref>Huttin, Christine (1994). The use of prescription charges. H Pol 27 (1), S. 53-73.</ref>
+<ref>Initiative Neue Soziale Marktwirtschaft (ISNM) (o.J.). Eigeninitiative und Solidarität. Der zukunftssichere
 Sozialstaat. Themenheft Nr. 5, Köln (http://www.insm.de/Downloads/PDF_-
 _Dateien/Publikationen_Kostenlose_Downloads/Soziales_Themenheft5.pdf).</ref>
 <ref>Internationale Gesellschaft für Gesundheitsökonomie (1980). Selbstbeteiligung im Gesundheitswesen. Be-
@@ -4338,8 +4338,8 @@ schale. Alternative Finanzierungsgrundlagen für die Gesetzliche Krankenversiche
 Stiftung, Bonn (wido.de/fileadmin/wido/downloads/
 pdf_gesundheitssystem/wido_ges_fes_bv_vs_kp_1104.pdf).</ref>
 <ref>Jemiai, Nadia; Thomson, Sarah; Mossialos, Elias (2004). An overview of cost sharing for health services in
-the European Union. Euro Observer 6 (3) (http://www.euro.who.int/Document/Obs/EuroObserver6_3.pdf).
-Jessen, Jens (1999). Selbstbeteiligung: Noch nicht ausgereizt. Dt. Ärztebl 96 (15), S. B-738 – 738
+the European Union. Euro Observer 6 (3) (http://www.euro.who.int/Document/Obs/EuroObserver6_3.pdf).</ref>
+<ref>Jessen, Jens (1999). Selbstbeteiligung: Noch nicht ausgereizt. Dt. Ärztebl 96 (15), S. B-738 – 738
 (http://www.aerzteblatt.de/v4/archiv/artikel.asp?src=suche&id=16587).</ref>
 <ref>Jinnett, Kimberly; Parry, Thomas; Lu, Yifan (2007). A Broader Reach for Pharmacy Plan Design. The Dis-
 ability Effects of Cost Shifting. Integrated Benefit Institute, San Francisco
@@ -4387,8 +4387,8 @@ Care 13 (7), S. 408-416 (http://www.ajmc.com/files/articlefiles/AJMC_07julyKarte
 <ref>Kasje, Willeke; Timmer, J. W.; Boendermaker, Peter; Haaijer-Ruskamp, Flora (2002). Dutch GPs’ percep-
 tions: the influence of out-of-pocket costs on prescribing. Soc Sci Med 55 (9), S. 1571-1578.</ref>
 <ref>Katz, David (2001). A Solution for Rising Drug Costs. Employers may start to move away from fixed co-
-payments. CFO Publishing Corporation, New York (http://www.cfo.com/article.cfm/2991456?f=related).
-Katz, Michael; Rosen, Richard (1994). Microeconomics. 2. Ausg., McGraw-Hill, Irwin, Illinios. ISBN 0-
+payments. CFO Publishing Corporation, New York (http://www.cfo.com/article.cfm/2991456?f=related).</ref>
+<ref>Katz, Michael; Rosen, Richard (1994). Microeconomics. 2. Ausg., McGraw-Hill, Irwin, Illinios. ISBN 0-
 256-17176-9.</ref>
 <ref>Kaufmann, Franz-Xaver (1997). Herausforderungen des Sozialstaates. Frankfurt a. M.</ref>
 <ref>Kaufmann, Stephan (2004). Der Problemlöser. Berliner Zeitung 6.3.2004, S. M04/05
@@ -4499,8 +4499,8 @@ J Man Care 13 (6, Part 2), S. 360-369
 wirkungen von Selbstbeteiligungen und Härtefallregelungen. Volkswirtschaftliche Diskussionsreihe, Wirt-
 schaftswissenschaftliche Fakultät, Universität Augsburg (http://www.wiwi.uni-
 augsburg.de/vwl/institut/paper/285.pdf).</ref>
-<ref>LaRosa John; Grundy, Scott; Waters, David; Shear, Charles; Barter, Philip; Fruchart, Jean-Charles; Gotto,</ref>
-<ref>Antonio; Greten, Heiner; Kastelein, John; Shepherd, James; Wenger, Nanette (2005). Intensive lipid lower-
+<ref>LaRosa John; Grundy, Scott; Waters, David; Shear, Charles; Barter, Philip; Fruchart, Jean-Charles; Gotto,
+Antonio; Greten, Heiner; Kastelein, John; Shepherd, James; Wenger, Nanette (2005). Intensive lipid lower-
 ing with atorvastatin in patients with stable coronary disease. N Engl J Med 352 (14), S. 1425–1435
 (http://content.nejm.org/cgi/reprint/352/14/1425.pdf).</ref>
 <ref>Laufs, Ulrich; Hamm, Christian; Böhm, Michael (2006). Übersicht: Statintherapie bei koronarer Herzkrank-
@@ -4555,7 +4555,7 @@ vices use and health status: A review of evidence. Draft. Universität Toronto
 vices Use and on Health Status in Vulnerable Populations: A Systematic Review of the Evidence. Int J H
 Serv 34 (1), S. 101-122
 (http://baywood.metapress.com/media/m5uc84pnnp4qukf91h1k/contributions/4/m/3/e/4m3el0yfw1tdekg0.p
-df).<ref>
+df).</ref>
 <ref>Liang, Su-Ying; Phillips, Kathryn; Tye, Sherilyn; Haas, Jennifer; Sakowski, Julie (2004). Does Patient Cost
 Sharing Matter? Its Impact on Recommended Versus Controversial Cancer Screening Services. Am J Manag
 Care 10 (2), S. 99-107 (http://www.ajmc.com/files/articlefiles/AJMC2004febLiang99-107.pdf).</ref>
@@ -4720,8 +4720,8 @@ cial Affairs Committee, OECD, Paris (http://www.oecd.org/dataoecd/30/56/2511003.
 http://www.olis.oecd.org/olis/2003doc.nsf/3dce6d82b533cf6ec125685d005300b4/c3949eecb0ba78cec1256d
 10004aaa95/$FILE/JT00143165.PDF).</ref>
 <ref>Mojtabai, Ramin; Olfson Mark (2003). Medication Costs, Adherence, And Health Outcomes Among Medi-
-care Beneficiaries. H Aff 22 (4), S. 220-229 (http://content.healthaffairs.org/cgi/reprint/22/4/220).
-Montenegro-Torres, Fernando; Engelhardt, Timothy; Thamer, Mae; Anderson, Gerard (2001). Are Fortune
+care Beneficiaries. H Aff 22 (4), S. 220-229 (http://content.healthaffairs.org/cgi/reprint/22/4/220).</ref>
+<ref>Montenegro-Torres, Fernando; Engelhardt, Timothy; Thamer, Mae; Anderson, Gerard (2001). Are Fortune
 100 companies responsive to chronically ill workers? H Aff 20 (4), S. 209-219
 (http://content.healthaffairs.org/cgi/reprint/20/4/209).</ref>
 <ref>Moran, John; Simon, Kosali (2005). Income and the Use of Prescription Drugs by the Elderly: Evidence
@@ -4800,7 +4800,7 @@ M).</ref>
 study. RAND, The Insurance Experiment Group/Harvard University Press, Cambridge. ISBN 0-674-31846-
 3/ 0-674-31914-1.</ref>
 <ref>Newhouse, Joseph (2004a). How Much Should Medicare Pay for Drugs? H Aff 23 (1), S. 89-102
-(http://content.healthaffairs.org/cgi/reprint/23/1/89).<ref>
+(http://content.healthaffairs.org/cgi/reprint/23/1/89).</ref>
 <ref>Newhouse, Joseph (2004a). Consumer-directed health plans and the RAND Health Insurance Experiment. H
 Aff 23 (6), S. 107-113 (http://content.healthaffairs.org/cgi/reprint/23/6/107).</ref>
 <ref>Nichols, Len; Ginsburg, Paul; Berenson, Robert: Christianson, Jon; Hurley, Robert (2004). Are Market
@@ -4808,15 +4808,15 @@ Forces Strong Enough To Deliver Efficient Health Care Systems? Confidence Is Wan
 21 (http://content.healthaffairs.org/cgi/reprint/23/2/8).</ref>
 <ref>Nink, Katrin; Schröder, Helmut (2004a). Ökonomische Aspekte des deutschen Arzneimittelmarktes 2003.
 In: Schwabe, Ulrich; Paffrath, Dieter (2004). Arzneiverordnungsreport 2004. Aktuelle Daten, Kosten,
-Trends und Kommentare, Springer Verlag, Berlin, S. 137-175.<ref>
+Trends und Kommentare, Springer Verlag, Berlin, S. 137-175.</ref>
 <ref>Nink, Katrin; Schröder, Helmut (2004b). Arzneimittelverordnungen nach Alter und Geschlecht. In: Schwa-
 be, Ulrich; Paffrath, Dieter (2004). Arzneiverordnungsreport 2004. Aktuelle Daten, Kosten, Trends und
-Kommentare, Springer Verlag, Berlin, S. 1099-1111.<ref>
+Kommentare, Springer Verlag, Berlin, S. 1099-1111.</ref>
 <ref>Nissen, Steven; Tuzcu, Murat; Schoenhagen, Paul; Brown, Greg; Ganz, Peter; Vogel, Robert; Crowe, Tim;
 Howard, Gail; Cooper, Christopher; Brodie, Bruce; Grines, Cindy; DeMaria, Anthony (2004). Effect of in-
 tensive compared with moderate lipid-lowering therapy on progression of coronary atherosclerosis: a ran-
-domized controlled trial. JAMA 291 (3), S. 1071–1080 (http://jama.ama-assn.org/cgi/reprint/291/9/1071).
-Nixon, John;·Ulmann, Philippe (2006). The relationship between health care expenditure and health out-
+domized controlled trial. JAMA 291 (3), S. 1071–1080 (http://jama.ama-assn.org/cgi/reprint/291/9/1071).</ref>
+<ref>Nixon, John;·Ulmann, Philippe (2006). The relationship between health care expenditure and health out-
 comes. Evidence and caveats for a causal link. Eur J H Econ 7 (1), S. 7-18
 (http://www.springerlink.com/content/y00147rq18r72p77/fulltext.pdf).</ref>
 <ref>Normand, Charles; Busse, Reinhard (2002). Social health insurance (SHI) financing. In: Mossialos, Elias;
@@ -4834,8 +4834,8 @@ mek, Dominik; Oreskovic, Stjepan; Laskowska, Monika (2003). Health care reform i
 countries. A focus on health economic requirements in the drug pricing and reimbursement processes. Eur J
 H Econ 4 (4), S. 286–291 (http://www.springerlink.com/content/rapdf9xpnqc7ge6h/fulltext.pdf).</ref>
 <ref>Nyman, John (1999a). The value of health insurance: the access motive. J H Econ 18 (2), S. 141-152.</ref>
-<ref>Nyman, John (1999b). The economics of moral hazard revisited. J H Econ 18 (6), S. 811-824.
-Nyman, John (2003). Health Insurance Theory: The Case of the Vanishing Welfare Gain. Division of Health
+<ref>Nyman, John (1999b). The economics of moral hazard revisited. J H Econ 18 (6), S. 811-824.</ref>
+<ref>Nyman, John (2003). Health Insurance Theory: The Case of the Vanishing Welfare Gain. Division of Health
 Services Research and Policy, University of Minnesota, Minneapolis
 (http://www.econ.umn.edu/workingpapers/Nyman319.pdf).</ref>
 <ref>Nyman, John (2004). Is ‘Moral Hazard’ Inefficient? The Policy Implications Of A New Theory. H Aff 23
@@ -4856,8 +4856,8 @@ Sharing. Congress of the United States, Princeton (www.wws.princeton.edu/cgi-bin
 serv.prl/~ota/disk1/1993/9310/9310.PDF).</ref>
 <ref>O’Grady, Kevin; Manning, Willard; Newhouse, Joseph; Brook, Robert (1985). The Impact of Cost Sharing
 on Emergency Department Use. N Engl J Med 313 (8), S. 484-490
-(http://content.nejm.org/cgi/content/abstract/305/25/1501).
-Organisation for Economic Co-operation and Development (OECD) (2004a). Towards High-Performing
+(http://content.nejm.org/cgi/content/abstract/305/25/1501).</ref>
+<ref>Organisation for Economic Co-operation and Development (OECD) (2004a). Towards High-Performing
 Health Systems. The OECD Health Project, Paris (http://skylla.wz-berlin.de/fulltext/buch-vt/2004/DD-
 90483.pdf).</ref>
 <ref>Organisation for Economic Co-operation and Development (OECD) (2004b). Towards High-Performing
@@ -4969,8 +4969,8 @@ Al; Grimes, Kelly; Morgan, Steve; Parent, Karen; Sinclair, Duncan; Thompson, Viv
 (2004). Understand Health Care Cost Drivers and Escalators. Health, Health Care and Wellness, Report
 March 2004, The Conference Board of Canada, Ottawa (www.conferenceboard.ca).</ref>
 <ref>Prentice, Julia; Pizer, Steven (2007). Delayed Access to Health Care and Mortality. H Serv Res 42 (2), S.
-644–662 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2006.00626.x).
-Probst, Josef (2004). Selbstbehalt – Sozialer und gesundheitspolitischer Widerspruch. In: Wurzer et al.
+644–662 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2006.00626.x).</ref>
+<ref>Probst, Josef (2004). Selbstbehalt – Sozialer und gesundheitspolitischer Widerspruch. In: Wurzer et al.
 2004, S. 21-30.</ref>
 <ref>Provost Peters, Christie (2004). Fundamentals of the Prescription Drug Market. NHPF Background Paper,
 National Health Policy Forum, George Washington University, Washington DC
@@ -5134,8 +5134,8 @@ Why. H Aff 25 (6), S. w552–w554 (http://content.healthaffairs.org/cgi/content/
 <ref>Rothman, Max (1992). Cost-Sharing and the Future of Fees for Service for Frail Elders in State Programs. J
 Appl Geront 11 (4), S. 441-456 (http://jag.sagepub.com/cgi/reprint/11/4/441).</ref>
 <ref>Rouleau, Jean; Moye, Lemuel; Pfeffer, Marc; Arnold, Malcolm; Bernstein, Victoria; Cuddy, Thomas; Da-
-genais, Gilles; Geltman, Edward; Goldman, Steven; Gordon, David; Hamm, Peggy; Klein, Marc; Lamas,</ref>
-<ref>Gervasio; McCans, John; McEwan, Patricia; Menapace, Francis; Parker, John; Sestier, François; Sussex,
+genais, Gilles; Geltman, Edward; Goldman, Steven; Gordon, David; Hamm, Peggy; Klein, Marc; Lamas,
+Gervasio; McCans, John; McEwan, Patricia; Menapace, Francis; Parker, John; Sestier, François; Sussex,
 Bruce; Braunwald, Eugene (1993). A comparison of management patterns after acute myocardial infarction
 in Canada and the United States. N Engl J Med 328 (11), S. 779-784
 (http://content.nejm.org/cgi/content/full/328/11/779).</ref>
@@ -5160,8 +5160,8 @@ zerorientierung und Qualität. Bd. I: Finanzierung und Nutzerorientierung. Nomos
 <ref>Sachverständigenrat für die konzertierte Aktion im Gesundheitswesen (SVR) (2003c). Finanzierung, Nut-
 zerorientierung und Qualität Bd. II: Qualität und Versorgungsstrukturen. Nomos Verlag, Baden-Baden,
 ISBN - 3-8329-0409-3 (SVR 2003c).</ref>
-<ref>Sacks, Frank; Pfeffer, Marc; Moye, Lemuel; Rouleau, Jean; Rutherford, John; Cole,Thomas; Brown, Lisa;</ref>
-<ref>Warnica, Wayne; Arnold, Malcolm; Chuan-Chuan, Wun; Davis, Barry; Braunwald, Eugene (1996). The ef-
+<ref>Sacks, Frank; Pfeffer, Marc; Moye, Lemuel; Rouleau, Jean; Rutherford, John; Cole,Thomas; Brown, Lisa;
+Warnica, Wayne; Arnold, Malcolm; Chuan-Chuan, Wun; Davis, Barry; Braunwald, Eugene (1996). The ef-
 fect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels.</ref>
 Cholesterol and Recurrent Events Trial investigators. N Engl J Med 335 (14), S. 1001-1009
 (http://content.nejm.org/cgi/reprint/335/14/1001.pdf).</ref>
@@ -5265,7 +5265,7 @@ des Verkehrs in Deutschland, Aufdatierung 2005. Schlussbericht, INFRAS, Zürich 
 http://www.allianz-pro-schiene.de/cms/upload/pdf-Dateien/Publikationen/070300_Externe-
 Kosten_Management_Summary.pdf).</ref>
 <ref>Schroeder, Steven; Cantor, Joel (1991). On Squeezing Balloons: Cost Control Fails. N Engl J Med 325 (15),
-S. 1099-1100.<ref>
+S. 1099-1100.</ref>
 <ref>Schulenburg, Johann-Matthias Graf von der (1984a). Möglichkeiten und Probleme der Steuerung der Nach-
 frage nach Gesundheitsleistungen. Medizin, Mensch, Gesellschaft 9 (4), S. 251-259.</ref>
 <ref>Schulenburg, Johann-Matthias Graf von der (1984b). Economic Aspects of Cost-Sharing in Medical Insur-
@@ -5294,8 +5294,8 @@ compliance with statin therapy and low-density lipoprotein cholesterol goal atta
 population. Am J Manag Care 11 (5), S.306-312
 (http://www.ajmc.com/files/articlefiles/AJMC05May_Schultz306to312.pdf).</ref>
 <ref>Schwartz, Gregory; Olsson, Anders; Ezekowitz, Michael; Ganz, Peter; Oliver, Michael; Waters, David; Zei-
-her, Andreas; Chaitman, Bernard; Leslie, Sally; Stern, Theresa for the Myocardial Ischemia Reduction with</ref>
-<ref>Aggressive Cholesterol Lowering Study Investigators (2001). Effects of atorvastatin on early recurrent
+her, Andreas; Chaitman, Bernard; Leslie, Sally; Stern, Theresa for the Myocardial Ischemia Reduction with 
+Aggressive Cholesterol Lowering Study Investigators (2001). Effects of atorvastatin on early recurrent
 ischemic events in acute coronary syndromes: the MIRACL study: a randomized controlled trial. JAMA 285
 (13), S. 1711–1718 (http://jama.ama-assn.org/cgi/reprint/285/13/1711).</ref>
 <ref>Schwarz, Eli (1996). Changes in Utilization and Cost Sharing within the Danish Health Insurance Dental
@@ -5488,8 +5488,8 @@ in clinical decision-making. Can Med Assoc J 157 (4), S. 383–389
 <ref>Stoddart, Greg; Barer, Morris; Evans, Robert; Bhatia, Vandha (1993). Why Not Users Charges? The real is-
 sues. HPRU, 93. 12D, Centre for Health Services and Policy Research, University of British Columbia,
 Vancouver(http://www.chspr.ubc.ca/hpru/pdf/hpru93-12D.pdf).</ref>
-<ref>Stone, Erin; Morton, Sally; Hulscher, Marlies; Maglione, Margaret; Roth, Elizabeth; Grimshaw, Jeremy;</ref>
-<ref>Mittman, Brian; Rubenstein, Lisa; Rubenstein, Laurence; Shekelle, Paul (2002). Interventions That Increase
+<ref>Stone, Erin; Morton, Sally; Hulscher, Marlies; Maglione, Margaret; Roth, Elizabeth; Grimshaw, Jeremy;
+Mittman, Brian; Rubenstein, Lisa; Rubenstein, Laurence; Shekelle, Paul (2002). Interventions That Increase
 Use of Adult Immunization and Cancer Screening Services: A Meta-Analysis. Ann Int Med 136, S. 641-651
 (http://www.annals.org/cgi/reprint/136/9/641.pdf).</ref>
 <ref>Street, Andrew; Jones, Andrew; Furuta, Aya (1999). Cost-sharing and pharmaceutical utilisation and expen-
@@ -5838,8 +5838,8 @@ Medication Use and Health Outcomes in Post-Acute Coronary Syndrome Patients. Am 
 (10), S. 581-587 (http://www.ajmc.com/files/articlefiles/AJMC06_Yang581to587.pdf).</ref>
 <ref>Yegian, Mathews (2006). Coordinated Care In A ‘Consumer-Driven' Health System. H Aff 25 (6), S. w531-
 w536 (http://content.healthaffairs.org/cgi/content/full/hlthaff.25.w531v1/DC1).</ref>
-<ref>Zahnforum (2004). Gesundheitsreform bringt Einsparungen bei Patienten ärgern sich über Zuzahlungen.</ref>
-<ref>Kassenzahnärztliche Vereinigung Baden-Württemberg, Freiburg (http://www.zahn-
+<ref>Zahnforum (2004). Gesundheitsreform bringt Einsparungen bei Patienten ärgern sich über Zuzahlungen.
+Kassenzahnärztliche Vereinigung Baden-Württemberg, Freiburg (http://www.zahn-
 fo-
 rum.de/zf/zf.nsf/ContentByKey/6B0D49708F17F722C1256E4D002EADBB?open&WDT=Print_Standard_
 PA&DL=Print).</ref>
