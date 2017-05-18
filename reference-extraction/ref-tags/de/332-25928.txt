@@ -3439,7 +3439,7 @@ Med 142 (10), S. 847-854 (http://www.annals.org/cgi/reprint/142/10/847.pdf).</re
 73
 <ref>Bodenheimer, Thomas (2005). High and Rising Health Care Costs. Part 3: The Role of Health Care Provid-
 ers. Ann Intern Med 142 (12), S. 996-1002 (http://www.annals.org/cgi/reprint/142/12_Part_1/996.pdf).</ref>
-<ref>Böcken, Jan; Butzlaff, Martin; Esche, Andreas (Hrsg.) (2000). Reformen im Gesundheitswesen. Ergebnisse 
+<ref>Böcken, Jan; Butzlaff, Martin; Esche, Andreas (Hrsg.) (2000). Reformen im Gesundheitswesen. Ergebnisse
 der internationalen Recherche. Verlag Bertelsmann Stiftung, Gütersloh (http://www.bertelsmann-
 stiftung.de/cps/rde/xbcr/SID-0A000F0A-1EB3E760/stiftung/515.pdf).</ref>
 <ref>Boos-Nünning, Ursula; Lauterbach, Karl; Karsten, Rudolf; Weisskirchen, Gerd (2004). Mut zur Verände-
@@ -3748,7 +3748,7 @@ Drugs. Working Paper 10738, National Bureau of Economic Research, Cambridge
 health and labor outcomes: Experimental evidence. RAND, Santa Monica (http://www-
 personal.umich.edu/~bschoeni/irms2.pdf).</ref>
 <ref>Downs, John; Clearfield, Michael; Weis, Stephen; Whitney, Edwin; Shapiro, Deborah; Beere, Polly; Lan-
-gendorfer, Alexandra; Stein, Evan; Kruyer, William; Gotto, Antonio Jr for the AFCAPS/TexCAPS Research 
+gendorfer, Alexandra; Stein, Evan; Kruyer, William; Gotto, Antonio Jr for the AFCAPS/TexCAPS Research
 Group (1998). Primary prevention of acute coronary events with lovastatin in men and women with average
 cholesterol levels: results of AFCAPS/TexCAPS. Air Force/Texas coronary atherosclerosis prevention
 study. JAMA 279 (20), S. 1615–22 (http://jama.ama-assn.org/cgi/reprint/279/20/1615).</ref>
@@ -3764,7 +3764,7 @@ of psychoanalytic treatment) Der Nervenarzt 36 (4), S. 166–169 [Nachdruck in Z
 <ref>Dunn, Jeffrey; Cannon, Eric; Mitchell, Matthew; Curtiss, Frederic (2006). Utilization and drug cost out-
 comes of a step-therapy edit for generic antidepressants in an HMO in an integrated health system. J Manag
 Care Pharm 12 (4) S. 294-302 (http://www.amcp.org/data/jmcp/May06_Journal.pdf).</ref>
-<ref>Dustan, Harriet; Caplan, Louis; Curry, Charles; de Leon, Antonio; Douglas, Frank; Frishman, William; Hill, 
+<ref>Dustan, Harriet; Caplan, Louis; Curry, Charles; de Leon, Antonio; Douglas, Frank; Frishman, William; Hill,
 Martha; Washington, Reginald; Steigerwalt, Susan; Shulman, Neil (1992). Report of the Task Force on the
 Availability of Cardiovascular Drugs to the Medically Indigent. Circ 85 (2), S. 849–860
 (http://circ.ahajournals.org/cgi/reprint/85/2/849).</ref>
@@ -3962,7 +3962,7 @@ ployers Adopt New Forms of Cost Sharing. H Aff 22 (5), S. 117-126
 (http://content.healthaffairs.org/cgi/reprint/22/5/117).</ref>
 <ref>Galbraith, Alison; Wong, Sabrina; Kim, Sue; Newacheck, Paul (2005). Out-of-pocket financial burden for
 low-income families with children: socioeconomic disparities and effects of insurance. H Serv Res 40 (6), S.
-1722-1736 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2005.00421.x; 
+1722-1736 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-6773.2005.00421.x;
 http://www.findarticles.com/p/articles/mi_m4149/is_6_40/ai_n16015023).</ref>
 <ref>Garber, Alan (2004). Cost-Effectiveness And Evidence Evaluation As Criteria For Coverage Policy. H Aff –
 Web Excl, S. w4 284-296 (http://content.healthaffairs.org/cgi/reprint/hlthaff.w4.284v1).</ref>
@@ -4127,10 +4127,10 @@ ability of Adverse Drug Events Among Older Persons in the Ambulatory Setting. JA
 den – Praxisbeispiele. Kohlhammer-Verlag, Stuttgart-Berlin-Köln.</ref>
 <ref>Hajen, Leonhard (2004). Steuerung über Preise erfordert Stewardship. Working Papers on Economic Go-
 vernance, Arbeitspapier für Staatswissenschaft Nr. 08, Hamburger Universität für Wirtschaft und Politik,
-Hamburg (http://www.hwp-hamburg.de/fach/fg_vwl/DozentInnen/heise/Materials/WP_StaatsWiss/08
+Hamburg (http://www.hwp-hamburg.de/fach/fg_vwl/DozentInnen/heise/Materials/WP_StaatsWiss/08-
 Stewardship.pdf).</ref>
 <ref>Hall, Charles Jr. (1966). Deductibles in Health Insurance: An Evaluation. J Risk Ins 33 (2), S. 253-263
-(http://links.jstor.org/sici?sici=0022-4367%28196606%2933%3A2%3C253%3ADIHIAE%3E2.0.CO%3B2K).</ref>
+(http://links.jstor.org/sici?sici=0022-4367%28196606%2933%3A2%3C253%3ADIHIAE%3E2.0.CO%3B2-</ref>
 <ref>Halton Social Planning Council & Volunteer Centre, Ontario
 (http://www.haltonspcvc.on.ca/dispatch/cd0403.htm).</ref>
 87
@@ -4319,7 +4319,7 @@ Deficit/Hyperactivity Disorder in Children. Arch Gen Psych 62 (4), S. 435 – 44
 assn.org/cgi/reprint/62/4/435).</ref>
 <ref>Huskamp, Haiden; Deverka, Patricia; Landrum, Mary Beth; Epstein, Robert; McGuigan, Kimberly (2007).
 The Effect of Three-Tier Formulary Adoption on Medication Continuation and Spending among Elderly Re-
-tirees. H Serv Res 42 (5), S. 1926-1942 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475
+tirees. H Serv Res 42 (5), S. 1926-1942 (http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1475-
 6773.2007.00722.x).</ref>
 <ref>Huttin, Christine (1994). The use of prescription charges. H Pol 27 (1), S. 53-73.</ref>
 <ref>Initiative Neue Soziale Marktwirtschaft (ISNM) (o.J.). Eigeninitiative und Solidarität. Der zukunftssichere
@@ -4577,7 +4577,7 @@ periment. West J Med 145 (4), S. 537-545
 (http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1307010&blobtype=pdf).</ref>
 <ref>López-Bastida, Julio; Mossialos, Elias (2000). Pharmaceutical Expenditure in Spain: Cost and Control. Int J
 H Serv 30 (3), S. 597-616
-(http://baywood.metapress.com/media/h07c757ywk0vvh95hh1k/contributions/y/l/3/j/yl3jqk9b0nmqkmvk.pdf).</ref>
+(http://baywood.metapress.com/media/h07c757ywk0vvh95hh1k/contributions/y/l/3/j/yl3jqk9b0nmqkmvk.pd</ref>
 96
 <ref>Lostao, Lourdes; Regidor, Enrique; Geyer, Siegfried; Aïach, Pierre (2007). Patient cost sharing and social
 inequalities in access to health care in three western European countries. Soc Sci Med 65 (2), S. 367-376.</ref>
@@ -5294,7 +5294,7 @@ compliance with statin therapy and low-density lipoprotein cholesterol goal atta
 population. Am J Manag Care 11 (5), S.306-312
 (http://www.ajmc.com/files/articlefiles/AJMC05May_Schultz306to312.pdf).</ref>
 <ref>Schwartz, Gregory; Olsson, Anders; Ezekowitz, Michael; Ganz, Peter; Oliver, Michael; Waters, David; Zei-
-her, Andreas; Chaitman, Bernard; Leslie, Sally; Stern, Theresa for the Myocardial Ischemia Reduction with 
+her, Andreas; Chaitman, Bernard; Leslie, Sally; Stern, Theresa for the Myocardial Ischemia Reduction with
 Aggressive Cholesterol Lowering Study Investigators (2001). Effects of atorvastatin on early recurrent
 ischemic events in acute coronary syndromes: the MIRACL study: a randomized controlled trial. JAMA 285
 (13), S. 1711–1718 (http://jama.ama-assn.org/cgi/reprint/285/13/1711).</ref>
