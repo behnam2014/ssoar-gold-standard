@@ -7,9 +7,9 @@ Gras, A./Moricot, C./Poirot-Delpech, S.L./Scardigli, V., 1994: Faced with Automa
 Hack, Gert, 2004: Auf Distanz. Technik im Detail: Unterwegs im BMW 530d mit aktiver Geschwindigkeitsregelung, in: FAZ 09.11.2004: T3
 Herrtwich, R.G., 2003: Fahrzeuge am Netz, in: Mattern 2003, 63-83
 Krohn, Wolfgang/Johannes Weyer, 1989: Gesellschaft als Labor. Die Erzeugung sozialer Risiken durch experimentelle Forschung, in: Soziale Welt 40: 349-373
-Mattern, F., (Hg.), 2003: Total vernetzt. Szenarien einer informatisierten Welt (7.Berliner Kolloquium der Gottlieb Daimler- und Karl Benz-Stiftung), Heidelberg: Springer
-Rammert, W./Schulz-Schaeffer, I., (Hg.), 2002: Können Maschinen handelnSoziologische Beiträge zum Verhältnis von Mensch und Technik, Frankfurt/M.: Campus
-Rossberg, Ralf Roman, 1999: Ausfall der Zugsteuerung ließ CitySprinter ins Unglück rollen. Stadtbahn-Unfall in Köln: Verkettung unglücklicher Umstände führte zum Zusammenstoß, in: VDI-Nachrichten 03.09.1999: 11, http://ods.schule.de/bics/son/verkehr/presse/1999_2/v3292_06.htm (22.12.05) 
+Mattern, F., (Hg.), 2003: Total vernetzt. Szenarien einer informatisierten Welt (7. Berliner Kolloquium der Gottlieb Daimler- und Karl Benz-Stiftung), Heidelberg: Springer
+Rammert, W./Schulz-Schaeffer, I., (Hg.), 2002: Können Maschinen handeln? Soziologische Beiträge zum Verhältnis von Mensch und Technik, Frankfurt/M.: Campus
+Rossberg, Ralf Roman, 1999: Ausfall der Zugsteuerung ließ CitySprinter ins Unglück rollen. Stadtbahn-Unfall in Köln: Verkettung unglücklicher Umstände führte zum Zusammenstoß, in: VDI-Nachrichten 03.09.1999: 11, http://ods.schule.de/bics/son/verkehr/presse/1999_2/v3292_06.htm (22.12.05)
 Schulz, Andreas/Monica De Filippis/Manfred Thüring, 2005: "Driving Without Awareness"? Eine experimentelle Untersuchung zum Vigilanzabfall während des Autofahrens, in: Urbas/Steffens 2005: 71-76
 Spehr, M., 2004: Die Physik des Staus. Neue Wege gegen den Kollaps auf der Straße, in: FAZ 14.09.2004: T1
 Sterbak, Rolf, 2005: Mein Auto versteht mich, in: Pictures of the Future, Herbst 2005: 56-58
@@ -18,7 +18,7 @@ Urbas, Leon/Christiane Steffens (Hg.), 2005: Zustandserkennung und Systemgestalt
 Vanberg, V., 1975: Die zwei Soziologien. Individualismus und Kollektivismus in der Sozialtheorie, Tübingen: J.C.B. Mohr
 Vasek, T., 2004: Rechner auf Rädern, in: Technology Review 7/2004: 20-41
 Vernaleken, C., 2004: Forschen fürs Cockpit der nächsten Generation, in: Luft- und Raumfahrt 4/2004: 22-24
-Wagner, T./Göhner, P./Urbano, P.G. de A., 2003/04: Softwareagenten - Einführung und Überblick über eine alternative Art der Softwareentwicklung, in: Automatisierungstechnische Praxis 45 (2003), H. 10: 48-57 (Teil 1), H. 11: 5765 (Teil 2) und 46 (2004), H. 2: 42-51 (Teil 3)
+Wagner, T./Göhner, P./Urbano, P.G. de A., 2003/04: Softwareagenten - Einführung und Überblick über eine alternative Art der Softwareentwicklung, in: Automatisierungstechnische Praxis 45 (2003), H. 10: 48-57 (Teil 1), H. 11: 57- 65 (Teil 2) und 46 (2004), H. 2: 42-51 (Teil 3)
 Weyer, J., 1997: Die Risiken der Automationsarbeit. Mensch-Maschine-Interaktion und Störfallmanagement in hochautomatisierten Verkehrsflugzeugen, in: Zeitschrift für Soziologie 26: 239-257
 Weyer, J., 2004: Creating Order in Hybrid Systems. Reflexions on the Interaction of Man and Smart Machines (Universität Dortmund, Soziologische Arbeitspapiere Nr. 7)
 Wille, Walter, 2004: Die neuen Fahrer heißen Bit und Byte. Deutschlands erste vollautomatische U-Bahn, in: FAZ 19.10.2004: T 1-2

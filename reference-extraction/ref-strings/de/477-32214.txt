@@ -9,7 +9,7 @@ Kieser, A. (1989). Entstehung und Wandel von Organisationen. Ein evolutionstheor
 Leurpendeur, N. (2005). Der Gilgamesch-Epos. Abensberg: aja-Verlag.
 Luther, M. (1948, Orig. 1520). Martin Luther - Schriften des Jahres 1520 (3. Auflage). München: Chr. Kaiser Verlag.
 Müller-Beck, H. & Albrecht, G. (Hrsg.). (1987). Die Anfänge der Kunst vor 30 000 Jahren. Stuttgart: Konrad Theiss.
-Schreyögg, G. (2004a). Krisenmanagement: Theoretische Grundlagen und praktische Maßnahmen (S. 13-36). In M. Heintzen & L. Kruschwitz (Hrsg.), Unternehmen in der Krise. Berlin: Duncker und Humblot.
+Schreyögg, G. (2004a). Krisenmanagement: Theoretische Grundlagen und praktische Maß- nahmen (S. 13-36). In M. Heintzen & L. Kruschwitz (Hrsg.), Unternehmen in der Krise. Berlin: Duncker und Humblot.
 Schreyögg, G. (2004b). Unternehmenskultur zwischen Stabilität und Wandel (S. 23-35). In H. Lange & F. Manske (Hrsg.), Kultur im Veränderungsprozess. Baden-Baden: Nomos.
 Schwarz, G. (1985). Die "Heilige Ordnung" der Männer. Patriarchalische Hierarchie und Gruppendynamik. Opladen: Westdeutscher Verlag
 Altenberger, H., Schettgen, P. & Scholz, M. (Hrsg.) 2003. Innovative Ansätze konstruktiven Lernens. Augsburg: Ziel
@@ -27,7 +27,7 @@ Hochschild, A. R. (1990). Das gekaufte Herz – Zur Kommerzialisierung der Gefü
 House, R. J. & Singh, J. V. 1987. Organizational behavior: Some new directions for i/o psychology. Annual Review of Psychology, 38, 669–718
 Janis, I. L. 1972. Victims of Group Think. Boston: Houghton Mifflin
 Kerr, S. & Jermier, J. M. (1978). Substitutes for leadership: Their meaning and measurement. Organizational Behavior and Human Performance, 22, 375–403
-Neuberger, O. 1989. Symbolisches Management als Vermittlung zwischen Individualisierung und Organisierung. In H. J. Drumm (Hrsg.), Individualisierung der Personalwirtschaft Grundlagen, Lösungsansätze und Grenzen (S. 69–81). Bern: Haupt
+Neuberger, O. 1989. Symbolisches Management als Vermittlung zwischen Individualisierung und Organisierung. In H. J. Drumm (Hrsg.), Individualisierung der Personalwirtschaft – Grundlagen, Lösungsansätze und Grenzen (S. 69–81). Bern: Haupt
 Neuberger, O. 1993. Besser führen – Grundlagen. München: Pfützner (3. Aufl.)
 Neuberger, O. 2002. Führen und führen lassen. Ansätze, Ergebnisse und Kritik der Führungsforschung. Stuttgart: Lucius & Lucius (6. Aufl.)
 Saposnek, D. T. 1988. Aikido: Modell einer strategischen Kurzzeittherapie. In Heckler, R. S. (Hrsg.), Aikido und der neue Krieger (S. 147–165). Essen: Synthesis
@@ -41,8 +41,7 @@ Rosenstiel, L. v. 2005. Bedingungen des Führungserfolgs. Vortrag auf dem Fachko
 Simmel, G. 1968. Soziologie. Untersuchungen über die Formen der Vergesellschaftung. Berlin: Duncker & Humblot (5. Aufl.)
 Türk, K. 1995. Die Organisation der Welt. Herrschaft durch Organisation der modernen Gesellschaft. Wiesbaden: Westdeutscher Verlag
 Volpert, W. 1994. Wider die Maschinenmodelle des Handelns. Aufsätze zur Handlungsregulationstheorie. Lengerich: Pabst
-Weick, K. E. 1985. Der Prozess des Organisierens. Frankfurt a. M.: Suhrkamp 
-Westbrook, A. & Ratti, O. 1981. Aikido and the Dynamic Sphere. An Illustrated Introduction. Rutland: Tuttle
+Weick, K. E. 1985. Der Prozess des Organisierens. Frankfurt a. M.: Suhrkamp Westbrook, A. & Ratti, O. 1981. Aikido and the Dynamic Sphere. An Illustrated Introduction. Rutland: Tuttle
 Whorf, B. L. 1972. Sprache, Denken, Wirklichkeit. Beiträge zur Metalinguistik und Sprachphilosophie. Reinbek bei Hamburg: Rowohlt
 Witt, F.-J. & Witt, K. 1993. Managerjargon. In F.-J. Witt (Hrsg.), Managerkommunikation (S. 81–102). Stuttgart: Schaeffer-Poeschel
 Waibl, E. (2004), Neue Zürcher Zeitung, Nr. 254
@@ -54,7 +53,7 @@ Avolio, B. J., Bass, B. M. & Jung, D. I. (1999). Re-examining the components of 
 Boerner, S. (2002a). Führungsverhalten und Führungserfolg – ein Beitrag zu einer Theorie der Führung am Beispiel des Musiktheaters. Wiesbaden: Gabler.
 Boerner, S. (2002b). Kein Dirigent, aber viele Führende: Das Orpheus Chamber Orchestraein Modell für Unternehmen? Organisationsentwicklung, 2002, Jg. 21, Heft 3, S. 52-57.
 Boerner, S. (2004). Artistic quality in an opera company – towards the development of a concept. Nonprofit Management and Leadership, Vol. 4, No.4, S. 425-436.
-Boerner, S. & Krause, D. E. (2002). Führung im Orchester: Kunst ohne künstlerische FreiheitEine empirische Untersuchung. Zeitschrift für Personalforschung, 16 (1), 90–106.
+Boerner, S. & Krause, D. E. (2002). Führung im Orchester: Kunst ohne künstlerische Freiheit? Eine empirische Untersuchung. Zeitschrift für Personalforschung, 16 (1), 90–106.
 Boerner, S. & v. Streit, C. (2006) Gruppenstimmung (group mood) als Erfolgsbedingung transformationaler Führung – Ergebnisse einer empirischen Untersuchung. Zeitschrift für Arbeits- und Organisationspsychologie, 2006 (1), 3-8.
 Boerner, S. & v. Streit, C. (in press) C.Creating cooperative climate in an orchestra: The role of the musicians´ flow and the conductor´s leadership style. Musicae Scientiae.
 Burzik, A. (2000). Flow-Erfahrungen bei Orchestermusikern. Eine qualitative Studie über fördernde und hemmende Bedingungen. Unveröff. Diplomarbeit. Universität Bremen.
@@ -71,7 +70,7 @@ Lebrecht, N. (1991): Der Mythos vom Maestro. Zürich/ St. Gallen.
 Leonard, N. H., Beauvais, L. L. & Scholl, R. W. (1999). Work motivation: The incorporation of self-concept-based processes. Human Relations, 52 (8), 969–987.
 Williamon, A. & Davidson, J.W. (2002). Exploring co-performer communication. Musicae Scientiae. 1 (1). 53-72.
 Atik, Yaakov. 1994. "The Conductor and the Orchestra: Interactive Aspects of the Leadership Process." Leadership & Organization Development Journal 15(1):22-28.
-Boerner, Sabine, and Diana E. Krause. 2002. "Führung im Orchester: Kunst ohne künstlerische Freiheit? Eine empirische Untersuchung." Zeitschrift für Personalforschung 16(1):90106.
+Boerner, Sabine, and Diana E. Krause. 2002. "Führung im Orchester: Kunst ohne künstlerische Freiheit? Eine empirische Untersuchung." Zeitschrift für Personalforschung 16(1):90- 106.
 Bradford, David L., and Allan R. Cohen. 1984. Managing for Excellence. The Guide to Developing High Performance in Contemporary Organizations. John Wiley & Sons.
 Chong, Derrick. 2002. Arts Management. Routledge.
 Drucker, Peter F. 1988. "The coming of the new organization." Harvard Business Review 66(1):45-53.
@@ -93,7 +92,7 @@ Peters, Tom. 2003. Re-Imagine! DK Publishing.
 Pollack, Barbara. 1991. "The Effective Conductor: a Matter of Communication and Personality." Pp. 151-162 in Psychology and the performing arts, edited by Glenn D. Wilson. Swets and Zeitlinger.
 Sayles, Leonhard. 1964. Managerial Behavior. McGraw Hill.
 Seifter, Harvey, and Peter Economy. 2001. Das virtuose Unternehmen. Campus Verlag.
-Shaw, Roderick. 2004. "Harmonious management: Leadership and communication in an orchestra." Development and Learning in Organizations: An International Journal 18(6):1012.
+Shaw, Roderick. 2004. "Harmonious management: Leadership and communication in an orchestra." Development and Learning in Organizations: An International Journal 18(6):10- 12.
 Toeplitz, Gideon. 2003. "From Challenge to Success: What Must Change?" Harmony. Forum of the Symphony Orchestra Institute (16):133-138.
 Zander, Rosamond Stone, and Benjamin Zander. 2000. The Art of Possibility: Transforming Professional and Personal Life. Harvard Business School Press.
 Atik, Y. (1994). The conductor and the orchestra: Interactive aspects of the leadership process. Leadership & Organizational Development Journal, 15(1), 22-28.
@@ -103,7 +102,7 @@ Boerner, S. & v. Streit, C. (2006). Gruppenstimmung (group mood) als Erfolgsbedi
 Boerner, S. (2002). Führungsverhalten und Führungserfolg. Beitrag zu einer Theorie der Führung am Beispiel des Musiktheaters. Wiesbaden: Deutscher Universitäts-Verlag.
 Boëthius, S. B. & Wrangsjö, B. (2000). Management der Kunst: Organisationsentwicklung in einem Symphonie-Orchester. In K. Trebesch (Hrsg.), Organisationsentwicklung. Konzepte, Strategien, Fallstudien (S. 330-351). Stuttgart: Klett-Cotta.
 Gerstner, C. R. & Day, D. V. (1997). Meta-analytic review of leader-member exchange theory: correlates and construct issues. Journal of Applied Psychology, 82(6), 827-844.
-Graen, G. B. & Cashman, J. (1975). A role-making model of leadership in formal organizations: A development approach. In J. G. Hunt & L. L. Larson (Eds.), Leadership frontiers (pp. 143165). Kent, OH: Kent State University.
+Graen, G. B. & Cashman, J. (1975). A role-making model of leadership in formal organizations: A development approach. In J. G. Hunt & L. L. Larson (Eds.), Leadership frontiers (pp. 143- 165). Kent, OH: Kent State University.
 Jiménez, P. (2005). Profilanalyse der Arbeitszufriedenheit PAZ 2000. Handanweisung. Unveröffentlichtes Manuskript.
 Liden, R. C. & Maslyn, J. M. (1998). Multidimensionality of leader-member exchange: An empirical assessment through scale development. Journal of Management, 24(1), 43-72.
 Liden, R. C., Sparrowe, R. T. & Wayne, S. J. (1997). Leader-member exchange theory: The past and potential for the future. Research in Personnel and Human Resource Management, 15, 47-119.
