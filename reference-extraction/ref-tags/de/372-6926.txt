@@ -1313,9 +1313,9 @@ Journal of Official Statistics, 12(1), 3-32.</ref>
 Table when Expected Marginal Totals are known. The Annals of Mathematical Statis-
 tics, 11, 427-444.</ref>
 <ref>Hartung, J. & Elpelt B. (1986). Multivariate Statistik. Lehr- und Handbuch der ange-
-wandten Statistik. München, Wien: Oldenbourg.
-<oth>110</oth>
-ZUMA-Nachrichten 59, Jg. 30, November 2006, S. 89 - 110</ref>
+wandten Statistik. München, Wien: Oldenbourg.</ref>
+110
+ZUMA-Nachrichten 59, Jg. 30, November 2006, S. 89 - 110
 <ref>Merz, J. (1993). ADJUST. Ein Programmpaket zur Hochrechnung von Mikrodaten nach
 dem Prinzip des minimalen Informationsverlustes. Programm-Handbuch. FFB-
 Dokumentation Nr. 1.</ref>

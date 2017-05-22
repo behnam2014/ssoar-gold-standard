@@ -1918,8 +1918,8 @@ lin: Duncker & Humblot (5. Aufl.)</ref>
 sellschaft. Wiesbaden: Westdeutscher Verlag</ref>
 <ref>Volpert, W. 1994. Wider die Maschinenmodelle des Handelns. Aufsätze zur Handlungsregula-
 tionstheorie. Lengerich: Pabst</ref>
-<ref>Weick, K. E. 1985. Der Prozess des Organisierens. Frankfurt a. M.: Suhrkamp
-Westbrook, A. & Ratti, O. 1981. Aikido and the Dynamic Sphere. An Illustrated Introduction.
+<ref>Weick, K. E. 1985. Der Prozess des Organisierens. Frankfurt a. M.: Suhrkamp</ref>
+<ref>Westbrook, A. & Ratti, O. 1981. Aikido and the Dynamic Sphere. An Illustrated Introduction.
 Rutland: Tuttle</ref>
 <ref>Whorf, B. L. 1972. Sprache, Denken, Wirklichkeit. Beiträge zur Metalinguistik und Sprachphi-
 losophie. Reinbek bei Hamburg: Rowohlt</ref>
@@ -7794,8 +7794,8 @@ Frankfurt a.M., S. 286 – 300</ref>
 München</ref>
 <ref>Daucher, H. (1987): Wege des Zeichnens. Band 1, Grundlagen. Ravensburg: Otto Maier</ref>
 226
-<ref>Daucher, H. (1991): Laster Reinheit. (Unveröffentlichtes Manuskript)
-Daucher, H. / Seitz, R. (3. Aufl. 1971): Didaktik der bildenden Kunst. München: Don Bosco</ref>
+<ref>Daucher, H. (1991): Laster Reinheit. (Unveröffentlichtes Manuskript)</ref>
+<ref>Daucher, H. / Seitz, R. (3. Aufl. 1971): Didaktik der bildenden Kunst. München: Don Bosco</ref>
 <ref>Daucher, H. (1967): Künstlerisches und rationalisiertes Sehen. München: Ehrenwirth</ref>
 <ref>Grasskamp, W. (1981): Museumsgründer und Museumsstürmer. Zur Sozialgeschichte des
 Kunstmuseums. München: Beck</ref>

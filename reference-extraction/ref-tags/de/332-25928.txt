@@ -3220,8 +3220,8 @@ kiel.de/volltexte/2003/290/pdf/dp695.pdf; http://socserv.mcmaster.ca/rdc/RDCwp1.
 Wissenschaftszentrum Berlin für Sozialforschung. Berlin (http://www.wz-
 berlin.de/publikation/pdf/wm98/WM98_24-28.pdf).</ref>
 <ref>Alevizos, Alevizos; Mihas, Constantinos; Mariolis, Anargiros (2007). The Effects of Cost Sharing on Statin
-Adherence. Am J Man Care 13 (8), S. e2-e3</ref>
-(http://www.ajmc.com/files/articlefiles/AJMC_07AUG_WebLtrToEd.pdf).
+Adherence. Am J Man Care 13 (8), S. e2-e3
+(http://www.ajmc.com/files/articlefiles/AJMC_07AUG_WebLtrToEd.pdf).</ref>
 <ref>Alexander, Caleb; Tseng, Chien-Weng (2004). Six strategies to identify and assist patients burdened by out-
 of-pocket prescription costs. Clevel Clin J Med 71 (5), S. 433-437
 (http://home.uchicago.edu/~galexand/Alexander504.pdf).</ref>
@@ -3287,7 +3287,7 @@ http://www.rwi-
 es-
 sen.de/pls/portal30/docs/FOLDER/PUBLIKATIONEN/RWIDP/RWI_DP043/DP_06_043.PDF#search=%2
 2Augurzky%20Bauer%20Schaffner%20Copayments%22;
-70
+<oth>70</oth>
 http://www.iza.org/index_html?lang=en&mainframe=http%3A//www.iza.org/en/webcontent/personnel/phot
 os/index_html%3Fkey%3D271&topSelect=personnel&subSelect=fellows).</ref>
 <ref>Avorn, Jerry; Monette, Johanne; Lacour, Anne; Bohn, Ronda; Monane, Mark; Mogun, Helen; LeLorier,

@@ -1388,8 +1388,8 @@ gen/2010/0708/pdf/afghanistan.pdf (14.7.2011).</ref>
 <ref>Human Rights First 2008: Private Security Contractors at War, New York/Washington DC.</ref>
 <ref>International Code of Conduct (ICoC) 2010: Internationaler Verhaltenskodex für Private
 Sicherheitsdienstleister, 9. November, in: www.icoc-psp.org/uploads/ INTERNA-
-30
-Elke Krahmann/Cornelius Friesendorf
+<oth>30
+Elke Krahmann/Cornelius Friesendorf</oth>
 TIONAL_CODE_OF_CONDUCT_Final_with_Company_Names_-_GERMAN.pdf
 (14.7.2011).</ref>
 <ref>ICoC 2012: Draft Charter of the Oversight Mechanism for the International Code of
