@@ -1,0 +1,70 @@
+v151 (F1.0) v152 (F3.0) v153 (F3.0) v154 (F1.0) v155 (F1.0) 
+v156 (F1.0) v157 (F1.0) v158 (F2.0) v159 (F1.0) v160 (F1.0) 
+v161 (F3.0) v162 (F1.0) v163 (F1.0) v164 (F1.0) v165 (F3.0) 
+v166 (F3.0) v167 (F1.0) v168 (F1.0) v169 (F1.0) v170 (F1.0) 
+v171 (F1.0) v172 (F2.0) v173 (F1.0) v174 (F3.0) v175 (F4.0) 
+v176 (F1.0) v177 (F1.0) v178 (F1.0) v179 (F1.0) v180 (F1.0) 
+v181 (F1.0) v182 (F3.0) v183 (F1.0) v184 (F1.0) v185 (F1.0) 
+v186 (F2.0) v187 (F2.0) v188 (F1.0) v189 (F2.0) v190 (F2.0) 
+v191 (F1.0) v192 (F6.0) v193 (F4.0) v194 (F2.0) v195 (F2.0) 
+v196 (F2.0) v197 (F4.0) v198 (F2.0) v199 (F4.0) v200 (F8.0) 
+v201 (F3.0) v202 (F3.0) v203 (F3.0) v204 (F4.0) v205 (F1.0) 
+V43_o (F8.0). 
+
+*subtitle '------Systemfile schreiben -----'. 
+save /outfile 'badwbu10.sav' 
+/map 
+/compressed. 
+
+Statistisches Bundesamt (1978a): Volkszählung vom 27. Mai 1970. Methodische und praktische Vorbereitung 
+sowie Durchführung der Volkszählung 1970. Fachserie 1 Heft 25. Stuttgart/Mainz: Kohlhammer. 
+
+Statistisches Bundesamt (1978b): Volkszählung vom 27. Mai 1970. Untersuchungen zur Methode und 
+Genauigkeit der Volkszählung 1970. Fachserie 1 Heft 26. Stuttgart/Mainz: Kohlhammer. 
+
+Ergebnisse 
+
+Statistisches Bundesamt (1972): Ausgewählte Strukturdaten für Bund und Länder. Fachserie A: Bevölkerung 
+und Kultur. Volkszählung vom 27. Mai 1970, Heft 1. 
+
+Statistisches Bundesamt (1972): Zusammengefasste Daten über Bevölkerung und Erwerbstätigkeit für Bund und 
+Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 3. 
+
+Statistisches Bundesamt (1974): Bevölkerung und Bevölkerungsentwicklung nach Alter und Familienstand. 
+Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 5. 
+
+Statistisches Bundesamt (1974): Bevölkerung und Haushalte. Fachserie A: Bevölkerung und Kultur. 
+Volkszählung vom 27. Mai 1970, Heft 8. 
+
+Statistisches Bundesamt (1974): Bevölkerung und Familien. Fachserie A: Bevölkerung und Kultur. 
+Volkszählung vom 27. Mai 1970, Heft 9. 
+
+Statistisches Bundesamt (1974): Bevölkerung in Anstalten. Fachserie A: Bevölkerung und Kultur. Volkszählung 
+vom 27. Mai 1970, Heft 11. 
+
+Statistisches Bundesamt (1974): Bevölkerung nach dem Ausbildungsstand, demographischen Merkmalen und 
+Beteiligung am Erwerbsleben. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 13. 
+
+Statistisches Bundesamt (1974): Ausländer. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 
+1970, Heft 23. 
+
+Informationen zur Ziehung der VASMA-Stichprobe 
+
+Bach, Walter (1979): Ziehung einer Stichprobe aus den Mikrodaten der Berufszählung 1970. Mannheim: 
+VASMA-Arbeitspapier 9. 
+
+Bach, Walter/ Handl, Johann/Müller, Walter (1980): Volks-und Berufszählung 1970. Codebuch und 
+Grundauszählung. Mannheim. 
+
+Dokumentation zur 1-Prozent Stichprobe der Volks-und Berufszählung 1970 
+
+Schimpl-Neimanns, Bernhard/Frenzel, Hansjörg (1995): 1-Prozent Stichprobe der Volks-und Berufszählung 
+1970 – Datei mit Haushalts-und Familiennummern und revidierter Teilstichprobe für West-Berlin. 
+Dokumentation der Datenaufbereitung. Mannheim: ZUMA-Technischer Bericht T95/06. 
+
+Codebuch und Grundauszählung zur 1-Prozent Stichprobe der Volks-und Berufszählung 1970 
+
+Frenzel, Hansjörg; Nau, Anke; Schimpl-Neimanns, Bernhard (1995): 1-Prozent Stichprobe der Volks-und 
+Berufszählung 1970. Datei mit Haushalts-und Familiennummern und revidierte Teilstichprobe für West-Berlin. 
+Codebuch und Grundauszählung. 
+
