@@ -1402,8 +1402,8 @@ Anthropologie der Konflikte. Georg Elwerts konflikttheoretische Thesen in der Di
 Bielefeld: transcript.</ref>
 <ref>Enzmann, Dirk/Brettfeld, Katrin/Wetzels, Peter, 2003: Männlichkeitsnormen und die Kultur der
 Ehre. Empirische Prüfung eines theoretischen Modells zur Erklärung erhöhter Delinquenzraten
-jugendlicher Migranten. S. 264-287 in: Oberwittler, D./Karstedt, S. (Hrsg.), Soziologie der<oth>
-36
+jugendlicher Migranten. S. 264-287 in: Oberwittler, D./Karstedt, S. (Hrsg.), Soziologie der
+<oth>36
 Soziale Probleme, 16. Jg., 2005</oth>
 Kriminalität. (Sonderheft 43 der Kölner Zeitschrift für Soziologie und Sozialpsychologie).
 Wiesbaden: VS Verlag für Sozialwissenschaften.</ref>
