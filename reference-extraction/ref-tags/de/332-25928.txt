@@ -3342,8 +3342,8 @@ H Econ 5 (2), S. 190–194 (http://www.springerlink.com/content/t2fuflk8np1w55yw
 liography. Health Policy Research Unit, University of British Columbia, Vancouver.</ref>
 <ref>Baume, Elaine; Juárez, Mercedes; Standing, Hillary (2000). Gender and Health Equity Resource Folder. In-
 stitute of Development Studies, Universität Sussex, Brighton.
-(http://www.ids.ac.uk/bridge/Reports/geneqfolder.pdf)
-Beck, Ralf (1974). The effects of Co-Payment on the Poor. J Hum Res 9 (1), S. 129-142
+(http://www.ids.ac.uk/bridge/Reports/geneqfolder.pdf)</ref>
+<ref>Beck, Ralf (1974). The effects of Co-Payment on the Poor. J Hum Res 9 (1), S. 129-142
 (http://links.jstor.org/sici?sici=0022-
 166X%28197424%299%3A1%3C129%3ATEOCOT%3E2.0.CO%3B2-S).</ref>
 <ref>Beck, Ralf; Horne, John (1980). Utilization of publicly insured public services in Saskatchewan before, dur-
@@ -4488,8 +4488,8 @@ systems.com/content/3/1/4).</ref>
 <ref>Lamiraud, Karine; Geoffard, Pierre-Yves (2007). Therapeutic Non-Adherence: A Ratinal Behavior Reveal-
 ing Patient Preferences? H Econ 16 (11), pp. 1185-1205 (http://www3.interscience.wiley.com/cgi-
 bin/fulltext/114122877/PDFSTART).</ref>
-<ref>Landon, Bruce; Rosenthal, Meredith; Normand, Sharon-Lise; Spettell, Claire; Lessler, Adam; Underwood,</ref>
-<ref>Howard; Newhouse, Joseph (2007). Incentive Formularies and Changes in Prescription Drug Spending. Am
+<ref>Landon, Bruce; Rosenthal, Meredith; Normand, Sharon-Lise; Spettell, Claire; Lessler, Adam; Underwood,
+Howard; Newhouse, Joseph (2007). Incentive Formularies and Changes in Prescription Drug Spending. Am
 J Man Care 13 (6, Part 2), S. 360-369
 (http://www.ajmc.com/files/articlefiles/AJMC_07junPrt2_Landon360to369.pdf).</ref>
 <ref>Langa, Kenneth; Fendrick, Mark; Chernew, Michael; Kabeto, Mohammed; Paisley, Kerry; Hayman, James
@@ -5162,7 +5162,7 @@ zerorientierung und Qualität Bd. II: Qualität und Versorgungsstrukturen. Nomos
 ISBN - 3-8329-0409-3 (SVR 2003c).</ref>
 <ref>Sacks, Frank; Pfeffer, Marc; Moye, Lemuel; Rouleau, Jean; Rutherford, John; Cole,Thomas; Brown, Lisa;
 Warnica, Wayne; Arnold, Malcolm; Chuan-Chuan, Wun; Davis, Barry; Braunwald, Eugene (1996). The ef-
-fect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels.</ref>
+fect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels.
 Cholesterol and Recurrent Events Trial investigators. N Engl J Med 335 (14), S. 1001-1009
 (http://content.nejm.org/cgi/reprint/335/14/1001.pdf).</ref>
 <ref>Saltman, Richard; Figueras, Josep (1996). European Health Care Reforms. The Ljubljana Charter on Re-
@@ -5345,8 +5345,8 @@ Catholic 45 (18) (http://www.licatholic.org/archive/072606/Charities%20Helping%2
 <ref>Shekelle, Paul; Rogers, William; Newhouse, Joseph (1996). The Effect of Cost Sharing on the Use of Chi-
 ropractic Services. Med Care 34 (9), S. 863-872.</ref>
 <ref>Shen, Yu-Chu; McFeeters, Joshua (2006). Out-of-Pocket Health Spending Between Low- and Higher-
-Income Populations: Who is at Risk of Having High Expenses and High Burdens? Med Care 44 (3), S. 200-</ref>
-209.
+Income Populations: Who is at Risk of Having High Expenses and High Burdens? Med Care 44 (3), S. 200-
+209.</ref>
 <ref>Shepherd, James; Cobbe, Stuart; Ford, Ian; Isles, Christopher; Lorimer, Ross; Macfarlane, Peter; McKillop,
 James; Packard, Christopher (1995). Prevention of coronary heart disease with pravastatin in men with hy-
 percholesterolemia. West of Scotland Coronary Prevention Study Group. N Engl J Med 333 (20), S.1301-
