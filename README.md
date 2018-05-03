@@ -4,7 +4,7 @@ All datasets consist of research papers which come from the **[SSOAR repository]
 This corpus will grow constantly..
 
 ## big picture of "gold standard process"
-![picture alt](http://https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-Mai/goldstandard-process.PNG "gold standard process")
+![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/v3-2018-Mai/goldstandard-process.PNG ) "gold standard process")
 
 ## Content
 The latest update of files is available in [v3-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-04-24). Other folders are an archive of former files.
