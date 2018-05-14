@@ -8,7 +8,7 @@ This corpus will grow constantly..
 
 ## Content
 The latest update of files is available in [v3-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-Mai). Other folders are an archive of former versions.
-At the moment there are 200 German and 100 English papers in this repository.
+At the moment there are 100 German and 100 English papers in this repository.
 ### How access to German papers (200 papers):
 * [v3-2018-Mai/1-German_papers](v3-2018-Mai/1-German_papers)
     1. [pdfs](v3-2018-Mai/1-German_papers/1-pdfs)
