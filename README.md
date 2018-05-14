@@ -4,27 +4,47 @@ All datasets consist of research papers which come from the **[SSOAR repository]
 This corpus will grow constantly..
 
 ## big picture of "gold standard process"
-![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/v3-2018-Mai/goldstandard-process.PNG ) "gold standard process")
+![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/v3-2018-Mai/goldstandard-process.PNG "gold standard process")
 
 ## Content
 The latest update of files is available in [v3-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-04-24). Other folders are an archive of former files.
-* [v3-2018-Mai](v3-2018-Mai)
-    1. [pdfs](v3-2018-Mai/1-pdfs)
+At the moment there are 200 German and 100 English paper in this repository.
+### German papers (200 papers)
+* [v3-2018-Mai/1-German_papers](v3-2018-Mai/1-German_papers)
+    1. [pdfs](v3-2018-Mai/1-German_papers/1-pdfs)
         * contains selected pdf files.
-    2. [layouts](v3-2018-Mai/2-layouts)
+    2. [layouts](v3-2018-Mai/1-German_papers/2-layouts)
         * contains extracted layout files from selected pdfs.
         * **[refext](https://github.com/exciteproject/refext)** is used for layout extraction
-    3. [Layout_and_refs_merged_and_checked_by_Anno1](v3-2018-Mai/3-Layout_and_refs_merged_and_checked_by_Anno1)
+    3. [Layout_and_refs_merged_and_checked_by_Anno1](v3-2018-Mai/1-German_papers/3-Layout_and_refs_merged_and_checked_by_Anno1)
         * contains layout files with annotated reference strings.
         * These reference strings are checked and edited by our [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1)
-    4. [References_extracted_from_Layout](v3-2018-Mai/4-References_extracted_from_Layout)
+    4. [References_extracted_from_Layout](v3-2018-Mai/1-German_papers/4-References_extracted_from_Layout)
         * contains extracted reference strings from annotated layout files (the output of step 3).
-    5. [References_segmented_by_Anno2](v3-2018-Mai/5-References_segmented_by_Anno2).
+    5. [References_segmented_by_Anno2](v3-2018-Mai/1-German_papers/5-References_segmented_by_Anno2).
         * contains segmented reference strings 
         * These reference strings are checked and edited by [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2).
-    6. [Layout_and_segmentated_ref_merged](v3-2018-Mai/6-Layout_and_segmentated_ref_merged)
+    6. [Layout_and_segmentated_ref_merged](v3-2018-Mai/1-German_papers/6-Layout_and_segmentated_ref_merged)
         * contains a merge of layout and segmented reference strings.
 
+### English papers (100 papers)
+* [v3-2018-Mai/2-English_papers](v3-2018-Mai/2-English_papers)
+    1. [pdfs](v3-2018-Mai/2-English_papers/1-pdfs)
+        * contains selected pdf files.
+    2. [layouts](v3-2018-Mai/2-English_papers/2-layouts)
+        * contains extracted layout files from selected pdfs.
+        * **[refext](https://github.com/exciteproject/refext)** is used for layout extraction
+    3. [Layout_and_refs_merged_and_checked_by_Anno1](v3-2018-Mai/2-English_papers/3-Layout_and_refs_merged_and_checked_by_Anno1)
+        * contains layout files with annotated reference strings.
+        * These reference strings are checked and edited by our [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1)
+    4. [References_extracted_from_Layout](v3-2018-Mai/2-English_papers/4-References_extracted_from_Layout)
+        * contains extracted reference strings from annotated layout files (the output of step 3).
+    5. [References_segmented_by_Anno2](v3-2018-Mai/2-English_papers/5-References_segmented_by_Anno2).
+        * contains segmented reference strings 
+        * These reference strings are checked and edited by [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2).
+    6. [Layout_and_segmentated_ref_merged](v3-2018-Mai/2-English_papers/6-Layout_and_segmentated_ref_merged)
+        * contains a merge of layout and segmented reference strings.
+        
 ### Selection method
 We randomly select our papers from the 33,954 available publications that were available on [SSOAR repository](http://www.ssoar.info/).
 ### Files name
@@ -37,6 +57,7 @@ We excluded the following publications from our gold standard:
 
 * Non-German and Non-English publications
 * Publications that were in OCR or scanned (images) format.
+* Publications that have watermark in background
 * Publications that do not contain a reference section.
 * Publications that have more than 50 or less than 3 references in their reference section.
 
