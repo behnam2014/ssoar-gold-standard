@@ -7,9 +7,9 @@ This corpus will grow constantly..
 ![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/v3-2018-Mai/goldstandard-process.PNG "gold standard process")
 
 ## Content
-The latest update of files is available in [v3-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-04-24). Other folders are an archive of former files.
-At the moment there are 200 German and 100 English paper in this repository.
-### German papers (200 papers)
+The latest update of files is available in [v3-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v3-2018-Mai). Other folders are an archive of former versions.
+At the moment there are 200 German and 100 English papers in this repository.
+### How access to German papers (200 papers):
 * [v3-2018-Mai/1-German_papers](v3-2018-Mai/1-German_papers)
     1. [pdfs](v3-2018-Mai/1-German_papers/1-pdfs)
         * contains selected pdf files.
@@ -27,7 +27,7 @@ At the moment there are 200 German and 100 English paper in this repository.
     6. [Layout_and_segmentated_ref_merged](v3-2018-Mai/1-German_papers/6-Layout_and_segmentated_ref_merged)
         * contains a merge of layout and segmented reference strings.
 
-### English papers (100 papers)
+### How access to English papers (100 papers)
 * [v3-2018-Mai/2-English_papers](v3-2018-Mai/2-English_papers)
     1. [pdfs](v3-2018-Mai/2-English_papers/1-pdfs)
         * contains selected pdf files.
@@ -56,9 +56,6 @@ By searching SSOARID (file name) in [https://www.gesis.org/ssoar/home/](https://
 We excluded the following publications from our gold standard:
 
 * Non-German and Non-English publications
-* Publications that were in OCR or scanned (images) format.
-* Publications that have watermark in background
+* Publications that were in OCR or scanned (images) format or have watermark in background.
 * Publications that do not contain a reference section.
 * Publications that have more than 50 or less than 3 references in their reference section.
-
-A list of excluded papers can be found [here](v3-2018-Mai).
