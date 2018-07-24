@@ -15,14 +15,13 @@ For now, the PDF files of this corpus can be downloaded [here](http://excite-com
  	* [cermine/xml](reference-segmentation/cermine/xml)
  
  ## Paper Selection
-We randomly select our papers from the 33,954 available publications that were available on [SSOAR repository](http://www.ssoar.info/).
- The random order of SSOAR publications that we used can be found at [random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
- For easier referencing we introduce a second ID, the EXCITEID, which refers to the position of a SSOAR ID in the above list.
- For example, ``109-12826.pdf`` refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
+We randomly select our papers from the 33,954 available publications that were available on [SSOAR repository](http://www.ssoar.info/). The random order of SSOAR publications that we used can be found at [random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv). 
+For easier referencing we introduce a second ID, the EXCITEID, which refers to the position of a SSOAR ID in the above list. 
+For example, ``109-12826.pdf`` refers to SSOAR ID 12826 which appears in line 109 in [corpus/de/random-ssoar-ids.csv](corpus/de/random-ssoar-ids.csv).
+By replacing SSOARID in [http://www.ssoar.info/ssoar/handle/document/SSOARID](https://www.ssoar.info/ssoar/handle/document/SSOARID), you can access each paper (metadata + pdf).
 We excluded the following publications from our gold standard:
  
  * Non-German publications
- * Publications that were scanned
  * Publications that were scanned (images)
  * Publications that do not contain a reference section
  

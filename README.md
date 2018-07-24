@@ -3,13 +3,10 @@ This repository contains manually inspected datasets for evaluating the differen
 All datasets consist of research papers which come from the **[SSOAR repository](http://www.ssoar.info/)**. 
 This corpus will grow constantly.
 
-## About Versioning
-The latest update of files is available in [v2-2018-Mai](https://github.com/exciteproject/ssoar-gold-standard/tree/master/v2-2018-Mai). 
-Other folders are an archive of former versions.
-
-*[v1-2017-Jun](v1-2017-Jun/) [Readme file](v1-2017-Jun/)
-*[v2-2018-Mai](v2-2018-Feb/) Last Update
-*guideline files (guidelinefiles/)
+## Versioning
+* former version is available in [v1-2017-Jun](v1-2017-Jun/) 
+* latest update is available in [v2-2018-Mai](v2-2018-Mai)
+* and guideline files are available in [guidelinefiles](guidelinefiles/)
 
 ** the following note is related to the last version.
 
@@ -20,9 +17,9 @@ Other folders are an archive of former versions.
 
 At the moment there are 105 German and 100 English papers in this repository.
 ### How access to German papers:
-* [v2-2018-Mai/1-German_papers](v2-2018-Mai/1-German_papers)
+* [Access to all Files](v2-2018-Mai/1-German_papers)
     1. [pdfs](v2-2018-Mai/1-German_papers/1-pdfs)
-        * contains selected pdf files.
+        * contains 105 papers which selected randomly.
     2. [layouts](v2-2018-Mai/1-German_papers/2-layouts)
         * contains extracted layout files from selected pdfs.
         * **[refext](https://github.com/exciteproject/refext)** is used for layout extraction
@@ -38,7 +35,7 @@ At the moment there are 105 German and 100 English papers in this repository.
         * contains a merge of layout and segmented reference strings.
 
 ### How access to English papers
-* [v2-2018-Mai/2-English_papers](v2-2018-Mai/2-English_papers)
+* [Access to all Files](v2-2018-Mai/2-English_papers)
     1. [pdfs](v2-2018-Mai/2-English_papers/1-pdfs)
         * contains selected pdf files.
     2. [layouts](v2-2018-Mai/2-English_papers/2-layouts)
