@@ -1,0 +1,432 @@
+Der Einsatz von WikiWebs in Organisationen:
+Überlegungen aus systemtheoretischer Perspektive
+Florian Mayer und Dennis Schoeneborn
+Einleitung
+WikiWebs (Cunningham/Leuf 2001) zählen zu den derzeit am stärksten wachsen-
+den Anwendungen aus dem Bereich ›Social Software‹ – solchen Internet- oder
+Intranet-Programmen, die erst durch ihre gemeinschaftliche und vernetzte Nutzung
+besonderen Wert schöpfen (vgl. Schmidt 2006). Prominentester Fall einer Wiki-
+Anwendung ist die gemeinschaftlich erstellte Enzyklopädie Wikipedia im öffentlich
+zugänglichen Internet. Zunehmend finden Wiki-Technologien aber auch in Unter-
+nehmen wie beispielsweise IBM oder Dresdner Kleinwort Wasserstein Verwen-
+dung, um den Erfahrungsaustausch zwischen Mitarbeitern im organisationseigenen
+Intranet zu befördern.
+Der vorliegende Beitrag nimmt insbesondere den Einsatz von WikiWebs in
+Organisationen in den Blick. Die Ausführungen werden dabei von der Fragestellung
+geleitet, welche Auswirkungen der Einsatz von Wiki-Technologien auf die Organi-
+sation als kommunikatives Gefüge haben kann. Zu diesem Zweck werden zunächst
+WikiWebs als Medien der Organisationskommunikation vorgestellt und mit ihrem
+Einsatz im öffentlichen Raum kontrastiert. Dies mündet in eine Analyse von Ein-
+schränkungen des Einsatzes von WikiWebs in Organisationszusammenhängen.
+Diese Einschränkungen bilden den Ausgangspunkt für eine Neubetrachtung der
+Wiki-Technologien im Lichte neuerer Ansätze der Organisationskommunikations-
+forschung, die Organisationen als grundsätzlich durch Kommunikation konstituiert
+begreifen. Auf Basis dieser theoretischen Perspektive lassen sich mögliche Folgewir-
+kungen des Wiki-Einsatzes in Organisationen herleiten. Abschließend wird ein For-
+schungsprogramm skizziert, wie die theoretisch generierten Annahmen über Folge-
+wirken einer empirischen Untersuchung unterzogen werden können.
+1 9 0 0
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NSSO Z IO LO GIE
+WikiWebs als Medien der Organisationskommunikation
+Zu den besonderen Eigenschaften des Wiki-Prinzips zählt die Bereitstellung einer
+(zumeist offen lizenzierten) elektronischen Plattform und die Möglichkeit zum
+Abruf, Neueinstellen und Verändern von Beiträgen, selbst wenn diese zuvor von
+anderen Nutzern erstellt worden waren. Ferner zeichnen sich Wiki-Anwendungen
+durch die Verknüpfung von Beiträgen sowie das Nachhalten einer Historie der Ver-
+änderungen eines jeden Beitrags aus (vgl. Przepiorka 2004; Brändle 2005). Die Ein-
+fachheit ihrer Funktionsweise, aber auch die Möglichkeit zur wechselseitigen kom-
+munikativen Bezugnahme, sei es im Hinzufügen von Beiträgen oder in der Modifi-
+zierung bestehender Beiträge, haben zu einer weiten Verbreitung der Technologie
+zum Zwecke der kollaborativen Kommunikation geführt. Einen guten Überblick
+über das Forschungsfeld ›Wikis‹ im Allgemeinen bieten Christian Pentzold u.a.
+(2007).
+Typische Anwendungen von WikiWebs sind die Sammlung bzw. Austausch von
+Informationen (z.B. in sogenannten Frequently Asked Questions), die interne wie
+externe Dokumentation von Wissen und deren Diskussion sowie als Tool für Pro-
+jektmanagement oder E-Learning (vgl. Przepiorka 2005; Majchrzak u.a. 2006).
+Alexander Warta (2007: 48f.) unterscheidet diese Anwendungen nach unterschied-
+lichen Stufen von (Wiki-)Interaktion, nach Ebenen der Wissensrepräsentation und
+der Komplexität der Inhalte. Der Nutzwert von WikiWebs zum Zwecke des Wis-
+sensmanagements wird eindrucksvoll durch aktuelle Praxisschilderungen unterstri-
+chen (z.B. Fritz 2007; Bergmann 2007; Alpar u.a. im Erscheinen). In seiner exem-
+plarischen Fallstudie bei Robert Bosch Diesel Systems weist Warta jedoch auch auf
+die besonderen Schwierigkeiten im Einsatz von Wikis in Unternehmen hin: »Die
+Integration dieser Tätigkeiten in den hektischen Arbeitsalltag hat sich als schwierig
+herausgestellt, deshalb sind bisher nur wenige Dutzend Artikel entstanden« (Warta
+2007: 48). Im Folgenden soll daher auf die Besonderheiten eingegangen werden, die
+der Einsatz von Wikis in Organisationen im Vergleich zu WikiWebs im öffentlichen
+Raum mit sich bringt.
+Besonderheiten eines organisationalen Einsatzes von WikiWebs
+Wiki-Nutzungsmuster und -Problemfelder unterscheiden sich je nach Anwendungs-
+kontext deutlich. Je nachdem zu welchem Zweck und in welchem Rahmen Wikis
+eingesetzt werden, variieren nicht nur Thema, Teilnehmerzahl und Beteiligung.
+Wikis in Organisationen bilden teilweise grundsätzlich andere Muster und Erforder-
+nisse aus als Wikis im öffentlichen Raum:
+M AY E R / S C HO E NE B O R N: E I N S AT Z VO N W I K IW E B S I N O R G A N I SAT I O NE N
+1 9 0 1
+Motivation zur Beteiligung
+Öffentliche Wikis können im Internet als Kollektivgüter begriffen werden. Aus
+Sicht der Spieltheorie ist dabei mit dem Trittbrettfahrerproblem zu rechnen, da der
+Konsum des Gutes allen auch ohne eigenen Beitrag an der Herstellung möglich ist
+(vgl. Haug/Weber 2003). Welche Motivationen zur aktiven, kontributiven Wiki-
+Nutzung bewegen, ist daher ein interessantes Forschungsfeld. Hinsichtlich der
+Wikipedia haben sich diesem Thema insbesondere Guido Hertel und Joachim
+Schroer (2006) sowie Christian Stegbauer (2006; im Erscheinen) angenommen.
+Während die Zahl der freiwilligen Mitarbeiter in öffentlichen WikiWebs immer
+wieder überrascht, stellt in Organisationen die Motivation zur Nutzung augen-
+scheinlich ein Problem dar: In der Studie von Bartel (2006) zum Wiki-Einsatz in
+Unternehmen geben ca. 50 Prozent der Befragten die Motivation zur Teilnahme an
+der Wissenskommunikation als größtes Problem an, gefolgt von der Erbringung
+von Strukturierungsleistungen (ca. 30 Prozent; Bartel 2006: 27).
+Für den Unterschied in der Beteiligung innerhalb eines bzw. zwischen verschie-
+denen Wikis gibt es unterschiedliche Erklärungen: Aus individualistischer Perspek-
+tive betrachtet liegt bei öffentlichen Wikis zumeist eine intrinsische Motivation vor
+(also eine selbstselektive Teilnahme) gegenüber einer extrinsischen Motivation (also
+z.B. auf Weisung) in Organisationen. Warta argumentiert hier im Sinne Friedemann
+Nerdingers (2004) warnend: »Anreize zur Steigerung der extrinsischen Motivation
+müssen vorsichtig eingesetzt werden, da so intrinsische Motivation verdrängt wer-
+den kann« (Warta 2007: 46). Auf der Makro-Ebene können Unterschiede durch
+unterschiedliche Werte und Kollektiv-Bindungen begründet sein, aus netzwerk-
+analytischer Sicht können sie über verschiedenen Rollen bzw. positionale Bezie-
+hungsstrukturen und damit verbundenen Handlungserwartungen erklärt werden
+(vgl. Stegbauer 2006).
+Qualitätsmanagement und Strukturierung
+Wikipedia wird in der öffentlichen Diskussion vor allem wegen ihrer publizistischen
+Qualität problematisiert, ihrerseits bedroht durch Vandalismus und sogenannte
+›Edit-Wars‹ (vgl. Fiebig 2005; Kohlenberg 2006). Zumindest ersteres dürfte in orga-
+nisationsinternen Wikis keine Rolle spielen; dennoch ist auch hier das Qualitäts-
+management eine besondere Herausforderung, da die Qualität im Vergleich zu
+anderen Publikationsformen nicht kontinuierlich gewährleistet sein kann. Auch die
+Art des Qualitätsmanagements unterscheidet sich: Während die Überprüfung von
+Inhalten im Internet – eine kritische Masse vorausgesetzt – zumindest teilweise
+selbstorganisiert und durch die gesamte Nutzerschaft übernommen werden kann
+1 9 0 2
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NSSO Z IO LO GIE
+(vgl. Neus 2001), entstehen im organisationalen Wiki-Einsatz (je nach Gruppen-
+größe) besondere Anforderungen an die Herausbildung von Rollenzuständigkeiten
+(z.B. Admin- und Redakteursrollen), auch um eine Strukturierung und wechsel-
+seitige Verlinkung von Beiträgen voranzutreiben.
+Einführung und Organisation, Kontrast zu bestehenden Hierarchien
+Die Gründung eines Wikis erfolgt meist als grass-root-Bewegung, der Betrieb in
+Form der Selbstorganisation. Während in Organisationen Wikis top-down oder in
+Arbeitsgruppen teilweise auch bottom-up eingeführt werden können, trifft das Wiki
+dort jedoch auf eine bereits bestehende Organisationsstruktur. Dies führt jedoch
+weder zwangsläufig zu einem Abbild der Organisationsstruktur im Wiki noch zu
+einer Verflachung der Hierarchien in der Organisation. Vielmehr ist das Wiki als
+separates Kommunikationssystem zu verstehen und die Entwicklung fallweise zu
+betrachten. In öffentlichen Wikis ist die Zuschreibung eines hohen Status durch
+hohe Kontribution zu beobachten. In Organisationen kann demgegenüber eine
+möglicherweise eher niedrige Kontribution durch (einen bereits zugesprochenen)
+hohen Status vermutet werden.
+Zugänglichkeit und Nutzbarmachung von Wissen
+Während Andreas Brändle den »offenen Zugang« geradezu zum Grundprinzip von
+Wikis erklärt (2005: 18), steht dem in Organisationen oft ein rigides Rechtemanage-
+ment gegenüber. Der Betrieb von Wikis erfordert hier einen Spagat, dem teilweise
+durch einen komplett offenen Zugang für eine äußerst begrenzte Teilnehmerzahl
+Rechnung getragen wird.
+Während Wikis im WorldWideWeb durchaus um ihrer selbst Willen betrieben
+werden können, sollten Organisationen darauf achten, dass ein ressourcenintensives
+Projekt wie ein Wiki auch nutzbringend eingesetzt werden kann. Für Wiki-Nutzer in
+Organisationen kann ein Vorteil dabei in höherer Reputation oder erleichterten
+Arbeitsabläufen liegen. Für die Organisation selbst wird das in Wikis geronnene
+Wissen erst dann sinnvoll, wenn es in organisationsrelevante Entscheidungen trans-
+formiert werden kann. Deshalb ist nicht nur die Motivation zur Kontribution son-
+dern auch zum Abruf relevant und möglicherweise förderungsbedürftig.
+Warta (2007: 44–47) weißt noch auf vier weitere Unterschiede zwischen unter-
+nehmensinternen Wikis und der Wikipedia hin: Der Gruppentyp (Kleingruppe versus
+informelle Großgruppe), Prozesse und Führung (stärkere Prozessorientierung in der
+Einführungsphase in Unternehmen im Vergleich zur Ergebnisorientierung im
+M AY E R / S C HO E NE B O R N: E I N S AT Z VO N W I K IW E B S I N O R G A N I SAT I O NE N
+1 9 0 3
+allgemeinen), Subjektive und objektive Zeitbeschränkung (Unterschied zwischen Wiki-
+Arbeit in der Arbeits- bzw. Freizeit), Vorleistung und Gefangenendilemma (»Vorbefül-
+lung« des Wikis ist in Unternehmen wichtiger um »Aufmerksamkeit für das System
+zu wecken«; Warta 2007: 47).
+Aus den genannten Besonderheiten organisationseigener WikiWebs lassen sich
+Einschränkungen ihrer Wirksamkeit und Nützlichkeit im Vergleich zu einem
+öffentlichen Einsatz ableiten. Als größte Schwächen im Umgang mit Wikis in Orga-
+nisationen sind (in Anlehnung an Bartel 2006: 15) das Fehlen einer bzw. die nur mit
+großem Aufwand zu erreichende konstante Qualität, die fortlaufende Organisation
+von Kontrolle und Zuständigkeit, das Spannungsfeld von Restriktionen innerhalb von
+Organisationen versus dem Wiki-Prinzip der prinzipiellen Offenheit und niedrig-
+schwelligen Beteiligung sowie die kritische Masse sowohl an aktiven Teilnehmern wie
+auch an enthaltenen, jeweils aktuell brauchbaren Informationen zu nennen. Im
+Unterschied zu anderen Medien der Organisationskommunikation weisen Wikis nur
+eine geringfügige Personalisierung von Wissen (bzw. Wissensträgern) auf, sie verteilen
+Informationen nicht sondern stellen sie auf Abruf zur Verfügung (Pull-Medium),
+erfordern zumeist noch einen Medienwechsel z.B. bei persönlichen Kontaktversuchen
+(etwa per E-Mail, Telefon o. ä.) oder bei der Bearbeitung von Dokumenten mit
+verschiedenen Anwendungen (z.B. Word-Export von und ins Wiki) und stellen
+besondere Anforderungen an die Organisation in den Phasen der Initiation und
+Implementation (z.B. hinsichtlich Strukturierung, Qualitätssicherung sowie Motivation
+zu aktiver Beteiligung und nutzenbringender Auswertung; vgl. Viégas u.a. 2004).
+Die angeführten Einschränkungen eines Einsatzes von WikiWebs in Organisa-
+tionen sollen in einem nächsten Schritt in den Kontext jüngerer Erkenntnisse der
+Organisationskommunikationsforschung gestellt werden. Dies folgt dem Ziel, in
+Herleitung aus einer theoretischen Perspektive Folgewirkungen des Einsatzes von
+WikiWebs in Organisationen zu ergründen, deren empirische Überprüfung ab-
+schließend in Form eines ausblickenden Forschungsprogramms skizziert werden
+soll.
+Neue Perspektiven der Organisationskommunikationsforschung
+Das Forschungsgebiet Organisationskommunikation, situiert an der Schnittstelle
+zwischen Organisationstheorie und Kommunikationswissenschaft, hat eine weit-
+reichende Tradition in Nordamerika (vgl. Corman 2000; Taylor 2003), was jedoch
+nicht in gleichem Maße im deutschsprachigen Raum geteilt wird. Hierzulande wird
+das Forschungsgebiet meist verkürzt aufgefasst, indem es unter dem Begriff der
+›Unternehmenskommunikation‹ ausschließlich auf Wirtschaftsunternehmen (im
+1 9 0 4
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NSSO Z IO LO GIE
+Sinne von ›Corporate Communication‹) und zugleich hauptsächlich auf außenge-
+richtete Kommunikationen (im Sinne des verwandten Forschungsgebiets ›Public
+Relations‹) reduziert wird. Im Folgenden soll Organisationskommunikation in An-
+lehnung an das Verständnis Theis-Berglmairs (2003: 18) als ganzheitlicher Begriff
+für all jene Kommunikationsprozesse verstanden werden, welche die Organisation
+als soziales System konstituieren.
+Das Forschungsgebiet wird in jüngerer Zeit durch Beiträge der Montréal-Schule
+um Autoren wie James Taylor, Francois Cooren und Kollegen geprägt, deren An-
+spruch nicht weniger als paradigmatischer Natur ist. Jene Autoren eint die Perspek-
+tive, Organisationen grundsätzlich als durch Kommunikation konstituiert zu begrei-
+fen (Taylor/van Every 2000; Robichaud/Giroux/Taylor 2004; Castor 2005; Cooren/
+Fairhurst im Erscheinen). Ihrer Auffassung zufolge bestehen Organisationen aus
+aufeinander folgenden Episoden kommunikativen Handelns, deren wechselseitige
+Orientierung über Zeit zur Herausbildung organisationaler Strukturen führen
+(Taylor 2003: 12). Teresa R. Castor führt hierzu aus:
+»(O)rganizational communication scholars (…) are becoming increasingly interested in the
+communication as constitutive of organizations (CCO) perspective that views organizations as
+socially constructed through communication.« (Castor 2005: 480)
+In ihrem Fokus auf Kommunikation als Konstituens der Organisation erinnert die
+Perspektive der Montréal-Schule an die Theorie sozialer Systeme nach Niklas Luhmann
+(Luhmann 1984; 2000; Seidl/Becker 2006), ohne dass jedoch eine wechselseitige
+Bezugnahme beider Literaturbeständen bestünde. Für Luhmann verkörpern Orga-
+nisationen eine mittlere Form sozialer Systeme, gelagert zwischen flüchtigen Inter-
+aktionen und Gesellschaft als alle Kommunikationen umfassenden sozialem Sys-
+tem. Ihm zufolge bestehen Organisationen zuallererst aus kommunizierten Ent-
+scheidungen. Durch die Kommunikation von Entscheidungen erzeugen sie Ent-
+scheidungsfähigkeit stets aufs Neue und erhalten sich somit als autopoietisches, d.h.
+selbstverfertigendes System (Luhmann 2000: 156). Im Kontrast zu den Arbeiten der
+Montréal-Schule wird bei Luhmann somit eine Einengung vorgenommen: Nur
+Entscheidungen, die als solche kommuniziert werden (d.h. unter Ablehnung von
+Alternativen) haben die inhärente Eigenschaft, die Grenzerhaltung und mithin die
+Existenz des formalisierten Systems der Organisation zu stabilisieren.
+Das abstrakte Organisationsverständnis Luhmanns und der Montréal-Schule
+lässt sich greifbarer machen, indem man es anhand der Frage des Medieneinsatzes
+in Organisationen konkretisiert. Eine Organisation, in der vieles in direkter Kom-
+munikation, quasi »auf Zuruf«, geregelt werden kann, wird anders in der Lage sein,
+die Kommunikation von Entscheidungen miteinander zu verknüpfen, als dies in
+großen, weithin medienvermittelt kommunizierenden Organisationsgefügen der Fall
+ist (vgl. Kühl 2002). So stellt sich insbesondere in Großorganisationen das Problem,
+M AY E R / S C HO E NE B O R N: E I N S AT Z VO N W I K IW E B S I N O R G A N I SAT I O NE N
+1 9 0 5
+dass Entscheidungsprozesse nur schwerlich überblickt werden können und das in
+solchen Prozessen verarbeitete Wissen verstreut vorliegt. Entsprechend haben sich
+diverse Organisationen der Herausforderung gestellt, ihr verstreut vorliegendes Wis-
+sen in Form durch Maßnahmen des Wissensmanagements besser nutzbar zu ma-
+chen (für eine Übersicht – vgl. Reinhardt/Eppler 2004).
+Wie eingangs dargelegt, finden WikiWebs zunehmende Verwendung in der Be-
+wältigung der Herausforderungen der Wissenskommunikation in Organisationen.
+Im Sinne von Yates und Orlikowski können WikiWebs hierbei nicht nur als Me-
+dium, sondern auch als Genre organisationaler Kommunikation begriffen werden
+(Yates/Orlikowski 1992). Der Begriff des Genres legt das Augenmerk auf wieder-
+kehrende Gebrauchsroutinen eines Mediums, die zur Strukturbildung tendieren und
+somit Organisationskommunikation prägen. Vor diesem Hintergrund stellt sich die
+Frage, inwieweit ihr Einsatz die Entscheidungsprozesse einer Organisation in
+Ablauf und wechselseitiger Strukturierung verändert.
+WikiWebs im Lichte der neueren
+Organisationskommunikationsforschung
+Bezieht man die Arbeiten Luhmanns und der Montréal-Schule auf den Einsatz von
+WikiWebs in Organisationen, so lässt sich vermuten, dass WikiWebs als Medium
+und Genre der Organisationskommunikation (Yates/Orlikowski 1992) das Konsti-
+tutionsverhältnis zwischen Organisation und Kommunikation in dreierlei Hinsicht
+prägen – dies mit noch ungeklärten Folgen für die Selbstverfertigung der Organisa-
+tion aus Kommunikation:
+1. Wiki-basierte Kommunikationsformen erlauben die Beobachtung des Entstehungs-
+prozesses organisationalen Handelns aus Kommunikation heraus. Die Editierungs-
+historie und die Diskussionen darüber, welche Informationen nachgehalten und
+welche eliminiert werden sollen, schaffen eine Meta-Konversation (Robichaud u.a.
+2004), in der sich Kommunikation zu Entscheidungen verdichtet. Dies kann als
+eine Art sprachliche Verdopplung der Organisation als Kommunikationsgefüge
+aufgefasst werden. Nehmen wir an, neben dem eigentlichen Organisations-
+geschehen (im Sinne einer Entscheidungskommunikation) entsteht eine Wiki-
+basierte Wissenskommunikation zu einzelnen Fachthemen. Es entspinnt sich
+eine Meta-Diskussion darüber, welche Inhalte zu einem einzelnen Fachthema
+im WikiWeb enthalten sein sollen. Die Entscheidungen über Inhalte des
+WikiWebs ziehen eine Reflexionsschleife in die Organisationskommunikation
+ein, die hinsichtlich der Beobachtbarkeit von Entscheidungen wahrscheinlich so
+1 9 0 6
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NSSO Z IO LO GIE
+zuvor noch nicht in der Organisation da gewesen ist, zumindest ab einer
+gewissen Organisationsgröße (vgl. Kühl 2002)
+2. Ferner ist anzunehmen, dass der Einsatz von WikiWebs in der Organisations-
+kommunikation das Verhältnis der Organisation zu ihrer eigenen Geschichtlichkeit ver-
+ändert. Luhmann zufolge ist die Hauptfunktion des organisationalen Gedächt-
+nisses das Diskriminieren zwischen Vergessen und Erinnern (Luhmann 2000:
+158). Vergessen ist definiert er als Normalfall der Gedächtnisleistung, nur im
+Ausnahmefall wird etwas der späteren Erinnerung zugeführt, indem sich ent-
+sprechende Strukturen herausbilden. Der Einsatz von Wikis in Organisationen
+hat direkten Bezug zur Gedächtnisfunktion der Organisation. Ähnlich transak-
+tiven Gedächtnissystemen (Wegner 1987) repräsentieren sie eine Art überindividuel-
+les Gedächtnis, zu welchem seitens mehrerer Organisationsmitglieder Zugriffs-
+möglichkeiten bestehen. Jedoch bewirkt ihr Einsatz zugleich, dass durch das
+Vorhalten der Veränderungshistorie sowohl von Artikeln wie auch Diskussions-
+seiten eine vollständige Erinnerbarkeit der Entscheidungskommunikation bezüg-
+lich einzelner Beiträge geschaffen wird. Hier gilt es zu untersuchen, inwieweit mit
+der Steigerung der Erinnerbarkeit eine Vergegenwärtigung der Kontingenz des
+eigenen Organisationshandelns einhergeht (vgl. Nassehi 2005) und dies wo-
+möglich eine Lähmung organisationaler Entscheidungsfähigkeit nach sich zieht.
+3. Schließlich lässt sich ableiten, dass mit dem Einsatz von WikiWebs in der Orga-
+nisationskommunikation Veränderungen in der Legitimation von Entscheidungen durch
+kommunikative Verfahrensweisen einhergehen. Während in konventionellem
+Organisationsgeschehen Entscheidungen oftmals zunächst getroffen und erst
+post hoc rationalisiert werden (vgl. Cyert/March, 1963), wird in Wiki-Plattformen
+Entscheidungskommunikation ad hoc sichtbar. Dies wiederum verstärkt mut-
+maßlich den provokativen, Widerspruch erzeugenden Charakter kommunizier-
+ter Entscheidungen. Die Vermutung wird beispielartig bestätigt durch ›Edit
+Wars‹, das heißt anhaltende Diskussionen über die inhaltliche Ausrichtung
+einzelner Beiträge. In der Organisation werden solche Extremsituationen aufge-
+löst durch das Einziehen einer weiteren (Hierarchie-) Ebene der Organisation –
+indem zum Beispiel Organisationsmitglieder definiert werden, denen die Über-
+führung der in Edit Wars aufgefächerten, offenen Kontingenz in fixierte Kon-
+tingenz zugerechnet und zugestanden wird (bei der Wikipedia zum Beispiel
+durch Abstimmungen oder Personen mit bestimmten Administratorenrechten).
+Zu untersuchen ist hier welche Verfahren die Organisation von Wikis (online
+wie ›offline‹) bezüglich der Legitimation von Entscheidungen herausbildet, bei-
+spielsweise in Form von kontextspezifischen Selektions- und Editierregeln,
+Redaktionsnormen und -rollen.
+M AY E R / S C HO E NE B O R N: E I N S AT Z VO N W I K IW E B S I N O R G A N I SAT I O NE N
+1 9 0 7
+Aus den drei theoriegeleiteten Implikationen ergeben sich vielfältige Forschungsfra-
+gen, denen empirisch nachgegangen werden muss. Was bedeutet der Wiki-Einsatz
+z.B. für die Effizienzsteigerung von Organisationen im Sinne des Wissensmanage-
+ments (Reinhardt/Eppler 2004)? Welche Machtverschiebungen in Organisationen
+(Mumby 1988) können sich ergeben? Inwieweit steht das Interesse der Organisation
+(des Kollektivs) der Beobachtung von Aktivität und Archivierung von Wissen bzw.
+Entscheidungen dem persönlichen Interesse des Wissensarbeiters (Individuum) ent-
+gegen und führt damit zu sozialen Dilemmata (vgl. van Lange u.a. 1992)?
+Ausblickendes Forschungsprogramm
+Die theoretische Erfassung möglicher Veränderungen in der Organisationskommu-
+nikation durch den Einsatz von Wiki-Technologien bildet den Ausgangspunkt eines
+laufenden Forschungsprojekts. Auf Grundlage empirischer Fallstudien werden
+Wiki-Technologien in organisationsinternem (z.B. als ›Wissensplattform‹ in einem
+Unternehmen) sowie in öffentlichem Einsatz (z.B. als öffentlich zugängliche En-
+zyklopädie wie ›Wikipedia‹) miteinander verglichen, um offen zu legen, inwieweit
+Wiki-Technologie bestehende Organisationsstrukturen verändert oder diese erst aus
+sich selbst heraus hervorbringt. Mittels der History-Flow-Methodik (Viégas u.a.
+2004) und eigener Evaluationstools wird empirisch nachgezeichnet, wie die Ver-
+änderungsgeschichte einzelner Beiträge eines WikiWebs mit der Entscheidungs-
+kommunikation auf Diskussionsseiten verknüpft wird, kurzum, wie Organisation
+kommunikativ entsteht. Neben der informatischen Analyse des Wiki-Systems wer-
+den individuelle Indikatoren wie zum Beispiel technisches Vorwissen, perzipierter
+Aufwand und Nutzen aber auch kollektive Aspekte wie z.B. die Organisationskul-
+tur, Anreiz- und Sanktionsmechanismen und netzwerkdynamische Effekte wie
+Gruppendruck erhoben und in die Analyse einbezogen. Die Studie bezieht sich
+hierbei auf aktuelle Forschungen zu Social Software und deren Anwendungskontex-
+ten (z.B. Pfeil u.a. 2006). Innerhalb des Forschungsgebiets Organisationskommuni-
+kation ist es Ziel der Studie, einen Beitrag zu jüngsten Debatten zu leisten, welche
+Bedingungen es sind, die als konstitutiv für die Entstehung der Organisation aus
+Kommunikation angesehen werden können (McPhee/Zaug 2000; Cooren/Fair-
+hurst im Erscheinen).
+1 9 0 8
+Literatur
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NS S O Z IO L O GIE
+<ref>Alpar, Paul/Blaschke, Steffen/Kessler, Steffen, Erfolgreiche Nutzung des Web 2.0 durch kleinere und
+mittlere Unternehmen, Wiesbaden, im Erscheinen.</ref>
+<ref>Bartel, Tim (2006), »Nutzung von Wikis als Wissensmanagement unterstützende Systeme in Unter-
+nehmen«, in: http://www.iw-live.de/wissen/start/index.php?page=12&child=2&lang=de (25.
+Oktober 2006).</ref>
+<ref>Bergmann, Jens (2007), »Die gläserne Firma. Wissensmanagement wollen viele und schaffen
+wenige. Die Bielefelder Synaxon AG hat ihren Weg gefunden – sie schafft das Herrschafts-
+wissen ab«, Brandeins, Nr. 3, S. 108–115.</ref>
+<ref>Brändle, Andreas (2005), Zu wenige Köche verderben den Brei. Eine Inhaltsanalyse der Wikipedia aus Pers-
+pektive der journalistischen Qualität, des Netzeffekts und der Ökonomie der Aufmerksamkeit, Zürich.</ref>
+<ref>Castor, Teresa R. (2005), »Constructing Social Reality in Organizational Decision Making. Account
+Vocabularies in a Diversity Discussion«, Management Communication Quarterly, Jg. 18, H. 4,
+S. 479–508.</ref>
+<ref>Corman, Steve R. (2000), »The Need for Common Ground«, in: Corman, Steve R./Poole, Marshall
+S. (Hg.), Perspectives on Organizational Communication. Finding Common Ground, New York, S. 3–13.</ref>
+<ref>Cooren, Francois/Fairhurst, Gail T., »Dislocation and Stabilization: How to Scale up from Inter-
+actions to Organization«, in: Linda L. Putnam/Nicotera, Anne M. (Hg.), The Communicative
+Constitution of Organization: Centering Organizational Communication, Mahwah/NJ, im Erscheinen.</ref>
+<ref>Cunningham, Ward/Leuf, Bo (2001), The Wiki Way – Quick Collaboration on the Web, New York.</ref>
+<ref>Cyert, Richard M./March, James G. (1963), A Behavioral Theory of the Firm, Englewood Cliffs/NJ.</ref>
+<ref>Fiebig, Henriette (2005) (Hg.), Wikipedia. Das Buch, Berlin.</ref>
+<ref>Fritz, Johannes (2007), »Flurfunk im Web 2.0. Das neue Internet kann auch in Unternehmen
+Mehrwert schaffen. Anpassung der Sicherheitsvorschriften notwendig«, Süddeutsche Zeitung,
+Nr. 63, S. 21.</ref>
+<ref>Haug, Sonja/Weber, Karsten (2003), »Tauschnetzwerke im Internet und im Freundeskreis. Eine
+empirische Untersuchung der Wirksamkeit der Reziprozitätsnorm beim Tauschen. Teil I:
+Bestimmungsfaktoren der Reziprozität beim Tauschen«, in: kommunikation@gesellschaft, Jg. 4,
+http://www.soz.uni-frankfurt.de/K.G/B6_2003_Haug_Weber1.pdf (18. März 2007).</ref>
+<ref>Hertel, Guido/Schroer, Joachim (2006), Wikipedians, and Why They Do It: Ergebnisse und Ausblick, in:
+http://www.psychologie.uni-wuerzburg.de/ao/research/wikipedia/wikipedia_
+praesentation_2006-07.pdf (18. März 2007).</ref>
+<ref>Kohlenberg, Kerstin (2006), »Die anarchische Wiki-Welt«, Die Zeit, Nr. 37, S. 17.</ref>
+<ref>Kühl, Stefan (2002), »Jenseits der Face-to-Face-Organisation. Wachstumsprozesse in kapitalmarkt-
+orientierten Unternehmen«, Zeitschrift für Soziologie, Jg. 31, H. 3, S. 186–210.</ref>
+<ref>Luhmann, Niklas (1984), Soziale Systeme, Frankfurt a.M.</ref>
+<ref>Luhmann, Niklas (2000), Organisation und Entscheidung, Opladen.</ref>
+<ref>Majchrzak, Ann/Wagner, Christian/Yates, Dave (2006), Corporate Wiki Users: Results of a Survey, in:
+Proceedings of the 2006 International Symposium on Wikis, http://ws2006.wikisym.org/
+space/Paper%3E%3ECorporate+Wiki+Users-Results+of+a+Survey/wiki11f-majchrzak.pdf
+(25. Oktober 2006).</ref>
+<ref>McPhee, Robert D./Zaug, Pamela (2000). »The Communicative Constitution of Organizations: A
+framework for explanation«, Electronic Journal of Communication, Jg. 10, H. 1–2, http://
+www.cios.org/EJCPUBLIC$$2357327521102$$/010/1/01017.html (31. Juli 2004).</ref>
+<ref>M A Y E R / S C H O E N E B O R N : E I N S A T Z V O N W I K IW E B S I N O R G A N I S A T I O N E N
+1 9 0 9</ref>
+<ref>Mumby, Dennis K. (1988), Communication and Power in Organizations: Discourse, Ideology, and
+Domination, Norwood/NJ.</ref>
+<ref>Nassehi, Armin (2005), »Organizations as Decision Machines. Niklas Luhmann’s Theory of
+Organized Social Systems«, in: Jones, Campbell/Munro, Rolland (Hg.), Contemporary Organiza-
+tion Theory, Oxford, S. 178–191.</ref>
+<ref>Nerdinger, Friedemann (2004), »Die Bedeutung der Motivation beim Umgang mit Wissen«, in:
+Reinmann-Rothmeier, Gabi/Mandl, Heinz, Psychologie des Wissensmanagements, Göttingen.</ref>
+<ref>Neus, Andreas (2001), »Managing Information Quality in Virtual Communities of Practice. Lessons Learned
+from a Decade’s Experience with Exploding Internet Communication«, in: MIT Free/Open Source
+Research Community, in: http://opensource.mit.edu/papers/neus.pdf (30. November 2005).</ref>
+<ref>Pentzold, Christian/Seidenglanz, Sebastian/Fraas, Claudia u.a. (2007), »Wikis – Bestandsaufnahme
+eines Forschungsfeldes und Skizzierung eines integrativen Analyserahmens«, Medien &
+Kommunikationswissenschaft, Jg. 55, H. 1, S. 61–79.</ref>
+<ref>Pfeil, Ulrike/Zaphiris, Panayiotis/Ang, Chee Siang (2006), »Cultural Differences in Collaborative
+Authoring of Wikipedia«, Journal of Computer-Mediated Communication, Jg. 12, H. 1, in: http://
+jcmc.indiana.edu/vol12/issue1/pfeil.html (30. Oktober 2006).</ref>
+<ref>Przepiorka, Sven (2004), Wikis – Eine Einführung, in: http://www.tzwaen.com/publikationen/
+wikis-eine-einfuehrung/ (12. April 2006).</ref>
+<ref>Przepiorka, Sven (2005), Weblogs und Wikis, in: http://www.tzwaen.com/publikationen/vortrag-
+ueber-weblogs-wikis (25. Oktober 2006).</ref>
+<ref>Reinhardt, Rüdiger/Eppler, Martin J. (2004) (Hg.), Wissenskommunikation in Organisationen. Methoden,
+Instrumente, Theorien, Berlin.</ref>
+<ref>Robichaud, Daniel/Giroux, Hélène/Taylor, James R. (2004), »The Metaconversation: The
+Recursive Property of Language as a Key to Organizing«, The Academy of Management Review,
+Jg. 29, H. 4, S. 617–634.</ref>
+<ref>Schmidt, Jan (2006), »Social Software: Onlinegestütztes Informations-, Identitäts- und Beziehungs-
+management«, Forschungsjournal NSB, Jg. 19, H. 2, S. 37–47.</ref>
+<ref>Seidl, David/Becker, Kai H. (2006) (Hg.), Niklas Luhmann and Organization Studies, Kopenhagen.</ref>
+<ref>Stegbauer, Christian (2006), »Wikipedia: Die Erstellung einer Online-Enzyklopädie als Herausfor-
+derung für die Erklärung von Kooperation«, in: Stegbauer, Christian/Rausch, Alexander (Hg.),
+Strukturalistische Internetforschung. Netzwerkanalysen internetbasierter Kommunikationsräume,
+Wiesbaden, S. 221–244.</ref>
+<ref>Stegbauer, Christian, »Verteilte Wissensproduktion aus netzwerkanalytischer Perspektive«, in:
+Willems, Herbert (Hg.), Weltweite Welten. Internet-Figurationen aus wissenssoziologischer Perspektive,
+Wiesbaden, im Erscheinen.</ref>
+<ref>Taylor, James R. (2003). Organizational Communication: Is it a Discipline?, in: http://www2.fmg.uva.nl/
+communicatiewetenschap (22. Juni 2003).</ref>
+<ref>Taylor, James R./van Every, Elizabeth J. (2000), The Emergent Organization: Communication as its Site
+and Surface, Mahwah/NJ.</ref>
+<ref>Theis-Berglmair, Anna-Maria (2003), Organisationskommunikation. Theoretische Grundlagen und empirische
+Forschungen, Opladen.</ref>
+<ref>Van Lange, Paul A. M./Liebrand, Wim B. G./Messick, David M. u.a. (1992), »Introduction and
+Literature Review«, in: Dies. (Hg.), Social Dilemmas: Theoretical Issues and Research Findings,
+Oxford, S. 3–28.</ref>
+1 9 1 0
+S E K T IO N M E DIE N- U ND K O M M U NIK AT IO NS S O Z IO L O GIE
+<ref>Viégas, Fernanda B./Wattenberg, Martin/Dave, Kushal (2004), »Studying Cooperation and
+Conflict between Authors with History Flow Visualizations«, in: Dies. (Hg.), Proceedings of the
+CHI 2004, New York, S. 575–582.</ref>
+<ref>Warta, Alexander (2007), »Wiki-Einführung in der Industrie. Herausforderungen und Chancen am
+Beispiel von Robert Bosch Diesel Systems«, in: Dittler; Ullrich/Kindt; Michael/Schwarz;
+Christine (Hg.), Online-Communities als soziale Systeme, Münster, S. 41–60.</ref>
+<ref>Wegner, Daniel M. (1987), »Transactive Memory: A Contemporary Analysis of the Group Mind«,
+in: Mullen, Brian/Goethals, George R. (Hg.), Theories of group behavior, New York, S. 185–208.</ref>
+<ref>Yates, Joann/Orlikowski, Wanda J. (1992), »Genres of Organizational Communication: A
+Structurational Approach to Studying Communication and Media«, The Academy of Management
+Review, Jg. 17, H. 2, S. 299–326.</ref>

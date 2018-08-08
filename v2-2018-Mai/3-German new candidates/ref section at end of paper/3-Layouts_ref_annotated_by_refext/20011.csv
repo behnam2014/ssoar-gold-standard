@@ -1,0 +1,3321 @@
+InformationsZentrum
+Sozialwissenschaften
+Bonn
+Zentralarchiv
+für Empirische Sozialforschung
+an der Universität zu Köln
+Zentrum für Umfragen,
+Methoden und Analysen,
+Mannheim
+GESIS-Arbeitsbericht Nr. 3
+GESIS-WEB-UMFRAGE
+Matthias Stahl, Gisbert Binder, Wolfgang Bandilla
+Juli 2004
+InformationsZentrum
+Sozialwissenschaften
+der Arbeitsgemeinschaft
+Sozialwissenschaftlicher Institute e.V.
+Lennéstraße 30  D-53113 Bonn
+Telefon 02 28 / 22 81 - 0
+Telefax 02 28 / 22 81 - 120
+Das IZ ist Mitglied der
+Gesellschaft Sozialwissenschaftlicher
+Infrastruktureinrichtungen e.V.
+Die GESIS ist Mitglied der
+Leibniz-Gemeinschaft.
+Inhalt
+Vorbemerkung und Zielsetzung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Teil I
+Untersuchungsmethodik: Sampling, Rekrutierung, Untersuchungsablauf . . . . . 6
+1 Ausschöpfung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Teil II
+Ergebnisse der Pop-Up-Befragung . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1 Besuchshäufigkeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2 Besuchsgrund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3 Soziodemografische Angaben . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4 GESIS-Web-Besucher: Studenten, Wissenschaftler, Akademische
+Praktiker und Nicht-Akademiker . . . . . . . . . . . . . . . . . . . . . . . . 21
+Teil III
+Ergebnisse der Nachbefragung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1 Zusammensetzung der Auswahlen bei der Pop-Up-Befragung und
+der Nachbefragung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+2 Suchverhalten und Verwendung der Ergebnisse . . . . . . . . . . . . . . . . 27
+2.1 Auffinden der GESIS-Web-Seiten . . . . . . . . . . . . . . . . . . . . . 27
+2.2 Aufgesuchte Seiten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+2.3 Nutzungszweck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+3 Bewertung durch die Besucher. . . . . . . . . . . . . . . . . . . . . . . . . . 31
+3.1 Weiterempfehlung und Wiederbesuch . . . . . . . . . . . . . . . . . . . 31
+3.2 Bewertung einzelner Aspekte des GESIS-Web-Angebots
+4 Kritik und Empfehlungen der Besucher . . . . . . . . . . . . . . . . . . . . . 41
+4.1 Verbesserungsvorschläge bei der Dimension Utility (Nützlichkeit) . . . . 42
+4.2 Kritik an der Dimension Usability (Bedienbarkeit) . . . . . . . . . . . . 44
+4.3 Verbesserungsvorschläge bei der Dimension Usability (Bedienbarkeit) . 47
+4.4 Verbesserungsvorschläge bei der Dimension Likeability (Gefälligkeit) . 50
+Literatur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Anhang: Fragebogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Pop-Up- Befragung (deutsche Version) . . . . . . . . . . . . . . . . . . . . . 53
+Fragebogen Nachbefragung (deutsche Version). . . . . . . . . . . . . . . . . 57
+POP-UP-Befragung (englische Version) . . . . . . . . . . . . . . . . . . . . 61
+Fragebogen Nachbefragung (englische Version) . . . . . . . . . . . . . . . . 65
+Vorbemerkung und Zielsetzung
+Die Idee, das GESIS-Web-Angebot vermittels einer Web-Umfrage evaluieren zu lassen, hat
+ihren Ursprung in der GESIS-Arbeitsgruppe „Qualitätssicherung“, deren Leiter Prof. Mohler
+ist. Diese Arbeitsgruppe koordiniert auf der GESIS-Ebene die verschiedenen Aktivitäten
+hinsichtlich der Qualitätssicherung in den einzelnen Instituten. Mit der konkreten Durchfüh-
+rung des Projektes wurde ein Arbeitsteam beauftragt, dem Gisbert Binder und Matthias Stahl
+(IZ), Uwe Jensen (ZA) und Wolfgang Bandilla (ZUMA)1 angehörten und das mit der Vorbe-
+reitung, Durchführung und Auswertung der Befragung betraut wurde. Das erste Arbeitstref-
+fen fand am 23.01.2002 statt. Auslöser der GESIS-Web-Umfrage waren die Ergebnisse der
+Soziologieprofessorinnen und –professoren Untersuchung (vgl. Binder et al, 2001). Gefragt
+nach dem Informationsverhalten, gaben 77 Prozent der Befragten an, für die Vorbereitung
+von Lehrveranstaltungen das Internet zu nutzen. Noch stärker wird das Internet für eigene
+Forschungsarbeiten genutzt (82 Prozent). Das Internet führt die befragten Professoren/innen
+allerdings nur in begrenztem Maße auf die Seiten der GESIS: 33 Prozent kennen das Internet-
+Angebot der GESIS und nur etwa ein Fünftel aller Befragten haben bereits Informationen aus
+dem Internet-Angebot der GESIS abgerufen.
+Das Ziel der Studie bestand einerseits darin, soziodemografische Eckdaten über die Nutze-
+rinnen und Nutzer des Web-Angebotes der GESIS zu erhalten. Andererseits sollte mittels der
+weitgehend standardisierten Befragung – zumindest in Ansätzen – eine Bewertung des viel-
+fältigen Angebotes der GESIS aus der Nutzerperspektive2 ermöglicht werden.
+Der Anspruch der Arbeitsgruppe bei der Anlage der Untersuchung war, den wissenschaftli-
+chen, methodischen und technischen Stand der Markt- und Sozialforschung sowie den ge-
+setzlichen und rechtlichen Rahmenbedingungen, unter denen sie durchgeführt wird, zu erfül-
+len (ADM, ASI, BVM, D.G.O.F., 2001). Die technische Umsetzung der Befragung und Er-
+hebung der Daten wurde mit der Softwarelösung „Umfragecenter“ von GLOBAL-PARK,
+Köln3, realisiert.
+Ab 29.10.2002 wurde die Umfrage einem ausführlichen Pretest unterzogen. Aufgrund der
+Ergebnisse des Pretests wurde eine umfassende Revision des Befragungsinstrumentes vorge-
+nommen. Deshalb konnte die Feldphase der Hauptbefragung nicht mehr – wie ursprünglich
+geplant - im WS 2002/2003 realisiert werden, sondern wurde auf das SS 2003 verschoben.
+1
+Wir danken unserem Kollegen Michael Bosnjak (ehemals ZUMA, jetzt Universität Mannheim)
+für wertvolle Hinweise bei der Konzeption der Studie und Andreas Schmitz (IZ) für die Mitarbeit
+bei der Datenanalyse.
+2 Zu Gunsten der Lesbarkeit und Kürze ist stets nur die männliche Sprachform gewählt worden.
+Dafür die Bitte um Verständnis.
+3 http://www.globalpark.de/home/index.htm
+GESIS-Arbeitsbericht Nr. 3
+Teil I
+Untersuchungsmethodik: Sampling, Rekrutierung,
+Untersuchungsablauf
+Vor dem Hintergrund der oben genannten Zielsetzungen handelt es sich also um eine klassi-
+sche Studie zur Websiteevaluation, wie sie im Bereich der Online-Marktforschung inzwi-
+schen zum Standardrepertoire gehört (vgl. u.a. Theobald et al., 2003).
+Eines der methodischen Hauptprobleme besteht bei derartigen Studien in der Art der Rekru-
+tierung der potenziellen Zielpersonen. Da über die Besucher bzw. Nutzer eines bestimmten
+Webangebotes in der Regel keinerlei Informationen, wie beispielsweise eindeutige und va-
+lide E-Mail-Listen, vorliegen, ist hier eine Stichprobenziehung analog zu traditionellen Um-
+fragen nicht möglich. Stattdessen hat sich für die Evaluation von Websites ein online-basier-
+tes Konzept für die Zufallsauswahl im Internet bewährt, das unter der Bezeichnung „N VIZ“
+bzw. „Nth Visitor’s Intercept“ bekannt ist (Pfleiderer, 2003).
+Verkürzt dargestellt bildet bei diesem Konzept die Summe aller Zugriffe auf ein bestimmtes
+Webangebot innerhalb eines festgelegten Zeitraumes die Auswahlgesamtheit. Jeder „N-te
+Besucher“4 des zu untersuchenden Webangebotes wird mittels eines eingeblendeten
+Pop-Up-Fensters zur Teilnahme an der Befragung aufgefordert.
+6
+4
+Der Buchstabe „N“ steht dabei für die Schrittweite dieser Einblendungen. Abhängig von der
+durchschnittlichen Gesamtzahl an Aufrufen des Web-Angebotes sowie der angestrebten Zahl von
+Befragungsteilnehmern wird vor Beginn der Feldphase die Schrittweite der Pop-Up-Einblendun-
+gen festgelegt. Die Schrittweite kann dabei zwischen einem geringen Wert für weniger häufig
+aufgesuchte Webangebote (in der Regel Angebote für spezielle Nutzergruppen) und einem hohen
+Wert für stark frequentierte Angebote, wie z.B. die Online-Angebote aus dem kommerziellen
+Medienbereich, variieren. Zwar suggeriert die Bezeichnung „N-ter Besucher“, dass es sich um
+Personen handelt, tatsächlich handelt es sich jedoch um Nutzungsereignisse, die nicht unbedingt
+mit Personen gleichzusetzen sind. Dies hängt mit der technischen Struktur des Internet zusam-
+men, wonach nur registriert werden kann, dass von einer bestimmten Maschine, d.h. von einem an
+das Internet angeschlossenen Rechner, zu einem bestimmten Zeitpunkt eine Website aufgerufen
+wird. Es kann nicht ausgeschlossen werden, dass von diesem Rechner verschiedene Personen die
+betreffende Website aufgerufen haben. Ebenso wenig können solche Situationen erfasst werden,
+in denen die gleiche Person die Website von verschiedenen Rechnern aufruft. Es handelt sich bei
+„N VIZ“ also um ein Event-Sampling-Verfahren (Batinic & Bosnjak, 2000: 306; Bosnjak, 2002:
+15), bei dem Nutzungsereignisse und nicht Personen die Auswahlgesamtheit bilden. Durch die
+Einblendungen mit Aufforderungscharakter ist eine „aktive Rekrutierung“ der Befragungsteil-
+nehmer gewährleistet. Diese Vorgehensweise entspricht damit auch den Qualitätsanforderungen
+für Online-Befragungen, wie sie von den Dachverbänden der akademischen und kommerziell
+ausgerichteten Markt- und Sozialforschung aufgestellt wurden (ADM, ASI, BVM, D.G.O.F..,
+2001).
+GESIS-Arbeitsbericht Nr. 3
+7
+Im Unterschied zum „N VIZ“ Verfahren wurde jedoch in der GESIS-Studie aufgrund der im
+Vergleich zu kommerziellen Websites geringen Besucherzahlen5 keine Stichprobenziehung
+mittels einer vorab festgelegten Schrittweite vorgenommen, sondern es erfolgte eine „Voll-
+erhebung“: Sobald irgendeine Seite aus dem GESIS-Web-Angebot von einer Internetadresse
+außerhalb des GESIS-Web-Angebotes (z.B. einer anderen Institution mit Internetpräsenz
+oder einer Internetsuchmaschine) aufgerufen wurde, erschien ein Pop-Up-Fenster mit der
+Bitte um Teilnahme an der Befragung. Um zu vermeiden, dass die gleiche Person bei einem
+wiederholten Besuch mit einer nochmaligen Teilnahmeaufforderung konfrontiert wurde, ist
+beim erstmaligen Besuch des GESIS-Angebotes innerhalb der Feldphase ein sog. „Cookie“
+gesetzt worden. Hierbei handelte es sich um eine Information, die automatisch im Browser
+des benutzten Internet-Rechners ablegt wurde und die wiederholte Einblendung des Pop-
+Up-Fensters verhinderte. Sofern die Cookies per Voreinstellung in der Browser-Software de-
+aktiviert waren, wurde das Pop-Up-Fenster überhaupt nicht eingeblendet, d.h. derart konfi-
+gurierte Rechner (bzw. die Personen, die mit solchen Geräten arbeiteten) zählten nicht zur
+Auswahlgesamtheit. Gleiches gilt für Rechner, deren Software die Einblendung von Pop-
+Up-Fenstern unterdrückte. Eine weitere technisch bedingte Restriktion bestand darin, dass in
+der Browser-Software „JavaScript“ aktiviert sein musste.
+Nach diesem kurzen technischen Exkurs lässt sich die Auswahlgesamtheit folgendermaßen
+definieren: Alle Aufrufe zumindest einer Seite des GESIS- Web-Angebotes von einer Seite
+außerhalb des GESIS-Web-Angebotes, die innerhalb der Feldphase von einem an das Inter-
+net angeschlossenen Rechner vorgenommen wurden, dessen Browser-Software das Setzen
+von Cookies und die Einblendung von Pop-Up-Fenstern zuließ und zugleich JavaScript akti-
+viert war6.
+Die Feldphase lag zwischen dem 12. Mai und dem 15. Juli 2003. Zum Einsatz kam ein zwei-
+geteiltes Fragenprogramm, das in seinem ersten Teil vornehmlich Fragen zur Demografie
+des Besuchers des Web-Angebotes enthielt und im zweiten Teil überwiegend Fragen zur Be-
+wertung des GESIS-Web-Angebotes. Für diese Aufteilung in zwei Blöcke sprachen die fol-
+genden Gründe: Zum einen sollte der Umfang des Fragenprogramms möglichst gering gehal-
+ten werden, um die Abbruchquote während der Befragung zu minimieren (vgl. Schonlau et
+al., 2001, Theobald, 2003). Das Pop-Up-Fenster sollte schon beim Aufruf des GESIS-Web-
+Angebotes eingeblendet werden und nicht erst beim Verlassen der GESIS-Seiten, da in ei-
+nem solchen Fall die Gefahr einer extrem hohen „Wegklick-Rate“ des Pop-Up-Fensters ge-
+geben wäre. Für Befragungsteilnehmer, die zum ersten Mal das GESIS-Web-Angebot be-
+suchten, musste wiederum gewährleistet sein, dieses Angebot auch inhaltlich bewerten zu
+können, was nicht schon beim Erstaufruf einer Seite möglich ist.
+5 Im Vergleich zu den „Seitenaufrufen“ kommerzieller Internetanbieter handelt es sich bei den GE-
+SIS-Seiten um ein spezielles Angebot mit vergleichsweise geringen Besucherzahlen. Da von
+vornherein davon ausgegangen werden musste, dass nur ein kleiner Teil der Besucher der GESIS-
+Seiten dem Teilnahmeaufruf folgt und gleichzeitig eine hohe Befragtenzahl angestrebt wurde,
+entschied man sich in der Planungsphase der Studie für eine Vollerhebung.
+6
+Eine vollständige Kontrolle der technischen Voraussetzungen gemäß dieser Definition ist nicht
+möglich, und zwar z.B. dann, wenn nach einem Besuch der GESIS-Seiten die Cookies gelöscht
+wurden. In einem solchen Fall wäre bei einem wiederholten Aufruf des GESIS-Web-Angebotes
+nochmals das Pop-Up-Fenster eingeblendet worden und folglich eine wiederholte Teilnahme –
+zumindest theoretisch – möglich.
+8
+GESIS-Arbeitsbericht Nr. 3
+Aus den hier genannten Gründen wurde der folgende Ablauf gewählt: Aufruf einer beliebi-
+gen Seite des GESIS-Web-Angebotes, gekoppelt mit dem Pop-Up-Fenster zwecks Rekrutie-
+rung. Darauf konnte entweder mit einem vollständigen Wegklicken des Pop-Up-Fensters
+oder einer der Antwortoptionen (Teilnahme, Nicht-Teilnahme sowie „habe schon teilgenom-
+men“) reagiert werden. Der Teilnahmeaufruf mittels Pop-Up-Fenster war bildschirmfüllend,
+um eine hohe Ausschöpfung zu erzielen (Comley, 1999). Nach Anklicken der Option „Teil-
+nahme“ startete die erste Kurzbefragung mit einer Frage zur Kenntnis des GESIS-Web-An-
+gebotes (Erst- oder Wiederholungsbesuch) und dem Besuchsgrund sowie weiteren neun Fra-
+gen überwiegend demografischen Inhalts. Diese Kurzbefragung endete mit der Bitte um
+Teilnahme an einer weiteren Kurzbefragung (Nachbefragung), die laut Ankündigung vor-
+wiegend Fragen zur Bewertung des GESIS-Web-Angebotes enthielt. Im Fall der Teilnahme
+war die E-Mail-Adresse anzugeben. An diese Adresse wurde daraufhin eine personalisierte
+E-Mail mit einem anklickbaren Link, der zur zweiten Kurzbefragung führte, versendet.
+Durch diese Vorgehensweise war sichergestellt, dass die Zielperson nur einmal an der Nach-
+befragung teilnahm, also eine Manipulation des Befragungsergebnisses durch Mehrfachteil-
+nahme derselben Person ausgeschlossen werden konnte.
+Die Nachbefragung war wiederum mit ca. 20 Fragen vergleichsweise kurz gehalten. Erhoben
+wurden dabei in erster Linie solche Informationen, die Aufschluss gaben über den Nutzen
+(„Utility“), die Ergonomie bzw. Benutzbarkeit („Usability“) sowie den affektiv-evaluativen
+Charakter („Likeability“) der besuchten GESIS-Seiten aus der Sicht der Nutzer.
+Beide Befragungen kamen sowohl in einer deutschen als auch englischen Sprachversion zum
+Einsatz. Die technische Durchführung der Befragung lag in den Händen des auf Online-Be-
+fragungen spezialisierten Institutes GLOBAL-PARK in Köln.
+1
+Ausschöpfung
+In der Literatur werden für Online-Umfragen, bei denen die Rekrutierung der Befragungs-
+teilnehmer über ein Pop-Up-Fenster erfolgt, sehr unterschiedliche Teilnahmequoten7 berich-
+tet: Nach Budd und Bradford (2000) sind es bei kommerziell ausgerichteten Umfragen meist
+zwischen 5 Prozent und 15 Prozent der zur Teilnahme aufgeforderten Personen. Pfleiderer
+(2003: 389) wiederum erwähnt Ausschöpfungsraten zwischen 40 und 50 Prozent, die bei Be-
+fragungen spezieller Medienwebsites erzielt wurden. Sofern die Teilnahmeaufrufe über Ban-
+ner erfolgen, die auf unterschiedlichen Websites platziert sind, sind die Klickraten mit durch-
+schnittlich 0,2 und 0,5 Prozent extrem niedrig (Tuten, Bosnjak, Bandilla, 2000). Insgesamt
+gesehen ist das Bild bzgl. der Teilnahme- bzw. Ausschöpfungsraten bei derartigen Rekrutie-
+rungsansätzen sehr uneinheitlich, was sicherlich auch damit zusammenhängt, dass in den
+verschiedenen Studien unterschiedliche Prozentuierungsbasen verwendet werden.
+Aus diesem Grund sind im Folgenden unterschiedliche Ausschöpfungsquoten dokumentiert,
+die – abhängig von der jeweils zugrundegelegten Basis – unterschiedliche Interpretationen
+erlauben.
+7 Verhältnis eingeblendeter Teilnahmeaufrufe zur Anzahl tatsächlicher Teilnehmer.
+GESIS-Arbeitsbericht Nr. 3
+Die erste Tabelle gibt für die deutschsprachige Version der Befragung einen Überblick über
+die verschiedenen Ausschöpfungsquoten vom Pop-Up-Abruf bis zur Teilnahmebereitschaft
+an der Nachbefragung.
+Tabelle 1:
+Ausschöpfung Pop-Up-Befragung (deutsche Sprachversion)
+Pop-Up-Aufrufe
+Reaktionen auf Pop-Up
+davon Teilnahme
+ja
+davon Teilnahme an Nachbefragung:
+nein
+nein
+ja
+schon teilgenommen
+Erste Frage beantwortet
+Letzte Frage beantwortet
+n
+46.721
+7.819
+3.757
+3.440
+622
+3.442
+2.815
+1.988
+827
+%
+100,0
+16,7
+8,0
+7,4
+%
+100,0
+48,0
+44,0
+8,0
+9
+%
+100,0
+91,6
+74,9
+22,0
+Zur Teilnahme an der deutschsprachigen Befragungsversion wurden innerhalb der zweimo-
+natigen Feldphase insgesamt 46.721 Pop-Up-Aufrufe eingeblendet, eine messbare Reaktion
+auf das Pop-Up konnte jedoch nur in 7.819 Fällen festgestellt werden. D.h. in knapp 39.000
+Fällen wurde das Pop-Up-Fenster einfach weggeklickt. Eine explizite Bekundung zur Teil-
+nahme an der Befragung durch Anklicken des entsprechenden Buttons im Pop-Up-Fenster
+erfolgte in 3.757 Fällen. Explizit nicht zur Teilnahme bereit waren 3.440 Personen, und 622
+Personen antworteten mit „habe schon teilgenommen“. Bei der letztgenannten Gruppe
+könnte es sich um solche Personen handeln, die die Cookie-Steuerung zur Vermeidung einer
+wiederholten Teilnahmeaufforderung zwischenzeitlich deaktiviert hatten (vgl. hierzu die
+Ausführungen in Fußnote 5).
+Über die knapp 39.000 Fälle des einfachen Wegklickens kann nur spekuliert werden, wobei
+auch hier wiederum technische Besonderheiten eine Rolle spielen können: Bei langsamen In-
+ternetverbindungen (z.B. Modemverbindungen, die gegenwärtig immer noch die am weites-
+ten verbreitete Form der Netzanbindung darstellen (vgl. Bandilla, 2003: 74) erfolgte die bild-
+schirmfüllende Einblendung und auch der Aufbau des Pop-Up-Fensters mit einer zeitlichen
+Verzögerung. Es ist zu vermuten, dass Besucher des GESIS-Angebotes diese für sie uner-
+wartete Gegebenheit durch einfaches Wegklicken des sich langsam aufbauenden Pop-Up-
+Fensters verkürzten. Sollte diese nicht weiter begründbare Vermutung stimmig sein, wäre
+das einfache Wegklicken des Pop-Up-Fensters nicht interpretierbar als Teilnahmeverweige-
+rung, sondern eher als Ungeduld mit dem zu langsam erfolgenden Bildschirmaufbau. An die-
+sem Beispiel zeigt sich auch, welche neuartigen und in methodischer Hinsicht relevanten
+Phänomene beim Einsatz elektronischer Erhebungen auftreten können, für die es bis jetzt
+keine eindeutigen Erklärungen gibt.
+10
+GESIS-Arbeitsbericht Nr. 3
+Vor dem Hintergrund des eben Gesagten spricht vieles dafür, für eine interpretationsfähige
+Ausschöpfungsübersicht nur eindeutige und messbare Werte heranzuziehen. Im vorliegen-
+den Fall sind es 7.819 Fälle, in denen eine messbare Reaktion im Pop-Up-Fenster erfolgte
+(vgl. Tabelle 1). Von diesen bekundeten 3.757 Personen (48,0 Prozent) ihre Bereitschaft zur
+Teilnahme. Obwohl die erste Kurzbefragung unmittelbar folgte, ist bei der Beantwortung der
+ersten Frage wiederum ein Schwund zu verzeichnen (3.442 Antworten gleich 91,6 Prozent
+auf der Basis von 3.757 Fällen). Bis zur Beantwortung der letzten Frage, bei der es um die Be-
+reitschaft zur Teilnahme an der Nachbefragung ging, reduziert sich der Bestand auf insge-
+samt 2.815 Fälle (74,9 Prozent), von denen wiederum 827 Personen (22,0 Prozent) durch An-
+gabe ihrer E-Mail-Adresse ihre Bereitschaft zur Teilnahme an der Nachbefragung zum
+Ausdruck brachten.
+Die entscheidenden Hürden im Befragungsablauf lagen also zu Beginn und am Ende der
+Pop-Up-Befragung, als es um die Teilnahme an der Nachbefragung ging. Insgesamt korre-
+spondiert die hier erzielte Ausschöpfung mit den Werten, die Pfleiderer (2003:389) aus Eva-
+luationsstudien hochfrequentierter und attraktiver Medienwebsites berichtet.
+Bei näherer Betrachtung der Werte in der englischsprachigen Version zeigen sich – wenn
+auch auf einem niedrigeren Niveau absoluter Zahlen - ähnliche Ausschöpfungsquoten. Aller-
+dings ist der Anteil messbarer Reaktionen auf das eingeblendete Pop-Up-Fenster mit 39,3
+Prozent deutlich höher als in der deutschsprachigen Version (vgl. Tabelle 2).
+Tabelle 2:
+Ausschöpfung Pop-Up-Befragung (englische Sprachversion)
+Pop-Up-Aufrufe
+Reaktionen auf Pop-Up
+davon Teilnahme
+ja
+davon Teilnahme an Nachbefragung:
+nein
+nein
+ja
+schon teilgenommen
+Erste Frage beantwortet
+Letzte Frage beantwortet
+n
+2259
+888
+395
+439
+54
+341
+280
+184
+96
+%
+100,0
+39,3
+17,5
+19,4
+%
+100,0
+44,5
+49,4
+6,1
+%
+100,0
+86,3
+70,9
+24,3
+Auffällig ist, dass generell – sowohl in der deutschen als auch englischen Sprachversion - im
+Befragungsablauf ein nicht unerheblicher Schwund an Befragungsteilnehmern zu verzeich-
+nen ist. Wird diesbezüglich danach unterschieden, ob die Befragungsteilnehmer erstmals das
+GESIS-Web-Angebot besuchten oder ob ihnen durch einen vorherigen Besuch dieses Ange-
+bot schon bekannt war, zeigen sich deutlich voneinander abweichende Verläufe.
+Basis der nachfolgend in Tabelle 3 aufgeführten Werte sind alle Befragten der deutschspra-
+chigen Version, die in der Pop-Up-Befragung die erstplatzierte Frage nach der Häufigkeit
+des Besuchs (Erstbesucher vs. Wiederholungsbesucher) beantwortet hatten.
+Erstbesucher
+Wiederholungsbesucher
+letzte Frage: Teilnahme an Nachbefragung
+vorheriger Abbruch
+Frage nicht beantwortet
+Teilnahme: ja
+Teilnahme: nein
+Nachbefragung
+Zusage zur Teilnahme
+Tatsächliche Teilnahme
+vollständig beantwortet
+n
+2.148
+1.294
+3.442
+n
+404
+73
+368
+1.303
+2.148
+n
+368
+187
+148
+%
+62,4
+37,6
+100,0
+%
+18,8
+3,4
+17,1
+60,7
+%
+100,0
+50,8
+40,2
+Erstbesucher
+Wiederholungsbesucher
+Erstbesucher
+Wiederholungsbesucher
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 3:
+Befragungsverlauf der Erst- und Wiederholungsbesucher des GESIS-Web-
+Angebotes (deutsche Sprachversion)
+Pop-Up-Befragung
+Erstplatzierte Frage: Häufigkeit des Besuchs der GESIS-Seiten
+Der Anteil der Erstbesucher unter den Teilnehmern der Befragung liegt mit 62,4 Prozent
+deutlich über dem Anteil derjenigen Befragungsteilnehmer, die schon durch einen vorher-
+igen Besuch das GESIS-Angebot kannten (37,6 Prozent). Beide Gruppen zeigen im gesam-
+ten Befragungsablauf ein sehr unterschiedliches Verhalten: 18,8 Prozent der Erstbesucher
+beenden die Pop-Up-Befragung vorzeitig (Wiederholungsbesucher: 10, 3 Prozent). Die Be-
+reitschaft zur Teilnahme an der Nachbefragung ist unter den Wiederholungsbesuchern dop-
+pelt so stark ausgeprägt im Vergleich zu den Erstbesuchern (35,5 Prozent vs. 17,1 Prozent).
+Ein ähnliches Bild ist für die Nachbefragung zu verzeichnen: Auch hier ist der Anteil derjen-
+igen, die das Fragenprogramm vollständig bearbeiten, unter den Wiederholungsbesuchern
+mit 63,8 Prozent deutlich höher als unter den Erstbesuchern (40,2 Prozent).
+Nach diesen Ergebnissen kann festgehalten werden, dass ein Großteil der Besucher des GE-
+SIS-Web-Angebotes aus Erstbesuchern besteht. Nicht überraschen kann, dass innerhalb die-
+ser Gruppierung mangels vorheriger Kenntnis der GESIS (und somit auch mangelnder Bin-
+dung an das Web-Angebot der GESIS) die Bereitschaft zur vollständigen Beantwortung
+nicht sonderlich stark ausgeprägt ist, was insbesondere auch für die Bereitschaft zur Teil-
+nahme an der Nachbefragung gilt. Vollkommen anders sieht es bei den Wiederholungsbesu-
+chern aus: Zwar stellen sie die zahlenmäßig kleinere Gruppe dar, ihre Bindung an die GESIS
+und damit einhergehend ihr Interesse an der Befragung ist deutlich stärker ausgeprägt.
+n
+133
+26
+459
+676
+1.294
+n
+459
+321
+293
+11
+%
+10,3
+2,0
+35,5
+52,2
+%
+100,0
+69,9
+63,8
+12
+GESIS-Arbeitsbericht Nr. 3
+Gleiches gilt für die Teilnehmer an der englischen Sprachversion, deren Daten im Befra-
+gungsablauf nachfolgend der Vollständigkeit halber aufgeführt sind (Tabelle 4).
+Tabelle 4:
+Befragungsverlauf der Erst- und Wiederholungsbesucher des GESIS-Web-
+Angebotes (englische Sprachversion)
+Pop-Up-Befragung
+Erstplatzierte Frage: Häufigkeit des Besuchs der GESIS-Seiten
+n
+Erstbesucher 248
+Wiederholungsbesucher 93
+341
+%
+72,7
+27,3
+100,0
+letzte Frage: Teilnahme an Nachbefragung
+vorheriger Abbruch
+Frage nicht beantwortet
+Teilnahme: ja
+Teilnahme: nein
+Nachbefragung
+Zusage zur Teilnahme
+Tatsächliche Teilnahme
+vollständig beantwortet
+n
+38
+11
+68
+131
+248
+n
+68
+31
+23
+Erstbesucher
+%
+15,3
+4,4
+27,4
+52,8
+Erstbesucher
+%
+100,0
+45,6
+33,8
+Wiederholungsbesucher
+n %
+9 9,7
+4 4,3
+28 30,1
+52 55,9
+93
+Wiederholungsbesucher
+n %
+28 100,0
+17 60,7
+17 60,7
+GESIS-Arbeitsbericht Nr. 3
+13
+Teil II
+Ergebnisse der Pop-Up-Befragung8
+1
+Besuchshäufigkeit
+Logfile-Analysen des GESIS-Angebotes hatten ergeben, dass teilweise in einzelnen Mona-
+ten bis zu 80 Prozent der Besucher als Erstbesucher zu identifizieren waren. Diese hohe Zahl
+an Erstbesuchern legte den Verdacht nahe, dass die GESIS-Web-Seiten eher zufällig beim
+Surfen im www aufgerufen werden. Wie bereits im vorherigen Teil zur Untersuchungsme-
+thodik erwähnt, liegt der Anteil der Erstbesucher mit 62 Prozent, der einerseits deutlich im
+Vergleich mit den Logfile-Analysen niedriger als zu erwarten war, anderseits deutlich über
+dem Anteil derjenigen Besucher, die mindestens einmal oder häufiger die GESIS-Seiten auf-
+gerufen haben. Es soll an dieser Stelle nicht näher darauf eingegangen werden, welche mögli-
+chen (technischen) Gründe als Ursache dieser Unterschiede in Frage kommen könnten. Es
+stellt sich bei den Logfile-Analysen, die zu den nicht-reaktiven Verfahren zählen, das
+Problem der Validität der Messungen.
+Neben der Besuchshäufigkeit der GESIS-Webseiten sollten die Gründe des Aufsuchens der
+Internet-Seiten eruiert werden.
+Hierzu wurde den Befragten eine Kombination von einer Frage mit geschlossenen Antwort-
+vorgaben sowie der Möglichkeit der eigenen Antworten angeboten, zudem waren Mehrfach-
+nennungen möglich. Die Gesamtzahl der angekreuzten Antworten beträgt 3.785. Diese Nen-
+nungen stammen von 3.125 Personen (valid cases). 28,8 Prozent von Ihnen, die zumindest
+eine Antwort angekreuzt haben, wollen sich allgemein über das GESIS-Angebot informie-
+ren, 17,5 Prozent über einzelne Produkte und Dienstleistungen und 16,7 Prozent haben des-
+halb die GESIS-Seiten aufgerufen, um sich darüber zu informieren, was es Neues gibt.
+8 Im folgenden wird auf Ergebnisse der englischsprachigen Befragung immer dann hingewiesen,
+wenn sich zur deutschsprachigen Befragung deutliche Unterschiede zeigen.
+3 - 5 mal
+11%
+1 - 2 mal
+11%
+Abb.1: Besuchshäufigkeit
+2
+Besuchsgrund
+6 - 10 mal
+7%
+mehr als 10 mal
+allererster Besuch
+9%
+62%
+Basis: N = 3442
+14
+GESIS-Arbeitsbericht Nr. 3
+Mehr als die Hälfte (51,6 Prozent) ist gezielt auf der Suche nach bestimmten Produkten und
+Dienstleistungen der GESIS.
+Tabelle 5:
+Besuchsgrund (Mehrfachnennungen)
+Dichotomy label
+Ich will mich allgemein darüber informieren, was angeboten wird
+Ich will mich darüber informieren, was es Neues gibt
+Ich will mich über einzelne Produkte u. Dienstleistungen informieren
+Ich bin gezielt auf der Suche nach:
+Sonstiges:
+632 missing cases; 3.125 valid cases
+Total responses
+Count
+Pct of Cases
+901
+521
+546
+1.613
+204
+3.785
+28,8
+16,7
+17,5
+51,6
+6,5
+121,1
+Bei der offenen Frage nach dem Inhalt der Suche werden mit Abstand am häufigsten Studien
+(400 Nennungen) genannt. Beispiele hierfür sind: Allbus, ISSP, Eurobarometer. 336 Nen-
+nungen beziehen sich auf bestimmte Themenbereiche, wie bspw. Ausländerfeindlichkeit,
+Politikverdrossenheit und Antisemitismus. Methoden (277 Nennungen) wurde vergeben,
+wenn es sich um spezielle Methoden, Methodenprobleme, Skalen etc. handelt. Beispiele
+hierfür sind: Inhaltsanalyse, CATI bzw. CAPI, Methodenberatung. Schließlich noch der Be-
+reich der Publikationen (248 Nennungen). Dieser Code wurde vergeben, wenn das Stichwort
+auf eine spezielle Publikation aus den GESIS-Instituten schließen lässt. Beispiele hierfür
+sind: ZA-Informationen, ZUMA-Nachrichten, IZ-Telegramm.
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 6:
+Gezielte Suche nach ...9
+(Vercodung der offenen Frage)
+Valid
+Studien
+Themen
+Methoden
+Publikationen
+Pers_Motive
+Bewerbungen
+Theorien
+Veranstaltungen
+Ohne_Thema
+Datenanalyse
+Weiß_nicht
+Organisatorisches
+GESIS_Programme
+Internet
+Nonsens
+Institute
+Sonstiges
+Info_allgem
+Keine_Angaben
+Total
+Frequency
+Percent
+400
+336
+277
+248
+89
+76
+60
+55
+54
+50
+44
+43
+34
+17
+15
+13
+12
+4
+2
+1.829
+100,0
+21,9
+18,4
+15,1
+13,6
+4,9
+4,2
+3,3
+3,0
+3,0
+2,7
+2,4
+2,4
+1,9
+0,9
+0,8
+0,7
+0,7
+0,2
+0,1
+15
+3
+Soziodemografische Angaben
+Bezüglich der drei Merkmale Geschlecht, Alter und Bildung zeigen sich die zum Teil erwar-
+teten, zum Teil überraschenden Unterschiede: Im Vergleich zur Allgemeinbevölkerung und
+einer Online-Umfrage (Faas, 2003) ist der Anteil der Frauen in der GESIS-Befragung mit
+53,3 Prozent erstaunlich hoch. Dies gilt umso mehr für die beiden Altersklassen der
+16-24-jährigen sowie den 25-34-jährigen. 72,5 Prozent der GESIS-Besucher sind bis 34
+Jahre alt, während es in der Allgemeinbevölkerung 22,9 Prozent und in der Online-Umfrage
+44,9 Prozent sind. Bei den Schulabschlüssen zeigt sich ebenfalls unter den GESIS-Besuchern
+ein deutlicher Bias in Richtung höhere Abschlüsse. Während in der Allgemeinbevölkerung
+nahezu jeder Vierte ein Abitur besitzt, ist dies bei den Onlinern knapp jeder Zweite und bei
+den GESIS-Besuchern nahezu neun von zehn. Kurz zusammengefasst: Das www-Angebot
+wird von hochgebildeten, jüngeren und mehrheitlich weiblichen Besuchern aufgesucht.
+9
+Wir danken der Arbeitsgruppe „Textvercodung“ von ZUMA für die Vercodung der Antworten
+der offenen Frage nach dem Besuchsgrund.
+16
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 7: Soziodemographische Struktur der Online-Nutzer im Vergleich zur Allgemein-
+bevölkerung im Jahre 2002 auf der Basis zweier repräsentativer Umfragen
+(Angaben in Prozent)
+Repräsentative
+Bevölkerungs-Umfrage
+Repräsentative
+Online-Umfrage
+GESIS-Web-
+Befragung
+Geschlecht
+Alter
+Männer
+Frauen
+16-24
+25-34
+35-44
+45-59
+über 60
+Bildung
+Noch Schüler
+Volks-, Hauptschulabschluss
+Mittlere Reife
+Abitur
+48,5
+51,5
+9,3
+13,6
+19,1
+22,2
+35,8
+2,0
+42,8
+28,7
+26,6
+58,5
+41,2
+21,6
+23,3
+28,8
+20,3
+5,9
+6,9
+13,0
+36,1
+44,0
+46,7
+53,3
+28,9
+43,6
+16,1
+10,0
+0,9
+1,6
+3,3
+8,3
+86,8
+Während in der deutschsprachigen GESIS-Web-Befragung der Anteil der Männer bei knapp
+47 Prozent liegt, steigt dieser auf 60 Prozent in der englischsprachigen Befragung. Hinsicht-
+lich der Altersverteilung ist folgender Unterschied feststellbar: die 25-34-jährigen stellen
+auch hier die stärkste Gruppe mit 41 Prozent, jedoch halbiert sich nahezu der Anteil der
+16-24-jährigen (von 28,9 Prozent auf 14,7 Prozent), dementsprechend steigt der Anteil der-
+jenigen in den Altersklassen von 35 Jahren und älter. Es weisen gut 9 von 10 Befragten einen
+Schulabschluss in der englischsprachigen Befragung auf, der ungefähr mit dem deutschen
+Abitur vergleichbar ist.
+Von denjenigen, die angeben, ein (Fach)abitur zu besitzen, ist nahezu jeder Zweite noch Stu-
+dent, gut jeder Vierte hat das Studium abgeschlossen. In der englischsprachigen Befragung
+gibt jeder Fünfte gibt an, Student zu sein und jeder Dritte hat das Studium bereits abgeschlos-
+sen. Damit konzentriert sich das englischsprachige Web-Angebot eher auf Absolventen,
+weniger auf Studenten.
+GESIS-Arbeitsbericht Nr. 3
+17
+kein Studium
+5%
+Habilitand
+4%
+Doktorand
+15%
+Student
+48%
+Abb.2: (Hochschul) Status
+Studium abgebrochen
+2%
+Studium abgeschlossen
+26%
+Basis: N = 2770
+(Abitur und vergleichbare Abschlüsse)
+Betrachtet man des Weiteren die Hochschulabschlüsse derjenigen, die das Studium abge-
+schlossen haben bzw. Doktorrand oder Habilitand (N= 1256) sind, so besitzen von denen 74
+Prozent ein Diplom, B.A., Master oder Staatsexamen. Darüber hinaus noch jeder Fünfte eine
+Promotion und 4 Prozent eine Habilitation.
+Habilitation
+4%
+sonstiger Hochschulabschl.
+1%
+Diplom/M.A./Staatsexamen
+74%
+Promotion
+21%
+Abb. 3: Hochschulabschluss
+Basis: N = 1256
+Um einschätzen zu können, inwieweit das GESIS-Web-Angebot neben der angestrebten
+Zielgruppe der Sozialwissenschaftler in Forschung und Praxis auch Personen aus anderen
+Fachrichtungen erreicht, wurde schließlich auch noch die Frage nach dem Fach, in dem die
+Besucher schwerpunktmäßig studieren bzw. arbeiten, gestellt.
+Danach gibt nahezu jeder Dritte an, schwerpunktmäßig das Fach Soziologie zu studieren
+bzw. darin zu arbeiten. Zwei Drittel ordnen sich anderen Fächern zu, wobei die Wirtschaft-
+wissenschaften mit 14,8 Prozent am häufigsten genannt werden. Politologie und Pädagogik/
+Erziehungswissenschaften werden von nahezu jedem Zehnten genannt, Psychologie von 7,4
+Prozent.
+GESIS-Arbeitsbericht Nr. 3
+Häufigkeit
+Gültige Prozente Kumulierte Prozente
+30,2
+7,4
+10,7
+9,6
+2,0
+14,8
+25,4
+100,0
+30,2
+37,6
+48,3
+57,9
+59,8
+74,6
+100,0
+18
+Tabelle 8: Studien/Arbeitsschwerpunkt
+Gültig
+Soziologie
+Psychologie
+Politologie
+Pädagogik/Erziehungswissenschaft
+Geschichte
+Wirtschaftswissenschaften
+Sonstiges, und zwar:
+Gesamt
+Fehlend
+-7710
+0
+Gesamt
+Gesamt
+770
+189
+274
+244
+50
+377
+648
+2.552
+1.193
+12
+1.205
+3.757
+Jeder Vierte fand sich in der vorgegeben Liste nicht wieder und kreuzte „Sonstiges“ an. Da-
+bei zeigt sich bei der Auswertung der offenen Frage, dass ein Teil von ihnen den Sozialwis-
+senschaften zuzuordnen ist. Darüber hinaus besteht eine breite Variation von Studien/Ar-
+beitsschwerpunkten.
+Tabelle 9: Sonstiger Studien/Arbeitsschwerpunkt
+Sozialwissenschaften
+Kommunikationswissenschaft
+Medienwissenschaft/Publizistik
+Geographie
+Sozialarbeit/Sozialpädagogik
+Rechtswissenschaften/Jura
+Informations-/Dokumentations-/Bibliothekswissenschaft
+Informatik
+Marktforschung/Marketing
+absolute Nennungen
+50
+47
+38
+29
+28
+24
+24
+22
+17
+In der englischsprachigen Befragung stellen die Soziologen ebenfalls mit 26 Prozent die
+Mehrheit, nun aber gefolgt von den Politologen mit 23 Prozent und an dritter Stelle von den
+Wirtschaftswissenschaftlern mit 13 Prozent. Die Auswertung der Kategorie Sonstiges, von
+10 System- und Filtermissing
+GESIS-Arbeitsbericht Nr. 3
+jedem Fünften angegeben, ergibt keine Schwerpunktsetzung und reicht von „anthropology“
+bis „youth work“.
+Bei der Frage nach Tätigkeit (Personen mit (Fach)abitur und sonstigem Abschluss) und Ar-
+beitsstelle lassen sich zwei Gruppen identifizieren. Zum einen diejenigen, die als studenti-
+sche Hilfskraft bzw. als wissenschaftlicher Mitarbeiter, als Hochschulassistent/Akademi-
+scher Rat/Dozent oder Professor tätig sind. Das sind nahezu 56 Prozent derjenigen, die
+beruflich tätig sind.
+Eine weitere Gruppe besteht aus Journalisten, Lehrern und Selbständigen. Weitere 28 Pro-
+zent geben eine Vielzahl sonstiger Tätigkeiten an. Diese reichen von „Abteilungsleiter“ bis
+„Zeitarbeiter“.
+Tabelle10:
+Tätigkeit
+Gültig
+Studentische Hilfskraft
+Wissenschaftlicher Mitarbeiter
+Hochschulassistent/Akademischer
+Rat/Dozent
+Professor
+Journalist
+Lehrer/Ausbilder
+Bibliothekar
+Selbständige(r)
+Sonstige Tätigkeit:
+Gesamt
+Fehlend
+-77
+0
+Gesamt
+Trifft nicht zu
+Gesamt
+19
+20,9
+48,0
+52,7
+55,7
+58,7
+62,8
+64,4
+72,2
+100,0
+Entsprechend der Tätigkeiten ist die Hälfte der Befragten im Hochschul- bzw. Wissen-
+schaftsbereich tätig, in der englischsprachigen erhöht sich dieser Anteil auf 70 Prozent. Als
+Arbeitsstelle werden häufiger genannt „privatwirtschaftliche Unternehmen“ sowie „Einrich-
+tungen im Bildungsbereich“.
+Häufigkeit
+Gültige Prozente Kumulierte Prozente
+408
+530
+91
+58
+60
+80
+30
+154
+542
+1.953
+1.039
+1
+764
+1.804
+3.757
+20,9
+27,1
+4,7
+3,0
+3,1
+4,1
+1,5
+7,9
+27,8
+100,0
+GESIS-Arbeitsbericht Nr. 3
+Häufigkeit
+Gültige Prozente Kumulierte Prozente
+806
+248
+123
+68
+155
+246
+183
+82
+29
+177
+2.117
+1.621
+19
+1.640
+3.757
+38,1
+11,7
+5,8
+3,2
+7,3
+11,6
+8,6
+3,9
+1,4
+8,4
+100,0
+38,1
+49,8
+55,6
+58,8
+66,1
+77,8
+86,4
+90,3
+91,6
+100,0
+20
+Tabelle 11: Arbeitsstelle
+Gültig
+an einer Universität/TU/FH
+an einer außeruniversitären
+Forschungs-/Serviceeinrichtung
+in einem Amt/Behörde
+in einem/einer Verband/Partei/in einer
+kirchlichen Einrichtung
+im Bereich Beratung/Marktforschung
+in einem privatwirtschaftlichen
+Unternehmen
+in der Schule/Aus- und Weiterbildung
+im Presse-Medienbereich
+im Bereich Information und
+Dokumentation
+Sonstige Arbeitsstelle:
+Gesamt
+Fehlend
+-77
+0
+Gesamt
+Gesamt
+Schweiz
+4%
+Österreich
+5%
+Abb. 4: Herkunftsland (deutschsprachige Befragung)
+Das GESIS-Web-Angebot in seiner deutschsprachigen Ausgabe wird überwiegend in
+Deutschland, Österreich oder der Schweiz aufgerufen. Die 149 Nennungen aus den „Sonsti-
+gen Ländern“ sind weit überwiegend auf Europa beschränkt, umfassen aber auch Staaten wie
+Afghanistan, Chile, USA und Venezuela.
+sonstige Länder
+7%
+Deutschland
+84%
+Basis: N = 2262
+(Berufstätige inkl. stud. Hilfskräfte)
+GESIS-Arbeitsbericht Nr. 3
+21
+Wie sieht die internationale Sichtbarkeit des Angebotes aus? 40 Prozent derjenigen, die den
+englischsprachigen Fragebogen ausgefüllt haben, kommen aus den USA und England. Bei
+„other country“ liegt – wie im deutschsprachigen Angebot - das Schwergewicht wiederum in
+Europa, jedoch stammen immerhin 40 Prozent der Angaben aus außereuropäischen Ländern
+mit Kanada und Australien/Neuseeland an der Spitze.
+Großbritannien
+19%
+USA
+21%
+Deutschland
+3%
+sonstige Länder
+57%
+Abb. 5: Herkunftsland (englischsprachige Befragung)
+Basis: N = 214
+4
+GESIS-Web-Besucher: Studenten, Wissenschaftler, Akademische
+Praktiker und Nicht-Akademiker
+Für differenzierte Analysen des Besucherverhaltens und der evaluativen Teile der Nachun-
+tersuchung ist eine Unterteilung der Besucher in einzelne Gruppen erforderlich. Diese Klas-
+sifikation muss folgenden Anforderungen genügen:
+Die Unterteilung ist intuitiv verständlich und nachvollziehbar,
+die Zahl der Gruppen ist gut überschaubar,
+möglichst viele Besucher können eindeutig einer der Gruppen zugeordnet werden,
+die Verteilung der Fallzahlen ermöglicht statistische Analysen auch im Fall einer gerin-
+geren Beteiligung bei der Nachuntersuchung,
+bei der Datenanalyse ergeben sich signifikante Unterschiede zwischen den Gruppen, die
+besucherspezifische Schlussfolgerungen und Maßnahmen erlauben.
+Die oben mitgeteilten Ergebnisse zeigen, dass ein erheblicher Teil der Besucher Hochschul-
+angehörige und wissenschaftliche Mitarbeiter von hochschulnahen Forschungsinstituten
+sind. Hochschulangehörige kann man im allgemeinen grob in die Gruppe der Wissenschaft-
+ler und der Studenten/Qualifikanden unterteilen. Dazu kommen noch die nichtwissenschaft-
+lichen Hochschulangehörigen (z.B. Sekretärinnen), die gesondert zugeordnet werden.
+Die Besucher, die nicht Hochschulangehörige sind, können grob nach dem Wissenschaftsbe-
+zug ihrer beruflichen Tätigkeit unterschieden werden, wobei unterstellt wird, dass die Nut-
+zung des GESIS-Web-Angebots beruflich motiviert ist. Aufgrund der Vielzahl von angege-
+benen beruflichen Tätigkeiten und den damit verbundenen Klassifizierungsproblemen wird
+22
+GESIS-Arbeitsbericht Nr. 3
+als Indikator für den Wissenschaftsbezug einer Berufstätigkeit der Besitz eines akademi-
+schen Abschlusses herangezogen.
+Damit ergeben sich vier Besucher-Gruppen:
+Studenten (auch studentische Hilfskräfte) und Doktoranden, soweit sie nicht wissen-
+schaftliche Mitarbeiter sind,
+Wissenschaftler in Hochschulen und hochschulnahen Forschungseinrichtungen (Profes-
+soren, Wissenschaftliche Mitarbeiter),
+Personen mit akademischem Abschluss (z.B. Diplom, Staatsexamen, M.A.), die nicht im
+Hochschulbereich beschäftigt sind,
+Personen ohne akademischen Abschluss (evtl. auch im Hochschulbereich tätig).
+Die Unterteilung in diese vier Gruppen erfüllt die ersten beiden Kriterien der Klassifizierung:
+sie entspricht der gängigen Unterscheidung in Studenten, Wissenschaftler, Praktiker und ist
+von der Anzahl der Gruppen her gut handhabbar. Allerdings ist es nicht möglich, alle Perso-
+nen eindeutig einer der vier definierten Gruppen zuzuordnen. Beispielsweise fallen beschäf-
+tigungslose Personen mit akademischem Abschluss heraus. Solche Personen werden der
+Restkategorie „Sonstige“ zugeschlagen. Diese Gruppe sollte möglichst klein sein, um bei
+den weiteren Analysen ohne bedeutsamen Informationsverlust auf „missing“ gesetzt werden
+zu können.
+Die Auswertung der neugebildeten Variable „Besucher-Gruppen“ zeigt, dass der allergrößte
+Teil der Besucher einer der vier definierten Gruppen zugeordnet werden kann. Es handelt
+sich insgesamt um 2.944 Besucher. Nicht zugeordnet werden konnten 150 Besucher. Insge-
+samt sind dies 3.094 Personen; es ergibt sich eine Zuordnungsquote von 95 Prozent. Eine
+Restkategorie „Sonstiges“ ist somit für die Auswertung überflüssig. Damit ist auch das dritte
+Kriterium eindeutig erfüllt.
+Die Fallzahlen ergeben eine für weitere Analysen brauchbare Verteilung (alle vier Gruppen
+sind ausreichend besetzt). Damit ist auch das vierte Kriterium erfüllt.
+Praktiker mit Hochschulab.
+16%
+Wissenschaftler
+20%
+Abb. 6: Vier Besucher-Gruppen
+Praktiker ohne Hochschulab.
+18%
+Studenten
+46%
+Basis: N = 2944
+GESIS-Arbeitsbericht Nr. 3
+Die vier Gruppen im einzelnen:
+Gruppe Studenten (N=1355)
+23
+96 Prozent sind Studenten ohne Hochschulabschluss, 4 Prozent sind Doktoranden. Damit ist
+es gerechtfertigt, diese Gruppe abgekürzt als „Studenten“ zu bezeichnen. 394 (29,6 Prozent)
+sind studentische Hilfskräfte, 283 (21,3 Prozent) gehen neben dem Studium noch einer ande-
+ren Tätigkeit nach (z. B. als Selbständiger, Journalist, Ausbilder).
+Es handelt sich mit 62,3 Prozent überwiegend um weibliche Studenten mit einem Durch-
+schnittsalter von 25,5 Jahren.
+Gruppe Wissenschaftler (N=589)
+458 (77,8 Prozent) sind Wissenschaftliche Mitarbeiter, 81 (13,8 Prozent) Hochschulassisten-
+ten oder Akademische Räte, 50 Besucher sind Professoren (8,5 Prozent). Drei Viertel dieser
+Gruppe sind an einer Hochschule tätig.
+294 (49,9 Prozent) geben an, neben ihrer Berufstätigkeit auch mit einer Doktorarbeit be-
+schäftigt zu sein, 79 (13,4 Prozent) sind Habilitanden. 144 (25,3 Prozent) sind bereits promo-
+viert, 37 (6,5 Prozent) habilitiert. Insgesamt überwiegen bei dieser Gruppe die Männer mit
+55,9 Prozent. Das Durchschnittsalter liegt bei knapp 36 Jahren.
+Gruppe Akademische Praktiker (N=467)
+Die Tätigkeiten der Besucher aus dieser Gruppe variieren stark. 227 (48,6 Prozent) geben
+eine „sonstige Tätigkeit“ an, die mit den vorgegeben Kategorien nicht erfasst werden konnte.
+63 (13,5 Prozent) bezeichnen sich als Wissenschaftliche Mitarbeiter, 56 (12,0 Prozent) sind
+Lehrer/Ausbilder. Dazu kommen 77 (16,5 Prozent) Selbständige und 24 (5,1 Prozent)
+Journalisten.
+101 (21,6 Prozent) sind in einem privatwirtschaftlichen Unternehmen tätig, 90 (19,3 Prozent)
+im Bereich Beratung/Marktforschung, 72 (15,4 Prozent) in einem Amt/einer Behörde.
+59 (12,6 Prozent) sind berufsbegleitend mit ihrer Doktorarbeit beschäftigt. Bereits promo-
+viert sind 86 (18,4 Prozent). Auch in diese Gruppe überwiegen die Männer mit 55 Prozent.
+Das Durchschnittsalter beträgt 38,6 Jahre.
+Gruppe Nicht-Akademiker (N=533)
+Die Gruppe der Nicht-Akademiker mit 533 Personen (18,1 Prozent) ist relativ stark vertreten
+und übertrifft den Anteil der Akademischen Praktiker.
+359 (70 Prozent) haben einen Haupt- oder Realschulabschluss, die Besucher mit Abitur 145
+(27 Prozent) haben kein Studium aufgenommen oder das Studium abgebrochen. 99 (18,5
+Prozent) sind im Bereich Aus- und Weiterbildung tätig, 78 (14,6 Prozent) arbeiten in einem
+privatwirtschaftlichen Unternehmen, 58 Personen (10,8 Prozent) sind (in nicht-wissen-
+schaftlichen Positionen) an einer Hochschule oder einer außeruniversitären Forschungsein-
+richtung tätig. Weitere Arbeitsfelder sind Behören (30) und Verbände (11) sowie Beratung/
+Marktforschung (27) und Presse/Medien (21). 80 Personen (17,3 Prozent) sind nicht berufs-
+24
+GESIS-Arbeitsbericht Nr. 3
+tätig, etliche davon sind Schüler. 50,7 Prozent sind Männer. Das Durchschnittsalter beträgt
+29,5 Jahre.
+Die neu gebildete Variable „Besucher-Gruppen“ führt zu interessanten Unterschieden vor al-
+lem bei der Auswertung der Nachbefragung. Hier, bei den Ergebnissen der Pop-Up-Befra-
+gung, lassen sich folgende signifikante Unterschiede feststellen:
+Nicht-Akademiker und Studenten sind eher Erstbesucher der GESIS-Web-Seiten, die
+Gruppe der Wissenschaftler eher Wiederholungsbesucher.
+Die Wissenschaftler suchen die GESIS-Web-Seiten hauptsächlich aus zwei Gründen
+auf: sie wollen sich einerseits darüber informieren, was es Neues gibt und anderseits
+sind sie an Informationen über einzelne Produkte und Dienstleistungen der GESIS
+interessiert.
+Die Gruppe der Nicht-Akademiker ist dagegen weniger an allgemeinen Informationen
+über die GESIS interessiert; sie sind vielmehr überdurchschnittlich häufig gezielt auf der
+Suche nach einzelnen Produkten und Dienstleistungen.
+Diese Ergebnisse sind ein erster Hinweis darauf, dass bei der neukonstruierten Variable „Be-
+sucher-Gruppen“ auch das fünfte Kriterium (signifikante Unterschiede zwischen den Grup-
+pen bei der Datenanalyse) erfüllt ist. Im nächsten Kapitel wird dieser Befund anhand der Er-
+gebnisse der Nachbefragung gestützt.
+GESIS-Arbeitsbericht Nr. 3
+Teil III
+Ergebnisse der Nachbefragung11
+25
+1
+Zusammensetzung der Auswahlen bei der Pop-Up-Befragung und
+der Nachbefragung
+An der Nachbefragung nahmen insgesamt 508 Besucher teil, genauer: diese Personen beant-
+worteten zumindest die erste Frage der Nachbefragung. Damit hat sich ungefähr jede sechste
+Person, die die Pop-Up-Befragung vollständig beantwortet hatte, an der Nachbefragung
+beteiligt.
+Die Zusammensetzung der Auswahl der Nachbefragung unterscheidet sich in einigen Punk-
+ten signifikant von der Pop-Up-Befragung. Hervorzuheben ist vor allem der deutlich gerin-
+gere Anteil der Erstbesucher und dadurch spiegelbildlich die Verdoppelung des Anteils der
+Besucher, die die GESIS-Seiten durch mehr als fünf Vorbesuche schon gut kannten. Da die
+Wissenschaftler – wie gezeigt – eher zu den Mehrfachbesuchern gehören, steigt auch deren
+Anteil in der Nachbefragung. Der Anteil der Nicht-Akademiker schrumpft, da diese eher
+Erstbesucher sind. Durch den gestiegenen Anteil der Mehrfachbesucher ändert sich auch das
+Interessenprofil: der Anteil derer, die gezielt bestimmte (neue) Angebote auf den GESIS-Sei-
+ten suchen, nimmt zu. Der Anteil der Soziologen erhöht sich deutlich. Das Durchschnittsalter
+der Teilnehmer an der Nachbefragung liegt ca. zwei Jahre höher als bei den Teilnehmern an
+der Pop- Up-Befagung.
+11 Die englischsprachige Version der Nachbefragung wurde aufgrund der geringen Fallzahl nicht
+ausgewertet.
+Variable
+Merkmal(e)
+Häufigkeit der
+Nutzung
+Allererster Besuch
+1-2 mal
+3-5 mal
+6-10 mal
+Mehr als 10 mal
+Gesamt (N)
+Schwerpunkt Soziologie
+Besucher-Gruppen Studenten
+Wissenschaftler
+Akademische Praktiker
+Nicht-Akademiker
+Gesamt (N)
+Grund des Besuchs Ich will mich allgemein
+(Mehrfach- darüber informieren,
+nennungen was angeboten wird
+möglich)
+Alter
+Ich will mich darüber
+informieren, was es
+Neues gibt
+Ich will mich über
+einzelne Produkte und
+Dienstleistungen der
+GESIS-Institute
+informieren
+Ich bin gezielt auf der
+Suche nach...
+Gesamt (N)
+Bis (inkl.) 30 Jahre
+Mittelwert in Jahren
+11,2
+10,5
+6,8
+9,1
+30,2
+46,0
+20,0
+15,9
+18,1
+28,0
+16,2
+17,0
+60,5
+30,7
+(387)
+(361)
+(233)
+(313)
+(3.442)
+(770)
+(1.355)
+(589)
+(467)
+(533)
+(2.944)
+(901)
+(521)
+(546)
+(3.218)
+(1.797)
+(2.969)
+50,1
+(1.613)
+12,6
+19,7
+14,8
+16,1
+42,0
+44,4
+25,1
+18,5
+11,9
+25,6
+(64)
+(100)
+(75)
+(82)
+(508)
+(189)
+(216)
+(122)
+(90)
+(58)
+(486)
+(130)
+23,2
+(118)
+25,6
+(130)
+56,5
+51,8
+32,6
+(287)
+(508)
+(261)
+(504)
+n.s.
++
++
++
++
+n.s.
++
+n.s.
++
+n.s.
++
++
++
++
++
+26
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 12: Vergleich der Zusammensetzung der Teilnehmer an der Pop-Up-Befragung und
+der Nachbefragung
+Pop-Up-Befragung
+% (N)
+62,4 (2.148)
+Nachbefragung
+% N
+36,8 (187)
+Signifikanz
+5%-Niveau
++
+Fazit: Die durch Selbstselektion zustande gekommene Auswahl bei der Nachbefragung
+zeichnet sich im Vergleich zur Pop-Up-Befragung durch höhere sozialwissenschaftliche
+Fachkompetenz und aufgrund der höheren Zahl von Vorbesuchen besseren Kenntnis der GE-
+SIS-Web-Seiten aus. Es handelt sich mehrheitlich um Personen, deren Urteil zur Qualität des
+GESIS-Web-Angebots deshalb ernst zu nehmen ist.
+GESIS-Arbeitsbericht Nr. 3
+2
+2.1
+Suchverhalten und Verwendung der Ergebnisse
+Auffinden der GESIS-Web-Seiten
+Die Teilnehmer an der Nachbefragung sollten Auskunft darüber geben, wie sie auf die GE-
+SIS-Web-Seiten aufmerksam wurden. Dabei ist auch von Interesse, ob sich die Besucher-
+Gruppen in ihrem Informationsverhalten unterscheiden.
+Tabelle13: Quellen für das Auffinden der GESIS-Web-Seiten (Mehrfachnennungen)
+Wissen-
+schaftler
+(110)
+Akad.
+Praktik.
+(78)
+Signif.
+5%-
+Niveau
+27
++
++
++
++
++
+n.s.
+%
+45,5
+41,8
+10,0
+11,8
+1,8
+17,3
+128,2
+%
+21,8
+30,8
+28,2
+19,2
+6,4
+10,3
+116,7
+Nicht
+Akad.
+(51)
+%
+21,6
+11,8
+54,9
+21,6
+13,7
+7,8
+131,4
+Wie sind Sie auf die
+GESIS-Seiten
+aufmerksam geworden?
+Durch Hinweise von
+Kollegen/Bekannten/
+Lehrenden
+Über Hinweise in
+Publikationen der
+GESIS (ZA, ZUMA,
+IZ)
+Über eine
+Suchmaschine
+Über einen Link auf
+einer anderen Website
+Beim Surfen im Netz
+Sonstiges
+Gesamt
+Alle
+(N=447)
+%
+N
+40,3 (180)
+27,7 (124)
+26,6 (119)
+17,4 (78)
+8,1 (36)
+10,7 (48)
+130,8 (585)
+davon
+Stud.
+(187)
+%
+51,9
+23,0
+29,4
+19,3
+9,1
+7,0
+139,7
+Anmerkung: 21 der 447 Personen konnten nicht den Besucher-Gruppen zugeordnet werden.
+Unter „Sonstiges“ wurde mehrmals genannt:
+„als Soziologe kennt man die GESIS“, (lange) bekannt (19 Nennungen)
+mit einem GESIS-Institut vertraut (z.B. SHK, Studium, berufliche Kooperation) (15
+Nennungen)
+Hinweise über Internetquellen/andere Datenbanken (3 Nennungen)
+Suchmaschinen (z.B. Google) (2 Nennungen)
+Literaturhinweise (2 Nennungen)
+Die Daten zeigen, dass insgesamt die persönliche Kommunikation die wichtigste Informa-
+tionsquelle ist. Das gilt allerdings nur für Wissenschaftler und Studenten. Bei den Akademi-
+schen Praktikern spielen Printmedien aber auch Recherchen über Suchmaschinen eine be-
+deutende Rolle. Letztere sind bei den Nicht-Akademikern von herausragender Bedeutung.
+Die 447 Personen, die zu dieser Frage Auskunft gaben, nannten insgesamt 585 Informations-
+quellen. Das bedeutet, dass in der überwiegenden Zahl der Fälle nur eine Informationsart eine
+Rolle spielt.
+28
+GESIS-Arbeitsbericht Nr. 3
+Eine Strategie zur Erhöhung des Bekanntheitsgrades und der Nutzung des GESIS-Web-An-
+gebots sollte diese Unterschiede zwischen den verschiedenen Nutzergruppen berücksichti-
+gen: Im Hochschulbereich ist die Einbeziehung des GESIS-Angebots in die Lehre und die
+Ausbildung des wissenschaftlichen Nachwuchses von zentraler Bedeutung. Die Professoren
+und die älteren Wissenschaftler (z.B. Projektleiter in Forschungsinstituten) spielen eine ent-
+scheidende Rolle als Multiplikatoren. Ihr Urteil über die Qualität des GESIS-Angebots und
+ihre Bereitschaft, die Seiten weiterzuempfehlen, ist deshalb von außerordentlicher Bedeu-
+tung.
+Akademische Praktiker können offensichtlich auch über GESIS-eigene Publikationen er-
+reicht werden, deren Inhalt und Verteiler im Hinblick auf die Steigerung der Nutzung des
+GESIS-Web-Angebots zu analysieren wäre.
+Für Personen ohne Hochschulabschluss ergibt sich am ehesten der Zugang über Suchmaschi-
+nen und interne Verweisungen im Internet. Bei der Verwendung von Suchmaschinen ist für
+die Nutzungssteigerung entscheidend, dass alltagssprachlich formulierte Anfragen Treffer-
+listen erzeugen, bei denen die GESIS-Web-Seiten zu den Erstgenannten gehören.
+2.2
+Aufgesuchte Seiten
+Die Antworten auf die Frage nach den besuchten Seiten zeigen, dass das Interesse der Besu-
+cher streut und die Hauptangebote von allen Besucher-Gruppen wahrgenommen werden. Die
+508 Teilnehmer an der Nachbefragung geben insgesamt 766 Nennungen ab. Das bedeutet,
+dass im Durchschnitt ein bis zwei verschiedene Seiten besucht werden, bei den Nicht-Akade-
+mikern ist es meist nur eine Seite.
+Zwischen den Besucher-Gruppen gibt es teilweise signifikante Unterschiede.
+davon Wissen- Akad.
+Stud. schaftler Praktik.
+(216) (122) (90)
+Signif.
+5%-
+Niveau.
+%
+43,5
+49,1
+29,6
+24,1
+5,1
+6,0
+157,4
+%
+45,9
+39,3
+27,9
+19,7
+2,5
+19,7
+155,0
+%
+46,7
+28,9
+31,1
+15,6
+7,8
+20,0
+150,1
+Nicht-
+Akad.
+(58)
+%
+20,7
+34,5
+24,1
+15,5
+8,6
+13,8
+117,2
+29
++
++
+n.s.
+n.s.
+n.s.
++
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 14: Aufgesuchte Seiten (Mehrfachnennungen)
+Welche Seiten haben Sie bei
+Ihrem letzten Besuch des
+GESIS-Web-Angebots
+aufgesucht?
+Literatur- und
+Forschungsinformationen (z.B.
+SOLIS, FORIS)
+Datenservice und –archivierung
+(z.B. Datensätze zu
+Wahlstudien, Allbus-Daten,
+Eurobarometer)
+Methodenberatung (z.B.
+Stichprobenziehung,
+Fragebogenkonstruktion)
+Gesellschaftliche
+Dauerbeobachtung (z.B.
+Allbus-Informationen)
+Daten- und Informationsservice
+Osteuropa
+Andere Seiten*
+Gesamt
+Alle
+(N=508)
+%
+N
+42,7 (217)
+40,7 (207)
+28,7 (146)
+19,7 (100)
+5,7 (29)
+13,2 (67)
+150,7 (766)
+Anmerkung: 22 der 508 Personen konnten nicht den Besucher-Gruppen zugeordnet werden
+Bei den „Anderen Seiten“ wurde mehrmals genannt:
+(Lehr-)Veranstaltungen, Workshops, Schulungen (15 Nennungen)
+Publikationen/Forschungsberichte (8 Nennungen)
+Stellenangebote (7 Nennungen)
+ZA-Informationen/ZUMA-Nachrichten (6 Nennungen)
+Informationen zu speziellen Methoden/Umfragen (5 Nennungen)
+Namen von Mitarbeitern (4 Nennungen)
+Informationen zu GESIS/den Instituten allgemein (4 Nennungen)
+ZUMA How-to-Reihe (3 Nennungen)
+Verweise auf andere Einrichtungen (z.B. DGS) (3 Nennungen)
+Software (bestellen, download) (3 Nennungen)
+ISSP (2 Nennungen)
+Informationsmaterial (z.B. zu Auftragsrecherchen) (2 Nennungen)
+2.3
+Nutzungszweck
+Die Frage nach dem Verwendungszweck wird erwartungsgemäß beantwortet: ungefähr die
+Hälfte der Besucher gibt an, die Informationen im Rahmen ihrer Forschungsarbeiten zu nut-
+zen. Bei den Wissenschaftlern dominiert dieser Verwendungszweck. Aufgrund des recht ho-
+hen Studentenanteils stehen Seminar- und Qualifikationsarbeiten an zweiter Stelle. Auch für
+die akademische Lehre finden die GESIS-Informationen Verwendung.
+30
+GESIS-Arbeitsbericht Nr. 3
+Interessant sind die wichtigsten Verwendungszwecke der Akademischen Praktiker und der
+Nicht-Akademiker. Für beide Gruppen spielt die berufliche und private Weiterbildung über
+das GESIS-Web-Angebot eine relativ wichtige Rolle. Die Akademischen Praktiker erhalten
+darüber hinaus Unterstützung auch für Forschungsarbeiten und andere schriftliche Ausarbei-
+tungen. Für diese Gruppe ist auch wichtig, einen Überblick über Neuerungen zu erhalten. Da-
+mit dient das GESIS-Web-Angebot auch dazu, Hochschulabsolventen Kontaktmöglichkei-
+ten zum Wissenschaftsbereich zu erhalten.
+Tabelle 15: Nutzungszwecke (Mehrfachnennungen)
+254,3 (1132)
+200,5
+340,8
+276,9
+220,0
+Anmerkung: 21 der 445 Personen konnten nicht den Besucher-Gruppen zugeordnet werden
+Die 445 Personen, die Angaben zu dieser Frage machten, nannten insgesamt 1.132 Nut-
+zungszwecke. Das bedeutet, dass durchschnittlich pro Person zwei bis drei Nutzungszwecke
+angegeben wurden. Am vielfältigsten nutzen die Wissenschaftler das GESIS-Web-Angebot
+mit drei bis vier verschiedenen Verwendungsmöglichkeiten.
+Für welchen Zweck nutzen Sie die
+GESIS-Seiten?
+Forschungsarbeit/-projekte
+Seminar-, Magister-, Diplomarbeit
+Lehr-/Unterrichtsvorbereitung
+Überblick über Neuerungen
+Konzepte/Berichte/Studie
+Publikationen (Aufsätze, Bücher)
+Berufliche Fortbildung
+Private Weiterbildung
+Vorträge
+Dissertation, Habilitation
+Kundengespräch/Beratung
+Sonstiges
+Gesamt
+Alle
+(N=445)
+%
+N
+52,1 (232)
+31,7 (141)
+25,4 (113)
+24,0 (107)
+21,3
+19,8
+18,9
+18,9
+16,0
+15,0
+5,8
+5,4
+(95)
+(88)
+(84)
+(84)
+(71)
+(67)
+(26)
+(24)
+davon Wissen- Akad.
+Stud. schafter Praktik.
+(186) (110) (78)
+Nicht- Signif.
+Akad. 5%-
+(50) Niveau
+%
+40,9
+64,5
+18,8
+12,9
+13,4
+8,6
+4,3
+15,1
+10,8
+5,9
+0,5
+4,8
+%
+88,2
+9,1
+48,2
+27,3
+22,7
+41,8
+21,8
+8,2
+24,5
+40,0
+4,5
+4,5
+%
+39,7
+3,8
+16,7
+38,5
+39,7
+23,1
+43,6
+26,9
+15,4
+7,7
+16,7
+5,1
+%
+24,0
+10,0
+14,0
+32,0
+20,0
+8,0
+28,0
+48,0
+14,0
+0,0
+12,0
+10,0
++
++
++
++
++
++
++
++
++
++
++
+n.s.
+GESIS-Arbeitsbericht Nr. 3
+3
+3.1
+Bewertung durch die Besucher
+Weiterempfehlung und Wiederbesuch
+31
+Zum Kernbereich der Nachbefragung gehört die Ermittlung der Nutzerzufriedenheit mit dem
+GESIS-Web-Angebot. Als Indikatoren für die Gesamtzufriedenheit gelten die bereits er-
+folgte bzw. die angekündigte Weiterempfehlung sowie die Bereitschaft zum Wiederbesuch
+der Seiten.
+Die Frage, ob sie die GESIS-Seiten bereits weiterempfohlen haben, beantworteten 441 Teil-
+nehmer der Nachbefragung (Tabelle 16).
+Die gegebenen Antworten weisen darauf hin, dass knapp die Hälfte der Befragten die GE-
+SIS-Web-Seiten bereits weiterempfohlen haben. Bei den Wissenschaftlern, auf deren wich-
+tige Multiplikatorenfunktion im vorherigen Kapitel hingewiesen wurde, liegt der Wert bei
+75%.
+Nimmt man diejenigen aus der Betrachtung heraus, die sich den Erstbesuchern zuordnen
+(N=87) und die deshalb in der Vergangenheit die GESIS-Web-Seiten gar nicht weiteremp-
+fehlen konnten, weil sie sie nicht kannten, kommt man auf eine Gesamtfallzahl von N=354.
+Davon haben 215 die GESIS-Seiten bereits weiterempfohlen. Das sind ca. 61 Prozent. Bei
+den Wissenschaftlern liegt der Wert noch deutlich höher: 81 von 102 Wiederholungsbesu-
+chern aus dieser Besuchergruppe haben die GESIS-Seiten bereits weiterempfohlen. Das sind
+79 Prozent.
+Diese hohe Zahl lässt vermuten, dass das GESIS-Web-Angebot bei den Wissenschaftlern
+hoch geschätzt wird. Allerdings muss man berücksichtigen, dass die Weiterempfehlung im
+Rahmen von Lehrveranstaltungen oder Forschungsprojekten bei dieser Besuchergruppe
+auch besonders nahe liegt. Personen aus den drei anderen Besucher-Gruppen fehlt mögli-
+cherweise schlicht die Gelegenheit, die GESIS-Web-Seiten weiterzuempfehlen, weil sie
+keine Interessenten kennen. Geringere Weiterempfehlungswerte bei diesen Gruppen sollten
+deshalb nicht ohne weiteres als Hinweise auf geringere Gesamtzufriedenheit gedeutet wer-
+den. Bei der Gruppe der Nicht-Akademiker kommt noch hinzu, dass der Anteil der Erstbesu-
+cher mit ca. 41 Prozent recht hoch ist, so dass die auswertbare Zahl der Mehrfachbesucher
+nur N=29 beträgt. Davon haben 17 die GESIS-Seiten weiterempfohlen. Das sind ca. 59 Pro-
+zent. Die Vergleichswerte bei den Studenten und Akademischen Praktikern betragen (bei
+höheren Fallzahlen) jeweils 51 Prozent.
+32
+Ja
+Nein
+Tabelle 16: Weiterempfehlung
+Haben Sie die GESIS-Seiten bereits
+weiterempfohlen?
+Nein, nicht möglich, da heute zum
+ersten Mal auf den GESIS-Seiten
+Gesamt
+GESIS-Arbeitsbericht Nr. 3
+Alle
+%
+N
+48,8 (215)
+31,5 (139)
+19,7
+(87)
+davon Wissen- Akad.
+Stud. schafter Praktik.
+(185) (108) (78)
+Nicht- Signf.
+Akad. 5%-
+(49) Niveau
+%
+39,5
+37,3
+23,2
+%
+75,0
+19,4
+5,6
+%
+41,0
+39,7
+19,2
+%
+34,7
+24,5
+40,8
+100,0 (441)
+100,0
+100,0
+100,0
+100,0
++
+Die Frage nach der Weiterempfehlung kann sich auch auf zukünftiges Verhalten beziehen
+(„Werden Sie die GESIS-Seiten weiterempfehlen?“). Diese Formulierung hat einerseits den
+Vorteil, dass man auch die Erstbesucher berücksichtigen kann und damit bei der Auswertung
+auf höhere Fallzahlen kommt. Das ist besonders bei der relativ kleinen Gruppe der
+Nicht-Akademiker wichtig. Andererseits besteht der Nachteil darin, dass eher eine allge-
+meine Stimmung als tatsächliches Verhalten abgefragt wird. Ob die Ankündigung, man
+werde die Seiten weiterempfehlen, in die Tat umgesetzt wird, hängt natürlich von mancherlei
+Randbedingungen ab, die nichts mit der Nutzerzufriedenheit zu tun haben müssen.
+Die Daten zeigen, dass die allgemeine Stimmungslage derjenigen, die bis an das Ende der
+Nachbefragung durchgehalten haben (N=438) ausgesprochen positiv ist: Ca. 90 Prozent aller
+Befragten wollen die GESIS-Web-Seiten sicher oder wahrscheinlich weiterempfehlen. Bei
+den Wissenschaftlern sind es gar 98Prozent (nur 2 Wissenschaftler sagen: „eher nicht“). Die
+Vergleichszahlen für die Weiterempfehlung lauten: Studenten 88,6, Nicht-Akademiker 87,8
+und Akademische Praktiker 84,6 Prozent.
+Interessant ist auch der Blick auf die untere Hälfte der Tabelle: Nur 2 der 41 Personen, die die
+GESIS-Seiten nicht weiterempfehlen wollen, sagen entschieden „Nein, auf keinen Fall“. Die
+anderen 39 äußern sich zurückhaltender.
+Tabelle 17: Zukünftige Weiterempfehlung
+Werden Sie die GESIS-Seiten
+weiterempfehlen?
+Ja, sicher
+Ja, wahrscheinlich
+Nein, eher nicht
+Nein, auf keinen Fall
+Gesamt
+Alle
+davon Wissen- Akad.
+Stud. schafter Praktik.
+(184) (107) (78)
+Nicht- Signif.
+Akad. 5%-
+(49) Niveau
+%
+N
+47,9 (210)
+42,7 (187)
+8,9
+0,5
+100,0
+(39)
+(2)
+(438)
+%
+39,1
+49,5
+10,3
+1,1
+%
+69,2
+29,0
+1,9
+0,0
+%
+39,7
+44,9
+15,4
+0,0
+%
+42,9
+44,9
+12,2
+0,0
+100,0
+100,0
+100,0
+100,0
++
+GESIS-Arbeitsbericht Nr. 3
+33
+Abschließend wurden die Teilnehmer der Nachbefragung gefragt, ob sie die GESIS-Seiten
+wieder besuchen wollen. Die Befragten verabschiedeten sich mit überwältigenden Zustim-
+mungswerten: Ca.97 Prozent wollen die Seiten sicher oder wahrscheinlich wieder besuchen.
+Bei den Wissenschaftlern wollen alle wiederkommen, und zwar ca. 90 Prozent „Ja, sicher“.
+Tabelle 18: Zukünftiger Wiederbesuch
+Werden Sie die GESIS-Seiten
+wieder besuchen?
+Ja, sicher
+Ja, wahrscheinlich
+Nein, eher nicht
+Nein, auf keinen Fall
+Gesamt
+Alle
+%
+N
+72,1 (318)
+24,7 (109)
+3,2
+0,0
+(14)
+(0)
+davon Wissen- Akad.
+Stud. schafter Praktik.
+(185) (108) (78)
+Nicht- Signf.
+Akad. 5%-
+(49) Niveau
+%
+67,0
+27,6
+5,4
+0,0
+%
+89,8
+10,2
+0,0
+0,0
+%
+66,7
+32,1
+1,3
+0,0
+%
+55,1
+38,8
+6,1
+0,0
+100,0 (441)
+100,0
+100,0
+100,0
+100,0
++
+Die Ergebnisse der untersuchten drei Indikatoren zur Gesamtzufriedenheit der Besucher der
+GESIS-Seiten zeigen, dass sich die Befragten in der Tendenz außerordentlich positiv äußern.
+Bei den Wissenschaftlern erfährt das Angebot geradezu überwältigende Zustimmung.
+3.2
+Bewertung einzelner Aspekte des GESIS-Web-Angebots
+3.2.1 Gesamtzufriedenheit und Bewertung von Einzelitems
+Um einen detaillierten Überblick über die Bewertung des GESIS-Web-Angebots durch die
+Besucher zu bekommen, wurden 14 Items jeweils in Form einer bewertenden Aussage for-
+muliert, z.B. „Die Seiten machen einen seriösen Eindruck.“ Die 14 Items beziehen sich auf
+unterschiedliche Aspekte des Angebots und geben den Befragten die Möglichkeit, das Aus-
+maß ihrer Zustimmung oder Ablehnung zu diesen bewertenden Feststellungen auf einer fünf-
+stufigen Skala von 1-512 durch Ankreuzen zum Ausdruck zu bringen. Damit erhält man Indi-
+katoren für die Zufriedenheit der Besucher mit einzelnen Aspekten und in der Summe mit der
+Gesamtheit des GESIS-Angebots.
+12 der Items sind positiv formuliert, d.h. die Antwort „trifft voll und ganz zu“ bedeutet eine
+positive Bewertung des angesprochenen Sachverhalts und erhält den Wert 5. 2 Items sind ne-
+gativ formuliert, d.h. die Antwort „trifft überhaupt nicht zu“ bedeutet in diesen Fällen eine
+positive Bewertung und erhält den Wert 5.
+Die Items wurden thematisch gruppiert dargeboten. Die Abfolge dieser Themenbereiche so-
+wie die Reihenfolge der Items innerhalb der Themenbereiche wurden variiert, um Reihen-
+folge-Effekte abzufangen.
+12 1= Trifft überhaupt nicht zu, 2 = Trifft eher nicht zu, 3 = Teils/Teils, 4 = Trifft eher zu, 5 = Trifft
+voll und ganz zu.
+34
+GESIS-Arbeitsbericht Nr. 3
+Vor der Auswertung der Daten wurde überprüft, ob ein response-set (Diekmann, 1995, S.
+386) festgestellt werden kann, d.h. ein inhaltsunabhängiges, durchgängiges Ankreuzen z.B.
+der Antwortalternative „trifft voll und ganz zu“ bei allen 14 Items, also auch den beiden nega-
+tiv formulierten. Eine derartige Antworttendenz konnte lediglich in vier Fällen gefunden
+werden. Damit ist die Verzerrungsquelle response-set bei dieser Fragenbatterie auszuschlie-
+ßen, d.h. die gegebenen Antworten sind inhaltlich interpretierbar.
+Die fünfstufige Skala wurde als Intervallskala interpretiert. Für jedes der 14 Items wurden die
+Mittelwerte (arithmetisches Mittel) aller Besucher sowie die Mittelwerte der einzelnen Besu-
+cher-Gruppen berechnet. Darüber hinaus wurden für alle Besucher zusammen sowie jeweils
+für die vier Besucher-Gruppen die Gesamtmittelwerte ermittelt.
+In der Ergebnisdarstellung werden die 14 Items absteigend nach dem Mittelwert aller Besu-
+cher angeordnet. Die oben stehenden Items beziehen sich auf Sachverhalte, die vergleichs-
+weise positiv beurteilt werden. Der maximal erreichbare Wert ist 5,0.
+Der Gesamtmittelwert aller Besucher über alle 14 Items, der als Indikator für die Gesamtzu-
+friedenheit interpretiert werden kann, liegt bei 3,6 und damit bei den positiv formulierten
+Items zwischen „trifft eher zu“ und „teils/teils“ bzw. bei den beiden negativ formulierten
+Items zwischen „trifft eher nicht zu“ und „teils/teils“. Angesichts der oben berichteten über-
+aus großen Bereitschaft zur Weiterempfehlung und zum Wiederbesuch erscheint dieser Wert
+eher relativ gering (möglicher Maximalwert: 5,0). Etliche Besucher üben offensichtlich Kri-
+tik an Details, die bei der Addition der einzelnen Items doch zu spürbaren Abstrichen bei der
+gemessenen Gesamtzufriedenheit führt. Die Konstruktion der Variable „Gesamtzufrieden-
+heit“ über die Addition der Mittelwerte der 14 Bewertungsitems führt demnach zu deutlich
+anderen Ergebnissen als die globale Frage nach der Gesamtzufriedenheit über die Indikato-
+ren Weiterempfehlung und Wiederbesuch, bei der die Kritik an Details von der insgesamt ho-
+hen Gesamtakzeptanz des Angebots überlagert wird.
+Die Analyse der einzelnen Items bzw. Itemgruppen soll nun zeigen, worin diese Detailkritik
+besteht. Gleichzeitig wird auch nach denjenigen Aspekten gefragt, die die Stärken des GE-
+SIS-Web-Angebots ausmachen.
+Die Betrachtung der Mittelwerte der 14 Items zeigt, dass die Streuung um den Gesamtmittel-
+wert beachtlich ist (4,6 bis 3,1). Spitzenreiter ist das Item „Seriosität“ mit weitem Abstand
+vor „Seitenaufbau“ (hoher Mittelwert bedeutet: „der Aufbau dauerte nicht zu lange“) und
+„überdurchschnittlich informativ“ sowie „verständliche Navigationsbegriffe“. Diese vier
+Items liegen jeweils über dem Gesamtdurchschnitt von 3,6 und benennen die Stärken des
+GESIS-Web-Angebots.
+Es folgen die drei durchschnittlich bewerteten Sachverhalte „ansprechende Gestaltung“, „Er-
+wartungen erfüllt“ sowie „Informationen erhalten“, die sich auf das Erscheinungsbild sowie
+den inhaltlichen Ertrag der Seiten beziehen.
+Betrachtet man die oberen 7 Items insgesamt, bestätigen die Besucher, dass es sich bei den
+GESIS-Seiten um ein überaus seriöses Angebot handelt. Daran gibt es keine Zweifel. In der
+Tendenz ist das Angebot auch überdurchschnittlich informativ und (wenngleich mit einigen
+Abstrichen) inhaltlich nützlich. Die Navigationsbegriffe sind eher verständlich. Es ist vom
+Erscheinungsbild her im Großen und Ganzen ansprechend gemacht und kann vor allem ohne
+besondere Verzögerung abgerufen werden.
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 19: 14 Items zur Beurteilung des GESIS-Web-Angebots: Mittelwerte für alle
+Befragten und die Vier Besucher-Gruppen
+Stud.
+(216)
+Wissen- Akad.
+schaftler Praktik.
+(122) (90)
+Nicht-
+Akad.
+(58)
+Signif.
+5%-
+Niveau
+Item
+Die Seiten machen einen seriösen
+Eindruck
+Der Aufbau der Seiten dauerte im
+Durchschnitt zu lange
+Verglichen mit anderen sozial-
+wissenschaftlichen Angeboten sind
+die GESIS-Seiten überdurch-
+schnittlich informativ
+Die Begriffe in der Navigation
+sind verständlich
+Die GESIS-Seiten sind
+ansprechend gestaltet
+Meine Erwartungen an die Seiten
+wurden erfüllt
+Ich habe die mich interessierenden
+Informationen erhalten
+Die Seiten sind benutzerfreundlich
+Es hat Spaß gemacht, die
+GESIS-Seiten zu nutzen
+Ich habe mich auf den GESIS-
+Seiten gut zurechtgefunden
+Die einzelnen Seiten des GESIS-
+Angebotes sind übersichtlich
+gegliedert
+Die GESIS-Seiten haben eine klare
+Navigation
+Ich habe mehr an Nutzbarem
+gefunden, als ich erwartet hatte
+Ich fand es mühsam, die
+gewünschten Informationen zu
+finden
+Mittelwert über 14 Items
+(ungewichtet)
+Bei 12 Items: trifft voll und ganz zu = 5
+Bei 2 Items*: trifft voll und ganz zu = 1
+Alle
+4,6 (452)
+3,9* (448)
+3,8 (426)
+3,7 (448)
+3,6 (451)
+3,6 (447)
+3,6 (449)
+3,5 (452)
+3,5 (448)
+3,4 (451)
+3,4 (450)
+3,4 (447)
+3,1 (445)
+3,1* (452)
+3,6
+4,6
+3,9
+3,7
+3,6
+3,5
+3,4
+3,3
+3,3
+3,4
+3,2
+3,2
+3,2
+3,0
+3,0
+3,5
+4,7
+4,2
+4,0
+3,8
+3,8
+3,9
+3,8
+3,7
+3,6
+3,7
+3,5
+3,5
+3,2
+3,2
+3,8
+4,5
+3,9
+3,5
+3,8
+3,6
+3,6
+3,6
+3,5
+3,4
+3,4
+3,5
+3,4
+3,1
+3,2
+3,6
+4,3
+3,7
+3,9
+3,8
+3,6
+3,8
+3,8
+3,9
+3,7
+3,8
+3,6
+3,7
+3,5
+3,4
+3,8
+35
+n.s.
+n.s.
+n.s.
++
++
++
++
++
++
++
++
++
++
++
++
+GESIS-Arbeitsbericht Nr. 3
+36
+Aber:
+Unter dem Durchschnitt liegen 7 Items, zwei davon mit jeweils 3,1 deutlich abgesetzt. Das
+eine davon:„mehr an Nutzbarem gefunden, als ich erwartet hatte“ ist allerdings so formuliert,
+dass die Antwort „trifft überhaupt nicht zu“ nicht in jedem Fall als Kritik am inhaltlichen An-
+gebot der Seiten verstanden werden muss: auch wenn ein Besucher nicht „mehr an Nutzba-
+rem“ als erwartet gefunden hat, mag er dennoch zufrieden sein, falls seine Erwartungen er-
+füllt worden sein sollten. Insofern ist der relativ niedrige Mittelwert dieses Items nicht zwin-
+gend als Ausdruck von Unzufriedenheit zu interpretieren und gibt eher Auskunft darüber,
+dass viele Besucher eine realistische Erwartungshaltung haben.
+Das andere deutlich unterdurchschnittliche Item „Ich fand es mühsam, die gewünschten In-
+formationen zu finden“ kann bei hohen Zustimmungswerten, die in diesem Fall durch einen
+niedrigen Mittelwert zum Ausdruck kommen, dagegen eindeutig als Indikator für Unzufrie-
+denheit betrachtet werden. Betrachtet man die Verteilung der Antworten, stellt man fest,
+dass fast ein Drittel der 452 Besucher, die dieses Item angekreuzt haben, voll oder mit Abstri-
+chen zustimmen. Nimmt man die Antworten „teils/teils“ auch noch zur Hälfte dazu, dann
+findet man, dass 203 bzw. 45 Prozent der Besucher dieser Aussage zumindest in der Tendenz
+zustimmen.
+Tabelle 20: „Ich fand es mühsam, die gewünschten Informationen zu finden“
+Trifft voll und ganz zu
+Trifft eher zu
+Teils/teils
+Trifft eher nicht zu
+Trifft überhaupt nicht zu
+Gesamt
+N
+37
+104
+125
+136
+50
+452
+%
+8,2
+23,0
+27,7
+30,1
+11,1
+100,0
+Die Frage, wie es dazu kommt, dass so viele Besucher den Umgang mit den GESIS-Seiten als
+„mühsam“ einstufen, kann mit einer Korrelationsanalyse13 zumindest teilweise beantwortet
+werden. Es wurde der Zusammenhang zwischen dem Item „Ich fand es mühsam...“ mit den
+anderen Items der Itembatterie berechnet. Die folgende Tabelle enthält in der zweiten Spalte
+pro Item den Prozentanteil der Besucher, die mit „trifft eher nicht zu“ oder „trifft überhaupt
+nicht zu“ geantwortet haben und in der dritten Spalte den Korrelationskoeffizienten r.
+Das Item „mühsam“ korreliert hoch negativ (Pearson’s r -.57) mit „gut zurechtgefunden“,
+d.h. diejenigen Besucher, die bei „mühsam“ zustimmen, sagen in der Tendenz, dass sie sich
+nicht gut zurechtgefunden haben. Ebenso finden sie die GESIS-Seiten nicht benutzerfreund-
+lich, unübersichtlich gegliedert und ohne klare Navigation. Sie sagen (deshalb) auch eher,
+dass ihre Erwartungen an die Seiten nicht erfüllt wurden und dass sie die interessierenden In-
+formationen nicht erhalten haben. Für diesen Personenkreis waren auch die Begriffe der Na-
+13 Der Korrelationskoeffizient Pearson’s r ist ein Maß für den statistischen Zusammenhang von 2 in-
+tervallskalierten Variablen und variiert theoretisch zwischen 0 (kein Zusammenhang) und +/- 1
+(vollständiger Zusammenhang).
+GESIS-Arbeitsbericht Nr. 3
+37
+vigation schlechter verständlich. Es hat (deshalb) dann auch nicht so viel Spaß gemacht, die
+GESIS-Seiten zu nutzen.
+In der Summe bedeutet dieses Ergebnis: ein Problem der GESIS-Web-Seiten besteht darin,
+dass sich viele Besucher nicht gut zurechtfinden und das Angebot als unübersichtlich einstu-
+fen. Die Informationsbeschaffung ist mühsam und führt teilweise auch zu Abstrichen bei der
+Nutzbarkeit des Ergebnisses.
+Tabelle 21: Korrelationen von „Ich fand es mühsam...“ mit den anderen Items
+-.57
+-.52
+-.45
+-.45
+-.44
+-.37
+-.33
+-.33
+-.29
+-.20
+-.10
+-.08
+.05
+Gut zurechtgefunden
+Benutzerfreundlich
+Übersichtlich gegliedert
+Erwartungen erfüllt
+Klare Navigation
+Informationen erhalten
+Begriffe der Navigation verständlich
+Spaß gemacht
+Ansprechend gestaltet
+Mehr gefunden als erwartet
+Seiten im Vergleich überdurchschnittlich
+informativ
+Seriös
+Aufbau dauert zu lange
+Fazit: Ein seriöses Angebot mit viel nützlichen Inhalten, das aber dem Besucher etwas sper-
+rig entgegentritt, weil es unübersichtlich erscheint.
+Dieses Urteil wird im Prinzip von allen vier Besucher-Gruppen geteilt. Die Wissenschaftler
+und die Nicht-Akademiker weisen bei vielen Items überdurchschnittliche Werte auf, d.h. sie
+sind insgesamt mit dem GESIS-Web-Angebot zufriedener als die beiden anderen Gruppen
+und auch ihre Detailkritik fällt in der Tendenz weniger streng aus. Die Akademischen Prakti-
+ker liegen im Gesamtwert und bei vielen Items genau in der Mitte. Am strengsten urteilen die
+Studenten: ihr Gesamtwert liegt (etwas) unter dem Durchschnitt. Bei 12 der 14 Items haben
+sie unterdurchschnittliche Mittelwerte.
+3.2.2 Dimensionen der Beurteilung des GESIS-Web-Angebots: Utility, Usability,
+Likeability
+Die bisherige Form der Ergebnisdarstellung hat den Nachteil, dass sie terminologisch keinen
+Anschluss an die allgemeine wissenschaftliche Diskussion im Bereich Onlineforschung er-
+möglicht. Diesen Anschluss kann man gewinnen, wenn man die 14 Einzelitems als Operatio-
+Trifft eher nicht bzw.
+überhaupt nicht zu
+18,6
+Pearson’s r
+15,7
+18,9
+15,2
+20,8
+20,9
+11,4
+16,3
+13,0
+32,8
+7,2
+2,6
+Trifft eher/voll und ganz zu
+10,5
+38
+GESIS-Arbeitsbericht Nr. 3
+nalisierungen von theoretischen Konzepten oder Dimensionen versteht, die in der
+Onlineforschung Verwendung finden.
+In der angloamerikanischen Literatur, aber auch in zunehmenden Maße in neueren deutsch-
+sprachigen Veröffentlichungen haben sich die drei Konzepte der Utility (Nützlichkeit), Usa-
+bility (Bedienbarkeit) und Likeability (Gefälligkeit) als brauchbare Konstrukte zur Evalua-
+tion von Internetangeboten erwiesen (Olson, 2000 und Gaines et al., o.J.)
+Utility bezieht sich auf die Eigenschaft eines Internetangebots, zur Realisierung der von den
+Besuchern erwünschten Ziele, wie z.B. Informationsgewinn, beizutragen. Gefragt wird nach
+der Effizienz, wie gut und auf welche Art und Weise das Angebot den Nutzer bei seiner Ziel-
+verfolgung unterstützt.
+Usability bezieht sich auf die Funktionalität beim Aufruf der Seiten. Gefragt wird nach der
+Effektivität bei der Zielerreichung.
+Der Begriff Likeability umfasst zum Teil subjektive Assoziationen bezüglich des Angebo-
+tes. Es könnten dies Stil- oder Designfragen ebenso wie affektive Beurteilungen von Aspek-
+ten der Nützlichkeit und Brauchbarkeit sein.
+Die 14 Einzelitems wurden diesen drei Dimensionen zugeordnet. Z.B. ist es naheliegend, das
+Item „Ich habe die mich interessierenden Informationen erhalten“ der Dimension Utility
+(Nützlichkeit) zuzurechnen.
+Diese Zuordnungen wurden anschließend durch eine Faktorenanalyse14 überprüft. Die Er-
+gebnisse bestätigen das 3-Faktoren-Modell und damit die drei Dimensionen utility, usability
+und likeability. Die Faktorwerte von 12 der 14 Items unterstützen die vorgenommenen Zu-
+ordnungen zu diesen Dimensionen. Das Item „Es hat Spaß gemacht, die GESIS-Seiten zu
+nutzen“ wurde aufgrund der Faktorenanalyse nicht Likeability sondern Usability zugeordnet.
+Das Item „Der Aufbau der Seiten dauerte im Durchschnitt zu lange“, das zunächst als
+Usability-Item eingestuft worden war, kam zu Likeability.
+Tabelle 22: Items der Dimensionen Utility, Usability, Likeability
+Items der Dimension 2
+Items der Dimension 3
+Items der Dimension 1
+Utility
+Informationen erhalten
+Erwartungen erfüllt
+Mehr gefunden als erwartet
+Seiten im Vergleich
+überdurchschnittlich informativ
+Usability
+Mühsam
+Gut zurechtgefunden
+Klare Navigation
+Begriffe der Navigation
+verständlich
+Übersichtlich gegliedert
+Benutzerfreundlich
+Spaß gemacht
+Likeability
+Seriös
+Ansprechend gestaltet
+Aufbau dauert zu lange
+14 Die Faktorenanalyse (eigentl. Hauptkomponentenanalyse) wurde mittels des Statistikprogramms
+SPSS 12.0 durchgeführt; eine Varimaxrotation mit Kaisernormalisierung wurde zur Erleichte-
+rung der Faktoreninterpretation vorgenommen.
+GESIS-Arbeitsbericht Nr. 3
+39
+Bei diesen drei Dimensionen wurden jeweils auf Personenebene die Itemwerte addiert. Fälle,
+die bei einem oder mehreren Items fehlende Werte (missings) enthielten, wurden aus der
+Auswertung herausgenommen. Dadurch ist die Fallzahl kleiner als bei der Auswertung der
+Einzelitems.
+Die drei Dimensionen heißen als neugebildete Variable: Utility-Score, Usability-Score, Li-
+keability-Score, jeweils wieder mit einem Wertebereich von 1 bis 5. Die Mittelwerte dieser
+neuen Variablen sind Indikatoren für die Zufriedenheit der Besucher mit den durch die Varia-
+blen bezeichneten Eigenschaften des GESIS-Web-Angebots.
+Tabelle 23: Mittelwerte der drei Variablen Utility-Score, Usability-Score,
+Likeability-Score
+Arithmetisches Mittel
+Standardabweichung
+Gültige Fälle
+Variable
+Utility-Score
+Usability-Score
+Likeability-Score
+Besuchergruppe
+Studenten
+Wissenschaftler
+Akademische Praktiker
+Nicht-Akademiker
+Gesamt
+,82
+,75
+,63
+417
+423
+437
+Es bestätigt sich die Reihenfolge: Likeability mit großem Abstand, Utility vor Usability.
+Der Abstand zwischen Utility und Usability wäre noch wesentlich deutlicher, wenn das un-
+eindeutige Item „Ich habe mehr an Nutzbarem gefunden, als ich erwartet hatte“ von der Aus-
+wertung ausgeschlossen würde.
+Betrachtet man die Scores hinsichtlich der vier Besucher-Gruppen, ergibt sich folgendes
+Bild:
+Tabelle 24: Mittelwerte der Variable Utility-Score für die vier Besucher-Gruppen
+(einfache Varianzanalyse)
+3,52
+3,45
+4,05
+3,35
+3,76
+3,45
+3,75
+3,52
+N
+179
+97
+73
+49
+398
+Mittelwert
+Standardab-
+weichung
+F-Wert
+Signifikanz
+6,79
+,00
+,86
+,75
+,80
+,73
+,83
+40
+GESIS-Arbeitsbericht Nr. 3
+Tabelle 25: Mittelwerte der Variable Usability-Score für die vier Besucher-Gruppen
+(einfache Varianzanalyse)
+Mittelwert
+Standardab-
+weichung
+F-Wert
+Signifikanz
+7,25
+,00
+3,27
+3,58
+3,51
+3,70
+3,45
+3,99
+4,26
+4,00
+3,86
+4,05
+,75
+,65
+,78
+,71
+,74
+,61
+,46
+,58
+,91
+,63
+Tabelle 26: Mittelwerte der Variable Likeability-Score für die Vier Besucher-Gruppen
+(einfache Varianzanalyse)
+Standardab-
+weichung
+Mittelwert
+F-Wert
+Signifikanz
+6,10
+,00
+Besuchergruppe
+Studenten
+Wissenschaftler
+Akademische Praktiker
+Nicht-Akademiker
+Gesamt
+Besuchergruppe
+Studenten
+Wissenschaftler
+Akademische Praktiker
+Nicht-Akademiker
+Gesamt
+Die Wissenschaftler weisen bei allen drei Dimensionen überdurchschnittliche Werte auf
+und haben bei Likeability sogar einen überragenden Wert. Die Usability wird dagegen etwas
+niedriger eingestuft. Der recht hohe Utility-Wert zeigt, dass diese Besuchergruppe von dem
+inhaltlichen GESIS-Web-Angebot weitgehend überzeugt ist. Die Botschaft von dieser
+Gruppe: schönes, nützliches Angebot, vielleicht etwas an der Übersichtlichkeit tun.
+Die Nicht-Akademiker weisen bei Utility und Usability ebenfalls überdurchschnittliche
+Werte auf und scheinen auch weniger Probleme mit der Usability zu haben als die Wissen-
+schaftler. Dagegen wird die Likeability, aber mit ca. 3,9 immer noch auf sehr hohen Niveau,
+geringer eingestuft. Die Botschaft dieser Gruppe: gutes Angebot, vielleicht etwas am Er-
+scheinungsbild tun.
+Die Akademischen Praktiker liegen wieder in der Mitte: bei allen drei Dimensionen liegen
+ihre Werte nahe am Mittelwert. Auffällig ist der leicht unterdurchschnittliche Wert bei Uti-
+lity. Die Botschaft dieser Gruppe: etwas Nützliches für uns zusätzlich anbieten und vielleicht
+an der Übersichtlichkeit arbeiten.
+Die mit Abstand kritischste Gruppe sind die Studenten, vor allem bei Utility und bei Usabi-
+lity. Bei beiden Dimensionen weisen sie den niedrigsten Gruppenwert auf und haben mit ei-
+nem Usability-Wert von 3,27 den niedrigsten der 12 Gruppenwerte in den drei Dimensionen.
+Die Botschaft dieser Gruppe: auf jeden Fall etwas an der Bedienbarkeit/Übersichtlichkeit
+verändern und auch studentenspezifische Zusatzangebote entwickeln.
+N
+184
+100
+71
+47
+402
+N
+188
+104
+75
+49
+416
+GESIS-Arbeitsbericht Nr. 3
+41
+Die Studenten sind zahlenmäßig die größte Besuchergruppe und haben bei Utility und Usabi-
+lity die relativ niedrigsten Werte. Die im nachfolgenden Kapitel dargestellten Einzelkritiken
+und Verbesserungsvorschläge stammen deshalb überwiegend von Studenten.
+4
+Kritik und Empfehlungen der Besucher
+Bei der Nachbefragung wurden den Besuchern die oben dargestellten 14 Bewertungsitems
+nach den drei Themengruppen Utility, Usability und Likeability, und zwar in variabler Rei-
+henfolge, dargeboten. Nachdem alle Items eines Themenbereichs bearbeitet waren, wurde
+maschinell-automatisch während der Befragung eine Zwischenauswertung vorgenommen:
+bei den positiv formulierten Items wurden die Werte 1 und 2 auf –2 und –1 gesetzt, die Werte
+4 und 5 auf 1 und 2. Der Wert 3 wurde 0. Bei den beiden negativ formulierten Items wurde
+spiegelbildlich vorgegangen. Anschließend wurden pro Besucher diese Itemwerte addiert.
+Diejenigen Personen, deren Summenwert kleiner/gleich Null war, und nur diese, erhielten in
+einem eingeblendeten Fenster eine oder zwei offene Fragen zu ihrer Kritik bzw. ihren Verän-
+derungswünschen zu dem jeweiligen Themenbereich. Anschließend wurden die Items des
+folgenden Themenbereichs präsentiert, bei dem entsprechend verfahren wurde. Ein Besu-
+cher, der in allen drei Themenbereichen auf Summenwerte kleiner/gleich Null gekommen
+war, konnte insgesamt 4 offene Fragen beantworten (2 bei Usability, je 1 bei den beiden
+anderen).
+Die Möglichkeit, die gerade durch einen Klick geäußerte Kritik zu verbalisieren, wurde von
+den Besuchern ausgiebig wahrgenommen, so dass umfangreiches Material zur qualitativen
+Auswertung vorliegt.
+Die folgenden Auflistungen enthalten die Eintragungen, nach Themenbereichen gegliedert,
+die bei den vier offenen Fragen vorgenommen worden waren. Die Zuordnung entspricht der
+inhaltlichen Definition der Themengruppen und kann von der Zuordnung, die die Besucher
+vorgenommen haben, abweichen (z.B. wurden bei der Utility-Frage häufiger Antworten zur
+Usability gegeben).
+Bei der Auflistung wird, wenn möglich, der Wortlaut der Einträge wiedergegeben. Offen-
+sichtliche Schreibfehler wurden korrigiert. Mehrere unterschiedliche Eintragungen von einer
+Person wurden zugelassen und unterschiedlichen Merkmalen zugeordnet, so dass die Ge-
+samtzahl der Eintragungen keinen Aufschluss über die Zahl der beteiligten Personen zulässt.
+(Praktisch) wortgleiche Eintragungen werden nur einmal aufgeführt. Die Häufigkeit der
+Nennungen einer Merkmalsgruppe wird angegeben.
+Insgesamt zeigt sich, dass die Eintragungen zum Themenbereich Usability überwiegen. Die
+Besucher monieren vor allem die Unübersichtlichkeit des Angebots und tragen vielfältige
+Vorschläge zur Abhilfe vor. Dieses Material sollte bei den internen Diskussion zur Weiter-
+entwicklung des GESIS-Web-Angebots seine Berücksichtigung finden.
+42
+GESIS-Arbeitsbericht Nr. 3
+4.1
+Verbesserungsvorschläge bei der Dimension Utility (Nützlichkeit)
+Offene Frage: „Wodurch könnte der Nutzen der GESIS-Seiten erhöht werden?“
+Vollständigkeit
+Absolute Vollständigkeit, sofern das überhaupt möglich ist ...
+Mehr Informationen zum Stand auf den einzelnen Gebieten
+Größere Auswahl an Informationen
+Nennungen insgesamt: 3
+Online-Zugang: Literatur und Daten
+Umfassendere Literaturdatenbank zu den verschiedensten Themen
+Mehr Artikel online stellen
+Ich bin im Rahmen meiner Recherche für eine Hausarbeit über Online-Marktforschung
+auf Ihre Seite gekommen und fand die Linksammlungen zwar hilfreich, hatte aber er-
+wartet, auf der Seite selbst Artikel oder Studien zu finden
+Alle IZ-Studien online stellen
+Mehr Daten direkt herunter ladbar
+Verbesserung der Downloadsektion
+...wenn Daten zugänglich wären
+Beispieldatensätze (verkürzt) unentgeltlich für Studenten anbieten
+Möglichkeit der Codebuch-Recherche für möglichst alle Datensätze
+Bereitstellung von allgemeinen demographischen Variablen. Auszüge aus den verschie-
+denen Datensätzen.
+Mehr qualitative Daten
+Graphische Auswertungen bestimmter Daten
+Nennungen insgesamt: 12
+Aktualität
+Zeitnähere Dokumentation neuester Studien
+Aktualität [verbessern]: ein verschobener Workshop wird noch immer mit dem alten
+Datum geführt
+Bei E-Mail-Anfragen sollte eine schnellere Bearbeitung gewährleistet werden. Auf eine
+E-Mail-Anfrage habe ich nach fünf Monaten noch immer keine Antwort. Ist wohl die
+Ausnahme, sollte aber nicht vorkommen.
+Nennungen insgesamt: 3
+Information zu Methoden und Begriffen
+Beschreibung von statistischen Verfahren
+Bessere Online-Informationen zu den Methoden
+Methodenbeschreibungen und Anleitungen zum Download (Einsatzgebiete, Vorausset-
+zungen, Vor- und Nachteile)
+Verfügbarmachen von pdf-Files zu den Methoden und Daten
+Mehr Informationen zu Befragungsmethoden zum downloaden wäre wünschenswert
+Mehr zum Thema Fragebogengestaltung
+GESIS-Arbeitsbericht Nr. 3
+43
+z.B. bin ich an den Fragebögen interessiert: was genau wird gefragt, wie sind die Ant-
+wortmöglichkeiten, sehr penible Datendarstellung
+Definitionskatalog: methodische, sozialwissenschaftliche und populärwissenschaftliche
+Begriffe
+Wichtige Definitionen aufführen
+Nennungen insgesamt: 9
+Verweise auf Forschungsinstitute
+Link auf das DIW (wegen SOEP) und das Statistische Bundesamt. (Es nervt, dass man
+als Nutzer wissen muss, dass es dort auch noch wichtige Daten gibt.)
+Verweise auf statistische Bundesämter
+Man bräuchte Partner-Seiten
+Service-Guide ist ausbaufähig
+Auflistung, welche Institutionen regelmäßig [bestimmte] Befragungen durchführen und
+wo man nach dem BUS-Prinzip Items unterbringen kann
+Hinweise über die Lokalisation der Forschungen
+Nennungen insgesamt: 7
+Fortbildung
+Möglichkeit, Fortbildungsangebote in Flyerform zu bestellen
+Deutlicher Hinweis, ob und wann ausgebuchte Veranstaltungen wiederholt werden
+Online-Schulung
+Nennungen insgesamt: 3
+Sonstige Vorschläge
+Chatroom [einrichten]
+Eine Seite, auf der alle Produkte und Leistungen aufgelistet sind und direkt bestellt wer-
+den können
+Keine direkte Bestellmöglichkeit der CD WISO III gefunden
+Die Webseiten sind alle sehr gut gestaltet. Das Problem ist, die Personenangaben sind
+nicht korrekt. Die E-Mails funktionieren nicht mehr und die Fax-Nummern sind auch
+veraltet
+Ich habe eine direkte Kontaktmöglichkeit zu den Kollegen bei ZUMA vermisst und
+musste umständlich über das Mitarbeiterverzeichnis gehen. Auch dort fehlte wieder der
+Kontakt-Button, so dass ich erst das Mail-/Adressenverzeichnis bemühen musste
+Der Berühmtheits-Grad müsste erhöht werden, damit mehr Leute auf die Seite kommen.
+Nennungen insgesamt: 6
+Gesamtzahl der Verbesserungsvorschläge bei der Dimension Utility: 43
+44
+GESIS-Arbeitsbericht Nr. 3
+4.2
+Kritik an der Dimension Usability (Bedienbarkeit)
+Offene Frage: „Welche Probleme hatten Sie mit der Bedienung der GESIS-Seiten?“
+Übersichtlichkeit
+Zu unübersichtlich
+...wie schon erwähnt: zu unübersichtlich, obwohl ich auf interessante Artikel (die ich
+aber nicht wollte) gestoßen bin
+Es ist unübersichtlich. Wenn man sich nicht vorher informiert, ist man mit der Suche
+nach bestimmten Daten oder Untersuchungen total überfordert. Es wird nicht erklärt,
+wie man an die gewünschten Informationen gelangt.
+Sie sind zu unübersichtlich. Zu viele Abkürzungen, zu wenig Erklärungen für die Bedie-
+nung der Seiten. Ist das alles nur für absolute Insider konzipiert?
+Ich finde die Internetseiten immer noch etwas unübersichtlich. Besonders bei der Re-
+cherche von Daten-Sätzen habe ich immer noch Schwierigkeiten
+Etwas unübersichtlich: zu viel Text
+Zu viel Information auf einer Seite
+Zu viel Text. Man muss viel lesen, um zu finden, was man sucht
+Das komplexe Angebot ist oft sehr geballt
+Nennungen insgesamt: 28
+Struktur
+Struktur unklar, verwirrend
+[schwierig] mich zurecht zu finden
+Habe die Seitenstruktur nicht richtig verstanden
+Hatte Schwierigkeiten, mich in der Struktur zurechtzufinden, sprich: welche Punkte ich
+anklicken muss, um eine bestimmte Info zu finden
+Seiten zur Online-Forschung informativ, aber Navigation sehr schwierig
+Mir fehlen mitunter klare Benutzerführungen, was ich wo auf Ihrer Seite finden kann
+Probleme bei der Suche nach gewünschten Informationen: Überblick über Gesamtange-
+bot zumindest anfangs schwer zu bekommen
+Wo sieht man, wo „nur“ Studienbeschreibungen sind oder wo man richtige Ergebnisse
+bekommt?
+Viele verschiedene Unterpunkte, die schwer zu finden sind, wenn man sie nicht erneut
+beispielsweise über Google sucht
+Struktur wenig durchschaubar. Um Infos zu Textpack zu bekommen, habe ich eine halbe
+Stunde gebraucht und musste dann auch noch weitere Fragen per E-Mail stellen
+Zu viele Untermenüs und teilweise unklare Zuordnung der Unterpunkte
+Die Menüführung ist teilweise sehr umständlich und unübersichtlich
+Es zeichnet sich kein roter Faden ab
+[schwierig] von den Gliederungen zu den Stichworten zu gelangen
+Der Aufbau der Baumstruktur ist nicht intuitiv für jemanden, der mit der inneren Struk-
+tur nicht vertraut ist, sondern aus dem Anwendungsbereich kommt
+GESIS-Arbeitsbericht Nr. 3
+45
+Ich verstehe da fast gar nichts. Was heißt das alles? Überall Links, die irgendwo hin füh-
+ren. Man kommt nicht mehr zurück, wo man angefangen hat. Wenig ist erklärt. Unüber-
+sichtlich ist die Homepage
+Oftmals „im Kreis“ gesurft, bis die gewünschte Seite erreicht wurde
+Keine benutzerfreundliche Anordnung
+Nennungen insgesamt: 19
+Suche
+Zu wenige Suchmöglichkeiten. Bei der Suche nach speziellen Informationen muß man
+viel Zeit und Energie aufwenden
+Stichwortsuche (vielleicht gibt es eine, sie fällt aber nicht gleich auf)
+Die Suchfunktion in der PDF-Datei des Codebuchs hatte nicht so ganz unfallfrei ge-
+klappt
+Die Suchfunktion ist sehr umständlich. Man muss schon genau wissen, was man sucht.
+Habe nicht das gefunden, was ich suchte
+Ich habe nicht immer gefunden, wonach ich gesucht habe
+Ergebnisse der Suchbegriffe waren nicht präzise
+Habe „Mikrozensus“ leichter über die Eingabe in Google gefunden
+Habe keine Suchfunktion gefunden
+Die Nutzung der Suchfunktion ergab eine zu hohe Anzahl von Treffern, die aufgrund
+des Titels keinen Rückschluss auf deren Nützlichkeit zuließen
+Nach Inanspruchnahme der Suchfunktion erschien Seite in englischer Sprache
+Schlagwörter nicht gefunden; Debuggermodus schaltete sich automatisch ein
+Nennungen insgesamt: 14
+Begriffe
+Unklare Begriffe und Bezeichnungen
+Es wird nicht immer deutlich, was sich hinter einem Link befindet
+Einzelne Punkte sind teilweise mit Fachwörtern benannt, unter denen man im alltägli-
+chen Gebrauch etwas anderes versteht
+Man muss sehr genau wissen, unter welchen Begriffen sich welche Informationen auf
+Ihrer Seite befinden. Für den Nutzer, der unbedarft zugreifen möchte, stellt sich dies als
+Problem dar
+Nennungen insgesamt: 5
+Suchaufwand
+Es ist für einzelne Bereiche schwierig, die richtigen Seiten zu finden
+Es war mir nur nach längerem Suchen möglich, gewünschte Publikationen zu finden
+Wusste nicht, wie ich zu dem komme, was ich wissen wollte und kam erst durch Probie-
+ren darauf
+Unter dem GESIS-Dach sind sehr viele Informationen versammelt. Die richtigen zu fin-
+den, ist deshalb nicht ganz einfach
+Habe erst nach einigem Suchen gefunden, was ich wollte
+Infos zu Ergebnissen sind mühsam zu finden (Forschungsdesign, Finanzierung, Erhe-
+bungsdaten)
+46
+GESIS-Arbeitsbericht Nr. 3
+Datensätze des ALLBUS nicht leicht zu finden
+Ich bin über einige Umwege zu Informationen über die unterschiedlichen Schwerpunkt-
+themen des ALLBUS gelangt, wusste teilweise nicht mehr, wie. Habe mich geärgert,
+dass die Links nicht eindeutig gelegt sind.
+Habe nach dem Mikrozensus 98 Setup gesucht – war für mich nicht ganz einfach
+Ich bin durch einen Zeitungsbericht auf die Gesundheitsstudie 2 [aufmerksam gewor-
+den] und wollte die Studie suchen. Jedenfalls war auf der Homepage für mich nicht so-
+fort erkennbar, wo ich sie finden konnte.
+Ich suche meistens Datensätze/Variablenlisten. Ich weiß nie, wo ich genau suchen soll –
+sowohl, wenn ich bestimmte Datensätze suche, als auch wenn ich eine Codebuchrecher-
+che starten soll. Außerdem finde ich nie die Benutzerbedingungen [ ]
+Ich suchte die FORIS-Datenbank, wusste aber nicht ihren Namen (sondern nur, was
+diese ist). Deshalb dauerte es ein paar Klicks, bis ich diese gefunden habe
+Habe des öfteren Schwierigkeiten gehabt, Seiten wiederzufinden, die ich zu einem frü-
+heren Zeitpunkt besucht hatte. Z.T. habe ich auf verschiedenen Wegen (und Seiten) In-
+formationen zum selben Thema gefunden, was etwas verwirrend war.
+Ich hatte Probleme, die Seiten wiederzufinden, die ich für ein bestimmtes Thema ge-
+sucht habe. Probleme beim Wiederauffinden von bestimmten Links. Finde es etwas
+schwierig, von der Hauptseite zur Online-Forschung zu kommen.
+Nennungen insgesamt: 15
+Weitere Kritikpunkte
+Die Beschreibungen (z.B. Archiv) wirken sehr umständlich
+Die Liste der in FORIS recherchierten Projekte ließ sich nicht sortieren und nicht forma-
+tieren. Ich hätte gern eine Tabelle mit Sortierung nach 1. Auftraggeber, 2. Finanzierer, 3.
+Projekttitel, 4. Auftragnehmer gehabt.
+Ich konnte einige Dateien (Publikationen) nicht öffnen
+Daten nicht aktuell oder nicht abrufbar
+Ich fand schon immer die Unterteilung der Daten unintuitiv: ALLBUS und ISSP sind –
+soweit ich verstehe – eigenständige Datensätze und zweifelsohne Mikrodaten?! Es gibt
+aber auch eine Extra-Kategorie „Mikrodaten“, die vielleicht besser „Amtli [ ]
+Warum kann ich nicht den Fragebogen von Eurobarometer unmittelbar im ZA finden?
+Wo kann ich den European Value Survey-Fragebogen finden?
+Workshops und Seminare sind in mehreren Unterpunkten verstreut
+Redundanzen
+Nennungen insgesamt: 7
+Gesamtzahl der Nennungen zur Kritik an der Dimension Usability: 88
+GESIS-Arbeitsbericht Nr. 3
+47
+4.3
+Verbesserungsvorschläge bei der Dimension Usability
+(Bedienbarkeit)
+Offene Frage: “Wie könnte die Bedienungsfreundlichkeit der GESIS-Seiten verbessert
+werden?“
+Übersichtlichkeit
+Übersichtlicher
+Einfachere und übersichtlichere Gestaltung der Oberfläche
+Den Inhalt der Homepage noch klarer gestalten
+Bessere Übersicht über Angebot und Nutzungsmöglichkeiten notwendig
+Die Übersicht, was überhaupt hier zu finden ist, müsste einfacher möglich sein. Das [ist]
+Rumstochern wie bei ebay
+Die Übersichtlichkeit könnte verbessert werden, da die Seiten oft sehr gefüllt sind und
+man den Überblick leicht verliert
+Übersichtlicher gestalten, mehr Info auf einen Blick (wobei sich in den letzten Jahren
+schon einiges getan hat)
+Übersichtlichere Gestaltung. Es ist schwierig, zum gesuchten Thema zu gelangen
+[es fehlen] Informationen zur Nutzung
+Nennungen insgesamt: 33
+Struktur
+Bessere, übersichtliche Gliederung
+Klarere Struktur, Navigation
+Mehr Klarheit, was worunter zu finden ist
+Die Struktur ist zu unübersichtlich. Man findet bestimmte Dinge erst nach ewigem Su-
+chen
+Eine klare Gliederung wäre optimal. Wer sind wir, was bieten wir an? Und dann alles
+übersichtlich auf der Startseite auflisten
+Zusammenfassung des Angebots der verschiedenen an der GESIS-Seite beteiligten In-
+stitutionen in einer Gesamtübersicht
+...indem man die Übersichtlichkeit erhöhen würde: klarer zu den Informationen führen
+(wo ist was?). Eigentlich gibt es viel zu finden, nur schade, dass es so schwierig ist.
+Klare Navigationshilfe und Inhaltsangabe direkt auf der Hauptseite: was befindet sich
+wo? Das müsste zu erklären sein, ohne den Nutzer auf eine Irrfahrt durch die Fülle Ihrer
+Seiten zu schicken.
+Bessere Navigation: klarer darstellen, wohin man sich für welche Information „hinkli-
+cken“ muss
+Eine kurze (!) Einführung „Was finde ich wo?“ für neue Besucher
+Erläuterung, wo man was findet bzw. eine Art Meta-Navigation
+Bessere Erklärungen auf der Frontpage/ersten Seite, was man überhaupt finden kann
+und wo
+Bessere Überschriften, die auch allgemeinverständlich das benennen, was sich auch
+wirklich dahinter befindet. Die Titel sind nur mit Insider-Wissen wirklich verständlich
+48
+GESIS-Arbeitsbericht Nr. 3
+Vorbild DFG-Seiten. Wenn man sich dort über einzelne Förderprogramme informieren
+will, findet man sich schnell zurecht. Links eine Leiste mit den verschiedenen Angebo-
+ten, die einen dann zu den detaillierteren Infos bringt
+Eine übersichtlichere und eindeutigere Menüführung
+Nicht so tief gegliederte Menüs
+Eine bessere Struktur im Menü, stärker unterteilt
+Einführung einer übersichtlicheren Struktur, geordnet z.B. nach Themengebieten, unab-
+hängig von der Organisation, die Daten bereitstellt
+Gliederung des Angebots danach, was der Nutzer sucht und nicht nach den internen Ab-
+teilungen der GESIS. Beispielsweise ist es mir als Nutzer völlig egal, ob der ALLBUS
+allgemein zu „Dauerbeobachtung“ oder zu anderen Kategorien gehört
+Trennung der einzelnen Institute
+Aufbau nach Themen und nicht nach FORIS/SOLIS etc.
+Das Angebot in mehrere Themen gliedern, um die Übersicht zu verbessern
+Erläuterungen sind im wesentlichen o.k., manchmal nicht hinreichend für das eigene
+Suchthema, so dass sich die Frage der GESIS-Zuordnung und meiner eigenen ergibt
+Stärkere Orientierung des Aufbaus am Prozess der Forschung: Prozessschritte von der
+Forschungsfrage über [das] Forschungsdesign bis zu den Auswertungen
+Nennungen insgesamt: 45
+Suche
+Mehr Suchmöglichkeiten
+Bessere Sitemap
+Bessere Suchfunktion
+Suchoptionen verbessern. Nach der Suche, wenn zu viele Treffer sind, weitere Filter-
+möglichkeiten
+Eine verbesserte Suchmaske, in der Stichworte einzugeben sind, würde mir persönlich
+helfen
+Stichwortsuche nach methodischen/statistischen Fragestellungen
+Mit einer Suchfunktion könnte man schneller an gewünschte Infos gelangen
+Suche könnte überschaubarer gestaltet werden
+Suchmaschine zur schnellen und präzisen Suche von Schlagwörtern
+Suchmaschinen vermehrt anbieten
+Einbau einer Google-Suche
+Boole’sche Suchfunktion über das gesamte Datenangebot
+Kleineres Suchsystem zusätzlich zur erweiterten Suche
+Nennungen insgesamt: 27
+Links
+Verbesserung der Links
+Links müssen besser/übersichtlicher gesetzt werden
+Mehr Links
+Die Links aussagekräftiger benennen
+Konkretere Link-Kennzeichnung notwendig, denn ich habe keine Links zu Methoden
+der Konsumentenforschung gesehen, obwohl ich sie gesucht habe
+GESIS-Arbeitsbericht Nr. 3
+49
+Deutlichere Hinweise, was hinter den Links steckt
+Links zu anderen Webseiten besser kennzeichnen
+Übersichtlicheres Verzeichnis der Verästelung der Links
+...die Seiten dann entsprechend mehr verlinken
+Weniger Links auf einer Seite, dafür mehr in die Tiefe gehen
+Weniger Informationen, dafür mehr Links
+Kompaktere Verlinkung der einzelnen Seiten wäre gut. Unter einem Link für jeden Da-
+tensatz dann alle dazu relevanten Informationen darstellen und erreichbar machen
+...wenn die Verweise auf Datensätze jeweils schlüssig inhaltlich hinterlegt wären
+Es sollten die Pfade immer erkennbar bleiben, die Grobstruktur der Seite immer sichtbar
+bleiben
+Hätte gerne immer am Rand genauen Standort, wo ich mich gerade befinde. Zu viele
+Links, die hin und her verweisen.
+Ich finde das Gesamtangebot noch unübersichtlich. Der Inhalt der einzelnen Seite ist
+verständlich. Mir fehlt aber eine Anzeige, die mir anzeigt, wo im Gebäude der Site ich
+mich bewege
+Die Links nicht unbedingt mitten in den Satz setzen, sondern an Zeilenanfang und da-
+nach die Beschreibung der Inhalte des Links
+...Zudem habe ich die Erfahrung, dass bei Ihrer Homepage das Zusammenspiel bzw. der
+Aufbau zwischen linker Navigationsleiste und Inhalten in der Mitte irgendwie
+unstimmig ist
+Nennungen insgesamt: 18
+Sonstige Vorschläge
+Nutzerfreundlicher gestalten
+Nutzungsbedingungen besser beschreiben
+Alle für eine wissenschaftliche Arbeit nötigen Infos zu einer bestimmten Studie auf ei-
+nen Klick
+Man könnte eine Tour aufbauen, wo man immer eine Seite weiter kommt und über ein
+Thema zum Beispiel mehr erfährt
+Den Katalogcharakter hervorheben: die einzelnen Studien sollten nicht nur kategorisiert
+sein, sondern auch über die Kategorisierung erreichbar sein
+Komprimierung der Fragebogen auf weniger Seiten
+Einen usability-Test machen
+Nennungen insgesamt: 8
+Gesamtzahl der Verbesserungsvorschläge bei der Dimension Usabiliy: 131
+GESIS-Arbeitsbericht Nr. 3
+Verbesserungsvorschläge bei der Dimension Likeability
+(Gefälligkeit)
+50
+4.4
+Offene Frage: „Was müsste verbessert werden, damit Ihnen die GESIS-Seiten besser gefal-
+len?“
+Grafische/visuelle Gestaltung
+Nutzung graphischer Gestaltungselemente
+Grafische Gestaltung könnte ansprechender sein
+Mehr mit optischen Elementen arbeiten (buttons etc)
+Mehr Bilder
+Mehr visuelle Hilfsmittel
+Fensterebenen mit Halbtransparenz implementieren
+Technisch-visuelle „Spielereien“ (wie Fortschrittsanzeiger in Umfragen)
+Nennungen insgesamt: 8
+Farbgebung
+Mehr Farbe, bunter
+Farblich bessere Gestaltung
+Farblich mehr unterteilen
+Dezente Farbkontrastierung
+Die farbliche Gestaltung könnte ansprechender sein – diese ist im Moment zwar seriös,
+aber auch ein wenig langweilig
+Eine weitere Farbe, zu sehr „Ton in Ton“, dadurch auch etwas langweilig. Zu bunt ist
+aber auch nicht gut
+Och, das blasse Blau haut einen ja nicht vom Hocker...
+Nennungen insgesamt: 10
+Schrift
+Größere Schrift
+Auf meinem Monitor sind Schriften teilweise etwas klein, aber noch leserlich
+Schriftgröße der Navigationsleiste etwas größer (und dunklere Farbe)
+Nennungen insgesamt: 5
+Anmutung
+Persönlichere, d.h. optisch freundlichere Oberfläche, sowohl inhaltlich als auch vom
+Format her. Wirkt eher spröde und bürokratisch. Homepage einer ungeliebten Behörde
+Persönlichere Note
+Einfach lockerer werden
+Flottere Gestaltung
+Ansprechendere Gestaltung der Seiten
+Nennungen insgesamt: 5
+Aufbau der Seiten
+[man sieht] lauter Texte. Wer hat schon Lust, das alles zu lesen?
+GESIS-Arbeitsbericht Nr. 3
+51
+Weniger volle Seiten
+Wenig, aber aussagekräftiger Text zur Orientierung
+Strukturierter, mehr Ebenen, nicht alles auf einer Seite
+Nennungen insgesamt: 4
+Gesamtzahl der Verbesserungsvorschläge bei der Dimension Likeability: 32
+Literatur
+<ref>ADM, ASI, BVM, D.G.O.F. (2001): Broschüre: Standards zur Qualitätssicherung für On-
+line-Befragungen = Standards for Quality Assurance for Online-Surveys. Frankfurt a.M.,
+Mai 2001, www.adm-ev.de</ref>
+<ref>Bandilla, W. (2003): Die Internetgemeinde als Grundgesamtheit. In: Arbeitskreis Deutscher
+Markt- und Sozialforschungsinstitute e.V. (ADM); Arbeitsgemeinschaft Sozialwissen-
+schaftlicher Institute e.V. (ASI); Statistisches Bundesamt, Wiesbaden (Hrsg.) (2003):
+Online-Erhebungen: 5. Wissenschaftliche Tagung. Bonn: Informationszentum Sozial-
+wissenschaften. 155 S. (Sozialwissenschaftliche Tagungsberichte; Bd. 7), S. 71-83</ref>
+<ref>Batinic, B.; Bosnjak, M. (2000): Fragebogenuntersuchungen im Internet. In: B. Batinic
+(Hrsg.), Internet für Psychologen. 2. überarb. u. erw. Aufl., Göttingen: Hogrefe, S.
+287-318</ref>
+<ref>Binder, Gisbert; Klein, Markus; Porst, Rolf; Stahl, Matthias (2001): GESIS Potentialanalyse:
+IZ, ZA, ZUMA im Urteil von Soziologieprofessorinnen und - professoren. 121 S.
+(GESIS-Arbeitsbericht Nr. 2)</ref>
+<ref>Backhaus, K.; Erichson, B.; Plinke, W.; Weiber, R.( 2000): Multivariate Analysemethoden.
+9. überarb. u. erw. Aufl., Heidelberg: Springer</ref>
+<ref>Bosnjak, M. (2002): (Non)Response bei Web-Befragungen. Aachen: Shaker Verlag</ref>
+<ref>Budd, J.; Bradford, C. (2000): Mapping the Web: Challenges in researching the UK Internet
+population. Paper presented at the Association for Survey Computing conference ‘Survey
+Research on the Internet. The Honeymoon is over!’, London, UK</ref>
+<ref>Comley, P. (1999): Pop up Surveys - What works, what doesn’t work and what will work in
+the future. Paper presented at the Esomar conference ‘Net Effects 3’, Dublin, IRL</ref>
+<ref>Diekmann, A. (1995): Empirische Sozialforschung. Reinbek: Rowohlt, S. 386</ref>
+<ref>Faas, T. (2003): Umfragen im Umfeld der Bundestagswahl 2002: Offline und Online im Ver-
+gleich. In: ZA-Informationen 52, S. 120-135</ref>
+<ref>Keinonen, T (1998): One-dimensional usability - influence of usability on consumers’ pro-
+duct preference. Helsinki (UIAH publication A21)</ref>
+<ref>Olsson, C. (2000): The usability concept re-considered: A need for new ways of measuring
+real web use. In: IRIS 23 : doing IT together 12-15 August, 2000, at Lingatan, Sweden.</ref>
+Uddevalla : Laboratorium for Interaction Technology, Univ. of Trollhättan/Uddevalla
+52
+GESIS-Arbeitsbericht Nr. 3
+<ref>Gaines, B; Shaw, L.; Chen , L.: Utility, Usability and Likeability: Dimensions of the Net and
+Web [online]. Available from World Wide Web:
+http://ksi.cpsc.ucalgary.ca/articles/WN96/WN96HF/WN96HF.html (Date: 03.08.2004)</ref>
+<ref>Pfleiderer, R. (2003): Zufallsauswahl im Internet. In: A. Theobald; M. Dreyer; T. Starsetzki
+(Hrsg.). Online-Marktforschung, 2. überarb. u. erw. Aufl., Wiesbaden: Gabler, S. 383-
+394.</ref>
+<ref>Schonlau, M.; Fricker, R.D.; Elliott, M.N. (2001): Conducting Research Surveys via E-Mail
+and the Web. Santa Monica, CA: Rand</ref>
+<ref>Theobald, A.; Dreyer, M.; Starsetzki, T. (Hrsg.) (2003): Online-Marktforschung. 2. überarb.
+u. erw. Aufl., Wiesbaden: Gabler</ref>
+<ref>Theobald, A. (2003). Rücklaufquoten bei Online-Befragungen. In A. Theobald, M. Dreyer &
+T. Starsetzki (Hrsg.), Online-Marktforschung. 2. überarb. u. erw. Aufl., Wiesbaden: Gab-
+ler, S. 203-210</ref>
+<ref>Tuten, T.L.; Bosnjak, M.; Bandilla, W. (2000): Banner-Advertised Web Surveys. In: Marke-
+ting Research 11(4), S. 17-21</ref>
+Anhang: Fragebogen
+Pop-Up-Befragung (deutsche Version)
+Ja
+Nein
+Ja
+Nein
+Habe schon teilgenommen
+Ihre Meinung ist gefragt!
+Die Gesellschaft sozialwissenschaftlicher Infrastruktureinrichtungen (GESIS), bestehend
+aus den drei Instituten IZ, ZA und ZUMA, führt eine kurze Befragung zu ihrem Angebot im
+Internet durch.
+Die Befragung dauert ca. 3 Minuten.
+Möchten Sie an dieser Befragung teilnehmen?
+Möchten Sie weitere Informationen zur Umfrage und zum Datenschutz angezeigt
+bekommen?
+Zunächst interessiert uns, wie häufig Sie in den letzten 12 Monaten die drei
+GESIS-Institute (ZUMA, IZ, ZA) besucht haben.
+Dies ist mein erster Besuch
+1-2 mal
+3-5 mal
+6-10 mal
+mehr als 10 mal
+54
+GESIS-Arbeitsbericht Nr. 3
+Was ist der Grund Ihres heutigen Besuchs der GESIS-Seiten?
+(Mehrfachangaben sind möglich)
+Ich will mich darüber informieren, was es Neues gibt.
+Ich will mich allgemein darüber informieren, was angeboten wird.
+Ich will mich über einzelne Produkte und Dienstleistungen der GESIS-Institute informieren.
+Ich bin gezielt auf der Suche nach:
+Sonstiges:
+Um unser Internet-Angebot optimieren zu können, benötigen wir Informationen darü-
+ber, welche Personengruppen unsere Seiten besuchen. Deshalb nun einige Fragen zu
+Ihrer Person.
+Welchen allgemeinbildenden Schulabschluss haben Sie?
+Sind Sie bzw. haben Sie:
+Volks-/Hauptschule
+Realschule/Mittlere Reife/POS
+(Fach-)Abitur
+Sonstiger Schul-Abschluss:
+Student
+Doktorand
+Habilitand
+kein Studium aufgenommen
+das Studium abgebrochen
+das Studium abgeschlossen
+Welchen Hochschulabschluss haben Sie?
+(höchster Abschluss)
+Diplom, M.A., B.A., Master, Staatsexamen
+Promotion
+Habilitation
+Sonstigen Hochschulabschluss:
+GESIS-Arbeitsbericht Nr. 3
+55
+In welchem Fach arbeiten/studieren Sie schwerpunktmäßig?
+Soziologie
+Psychologie
+Politologie
+Pädagogik/Erziehungswissenschaft
+Geschichte
+Wirtschaftswissenschaften
+Sonstiges, und zwar:
+Sind Sie tätig als ...
+Studentische Hilfskraft
+Wissenschaftlicher Mitarbeiter
+Hochschulassistent/Akademischer Rat/Dozent
+Professor
+Journalist
+Lehrer/Ausbilder
+Bibliothekar
+Selbständige(r)
+Sonstige Tätigkeit:
+Trifft nicht zu
+Arbeiten Sie ...
+an einer Universität/TU/FH
+an einer außeruniversitären Forschungs-/Serviceeinrichtung
+in einem Amt/Behörde
+in einem/einer Verband/Partei/in einer kirchlichen Einrichtung/Stiftung
+im Bereich Beratung/Marktforschung
+in einem privatwirtschaftlichen Unternehmen
+in der Schule/Aus- und Weiterbildung
+im Presse-Medienbereich
+im Bereich Information und Dokumentation
+Sonstige Arbeitsstelle:
+bin nicht berufstätig
+56
+GESIS-Arbeitsbericht Nr. 3
+In welchem Land arbeiten bzw. studieren Sie derzeit?
+Deutschland
+Schweiz
+Österreich
+Sonstiges Land:
+Sie sind:
+Männlich
+Weiblich
+In welchem Jahr sind Sie geboren?
+19
+Falls Sie uns Kommentare oder weitere Informationen mitteilen möchten, haben Sie
+hier die Möglichkeit dazu!
+Vielen Dank, dass Sie sich die Zeit genommen haben an dieser Kurzbefragung teilzunehmen.
+Um unser Web-Angebot für Nutzer wie Sie kontinuierlich zu verbessern, sind wir auf
+Ihre Mithilfe dringend angewiesen. Wären Sie bereit, an einer weiteren Kurzbefragung
+teilzunehmen, bei der die Bewertung des Internetangebots der GESIS im Vordergrund
+steht?
+Hierfür benötigen wir Ihre E-Mail-Adresse, die sofort gelöscht wird, sobald die
+Untersuchung abgeschlossen ist.
+Ja, senden Sie mir einen Link zum Fragebogen an folgende eMail-Adresse:
+Nein, ich möchte nicht an der weiteren Kurzbefragung teilnehmen.
+GESIS-Arbeitsbericht Nr. 3
+57
+Fragebogen Nachbefragung (deutsche Version)
+Welche Seiten haben Sie bei Ihrem letzten Besuch des GESIS Web-Angebots
+aufgesucht?
+(Mehrfachangaben sind möglich)
+Datenservice und -archivierung (z.B. Datensätze zu Wahlstudien, Allbus-Daten,
+Eurobarometer)
+Literatur und Forschungsinformationen (z.B. SOLIS, FORIS)
+Methodenberatung (z.B. Stichprobenziehung, Fragebogenkonstruktion)
+Gesellschaftliche Dauerbeobachtung (z.B. Allbus-Informationen)
+Daten- und Informationsservice Osteuropa
+Andere Seiten: (bitte nennen)
+Nun einige Fragen zu Ihrem persönlichen Eindruck zum GESIS-Internet-Angebot.
+Beurteilen Sie bitte die nachfolgenden Aussagen danach, inwieweit sie zutreffen bzw.
+nicht zutreffen.
+trifft trifft
+überhaupt eher nicht
+nicht zu zu
+teils/teils
+trifft
+eher zu
+trifft voll
+und ganz
+zu
+Ich fand es mühsam, die
+gewünschten Informationen zu
+finden.
+Die einzelnen Seiten des
+GESIS-Angebotes sind
+übersichtlich gegliedert.
+Die Begriffe in der Navigation sind
+verständlich.
+Der Aufbau der Seiten dauerte im
+Durchschnitt zu lange.
+Die GESIS-Seiten haben eine klare
+Navigation.
+Ich habe mich auf den
+GESIS-Seiten gut zurechtgefunden.
+Die Seiten sind benutzerfreundlich.
+Welche Probleme hatten Sie mit der Bedienung der GESIS-Seiten?
+(Stichworte genügen)
+58
+GESIS-Arbeitsbericht Nr. 3
+Wie könnte die Bedienungsfreundlichkeit der GESIS-Seiten verbessert werden?
+(Stichworte genügen)
+trifft trifft
+überhaupt eher nicht
+nicht zu zu
+teils/teils
+trifft
+eher zu
+trifft voll
+und ganz
+zu
+Die Seiten machen einen seriösen
+Eindruck.
+Die GESIS-Seiten sind ansprechend
+gestaltet.
+Es hat Spaß gemacht, die
+GESIS-Seiten zu nutzen.
+Was müsste verbessert werden, damit Ihnen die GESIS-Seiten besser gefallen?
+(Stichworte genügen)
+trifft trifft
+überhaupt eher nicht
+nicht zu zu
+teils/teils
+trifft
+eher zu
+trifft voll
+und ganz
+zu
+Verglichen mit anderen
+sozialwissenschaftlichen
+Angeboten, sind die GESIS-Seiten
+überdurchschnittlich informativ.
+Meine Erwartungen an die Seiten
+wurden erfüllt.
+Ich habe mehr an Nutzbarem
+gefunden, als ich erwartet hatte.
+Ich habe die mich interessierenden
+Informationen erhalten.
+Wodurch könnte der Nutzen der GESIS-Seiten erhöht werden?
+(Stichworte genügen)
+GESIS-Arbeitsbericht Nr. 3
+59
+Wie sind Sie auf die GESIS-Seiten aufmerksam geworden?
+(Mehrfachnennungen möglich)
+Durch Hinweise von Kollegen/Bekannten/Lehrenden
+Über einen Link auf einer anderen Website
+Über eine Suchmaschine
+Beim Surfen im Netz
+Sonstiges:
+Über Hinweise in Publikationen der GESIS (ZA, ZUMA, IZ)
+Für welchen Zweck nutzen Sie die GESIS-Seiten?
+(Mehrfachnennungen möglich)
+Forschungsarbeit/-projekte
+Lehr-/Unterrichtsvorbereitung
+Publikationen (Aufsätze, Bücher)
+Vorträge
+Konzepte/Berichte/Studien
+Kundengespräch/Beratung
+Seminar-, Magister-, Diplomarbeit
+Dissertation, Habilitation
+Berufliche Fortbildung
+Private Weiterbildung
+Überblick über Neuerungen
+Sonstiges, und zwar:
+Ja
+Nein
+ja, sicher
+ja, wahrscheinlich
+nein, eher nicht
+nein, auf keinen Fall
+Haben Sie die GESIS-Seiten bereits weiterempfohlen?
+Nein, nicht möglich, da heute zum ersten Mal auf den GESIS-Seiten.
+Werden Sie die GESIS-Seiten weiterempfehlen?
+60
+GESIS-Arbeitsbericht Nr. 3
+Werden Sie die Seiten der GESIS wieder besuchen?
+ja, sicher
+ja, wahrscheinlich
+nein, eher nicht
+nein, auf keinen Fall
+Vielen Dank, dass Sie sich die Zeit genommen haben, an dieser Nachbefragung teilzuneh-
+men.
+Die Ergebnisse dieser Befragung sollen in den Hauszeitschriften der GESIS ZA-Informatio-
+nen, ZUMA-Nachrichten und als IZ-Arbeitsbericht veröffentlicht werden.
+GESIS-Arbeitsbericht Nr. 3
+61
+POP-UP-Befragung (englische Version)
+We want to hear your opinion!
+The German Social Science Infrastructure Services (GESIS), which consists of the three in-
+stitutes - IZ, ZA and ZUMA -, is conducting a short survey on their Internet website.
+This will take 3 minutes.
+Do you want to take part in this survey?
+I have already taken part in this survey
+Yes
+No
+Yes
+No
+This is my first visit
+Once or twice
+3 to 5 times
+6 to 10 times
+More than 10 times
+Do you want to receive further information about this survey and about data
+privacy?
+How often have you visited the GESIS website of the three institutes (ZUMA, IZ, ZA)
+in the last 12 months?
+Why did you visit the GESIS website today?
+(Please select all that apply)
+I wanted to see if there was anything new on the site.
+I wanted to see what your pages offered in general.
+I am looking for information on specific products or services from GESIS institutes.
+I am specifically looking for:
+Other:
+62
+GESIS-Arbeitsbericht Nr. 3
+In order to optimize our website, we need information on the types of people who visit
+our website. The next questions are about you.
+What is the highest level of general education you have completed?
+Lower secundary school
+Intermediate secundary school
+Higher secundary school
+Other qualification:
+Are you currently...
+A student?
+Studying for a doctorate?
+Working on your habilitation thesis?
+I have not started my advanced academic studies.
+I have discontinued my advanced academic studies.
+I have completed my advanced academic studies.
+What is the highest degree you hold?
+Diploma
+B.A., M.A. master’s degree
+Doctorate
+Habilitation
+Other qualification:
+Sociology
+Psychology
+Politology
+Pedagogics/education science
+History
+Economics
+Other subject, i.e.:
+What is the major subject in your work/studies?
+GESIS-Arbeitsbericht Nr. 3
+Are you employed as a...
+Student research assistant
+Scientific employee
+University assistant/academic adviser/lecturer
+Professor
+Journalist
+Teacher/trainer
+Librarian
+Self-employed
+Other activity:
+Does not apply
+Do you work ...
+at a university/technical university/technical college
+at a non-university research/service institution
+in a public office/authority
+in an association/political party/church organization/ foundation
+in the field of consultancy/ market research
+in a private company
+in a school/training and further education
+in the press/media industry
+in the field of information and documentation
+Other work place:
+I am not employed
+In what country are you currently working or studying?
+Germany
+United Kingdom
+USA
+Other country:
+Are you:
+Male
+Female
+63
+64
+What year were you born?
+19
+GESIS-Arbeitsbericht Nr. 3
+If you wish to add comments or further information, please do so here.
+Thank you for taking the time to participate in this brief survey.
+Additional feedback is necessary in order to update and improve our website for visi-
+tors. Would you be willing to take part in another brief survey to evaluate the GESIS
+website?
+For this purpose we will need your e-mail address, which will be deleted once the
+study has been completed.
+Yes, please send me a link to the questionnaire at the following e-mail address:
+No, I do not want to take part in the additional brief survey.
+GESIS-Arbeitsbericht Nr. 3
+65
+Fragebogen Nachbefragung (englische Version)
+Which pages did you look at during your last visit to the GESIS website?
+(Please select all that apply)
+Data service and archiving (e.g. datasets on election studies, Allbus data, Eurobarometer)
+Literature and research information (e.g. SOLIS, FORIS)
+Methodical advice (e.g. sampling, questionnaire design)
+Continuous social observation (e.g. Allbus data)
+Eastern European Data and Information Service
+Other pages (please specify)
+The following questions ask about your personal impression of the GESIS website.
+Please evaluate the following statements based on the extent to which they are true or
+not.
+Definitely
+not true
+Not really Partly true
+true
+True to a
+large
+extent
+Definitely
+true
+What changes need to be made so that you enjoy the GESIS website more?
+(Please describe briefly)
+I enjoyed using the GESIS website.
+The GESIS website is aesthetically
+appealing.
+The website has a professional
+appearance.
+I received information which is of
+interest to me.
+I found more useful information
+than I expected.
+Compared with other social science
+websites, the GESIS website
+contains above-average
+information.
+My expectations regarding the
+website were fulfilled.
+Definitely
+not true
+Not really Partly true
+true
+True to a
+large
+extent
+Definitely
+true
+66
+GESIS-Arbeitsbericht Nr. 3
+How could the usability of the GESIS website be improved?
+(Please describe briefly)
+Definitely
+not true
+Not really Partly true
+true
+True to a
+large
+extent
+Definitely
+true
+I found it laborious to find the
+required information.
+It took too long on average for the
+pages to come up.
+The navigation terms are easy to
+understand.
+The individual pages of the GESIS
+website are clearly laid out.
+The pages are user-friendly.
+I was able to find my way around
+the GESIS website quite easily.
+It is easy to navigate in the GESIS
+website.
+Did you encounter any problems
+with using the GESIS website?
+How could we make it easier to use the GESIS website?
+(Please describe briefly)
+How did you find out about the GESIS website?
+(Please select all that apply)
+Through colleagues/ acquaintances/teachers
+Through a link to another website
+Through a search engine
+While surfing the Internet
+Other: (please specify)
+Via information in GESIS publications (ZA, ZUMA, IZ)
+Research work/projects
+Lesson/teaching preparation
+Publications (essays, books)
+Lectures
+Concepts/reports/studies
+Customer discussion/meeting
+Dissertation, habilitation
+Advanced vocational education
+Private further education
+Overview of innovations
+Other, i.e.:
+Yes
+No
+No, this is my first visit
+Yes, definitely
+Yes, probably
+No, probably not
+Definitely not
+Yes, definitely
+Yes, probably
+No, probably not
+Definitely not
+Will you visit the GESIS website again?
+Have you recommended the GESIS website to anyone?
+Will you recommend the GESIS website to other people?
+GESIS-Arbeitsbericht Nr. 3
+67
+For what purposes do you use the GESIS website?
+(Please select all that apply)
+Seminar, master’s dissertation, diploma dissertation
+Thank you very much for taking the time to participate in this additional survey.
+The results of this survey will be published in the in-house magazines of GESIS-ZA-Infor-
+mationen and ZUMA-Nachrichten-and as an IZ work report.

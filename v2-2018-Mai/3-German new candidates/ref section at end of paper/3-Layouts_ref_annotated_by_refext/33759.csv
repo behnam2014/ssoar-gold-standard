@@ -1,0 +1,8363 @@
+Wolfram Kempe, Hilmar Schneider
+Institut zur Zukunft der Arbeit (IZA), Bonn
+Weiterentwicklung des Niedrigeinkommen-Panels
+(NIEP)
+Expertise im Auftrag des
+Bundesministeriums für Gesundheit und Soziale Sicherung
+Bonn, im Dezember 2002
+Inhaltsverzeichnis
+1 Einleitung ...................................................................................................3
+2 Mikrodaten für die Armutsberichterstattung – Defizite und Wege .......4
+2.1
+2.2
+2.3
+2.4
+2.5
+Allgemeine Anforderungen an eine Abbildung von Armut und ihrer Dynamik .....4
+Derzeitige Quellen der Armutsberichterstattung und ihre Defizite .........................5
+Wege zur Mängelbeseitigung...................................................................................8
+Repräsentativität im Querschnitt und im Längsschnitt ..........................................10
+Drei Vorschläge......................................................................................................13
+3 Vergleich sozio-demographischer Merkmale der NIEP-Population
+mit der Niedrigeinkommenspopulation des SOEP ................................17
+3.1
+3.2
+3.3
+Vorgehen ................................................................................................................17
+Resultate .................................................................................................................18
+Fazit ........................................................................................................................22
+4 Schlussfolgerungen und Empfehlung .....................................................24
+Literaturverzeichnis ................................................................................27
+Tabellenanhang........................................................................................28
+Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen ..............................28
+Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet ...................................34
+Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen ......40
+Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet ...........46
+2
+Einleitung
+1
+Einleitung
+Die Bundesregierung möchte im Zusammenhang mit der Armuts- und Reichtumsberichterstat-
+tung bestehende Informationsdefizite zur Armutslage in Deutschland beheben und die Datenquel-
+len verbessern. Das Hauptaugenmerk liegt dabei auf einer möglichst verzerrungsarmen Erfassung
+von individuellen Lebenslagenaspekten sowie der Armutsdynamik. Dies erfordert die Nutzung
+von Individualdatensätzen. Bei den meisten der für diesen Zweck in Frage kommenden Daten
+handelt es sich jedoch um Mehrbereichs-Erhebungen oder um Datensätze, die nicht primär mit
+dem Ziel der Armutserfassung geschaffen wurden. Aus diesem Grund hat das seinerzeitige
+Bundesministerium für Gesundheit Mitte der 90er Jahre die Initiative zur Durchführung des
+Niedrigeinkommenspanels (NIEP) ergriffen, mit dem Ziel der Bereitstellung einer verbesserten
+Datengrundlage im Bereich des prekären Wohlstandes bzw. der Armut.1 „Aufgabe des NIEP ist
+die Durchführung einer sowohl hinsichtlich der Befragungsinhalte als auch der Zahl der
+einbezogenen Haushalte breit angelegten Wiederholungsbefragung von Haushalten im unteren
+Einkommensbereich (unteres Quintil) sowie die Analyse der Befragungsdaten. Die Untersuchung
+soll Informationen über den Verlauf dynamischer Prozesse der Armutsentstehung und -
+überwindung liefern, die in dieser Form bisher nicht zur Verfügung stehen ...“2
+Das NIEP wurde in einem ersten Befragungszyklus auf sechs Befragungswellen mit einem etwa
+halbjährlichen Befragungsrhythmus angelegt. Die Feldphase startete mit den Interviews der
+ersten Welle Ende November 1998 und wurde Anfang Juni 2002 mit der sechsten Welle abge-
+schlossen. Abgeleitet aus einem Auftrag des Bundestages zur Fortsetzung und Weiterentwick-
+lung der Armuts- und Reichtumsberichterstattung3 geht es nun um eine Erörterung der Frage, ob
+und inwieweit das aus Mitteln der Fachressortforschung unterhaltene NIEP den Zielen der
+Armutsberichterstattung gerecht wird, welche Defizite weiterhin bestehen und wie diese
+Informationslücken geschlossen werden können. Dabei muss nicht nur in Betracht gezogen
+werden, wie das NIEP diesen Zielen angepasst werden kann, sondern auch, ob es bessere Alter-
+nativen gibt. Grundsätzlich besteht hierzu die Möglichkeit, die neben dem NIEP bereits vorhan-
+denen Informationsquellen durch Erweiterung oder Ergänzung den Anforderungen der Armuts-
+berichterstattung anzupassen.
+Abschnitt 2 enthält eine Zusammenstellung allgemeiner Anforderungen an die Armutserfassung,
+eine Bestandsaufnahme der bisher vorhandenen Individualdatensätze mit ihren Vorzügen und
+Schwächen, sowie konzeptionelle Überlegungen zur Verbesserung der Datengrundlage. Auf-
+grund der besonderen Bedeutung, die der Erfassung der Armutsdynamik beizumessen ist, wird in
+diesem Kapitel gesondert auf das Problem der Dauerverzerrung von Bestandsdaten eingegangen.
+Abschließend werden zwei konkrete Vorschläge und eine Mischvariante zur Neukonzeption der
+Datengewinnung auf der Mikroebene entwickelt. Der folgende Abschnitt enthält eine empirisch
+gestützte Validierung der vorgeschlagenen Konzepte. Diese liefert die Argumente für eine
+abschließende vergleichende Bewertung. Die Dokumentation der verhältnismäßig umfangreichen
+Auszählungen findet sich im Tabellenanhang.
+1 Vergleiche Kortmann/Stubig (1999).
+2 Kortmann et al. (2002).
+3 Vergleiche Deutscher Bundestag (1999).
+3
+Mikrodaten für die Armutsberichterstattung
+2
+Mikrodaten für die Armutsberichterstattung – Defizite und Wege
+2.1 Allgemeine Anforderungen an eine Abbildung von Armut und ihrer Dynamik
+Zur Definition des Phänomens Armut gibt es weder eine amtliche Festlegung noch eine
+einheitliche Auffassung in der Sozialwissenschaft. Die am häufigsten angewandte Definition
+beruht auf dem Begriff der relativen Armut. Menschen gelten als arm, wenn sie ein in Relation zu
+den Lebensverhältnissen des Landes gesetztes sozio-kulturelles Minimum unterschreiten. Aus
+dieser Definition lässt sich neben einem rein materiellen Ansatz der Lebenslagenansatz herleiten,
+wie er auch dem ersten Armuts- und Reichtumsbericht der Bundesregierung zugrunde liegt.4
+Zu den nichtmonetären Aspekten, die im Lebenslagenansatz zusätzlich zur monetären Dimension
+Berücksichtigung finden, gehören vor allem Bildung, Erwerbstätigkeit, Gesundheit und soziale
+Netzwerke.5 Betroffene Personen unterliegen in diesem Sinne neben den ungenügenden finan-
+ziellen Ressourcen einer multiplen sozialen Deprivation. Die Operationalisierung der Lebens-
+lagenindikatoren ist jedoch oft nur indirekt möglich.6 Deswegen orientiert sich die primäre
+Abgrenzung in der Praxis häufig am Haushaltseinkommen als vergleichsweise leicht objektivier-
+barem Kriterium. Dies ist insofern gerechtfertigt als die Möglichkeiten der Bedarfsdeckung in
+vielen Fällen monetärer Art sind oder sich in monetären Äquivalenten ausdrücken lassen.
+Zwischen den Möglichkeiten der Teilhabe am gesellschaftlichen Leben und der Höhe des
+Einkommens gibt es einen engen Zusammenhang. In diesem Sinne ist die Verwendung des
+Lebenslagenansatzes zu verstehen als die Erfassung weiterer sozialer Unterversorgungslagen
+einer Population mit geringen finanziellen Ressourcen. Damit wird es möglich, das gesamte
+Ausmaß an Unterversorgung gesellschaftlichen Lebens zu beschreiben.
+Bei der Erfassung von Armut mittels Befragungsinstrumenten treten zusätzliche praktische
+Schwierigkeiten auf. Standardisierte Erhebungen sprechen in der Regel „mittelschichtspezifische
+Verhaltensformen“7 an, was gerade im untersten Einkommensbereich zu sozial selektiven
+Verweigerungen oder Befragungsausfällen führen kann. So setzt die Stichprobenziehung häufig
+eine „normale“ oder „stabile“ Wohnsituation voraus. Menschen außerhalb dieses Musters werden
+tendenziell unzureichend erfasst. Ähnliches gilt für Ausländer, Pflegebedürftige, Kranke oder
+Behinderte, die zudem ein erhöhtes Armutsrisiko aufweisen. Dadurch entsteht der häufig
+beobachtete „Mittelstandsbias“ vieler Befragungen.8 Dieses Problem wird im Rahmen eines
+Längsschnittdesigns noch verschärft. Personen in extremer Armut sind mit einer Wieder-
+holungsbefragung praktisch nicht erreichbar. Diese Gruppe wird deshalb von der weiteren
+Betrachtung ausgeblendet.
+4 Vergleiche z.B. Hauser/Neumann (1992) oder Dietz (1997).
+5 Vergleiche Bundesministerium für Arbeit und Sozialordnung (2001).
+6 Vergleiche Andreß (1999).
+7 Siehe Isengard (2002).
+8 Vergleiche Schnell (1997)
+4
+Mikrodaten für die Armutsberichterstattung
+Aus den Stärken und Schwächen der bislang vorliegenden Datensätze lässt sich ein Katalog von
+Kriterien ableiten, der bei den konzeptionellen Überlegungen Berücksichtigung finden sollte:
+• Konzentration auf die Zielgruppe: Je breiter ein Erhebungsinstrument, desto schlechter
+dürfte die Armutspopulation erfasst sein.
+• Zielgruppenspezifisches Erhebungsprogramm: Zur Abbildung von Lebenslagen ist
+speziell im Armutsbereich eine ausführliche Erfassung einzelner und kumulierter
+Deprivation erforderlich.
+• detaillierte Einkommens-, Vermögens- und Schuldeninformationen: Dieser Gesichtspunkt
+besitzt eine besondere Bedeutung im Hinblick auf die Wirkung des Transfersystems auf
+die Einkommensungleichheit.
+• Erfassung der Armutsdynamik: Hierunter fallen Zugänge in und Abgänge aus dem
+Niedrigeinkommensbereich, die Armutsdauer sowie die Ursachen für diese Prozesse.
+• Repräsentativität der Armutspopulation: Durch Befragungsmethode, Stichprobendesign
+und Panelmortalität können spezifische Stichprobenverzerrungen hervorgerufen werden,
+die die Aussagefähigkeit der Daten beeinträchtigen.
+• Fallzahl: Zur Sicherstellung aussagekräftiger Ergebnisse ist eine ausreichend hohe Zahl
+an Beobachtungsfällen erforderlich.
+• Kosten: Zwischen der Qualität der erhobenen Daten und den damit verbundenen Kosten
+besteht zweifellos ein Trade-off, der bei einer Beurteilung der verschiedener Erhebungs-
+alternativen zu berücksichtigen ist.
+2.2 Derzeitige Quellen der Armutsberichterstattung und ihre Defizite
+Die Armutsberichterstattung nutzt bereits eine Reihe von Individualdatensätzen zur Erfassung der
+Armutslage auf der Personenebene. Hierbei sind das Sozio-Oekonomische Panel (SOEP) und der
+deutsche Teil des Europäischen Haushaltspanels (ECHP), die Einkommens- und Verbrauchs-
+stichprobe (EVS), der Mikrozensus (MZ), die Mikrodaten der Sozialhilfestatistik, die Einkommen-
+steuerstatistik, die allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS), der
+Wohlfahrtssurvey sowie die Erhebung „Alterssicherung und Altersvorsorge in Deutschland“
+(ASID, AVID) zu nennen. Tabelle 1 enthält eine Übersicht der angeführten Datensätze nach
+Kriterien wie Befragungszeitraum und –abstand, Umfang des Datensatzes, Erfassungsmethode,
+Längsschnittbezug, Umfang und Güte der Informationen zu Einkommen und umfassender
+Lebenslagenerfassung sowie dem Anteil von Niedrigeinkommensbeziehern und Ausländern.
+Es wird deutlich, dass das NIEP der bisher einzige Datensatz ist, der umfassende Armuts-
+informationen liefert. Die übrigen Datenquellen erfassen jeweils nur Teilaspekte der Armut und
+weisen teilweise verzerrte Ausschnitte im Zielbereich auf. Es ist nicht möglich, die verschiedenen
+Teilaspekte auf der Individualebene miteinander zu verknüpfen. Die wesentlichen Informa-
+tionslücken betreffen die folgenden Punkte:
+5
+Tabelle 1: Datenquellen (Mikrodaten) zur Armutslage
+Mikrodaten für die Armutsberichterstattung
+Zeit
+Größe
+Datenerfassung
+Panel
+Einkom-
+mensinfob
+Lebens-
+lagenansatz
+6-Monats-Abstand
+zeitpunktbezogen
+Gesamtdauer 3 J.
+jährlicher Abstand
+zeitpunktbezogen
+lange Gesamtdauer
+(ECHP: 1994-96)
+5-Jahres-Abstand
+einjährige
+Erhebung
+kontinuierlich
+jährlich,
+Ende 1997 und
+1998
+jährlich
+jährlich, (früher 2-
+Jahres-Abstand)
+zeitpunktbezogen
+lange Gesamtdauer
+2-Jahres-Abstand
+zeitpunktbezogen
+lange Gesamtdauer
+unregelmäßig
+2.000 HH mit
+5.000 Personen
+12.000 HH mit
+20.000 Personen
+(ECHP: in D
+5000 HH)
+0,2%-Stichprobe
+aller HH (1998:
+62.000 HH)
+1998: 720.000
+Personen
+4 Mio. Personen
+350.000 HH mit
+800.000
+Personen
+3.500 Personen
+37.000 Personen
+über 55 Jahre
+CATI, Stichprobe
+aus allen HH mit
+Telefonanschluß
+Fragebogen,
+tlw. Face-to-Face
+Fragebogen,
+Freiwillige nach
+Quotenplan
+Amtl. Statistik,
+geschichtete
+25%-Stichprobe
+Amtl. Statistik,
+10%-Stichprobe
+Face-toFace,
+tlw. Fragebogen,
+Klumpenstichprobe
+Fragebogen,
+2000: CAPI,
+Klumpenstichprobe
+Fragebogen
+ja
+ja
+nein
+nein
+nein
+zum
+Teil
+nein
+nein
+a) + = erfasst; - = nicht erfasst; b) ++ = sehr detailliert; + = detailliert; -- = grob klassifiziert; c) + = gut; - = unzureichend
+Dynamika
+nur Aus-
+stieg, mit
+Abstrichen
++
+-
+-
+-
+-
+-
+-
+++
++
+++
+++
+--
++
+++
+nur ESt.-
+relev.
+Daten
+ja
+ja
+nein
+nein
+nein
+nein
+einge-
+schränkt
+ja
+6
+Datensatz
+NIEP
+SOEP
+(+ ECHP)
+EVS
+Mikrodaten
+der Sozial-
+hilfestatistik
+Einkommen-
+steuer-
+statistik
+MZ
+ALLBUS +
+Wohlfahrtss.
+ASID +
+AVID
+Armuts-
+erfassungc
++
+unterreprä-
+sentiert
+nicht
+gesondert
+verzerrt
+-
+nicht
+gesondert
+nein
+nicht
+gesondert
+Ausländer-
+erfassungc
+-
++
+keine Info,
+unterreprä-
+sentiert
+verzerrt
+keine Info
++
+nein
+nein
+Mikrodaten für die Armutsberichterstattung
+•
+•
+Das größte Defizit besteht in der Erfassung des Eintritts in die Armut wie auch deren
+Überwindung. Querschnittserhebungen erlauben von vorneherein keine eindeutigen Aus-
+sagen über Armutsrisiken. Der Armutsanteil in der Gesamtpopulation resultiert aus dem
+Zusammenspiel von Zugangsrisiko und Verbleibswahrscheinlichkeit. Ein niedriges
+Zugangsrisiko in Verbindung mit einer hohen Armutsdauer kann den gleichen Armuts-
+anteil erzeugen wie ein hohes Zugangsrisiko mit einem kurzen Verbleib in der Armut. In
+sozialpolitischer Hinsicht ist dieser Unterschied jedoch von großer Bedeutung. Um hier
+differenzieren zu können, sind Längsschnittdaten erforderlich. Dieser Anforderung wird
+von den existierenden Datensätzen nur das SOEP gerecht.9 Das NIEP ist zwar als Längs-
+schnittbefragung in der Lage, Aufstiege aus dem unteren Einkommensbereich aufzu-
+zeichnen, der Zugang und seine Ursachen lassen sich jedoch mit der derzeitigen Kon-
+zeption nur unzureichend abbilden. Hinzu kommt, dass die erfasste Ausstiegsdynamik im
+derzeitigen NIEP aufgrund der Linkszensierung der Armutsspells verzerrt ist.10
+Die Repräsentativität der Armutspopulation im Querschnitt ist in keinem der vorhandenen
+Datensätze gewährleistet. Verzerrungen resultieren beispielsweise aus der Untererfassung
+von Niedrigeinkommensbeziehern aufgrund mittelstandsorientierter Befragungsinstru-
+mente, der Untererfassung von Ausländern in deutschsprachigen Erhebungen oder dem
+Ausschluss von Haushalten ohne Telefon. Hinzu kommen sozial selektive Verweigerung
+oder Nichterreichbarkeit. Speziell im NIEP führt das Sampling-Design zu einer systema-
+tischen Auswahlverzerrung in den auf die Ausgangsbefragung folgenden Wellen. Eine
+weitere negative Implikation des Sampling-Designs besteht darin, dass es zu scheinbar
+inversen Effekten von einkommensbezogenen Merkmalen auf andere Variablen führen
+kann. So suggerieren die Daten einen negativen Einfluss von Lohnsatz auf Arbeits-
+angebot.11
+• Eine Kernanforderung der Armutsberichterstattung besteht in der Abbildung des Lebens-
+lagenansatzes. Bis auf das SOEP und das NIEP stellen die aufgeführten Untersuchungen
+jedoch auf Armut nach monetären Kriterien ab, die keine weiteren Erkenntnisse zu
+individueller Deprivation zulassen. Im SOEP und im NIEP sind Lebenslagenaspekte
+bereits weitgehend erfasst, wenn auch in unterschiedlicher Tiefe. Verallgemeinerbare
+Aussagen zu Untergruppen der Niedrigeinkommenspopulation stoßen jedoch aufgrund
+geringer Fallzahlen schnell an Grenzen der statistischen Aussagefähigkeit.
+Ein Teil der aufgeführten Probleme kann möglicherweise durch eine europäische Initiative be-
+hoben werden. Die EU-Kommission plant die Ablösung des Europäischen Haushaltspanels
+(ECHP) durch die Statistics on Income and Living Conditions (SILC). Damit will sie dem
+wachsenden Bedarf für vergleichbare und aktuelle Daten über Einkommen und soziale Aus-
+9 Eine Datensatzbeschreibung findet sich in Haisken-DeNew/Frick (2001).
+10 Ein Spell bezeichnet die Periode zwischen dem Zeitpunkt des Eintritts und dem Zeitpunkt der Beendigung eines
+Merkmalszustands. Linkszensierung bedeutet, dass der Eintrittszeitpunkt eines Spells nicht bekannt ist. Entspre-
+chend meint Rechtszensierung, dass der Austrittszeitpunkt nicht bekannt ist. Daneben können auch beidseitige
+Zensierungen auftreten.
+11 Das Design des NIEP schließt Erwerbstätige mit einem hohen Stundenlohn und gleichzeitig hohem Arbeits-
+angebot aus. Der Datensatz enthält aber Personen mit geringem Lohnsatz und hohem Arbeitsangebot sowie Perso-
+nen mit hohem Stundenlohn bei geringer Arbeitszeit oder Nichterwerbstätigkeit. Dies führt zu scheinbar atypi-
+schen Arbeitsangebotsfunktionen für Niedrigeinkommensbezieher, vergleiche auch Schneider et al. (2002).
+7
+Mikrodaten für die Armutsberichterstattung
+grenzung in der EU Rechnung tragen. Dennoch ist die nach internen Informationen für
+Deutschland geplante Fallzahl mit 9.000 Haushalten im Querschnitt und 6.000 Haushalten im
+Längsschnitt über alle Einkommensklassen als zu gering zu betrachten. Das 1984 gestartete
+SOEP hat bereits seit dem Jahr 2000 einen größeren Umfang. Da weitere Details zur Konzeption
+des SILC bislang nicht allgemein verfügbar sind, kann zum jetzigen Zeitpunkt nicht beurteilt
+werden, ob allein eine Erweiterung des Befragungsumfangs den Ansprüchen der Armutsbericht-
+erstattung genügen würde. Aus diesem Grund bleibt das SILC in den weiteren Betrachtungen
+unberücksichtigt.
+2.3 Wege zur Mängelbeseitigung
+Die Beseitigung der genannten Defizite lässt relativ wenig Spielraum für Handlungsoptionen.
+Eine Verknüpfung der vorhandenen Datenquellen scheidet aus verschiedenen Gründen von
+vorneherein aus. So dürfte die Verknüpfung von amtlichen Daten untereinander oder mit nicht-
+amtlichen Befragungsdaten kaum zu überwindende juristische Hürden aufwerfen. Hinzu kommen
+erhebliche Vergleichbarkeitsprobleme hinsichtlich der Variablendefinition selbst bei relativ
+einfachen Basismerkmalen. An einer eigenständigen Erhebung dürfte deshalb kaum ein Weg vor-
+bei führen. Allerdings muss die Alternative nicht notwendigerweise in einer Erweiterung bzw.
+Neukonzeption des NIEP bestehen. Aus Kostengründen wäre es auch denkbar, bereits bestehende
+nicht-amtliche Erhebungen wie das SOEP so zu erweitern, dass sie den Anforderungen an eine
+umfassende Armutserhebung gerecht werden können.
+Die folgende Auflistung enthält die Elemente, die bei jedweder Form einer Neugestaltung der
+Armutsberichterstattung zu berücksichtigen sind:
+• Die Umsetzung des Lebenslagenansatzes lässt sich nur durch ein entsprechendes Erhe-
+bungsprogramm realisieren. Diesem Anspruch trägt das NIEP bereits weitgehend Rech-
+nung. Dennoch weist es in einigen Aspekten eine geringe Fragetiefe auf, wobei hier be-
+sonders Bildung und Qualifikation, Behinderung sowie spezifisch für ältere Personen
+konzipierten Fragen zu nennen sind. Einen echten Mangel stellt die erst mit der vierten
+Welle erfolgte Erfassung der Art der beruflichen Qualifikation dar. Eine wesentliche Aus-
+weitung des Fragenkataloges ist jedoch nicht zu empfehlen, da die durchschnittliche
+Dauer der Interviews je nach Welle bereits zwischen 28 und 42 Minuten betragen hat.
+Streichungspotenzial besteht bei Fragen mit einer großen Fragentiefe trotz geringer zu er-
+wartender Fallzahlen. Dies betrifft etwa Details zur Teilnahme an ABM von Sozialhilfe-
+empfängern (45 potenzielle Kandidaten in der ersten Welle des NIEP) oder den Verzicht
+auf weiteren Bezug von Sozialhilfe (nur neun Befragte). Für andere Themenkreise er-
+scheint die Beschränkung auf Schwerpunktbefragungen ausreichend, was sich beispiels-
+weise für die Selbständigen (72 Personen) oder die Eigenschaften eines abgelehnten
+Arbeitsplatzes (145 Befragte) anbietet.
+• Aussagen zur Einkommensdynamik im unteren Einkommensbereich erfordern grund-
+sätzlich ein Längsschnittdesign der Befragung. Dieses Design muss sicher stellen, dass
+sowohl Zugänge in als auch Abgänge aus Armut korrekt abgebildet werden. Das der-
+zeitige NIEP bietet hierzu einen ersten Ansatz, bildet jedoch vor allem die Ausstiegs-
+dynamik ab. Zugänge in Armut lassen sich nur mit Einschränkungen beobachten. So
+erlaubt das NIEP die Erfassung von Zugängen in die Sozialhilfebedürftigkeit nur, sofern
+sie aus dem unteren Einkommensquintil erfolgen. Zugänge in das untere Einkommens-
+8
+•
+•
+•
+•
+Mikrodaten für die Armutsberichterstattung
+quintil werden dagegen ebenso wenig erfasst wie Zugänge aus den oberen Einkommens-
+quintilen in die Sozialhilfebedürftigkeit. Auch hinsichtlich der Ausstiegsdynamik weist
+das NIEP Defizite auf, da die Armutsspells nach der NIEP-Abgrenzung vollständig
+linkszensiert sind. Selbst die Sozialhilfespells sind überwiegend linkszensiert.
+Um Längsschnittinformationen zu erhalten, ist prinzipiell eine retrospektive Erfragung
+der Einkommen eines hinreichend langen Zeitraumes oder eine Panelbefragung denkbar.
+Zwar entfällt bei der retrospektiven Erfassung die Verzerrung durch Panelmortalität, doch
+dürfte die Qualität der Einkommensdaten aufgrund von Erinnerungslücken in der Regel
+unbrauchbar sein. Insofern gibt es hier keine ernsthafte Alternative zu einem Paneldesign.
+Die Zahl der Wellen muss einen Zeitraum abdecken, der den typischen Verbleib in der
+Armut widerspiegelt.
+Ausländer sind überdurchschnittlich häufig von Arbeitslosigkeit betroffen und beziehen
+überproportional häufig Sozialtransfers, so dass dort eine starke Armutspopulation zu
+vermuten ist. Eine deutschsprachige Interviewführung hat eine deutliche Untererfassung
+ausländischer Haushalte zur Folge. Im NIEP waren zu Anfang hochgerechnet nur 4,4 %
+der Haushalte mit einem Haushaltsvorstand ohne deutsche Staatsbürgerschaft vertreten, in
+Welle 5 waren es nur noch 3,2 %.12 Um eine diesbezügliche Verzerrung zu vermeiden, ist
+eine mehrsprachige Interviewführung unerlässlich.
+Die Befragungsmethode beeinflusst Teilnehmerkreis und Teilnahmebereitschaft. Zu
+unterscheiden sind hier vor allem persönliche Befragung und Telefoninterview. Der
+spezifische Nachteil von Telefoninterviews besteht im vorliegenden Kontext darin, dass
+nur Telefonbesitzer die Möglichkeit zur Teilnahme haben.13 Dennoch dürften die Vorteile
+überwiegen. So lässt diese Methode wesentlich mehr Kontaktversuche zu und verringert
+damit Verzerrung durch Panelmortalität. Zusätzlich scheint sich diese Methode positiv
+auf die Antwortbereitschaft gegenüber Face-to-Face-Befragungen auszuwirken und
+verkleinert damit die Verzerrung durch Teilnahmeverweigerung. Menschen im
+Niedrigeinkommensbereich, die über geringe Bildung, Sprach- und soziale Kompetenz
+verfügen, sind bei einer frontalen persönlichen Gegenüberstellung mit ihrer
+Lebenssituation hohem Stress ausgesetzt.14 Zusammengenommen spricht dies für den
+offensiven Einsatz von Telefonbefragungen im Niedrigeinkommensbereich.
+Die Zahl der Beobachtungen im Niedrigeinkommensbereich sollte so hoch ausfallen, dass
+für wichtige Untergruppen (Langzeitarbeitslose, Bezieher von Hilfe zum Lebensunterhalt,
+Alleinerziehende usw.) eine eigenständige quantitative Analyse möglich ist. Ein Mindest-
+querschnitt von 500 Probanden pro Untergruppe erscheint hier angebracht. Nur so ist
+gewährleistet, dass eine Differenzierung nach Basismerkmalen wie Geschlecht, Alter,
+Region u.ä. noch statistisch aussagekräftige Fallzahlen liefert.
+12 Die Nationalität der anderen Haushaltsmitglieder wird im NIEP nicht erfragt. Das Statistische Bundesamt berichtet
+für die Bundesrepublik im Jahr 1998 einen Ausländeranteil von 8,9 %. Das SOEP erreicht in dieser Hinsicht eine
+bessere Ausschöpfung, bei überproportionaler Ziehung von Ausländern und fünf fremdsprachigen Fragebögen.
+13 Die Telefondichte bei Haushalten unter 1.500 DM Monatseinkommen wird von Infratest Burke Sozialforschung
+mit 84 % im Westen und mit 77 % im Osten Deutschlands angegeben. Bei Monatseinkommen von 1.500 bis
+2.500 DM steigt sie schon auf 94 % bzw. 91 % an. Siehe Kortmann et al. (2002).
+14 Vergleiche Alisch/Dangschat (1998).
+9
+Mikrodaten für die Armutsberichterstattung
+2.4 Repräsentativität im Querschnitt und im Längsschnitt
+Armutsrisiko und Armutsdauer spielen für die sozialpolitische Beurteilung von Armut eine
+herausragende Rolle. Zu ihrer Ermittlung ist ein Längsschnittdesign für die Datenerhebung
+unerlässlich. Gleichwohl sollte dadurch die Aussagekraft im Hinblick auf die Querschnitts-
+dimension der Armut nicht beeinträchtigt werden. Eine Schwäche des bisherigen NIEP besteht
+darin, dass die Querschnittsrepräsentativität mit fortschreitender Erhebungsdauer systematisch
+schwindet, da nur Abgänge aus der Armut beobachtet und Zugänge in die Armut ignoriert
+werden. Um die damit einher gehenden Verzerrungen im Erhebungsverlauf zu vermeiden, sind
+sowohl Zu- als auch Abgänge zu berücksichtigen.
+In welcher Form die Ermittlung von Bestands- und Stromgrößen die Repräsentativität im Quer-
+und Längsschnitt beeinflusst, soll im Folgenden anhand einer schematischen Darstellung verdeut-
+licht werden (vgl. Abbildung). Darin wird vereinfachend von zwei Verlaufstypen ausgegangen.
+Der Typ Mover befindet sich nur relativ kurze Zeit in Armut, beispielsweise zwei Zeiteinheiten.
+Der Typ Stayer repräsentiert Personen mit einem Langzeitaufenthalt in Armut, im Beispiel be-
+trägt dieser acht Zeiteinheiten. Beide Personengruppen seien anhand beobachtbarer Merkmale
+unterscheidbar. Mover besitzen die Merkmalskombination x, Stayer hingegen die Merkmalskom-
+bination y. Beide weisen ein konstantes Armutsrisiko auf, d.h. pro Zeitperiode tritt jeweils die
+gleiche Zahl von Movern und Stayern neu in die Armut ein. Bei einer reinen Querschnitts-
+erhebung beobachtet man pro Periode 10 Personen in Armut. Für einen Beobachter ist die
+Armutsdauer nicht bekannt. Es lässt sich lediglich feststellen, dass die Armutspopulation aus
+zwei Personen mit der Merkmalseigenschaft x und acht Personen mit der Merkmalseigenschaft y
+besteht. Aus dieser Zusammensetzung lässt sich jedoch keineswegs ableiten, dass das Armuts-
+risiko von Stayern viermal so hoch ist wie das von Movern. Die Relation von Movern und
+Stayern beschreibt lediglich deren relative Zustandswahrscheinlichkeit. Diese ist das Ergebnis
+des Zusammenspiels von Zugangsrisiko, Abgangschancen und dem Verhältnis von Movern und
+Stayern in der Gesamtpopulation.
+Dies lässt sich auch formal zeigen. Es bezeichne P(a|x) die bedingte Wahrscheinlichkeit für den
+Zustand a (Armut) eines Individuums mit der Merkmalskombination x. Analog bezeichne P(b|x)
+die entsprechende Wahrscheinlichkeit für den Zustand b (Nicht-Armut). Da nur diese beiden
+Zustände möglich sind, gilt P(a|x) + P(b|x) = 1. Die Zustandswahrscheinlichkeiten hängen von
+den bedingten Übergangswahrscheinlichkeiten ab. Im Gleichgewicht gilt:
+x x
+P(a|x) = x qba x und P(b|x) = x qab x
+qab + qba qab + qba
+x
+wobei qba die Übergangswahrscheinlichkeit aus dem Zustand b in den Zustand a innerhalb eines
+definierten Zeitraums angibt. Diese Größe ist gleichbedeutend mit dem Zugangsrisiko in Armut
+x
+für Personen mit der Merkmalskombination x. qab bezeichnet entsprechend deren Übergangs-
+wahrscheinlichkeit vom Zustand a in den Zustand b. Sie ist gleichbedeutend mit der Aus-
+stiegswahrscheinlichkeit aus Armut. Für Individuen mit der Merkmalskombination y gilt analog:
+y y
+P(a|y) = y qba y und P(b|y) = y qab y
+qab + qba qab + qba
+10
+Mikrodaten für die Armutsberichterstattung
+Abbildung: Dauerverzerrung des Bestandes bei gleicher Armutswahrscheinlichkeit der Mover und Stayer
+2. beobachtete Welle
+3. beobachtete Welle
+Zeitachse
+1. beobachtete Welle
+4. beobachtete Welle
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+1
+1
+1
+3
+5
+7
+9
+11
+13
+n 15
+e
+son 17
+r
+e
+P 19
+21
+23
+25
+27
+29
+31
+Mikrodaten für die Armutsberichterstattung
+Existieren nur die Merkmalskombinationen x und y, lassen sich die Zustandswahrscheinlichkei-
+ten für a und b bestimmen, wenn das Verhältnis von x und y in der Grundgesamtheit bekannt ist:
+P(a) = P(a|x) P(x) + P(a|y) P(y)
+Bildet man analog zum genannten Beispiel eine Substichprobe von Personen im Zustand a und
+betrachtet das Verhältnis von Personen mit Merkmalskombination x zu Personen mit Merkmals-
+kombination y, berechnet man faktisch die Größe:
+P(a|x) P(x) qbxa (qayb + qbya) P(x)
+P(a|y) P(y) = qyba (qaxb + qbxa) P(y)
+Der Quotient ist folglich nur in Ausnahmefällen gleichbedeutend mit dem Verhältnis der
+y y x x
+Zugangsrisiken in Armut, nämlich wenn gilt (qab + qba) P(x) = (qab + qba) P(y). Unterschiede
+zwischen Zähler und Nenner können dagegen selbst dann auftreten, wenn die beiden Merkmals-
+gruppen x und y völlig identische Zugangs- bzw. Abgangsrisiken aufweisen. Sie können somit
+völlig bedeutungslos sein, weil sie in diesem Fall lediglich das Verhältnis der beiden Merkmals-
+gruppen in der Grundgesamtheit reflektieren.
+Um Zugangsrisiken und Ausstiegswahrscheinlichkeiten ermitteln zu können, ist ein Längsschnitt-
+design erforderlich. Allerdings stellt nicht jedes Längsschnittdesign sicher, dass die Repräsen-
+tativität im Querschnitt gewahrt bleibt. Dies lässt sich für das Sampling-Design des NIEP
+ebenfalls anhand der Abbildung verdeutlichen. Es besteht in der Weiterverfolgung der Armuts-
+population aus der ersten Beobachtungswelle. In der Abbildung betrifft dies den Bereich der
+Beobachtungen 1 bis 16 rechts von Zeitpunkt 7. Da in den Folgewellen keine Neueintritte in die
+Armut erfasst werden, weicht der beobachtete Querschnitt der Armutsbevölkerung zunehmend
+vom tatsächlichen Querschnitt ab. Damit sind auch alle Schwerpunktbefragungen, die zu
+speziellen Themen in späteren als der ersten Welle durchgeführt wurden, selbst mit korrigierten
+Hochrechnungsfaktoren nicht mehr repräsentativ für die Armutspopulation.
+Die Längsschnittinformationen sind leider ebenso wenig repräsentativ. Die Erfassung der
+Zugangsdynamik in Armut ist im NIEP von vorneherein nicht vorgesehen. Aber selbst der
+Prozess der Armutsüberwindung ist aufgrund fehlender neuer Armutsspells nur teilweise
+abgebildet. Die Grafik enthält zwei Personen, die den Niedrigeinkommensbereich zwischen dem
+Zeitpunkt 10 und 11 verlassen, die Personen 6 und 17. Im NIEP-Design wird jedoch nur eine
+davon beobachtet. Hinzu kommt, dass sämtliche Spells linkszensiert sind. Somit ist der Eintritts-
+zeitpunkt in die Armut nicht bekannt und daher ebenso wenig die Armutsdauer.15 Die Eignung
+des NIEP zur Bestimmung der Ausstiegsdynamik ist daher äußerst eingeschränkt. Im Hinblick
+auf die Längsschnittperspektive erlaubt das Design lediglich Aussagen über die Einkommens-
+veränderungen von Haushalten und Personen.16
+Die Beurteilung hängt allerdings auch von dem jeweils verwendeten Armutsbegriff ab. Betrachtet
+man Armut nicht als relative Armut (d.h. Einkommen im unteren Einkommensquintil), sondern
+15 Es ist mit Sicherheit aussichtslos, nach dem Beginn der Armut zu fragen, da diese Einschätzung subjektiv erfolgt
+und nicht nach einheitlichen Kriterien gemessen würde. Die retrospektive Ermittlung der genauen Einkommen
+über mehrere Zeitperioden zurück ist ebenfalls mit so hohen Unsicherheiten verbunden, dass auch dieser Weg
+auszuschließen ist. Selbst wenn dieses Problem zu lösen wäre, bliebe natürlich die weitere Aufenthaltsdauer im
+Armutsbereich unbekannt.
+16 Dies ist nicht gleichbedeutend mit einer Kohortenbetrachtung.
+12
+Mikrodaten für die Armutsberichterstattung
+im politisch-normativen Sinne als Sozialhilfebedürftigkeit, dann erlaubt das Sampling-Design des
+NIEP zumindest die Beobachtung von Armutszugängen aus dem Einkommensbereich bis zu
+50 % oberhalb der Sozialhilfeschwelle. Diese Möglichkeit darf jedoch nicht darüber hinweg
+täuschen, dass damit eine selektiv eingeschränkte Wahrnehmung von Armutszugängen erfolgt,
+die durchaus zu Fehleinschätzungen zur Armutsdynamik führen kann.
+Neben den genannten systematischen Auswahlverzerrungen treten in Längsschnitterhebungen
+auch Auswahlverzerrungen durch Panelmortalität auf. Diese können, müssen jedoch nicht zu
+systematischen Stichprobenverzerrungen führen. Dem Teilnahmeausfall kann bis zu einem
+gewissen Grad entgegengewirkt werden, etwa durch eine hohe Zahl an Kontaktversuchen und
+entsprechender Schulung der Interviewer. Diesem Problem wurde im NIEP bei einer für
+Befragungen schwierigen Zielgruppe recht erfolgreich Rechnung getragen. Zur Überwindung der
+konzeptionell bedingten Auswahlverzerrungen ist jedoch ein erheblich aufwändigeres Sampling-
+Design erforderlich.
+2.5 Drei Vorschläge
+Gegenüber der Ausgangskonzeption des NIEP ist ein grundsätzliches Problem zu lösen. Dieses
+besteht in einer adäquaten Erfassung des Zugangs in Armut. Damit wird nicht nur dem Problem
+der Linkszensierung begegnet, sondern es können auch Erkenntnisse zur Dynamik von
+Einkommensabstiegen gewonnen werden. Die Repräsentativität des Querschnitts der Niedrigein-
+kommenspopulation bleibt über die Zeit gewahrt.
+Neukonzeption des NIEP
+Eine mögliche Herangehensweise zur Bewältigung des Problems liegt in der Aufteilung des
+weiterhin als NIEP bezeichneten, neu zu konzipierenden Datensatzes in zwei Teilstichproben.
+Die Konzeption geht von einer vollständigen Neuziehung der Befragungshaushalte aus. Eine
+Teilstichprobe A würde wie bisher die Haushalte mit niedrigen Einkommen enthalten. Sie würde
+ergänzt werden durch eine Stichprobe B, die aus den 80 % Kontaktinterviews der Neuziehung
+bestünde, die nicht zu Vollinterviews geführt haben. Die Haushalte der Stichprobe B hätten einen
+wesentlich reduzierten Fragenkatalog zu beantworten. Parallel zur Stichprobe A sollten diese
+Informationen gepflegt und in den Folgewellen aktualisiert werden. Im Falle eines Wechsels
+zwischen den Einkommensbereichen wechseln die Haushalte in die jeweils andere Stichprobe.
+Der Befragungsaufwand gegenüber dem bisherigen NIEP ist natürlich erheblich größer, dürfte
+sich jedoch nicht verfünffachen, da die 80 % Kontaktinterviews nur etwa 5-6 Minuten gedauert
+haben, die Vollinterviews aber im Durchschnitt mehr als eine halbe Stunde.
+In diesem Zusammenhang gewinnt die Frage, wie eine repräsentative Datenbasis dauerhaft erhal-
+ten werden kann, an Bedeutung. Aufgrund der Panelmortalität wird nach einiger Zeit eine Ergän-
+zung des Datensatzes nötig werden. Auswertungen von Infratest Burke Sozialforschung zu den
+Ausfällen im derzeit vorliegenden NIEP nach verschiedenen sozio-demographischen Merkmalen
+haben keine Verzerrungen nach Region und Arbeitslosigkeit ergeben und auch die Verbleibs-
+wahrscheinlichkeit nach Haushaltsgröße, -typ und HLU-Bezug differiert nur wenig.17 Einzig die
+Teilnahmequoten der Haushalte mit Bezugspersonen über 70 Jahre und unter 30 Jahre liegen
+17 Quelle dieser Aussage ist das auf der Sitzung des NIEP-Beratergremiums verteilte Material zum Verlauf des
+Gesamtprojektes. Eine Veröffentlichung dieses Materials ist von Infratest Burke Sozialforschung mit dem geplan-
+ten Methoden- oder Endbericht zu erwarten.
+13
+Mikrodaten für die Armutsberichterstattung
+deutlich unter denen anderer Altersgruppen, wobei nicht Verweigerung im Vordergrund steht,
+sondern Mobilität, Krankheit oder Tod. Sind die Verzerrungen durch Panelmortalität gering,
+reicht eine proportionale Aufstockung der Stichprobe aus.
+Zur Verbesserung der Repräsentativität wäre in jedem Fall eine proportionale Einbeziehung der
+Ausländerhaushalte anzustreben. Dies erfordert spezielle Erweiterungen der Erhebungsmethode
+durch die Möglichkeit einer mehrsprachigen Interviewführung.
+Die vorgeschlagene Konzeption eines Niedrigeinkommen-Panels bedeutet gegenüber dem Status
+quo nicht nur eine verbesserte Datenlage, sondern auch einen erhöhten Aufwand. Einsparpoten-
+zial ergibt sich aus dem Ausschluss älterer Personen aus der Befragung und der Verdopplung des
+Befragungsabstandes auf ein Jahr.
+Die Einbeziehung von älteren Personen über 65 Jahre in das NIEP erscheint entbehrlich. Die
+Einkommenssituation ändert sich in dieser Bevölkerungsgruppe nach den vorliegenden Erfah-
+rungen nur noch wenig. Die Altersgruppe wird im bisherigen Erhebungsprogramm ohnedies eher
+stiefmütterlich behandelt (genau zwei Fragen) und leidet an der höchsten Ausfallwahrschein-
+lichkeit. Zudem existiert mit der ASID ein Datensatz, der über den Umfang von Altersarmut
+hinlänglich Auskunft gibt. Das Hauptargument für die Einbeziehung der Älteren liegt in der
+Möglichkeit des Einkommensabstiegs begründet, der sich vor allem mit dem Eintritt in das
+Rentenalter vollzieht. Gerade dieser Aspekt kann mit der vorgeschlagenen Neuorientierung des
+NIEP jedoch weitaus besser erfasst werden als bisher. Insofern ist in einem reformierten NIEP
+die Einführung einer Altersgrenze für die jüngste Person im Haushalt oberhalb des gesetzlichen
+Rentenalters bei z.B. 67 Jahren zu empfehlen.
+Wegen der hohen vermuteten Einkommensdynamik war der Abstand zwischen zwei Befra-
+gungen im bisherigen NIEP auf ein halbes Jahr angelegt. Hier liegt ein Abwägungsproblem vor.
+Zweifellos werden kurzzeitige Armutsspells, die zwischen zwei Interviews liegen, umso
+schlechter erfasst, je größer der Befragungsabstand ist. Die Verbesserung der Datenqualität durch
+das vorgeschlagene Erhebungsdesign dürfte jedoch weitaus höher wiegen als der Qualitätsverlust
+durch eine Unterrepräsentation von kurzen Armutsspells. Sollte eine Beibehaltung des bisherigen
+Befragungsrhythmus aus Kostengründen nicht möglich sein, erscheint eine Erweiterung des
+Befragungsabstands auf ein Jahr vertretbar.
+Bei der Arbeit mit dem bisherigen NIEP hat sich als unangenehm herausgestellt, dass sich der
+Befragungszeitraum über mehrere Monate erstrecken kann. Dies erklärt sich mit dem erforder-
+lichen Einsatz von besonders geschulten Interviewern, der auch große Befragungsinstitute schnell
+an den Rand ihrer Kapazität bringen kann. Finden jedoch im Befragungszeitraum wichtige
+Gesetzesänderungen oder Anpassungen in den Sozialleistungen statt, ist die Vergleichbarkeit der
+Daten bereits innerhalb einer Welle beeinträchtigt. So trat die grundlegende Reform der gering-
+fügigen Beschäftigung (630-DM-Jobs) zum 1. April 1999 in Kraft. Etwa die Hälfte der Befragten
+in Welle 1 wurde vor, die andere nach der Gesetzesnovelle befragt. Da solche gesetzlichen Än-
+derungen meist zum Jahresanfang in Kraft treten oder wie die Anpassung der Sozialhilfesätze
+zum Juli jeweils eines Jahres, wären Feldphasen wünschenswert, die diese wichtigen Termine
+nicht wesentlich schneiden. Dies spricht für eine Befragung in der zweiten Jahreshälfte.
+14
+Mikrodaten für die Armutsberichterstattung
+Erweiterung bestehender Erhebungen
+Ein naheliegender Alternativvorschlag besteht in der Nutzung der bereits existierenden großen
+Längsschnitt-Bevölkerungsbefragung, dem Mehrbereichs-Panel SOEP. Das SOEP selbst weist
+aufgrund seiner Konstruktion Vorteile in der Erfassung der Zu- und Abgangsdynamik und der
+Ausländer auf. Auch die Beobachtung von Haushaltsbildungsprozessen ist mit dem SOEP mög-
+lich und somit die Erfassung von Haushalten, die vom ersten Tag ihrer Existenz als arm zu be-
+trachten sind. Dennoch besitzt das SOEP auch Nachteile im Hinblick auf die Belange der
+Armutsberichterstattung. So fehlen Details zur Einkommens- und Vermögenserhebung. Der
+Lebenslagenansatz ist bislang nicht kontinuierlich Gegenstand des Erhebungsprogramms. Zu
+klären ist darüber hinaus, inwieweit das SOEP eine repräsentative Abbildung des Niedrig-
+einkommensbereichs darstellt und hinreichend große Fallzahlen für statistisch belastbare
+Analysen bietet.
+Überlegungen zum Ausbau des SOEP als Informationsquelle über den Niedrigeinkommens-
+bereich sind offensichtlich auch in der SOEP-Gruppe des DIW selbst weit gediehen.18 Hierbei
+könnten Ressourcen gebündelt werden. Sichergestellt werden müsste bei dieser Variante vor
+allem die Repräsentativität des unteren Einkommensquintils. Mit der bereits zur Welle Q im Jahr
+2000 erfolgten Aufstockung des SOEP auf über 13.000 Haushalte erreicht die Fallzahl des unte-
+ren Einkommensquintils inzwischen eine potenzielle Größenordnung, wie sie das NIEP anfangs
+hatte. Das bedeutet jedoch noch nicht, dass es sich dabei um eine der NIEP-Stichprobe
+vergleichbare Armutspopulation handelt. Gegebenenfalls ist deshalb eine Aufstockung des SOEP
+in Betracht zu ziehen.
+Für eine Aufstockung sind zwei Strategien denkbar: Eine gezielte Stichprobenausweitung im
+Niedrigeinkommensbereich oder eine proportionale Aufstockung der Gesamtstichprobe. Der
+erstgenannte Weg wäre vergleichsweise kostengünstig, ist allerdings mit einer Reihe schwer-
+wiegender methodischer Nachteile verbunden. Die einseitige Aufstockung durch Niedrig-
+einkommensbezieher würde dem Sampling-Design des bisherigen NIEP entsprechen, d.h. es
+handelte sich um eine Substichprobe, für die der Eintrittszeitpunkt in die Armut nicht bekannt ist.
+Überdies führt das Oversampling von Niedrigeinkommensbeziehern zu einer Asymmetrie von
+Zu- und Abgängen. Da Armut für viele Betroffene kein dauerhafter Zustand ist, verlässt nach
+dem Oversampling ein überproportionaler Anteil von Befragten den Armutsbereich, während die
+Zugänge in den Armutsbereich weitgehend auf dem Niveau des Status quo verharren. Die hohe
+Fallzahl im Niedrigeinkommensbereich würde damit sinken und der anfängliche Infor-
+mationsvorteil sukzessive verloren gehen. Zudem resultiert eine Querschnittsverzerrung, wenn
+auch in abgeschwächter Form im Vergleich zum bisherigen NIEP. Dieses Problem dürfte durch
+Gewichtungsverfahren nur schwer zu bewältigen sein. Die Erarbeitung einer abschließenden
+Beurteilung dieses Aspekts würde den Rahmen der vorliegenden Expertise jedoch bei weitem
+sprengen.
+Methodisch sauber ist demgegenüber nur eine proportionale Aufstockung des SOEP. Der Nach-
+teil dieser Strategie besteht in einem höheren relativen Kostenaufwand. Zu den gleichen Kosten
+18 Siehe dazu die Machbarkeitsstudie von Isengard (2002). Neben einer überproportionalen Ziehung von Niedrigein-
+kommenshaushalten ist auch an eine entsprechende Aufstockung am oberen Einkommensrand gedacht. Diese
+wurde sogar schon in die Befragung von 2002 aufgenommen.
+15
+Mikrodaten für die Armutsberichterstattung
+wie unter der erstgenannten Strategie ließe sich das untere Einkommensquintil nur um ein Fünftel
+erhöhen. Anders ausgedrückt: Um die gleiche absolute Fallzahl im unteren Einkommensquintil
+wie beim Oversampling zu erzielen, wären fünfmal höhere Kosten aufzuwenden.
+Separate Erhebung von Quer- und Längsschnittdaten
+Aus der Darstellung der beiden vorgenannten Vorschläge wird deutlich, dass eine adäquate
+Erfassung von Armutsdynamik relativ aufwändig und kostenintensiv ist. Dies spricht vor allem
+gegen einen Ausbau des NIEP. Ob das SOEP eine vertretbare Alternative darstellt, hängt davon
+ab, wie gut das SOEP die Armutspopulation repräsentiert. Sollte sich dies als Problem erweisen,
+besteht ein Kompromiss in der Schaffung bzw. Nutzung zweier getrennter Datenquellen für
+Quer- und Längsschnittinformationen. Dies entspricht einer Mischung der bereits erläuterten
+Vorschläge. Dabei ließe sich die jeweilige Stärke beider Datenquellen nutzen. Die Quer-
+schnittsdaten können durch eine Niedrigeinkommensbefragung „NIEB“ nach dem Vorbild des
+NIEP geliefert werden. Diese könnte jeweils einmal pro Armutsbericht durchgeführt werden mit
+dem Ziel, weitgehend unverzerrte Erkenntnisse zum Umfang der Armut, zum Anteil der
+Sozialtransferbezieher und zu weiteren Lebenslagenaspekten zu erhalten. Der Verzicht auf den
+Längsschnittaspekt könnte durch eine repräsentative Einbeziehung der Ausländer zumindest
+teilweise aufgewogen werden. Dies ist durch ein mehrsprachiges Erhebungskonzept realisierbar.
+Das SOEP würde in dieser Konstellation dazu benötigt, die Prozesse der Armutsentstehung und –
+überwindung nachzuzeichnen und die Verbleibsdauer im Niedrigeinkommensbereich zu
+ermitteln. Die Einbeziehung weiterer Lebenslagenaspekte der Armutsforschung sowie eine
+detailliertere Einkommenserfassung wären allerdings dauerhaft in das Befragungsprogramm des
+SOEP aufzunehmen.
+16
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+3
+Vergleich sozio-demographischer Merkmale der NIEP-Population
+mit der Niedrigeinkommenspopulation des SOEP
+3.1 Vorgehen
+Der folgende Teil der Untersuchung widmet sich dem Vergleich der NIEP-Population mit der
+Population, die im Rahmen des SOEP befragt wird und zum unteren Einkommensbereich gehört.
+Dabei wird von der Grundannahme ausgegangen, dass das Screening-Verfahren des NIEP die
+Bevölkerung im Armutsbereich bis auf Ausländer und Menschen in extremer Armut repräsentativ
+abbildet.
+Um eine entsprechende Vergleichbarkeit der Daten des NIEP mit dem SOEP zu erreichen, wird
+die Stichprobe des SOEP dem Screening-Verfahren des NIEP unterzogen. Alle Haushalte haben
+somit einen Vorstand von mindestens 18 Jahren. Eine Einschränkung auf deutschsprachige
+Personen wie im NIEP wird jedoch vorerst nicht vorgenommen. In der nächsten Stufe werden
+alle Haushalte ausgeschlossen, die über Einkommen verfügen, welche einen nach der
+Haushaltsgröße gestaffelten Höchstbetrag übersteigen. Für alle verbleibenden Haushalte wird die
+Sozialhilfeschwelle unter Berücksichtigung der auch im NIEP angewendeten Durchschnitts-
+mieten errechnet. In der Untersuchung verbleiben alle Haushalte, deren berichtetes Einkommen
+das 1,5 (bzw. 1,4)-fache der Sozialhilfeschwelle nicht überschreitet oder die Wohngeld oder
+laufende Hilfe zum Lebensunterhalt (Sozialhilfe im engeren Sinne) beziehen oder deren
+Haupteinkommensbezieher Arbeitslosenunterstützung erhält.19 Analog zum NIEP resultieren
+dabei für Ostdeutschland niedrigere Einkommensgrenzen zur Aufnahme der Haushalte in die
+Stichprobe der Armutspopulation als in den alten Bundesländern, da Sozialhilfeschwellen und
+Durchschnittsmieten unter denjenigen der alten Bundesländer liegen.
+Das geschilderte Verfahren wird auf die Befragungswelle des SOEP von 1998 angewendet, um
+Vergleiche mit den Informationen der Welle 1 des NIEP durchführen zu können. Um auch
+Informationen zu den Fallzahlen der einzelnen Merkmale im zuletzt stark erweiterten SOEP zu
+erhalten, wird das Screening und der anschließende Vergleich ebenfalls auf die Mikrodaten der
+Welle 2000 des SOEP angewandt.20 Damit können Aussagen zum bereits heute bestehenden
+Analysepotenzial des SOEP getroffen werden, da die Fallzahl durch die inzwischen erfolgte
+Stichprobenerweiterung deutlich erhöht wurde.
+Die Signifikanz der statistischen Abweichungen zwischen der NIEP-Population und der Niedrig-
+einkommenspopulation des SOEP wird mit Hilfe eines einfachen Chi-Quadrat-Homogenitätstests
+geprüft. Dieser Test gibt allgemein darüber Auskunft, ob zwei unabhängige Stichproben die
+gleiche Grundgesamtheit widerspiegeln. Der Verteilungstest wird auf der Basis der relativen
+Anteile der Merkmalsausprägungen ausgeführt.
+Da trotz des gleichen Screening-Verfahrens die sehr unterschiedliche Ausländererfassung zu
+Verschiebungen in der Auswertung und Interpretation führen kann, wird zusätzlich ein Vergleich
+mit dem SOEP ohne die überproportional erfassten Ausländer und Zuwanderer geprüft. Eine
+19 Für eine ausführliche Beschreibung des Screening-Verfahrens, welches für das NIEP verwendet wird, siehe Kort-
+mann et al. (2002).
+20 Einkommensrelevante Daten aus der Welle 2000 wurden aus Gründen der Vergleichbarkeit in Preisen von 1998
+berechnet.
+17
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+weitere Beeinträchtigung der Vergleichbarkeit resultiert aus dem überproportionalen Stich-
+probenanteil von Ostdeutschen im SOEP. Aus diesem Grund wird zusätzlich eine entsprechende
+regionale Differenzierung ausgewiesen. Darüber hinaus wird untersucht, inwiefern die Gewich-
+tungsunterschiede durch die verwendeten Hochrechnungsfaktoren ausgeglichen werden können,
+indem die genannten Differenzierungen einmal mit und einmal ohne Hochrechnung betrachtet
+werden.
+3.2 Resultate
+Das NIEP umfasst in der ersten Welle 1.922 Haushalte mit 5.115 Personen, die das unterste
+Einkommensquintil in Deutschland abbilden sollen. Diese entsprechen in der Hochrechnung etwa
+11,7 Mio. Personen in 5,5 Mio. Haushalten. Diese Zahlen liegen deutlich unter dem vom NIEP
+angestrebten Quintil (vergleiche Tabelle 2).21 Um so erstaunlicher ist deshalb das Ergebnis der
+Anwendung des Screening-Verfahrens auf das SOEP. Trotz der dem SOEP nachgesagten
+Verzerrung hin zum mittleren Einkommenssegment resultiert für die Welle O des Jahres 1998
+eine Stichprobe von genau 2.000 Haushalten mit 5.431 Personen. Sie repräsentieren immerhin
+mehr als ein Viertel der Bevölkerung und der Haushalte in Deutschland. Für die im Jahr 2000
+fast verdoppelte Stichprobe des SOEP resultiert nur ein unterproportionaler Zuwachs auf 3.160
+Haushalte mit 8.134 Personen. Die Hochrechnung ergibt einen geringeren Anteil der armen
+Bevölkerung an der gesamten Einwohnerschaft Deutschlands als im SOEP 1998, jedoch ist die
+Zahl immer noch weit größer als im NIEP. Die aus dem SOEP gebildeten Stichproben enthalten
+in allen Fällen mehr als ein Fünftel des Datensatzes, welche auch deutlich mehr als ein Fünftel
+der Personen und Haushalte in Deutschland abbilden.
+Tabelle 2: Umfang und Abdeckung der Gesamtbevölkerung mit der Armutspopulatio-
+nen der untersuchten Datensätze
+NIEP 1998
+Haushalte Personen
+SOEP 1998
+Haushalte Personen
+SOEP 2000
+Haushalte Personen
+Fallzahl (ungewichtet)
+Hochrechnung (in Mio.)
+Anteil an der Gesamtbevölkerung
+1.922
+5,5
+13,4 %
+5.115
+11,7
+14,3 %
+2.000
+9,6
+25,4 %
+5.431
+21,6
+26,3 %
+3.160
+8,9
+22,7 %
+8.134
+19,6
+23,8 %
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+Ein wichtiges Kriterium für die Aussagefähigkeit der Erhebungen ist die Fallzahl einiger Unter-
+gruppen im Zielbereich. Daraus ist die Eignung der Mikrodatensätze für quantitative Analysen
+wichtiger Fragestellungen ableitbar. Zur Zielstellung eines speziellen Datensatzes im Niedrigein-
+kommensbereichs gehören mit Sicherheit hinreichend große Fallzahlen für Gruppen wie Sozial-
+transferempfänger, (Langzeit-)Arbeitslose, Alleinerziehende, Kinderreiche, Rentenempfänger,
+Behinderte oder Kranke und Ausländer. Mit zunehmender Zahl von Befragten sinkt die Unsicher-
+heit, mit der die Aussagen quantitativer Analysen verbunden sind. Insofern gibt es keine „ideale“
+Größe für einen Datensatz. Der im Kriterienkatalog genannte Mindestumfang von 500 Probanden
+pro genannter Gruppe im Querschnitt dürfte jedoch sicherstellen, dass eine Differenzierung nach
+21 Ausführliche Informationen zu Strukturen und Repräsentativität des NIEP finden sich in Infratest Burke Sozial-
+forschung (2000)
+18
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+Basismerkmalen noch statistisch belastbare Aussagen zulässt. Für stärker spezialisierte Fragestel-
+lungen wäre dagegen eine erhebliche Ausweitung des Stichprobenumfangs erforderlich.
+Angesichts des Aufwands, der bereits mit der hier unterstellten Variante einhergeht, dürfte eine
+solche Ausweitung nur schwer zu rechtfertigen sein.
+Wie Tabelle 3 zeigt, ist mit der Erweiterung des SOEP im Jahr 2000 die Fallzahl in den meisten
+Untergruppen im Niedrigeinkommensbereich mindestens ebenso hoch wie im NIEP, zum Teil
+sogar deutlich größer. Einzig die Zahl der Haushalte mit Sozialhilfe (294 zu 303) und Zahl der
+Alleinerziehenden (427 zu 436) liegt geringfügig unterhalb der des NIEP. Insgesamt erfüllt das
+SOEP das Fallzahlkriterium besser als das NIEP, ohne jedoch in allen Belangen als ausreichend
+gelten zu können.
+Generell ist allerdings zu berücksichtigen, dass die Fallzahlstabilität durch ein Paneldesign nicht
+gewährleistet ist. Durch Teilnahmeabbruch kann sich in relativ kurzer Zeit ein beträchtlicher
+Fallzahlverlust ergeben. So verbleiben beispielsweise von den 303 Haushalten, die in Welle 1 des
+NIEP Sozialhilfe bezogen, ungeachtet ihres Sozialhilfestatus in Welle 5 noch 195 Haushalte im
+Datensatz. Für Längsschnittanalysen können sich somit trotz allem nennenswerte Fallzahl-
+probleme ergeben.
+Tabelle 3: Fallzahlen einiger Untergruppen im Querschnitt
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Ost
+West
+Ost
+West
+Ost
+West
+D
+303
+528
+825
+278
+332
+436
+362
+79
+34
+145
+328
+159
+121
+83
+170
+3
+142
+248
+386
+142
+128
+176
+505
+375
+D
+176
+393
+714
+301
+249
+259
+675
+378
+Haushalte mit HLU-Bezug
+Haushalte mit Wohngeldbezug
+Arbeitslose
+Personen mit Arbeitslosengeldbezug
+Personen mit Arbeitslosenhilfebezug
+Alleinerziehende
+Rentenbezieher/Pensionäre
+Ausländer
+49
+228
+424
+154
+188
+119
+99
+7
+254
+300
+401
+124
+144
+317
+263
+72
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+Differenzierte Auszählungsergebnisse nach einzelnen Merkmalen finden sich im Tabellenanhang.
+Die Darstellung enthält jeweils die Verteilung absolut und in relativen Anteilen getrennt für Ost-,
+West- und Gesamtdeutschland. Untersuchungsgegenstand sind zum einen die personenbezogenen
+Merkmalsverteilungen von Geschlecht, Altersklasse, Bildungsabschlüssen, Familienstand und
+Erwerbs- bzw. Nichterwerbsstatus. Zum anderen werden die Haushaltsmerkmale Größe und Typ,
+das Äquivalenzeinkommen nach alter und neuer OECD-Skala und der Bezug bestimmter Sozial-
+transfers aufgeführt.
+Es zeigt sich, dass die Datensätze augenfällige Unterschiede in ihrer Struktur aufweisen. Deutlich
+wird das anhand der ausländischen Haushalte. Die Untererfassung ausländischer Haushalte ist
+einer der Hauptkritikpunkte am NIEP. Der offizielle Ausländeranteil an der Bevölkerung in
+Deutschland lag 1998 bei etwa 8,9 %. Trotz eines erhöhten Armutsrisikos der ausländischen
+Bevölkerung liegt der Anteil der ausländischen Haushaltsvorstände im NIEP sowohl gewichtet
+74
+212
+454
+176
+186
+140
+284
+9
+220
+337
+503
+185
+186
+287
+850
+467
+D
+294
+549
+957
+361
+372
+427
+1.134
+476
+19
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+als auch ungewichtet bei nur gut 4 % (vergleiche Tabelle 4). Im SOEP tritt dagegen mit fast 19 %
+in Welle O ein deutlich höherer Armutsanteil auf. Hierfür dürfte die überproportionale Ziehung
+unter fünf ausländischen Nationalitäten verantwortlich sein. Durch Gewichtung reduziert sich
+dieser Wert auf einen Ausländeranteil von 11,7 % an der Armutspopulation. Damit ist dieser
+durchaus plausible Wert fast dreimal so hoch wie im NIEP. Dies belegt die Unterrepräsentation
+von Ausländerhaushalten im NIEP und spricht erwartungsgemäß für die Nutzung des SOEP.
+Aufgrund des geringen Ausländeranteils in Ostdeutschland betrifft dieses Problem jedoch
+ausschließlich die alten Bundesländer.
+Tabelle 4: Ausländeranteil der Haushaltsvorstände an der Armutspopulation
+N
+NIEP 1998
+Prozent
+N
+SOEP 1998
+Prozent
+N
+SOEP 2000
+Prozent
+Fallzahl (ungewichtet)
+Ostdeutschland
+Deutsch
+Andere Nationalität
+Westdeutschland
+Deutschland
+Deutsch
+Andere Nationalität
+Deutsch
+Andere Nationalität
+Hochrechnung (in Tsd. Personen)
+Ostdeutschland
+Deutsch
+Andere Nationalität
+Westdeutschland
+Deutschland
+Deutsch
+Andere Nationalität
+Deutsch
+Andere Nationalität
+586
+7
+1.257
+72
+1.843
+79
+1.331
+33
+3.910
+208
+5.242
+240
+98.8
+1.2
+94.6
+5.4
+95.9
+4.1
+97.6
+2.4
+95.0
+5.0
+95.6
+4.4
+554
+3
+1.066
+375
+1.620
+378
+2.050
+42
+6.382
+1.070
+8.432
+1.112
+99.5
+0.5
+74.0
+26.0
+81.1
+18.9
+98.0
+2.0
+85.6
+14.4
+88.3
+11.7
+868
+9
+1.798
+467
+2.666
+476
+2.051
+30
+5.741
+976
+7.793
+1.006
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+Die Anteile der Geschlechter stimmen in beiden Stichproben im wesentlichen überein, in der
+Hochrechnung weist das NIEP nur in Ostdeutschland einen schwach signifikant höheren
+Frauenanteil in der Armutsbevölkerung auf als das SOEP.
+Die Altersverteilung folgt in beiden Datenquellen unterschiedlichen Mustern. Der Grund liegt im
+viel höheren Kinderanteil des NIEP und korrespondierend dazu in einer geringeren Rentnerzahl.
+Der Anteil der Kinder unter 18 Jahren erreicht im NIEP ungewichtet fast 40 %, was hoch-
+gerechnet immerhin noch knapp einem Drittel der Armutsbevölkerung entspricht. Komplementär
+dazu ist der Anteil der Erwachsenenbefragung vergleichsweise gering und beläuft sich absolut
+auf eine Zahl von gut 3.000 Personen. Offenbar spiegelt das NIEP das Armutsrisiko Kind in
+weitaus höherem Maß wider als das SOEP, wo der Anteil der Kinder unter der Armutspopulation
+bei 30 bzw. 26 % liegt. Würden im SOEP die Ausländerhaushalte ausgeschlossen, wären die
+Anteile noch geringer. Dagegen ist im SOEP das Altersrisiko wesentlich umfangreicher doku-
+mentiert als im NIEP. Der gewichtete Anteil der über 65-jährigen Personen im NIEP beträgt
+99.0
+1.0
+79.4
+20.6
+84.9
+15.1
+98.6
+1.4
+85.5
+14.5
+88.6
+11.4
+20
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+8,7 %, im gesamten SOEP dagegen 14,4 %. Ohne die Ausländer und Zuwanderer, deren Alters-
+struktur sich deutlich von der der deutschen Bevölkerung unterscheidet, ist der Altenanteil mit
+16,7 % sogar fast doppelt so hoch wie im NIEP.
+Der Vergleich der Bildungsabschlüsse leidet teilweise an unterschiedlichen Abgrenzungen der
+einzelnen Kategorien. Legt man die Klassifizierung des NIEP zugrunde, so lassen sich je nach
+Abgrenzung bis zu 20 % der Schulabschlüsse aus dem SOEP nicht zuordnen. Demnach wäre zu
+erwarten, dass die Anteilswerte für die zuordenbaren Kategorien im SOEP generell niedriger sind
+als im NIEP, wenn keine weiteren Abweichungsgründe auftreten. Der Vergleich zeigt jedoch,
+dass dies nur für mittlere und höhere Schulabschlüsse gilt, während Haupt- bzw. Volks-
+schulabschlüsse im SOEP einen signifikant höheren Anteil besitzen als im NIEP. Dies deutet
+darauf hin, dass die Abweichungen substantieller Natur sind. Für die Berufsausbildung ist ein
+entsprechender Vergleich nur auf einer sehr groben Basis durchführbar. Lässt man die Aus-
+länderpopulation im SOEP unberücksichtigt, ist der Anteil der Personen mit abgeschlossener
+Berufsausbildung in beiden Datensätzen gleich. Dagegen ist der Anteil von Personen ohne ab-
+geschlossene Berufsausbildung im SOEP in allen Abgrenzungen höher als im NIEP. Erst mit der
+vierten Welle des NIEP wurden Informationen zur Berufsausbildung genauer erfasst. Da zu
+diesem Zeitpunkt jedoch keine Querschnittsrepräsentativität mehr gegeben ist, eignet sich diese
+Welle nicht zu einem Vergleich.
+Die Unterschiede in der Verteilung des Familienstandes beider Datenquellen sind meist
+schwach signifikant und variieren je nach Berechnungsmethode. Für die alten Bundesländer
+scheint das NIEP überwiegend das Armutsrisiko Scheidung/Verwitwung stärker zu erfassen. In
+den neuen Länder ist dafür vor allem der Anteil der Ledigen höher als im SOEP. Beides geht
+jeweils auf Kosten des Anteils der Verheirateten.
+Die verschiedenen Erwerbsstati sind in zwei Aggregationsstufen zusammengefasst. Auf der
+oberen Aggregationsebene werden Erwerbstätige, arbeitslos Gemeldete und Nicht-Erwerbstätige
+unterschieden. Diese Kategorien werden zusätzlich jeweils in einer differenzierteren Abstufung
+verglichen. Dabei zeigen sich über alle Berechnungsvarianten deutliche und stabile Differenzen
+zwischen dem NIEP und dem SOEP. Während es auf der aggregierten Ebene kaum Unterschiede
+im Anteil der Nicht-Erwerbstätigen gibt, enthält das NIEP einen weitaus höheren Anteil an
+Arbeitslosen als das SOEP im Niedrigeinkommensbereich. Dies geht auf Kosten eines deutlich
+geringeren Anteils an Erwerbstätigen. Rund ein Viertel aller erwachsenen Personen im erfassten
+Armutsbereich sind laut NIEP beim Arbeitsamt als arbeitssuchend gemeldet, im Vergleichsdaten-
+satz beträgt der Anteil weniger als ein Fünftel. Im NIEP repräsentiert dieses Viertel jedoch nur
+zwei der rund vier Millionen Arbeitslosen in armen Haushalten, während das SOEP drei Millio-
+nen Arbeitslose dem Niedrigeinkommensbereich zurechnet. Innerhalb der Arbeitslosen tritt der
+stärkste Unterschied in den Anteilen bei den Arbeitslosenhilfebeziehern auf. Unter den Nicht-
+Erwerbstätigen lassen sich ebenfalls weitreichende Unterschiede feststellen. Korrespondierend
+zur relativ geringen Erfassung der Älteren ist die Gruppe der Rentner im NIEP weitaus weniger
+stark vertreten als im SOEP. Bei der Berechnung ohne Ausländer und Zuwanderer steigt dieser
+Unterschied noch einmal an. Das NIEP lässt dafür besonders in den alten Bundesländern auf
+einen höheren Anteil der Hausfrauen/-männer an der Armutsbevölkerung schließen als das
+SOEP. In Ostdeutschland teilt sich der Effekt auf mehrere Kategorien auf, vor allem auf die Zahl
+21
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+der armen Schüler/Studenten und Sonstige (Warten auf Ausbildung, länger krank, Vorruhestand
+usw.).
+Zu den untersuchten Haushaltsmerkmalen zählen die Größe und der Typ der einkommens-
+schwachen Haushalte. Signifikante Unterschiede treten vor allem bei den westdeutschen Haus-
+halten auf. Das NIEP enthält wesentlich mehr Alleinlebende (und damit auch Ein-Personen-
+Haushalte) als das SOEP. Das SOEP erfasst dagegen deutlich mehr Paare, vor allem ohne Kin-
+der. Die Differenzen sind jedoch nur bei den Zwei-Personen-Haushalten signifikant und auch hier
+nur bei den gewichteten Anteilen. Differenzen bei typischen Haushalten mit hohem Armutsrisiko
+wie Alleinerziehenden oder Groß-Haushalten sind nicht festzustellen.
+Die Überprüfung der Einkommensverteilung innerhalb des niedrigen Einkommensbereichs
+erfolgt in Klassen mit einer Breite von je 200 DM Äquivalenzeinkommen. Es lassen sich durch-
+gehend einige Unterschiede in der Verteilung wahrnehmen, die aber vermutlich auf die bessere
+Einkommenserfassung des NIEP zurück zu führen sind. Die Anteile in den unteren Ein-
+kommenskategorien sind im NIEP etwas geringer und in den oberen Einkommensklassen etwas
+größer. Das bedeutet, dass das Durchschnittseinkommen der Armutsbevölkerung im NIEP höher
+ist als das derjenigen im SOEP. Dies gilt jeweils für Ost und West und sowohl bei Anwendung
+der alten als auch der neuen OECD-Skala zur Berechnung der Äquivalenzeinkommen.
+Erhebliche Differenzen zwischen beiden Datenquellen bestehen noch einmal bei der Erfassung
+des Sozialtransferbezugs. Hierbei kommt es zu ähnlichen Effekten wie bei den Merkmalen
+Arbeitslosigkeit und Bezug von Leistungen des Arbeitsamtes. Die Population des NIEP enthält
+wesentlich mehr Haushalte mit Sozialhilfe- und Wohngeldbezug als die Niedrigeinkommens-
+population, die sich aus dem SOEP gewinnen lässt. Da es sich hier um einen Kernbereich der
+Armutspopulation handelt, sind Abweichungen vom Bevölkerungsdurchschnitt an dieser Stelle
+besonders gravierend. Vor allem die Haushalte mit Bezug von laufender Hilfe zum Lebensunter-
+halt sollten von den Stichproben repräsentativ und vollständig abgebildet werden. Die Anteile der
+Haushalte mit Sozialhilfebezug bei der ungewichteten Berechnung (Fallzahlen) liegen jedoch mit
+15,8 % (NIEP) zu 8,8 % (SOEP) weit auseinander. In der Hochrechnung weist das NIEP
+1,1 Mio. Haushalte aus (20,0 % aller Haushalte im Niedrigeinkommensbereich), das SOEP
+dagegen nur 0,9 Mio. (9,8 % alle Haushalte im Zielbereich). Die NIEP-Erfassung spiegelt somit
+die lt. Sozialhilfestatistik bei 1,3 Mio. Bedarfsgemeinschaften liegende Zahl an Haushalten mit
+Sozialhilfebezug deutlich besser wider als das SOEP. Dies gilt umso mehr als die Ausländer-
+haushalte im NIEP unterrepräsentiert sind und unterstreicht die Notwendigkeit einer umfas-
+senderen Einbeziehung dieser Gruppe in das NIEP. Der aus dem SOEP generierte Datensatz
+deckt mit den Niedrigeinkommenshaushalten gemäß Hochrechnung zwar 25 % aller Haushalte in
+Deutschland ab, jedoch nur zwei Drittel der Sozialhilfebezieher. Von einer repräsentativen
+Abbildung der Armutspopulation ist das SOEP damit in doppelter Hinsicht weit entfernt.
+3.3 Fazit
+Während das NIEP insgesamt 13 % aller Haushalte repräsentiert, beansprucht das SOEP auf der
+Basis des gleichen Screenings eine Repräsentation von 25 % aller Haushalte. Dies wirft die Frage
+auf, welche der beiden Repräsentationen die richtige ist. Gerade die schlechte Abbildung der
+Sozialtransferbezieher, insbesondere die offensichtlich unzureichende Abbildung der Sozialhilfe-
+bezieher legt jedoch nahe, dass es sich beim SOEP-Ergebnis um einen Artefakt handelt. Gestützt
+22
+Vergleich sozio-demographischer Merkmale aus NIEP und SOEP
+wird diese Vermutung durch die Ergebnisse zur Einkommenserfassung. Da gerade die Erfassung
+geringfügiger Einkommenskomponenten im SOEP schlechter ist als im NIEP, sind auch die
+erfassten Gesamteinkommen im SOEP tendenziell niedriger als in Wirklichkeit. Dies würde
+erklären, warum der Anteil der Haushalte im Niedrigeinkommensbereich im SOEP größer ist als
+im NIEP. Obwohl die Armutspopulation im SOEP somit größer erscheint, ist ihr durchschnitt-
+liches Einkommen niedriger als das der NIEP-Haushalte.
+Die Schwierigkeiten einer vereinfachten Erfassung von Einkommensquellen lassen sich auch
+anhand des im NIEP verwendeten telefonischen Einkommens-Screening belegen. Aus Zeit-
+gründen wird beim Screening zunächst ein vereinfachtes Einkommenskonzept erhoben, das dem
+des SOEP vergleichbar ist. Die so ermittelten Einkommen entscheiden über die Befragungs-
+teilnahme. Es hat sich jedoch gezeigt, dass die so ermittelten Einkommensangaben tendenziell
+niedriger sind als die tatsächlichen Einkommen. Das Umfrageinstitut musste deshalb im
+Nachhinein eine Reihe von Haushalten aus dem NIEP entfernen, da sich bei ihnen nach
+detaillierter Abfrage aller Einkommenspositionen ein Gesamteinkommen herausstellte, das über
+der jeweiligen Niedrigeinkommensgrenze lag. Die Befragungspersonen sind offenbar nicht
+immer über alle verfügbaren Einkünfte informiert oder sie sind ihnen nicht präsent, so dass
+Komponenten vergessen werden.
+Die geschilderten Probleme dürften auch im SOEP 2000 auftreten, da hier der hochgerechnete
+Anteil der Armutshaushalte nach dem NIEP-Screening mit etwa 23 % der Größenordnung des
+SOEP 1998 entspricht. In der Tendenz wird zwar richtig eine sinkende Zahl von Haushalten mit
+HLU-Bezug angezeigt, ihre absolute Zahl wird mit 0,8 Mio. aber nach wie vor unterschätzt.
+Gleiches gilt somit auch für den gewichteten Anteil von 9,2 % an allen Armutshaushalten. Der
+genannte Tatbestand verweist darauf, dass eine bessere Erfassung aller Einkommensarten im
+SOEP die Stichprobenverzerrung nicht vollständig lösen dürfte. Eine Ursache könnte u.U. in
+einer selektiven Verweigerung von Sozialhilfeempfängern liegen, die aus der frontalen Face-to-
+Face-Befragung im SOEP entsteht.
+Zusammenfassend lässt sich feststellen, dass sich das SOEP in seiner jetzigen Form nur schwer
+als Hauptinformationsquelle für die Armutsberichterstattung eignet. Die strukturellen Abwei-
+chungen zum NIEP im Querschnitt sind so gravierend, dass sie nicht ignoriert werden können.
+Eine Lösung durch gezielte Stichprobenauffüllung oder ein erweitertes Gewichtungsverfahren
+erscheint nur schwer vorstellbar. Insofern kann der Vorschlag, die Funktion des NIEP durch ein
+erweitertes SOEP zu ersetzen, nach den vorliegenden Ergebnissen nicht empfohlen werden. Mit
+diesem Befund entfällt zugleich die Grundlage für eine generelle Fallzahlaufstockung.
+Die Aussagefähigkeit des SOEP im Hinblick auf die Längsschnittbeobachtung ist von dieser
+Schlussfolgerung nicht berührt. Da zur Längsschnittbeobachtung keine Referenz existiert, sind
+Aussagen in diese Richtung beim jetzigen Informationsstand nicht möglich. Es gibt jedoch
+keinen Grund zu der Annahme, dass Verzerrungen im Querschnitt die Aussagefähigkeit im
+Hinblick auf Veränderungsprozesse unbrauchbar machen. Als Quelle für Längsschnittanalysen
+ist das SOEP daher nicht in Frage zu stellen. In diesem Zusammenhang wäre es allerdings
+wünschenswert, die Einkommenserhebung im SOEP deutlich zu differenzieren.
+23
+Schlussfolgerungen und Empfehlungen
+4
+Schlussfolgerungen und Empfehlung
+Die ideale Informationsquelle für die Armutsberichterstattung besteht in einem großen all-
+gemeinen Haushaltspanel, das detaillierte Angaben zu Einkommenskomponenten enthält und die
+Lebenslagen von Haushalten umfassend abbildet. Daneben muss sie sowohl im Querschnitt als
+auch im Längsschnitt repräsentativ für die Gesamtbevölkerung sein. Paradoxerweise gehört zur
+Armutsberichterstattung zwingend auch die Erfassung der Nicht-Armen. Ansonsten wäre es nicht
+möglich, die Armutsdynamik adäquat zu erfassen. Das bisherige NIEP wird den genannten
+Anforderungen nur teilweise gerecht. Die Neuschaffung einer entsprechenden Datenquelle wäre
+allerdings mit erheblichen Kosten verbunden. Vor diesem Hintergrund besteht das Ziel der
+vorliegenden Expertise darin, Alternativen und Kompromisslösungen auf ihre Tauglichkeit hin
+zu untersuchen.
+Anhand eines Kriterienkatalogs werden insgesamt drei konzeptionelle Vorschläge entwickelt und
+im Hinblick auf ihre Leistungsfähigkeit erörtert. Der erste Vorschlag besteht in einem kon-
+sequenten Ausbau des NIEP zu einem vollwertigen Panel. Dabei soll der Befragungsschwerpunkt
+nach wie vor bei Armutshaushalten liegen, zugleich werden aber auch Haushalte aus den übrigen
+Einkommensbereichen einer Basisbefragung unterzogen. Das Design stellt die Abbildung der
+Armutsdynamik sicher und gewährleistet dauerhafte Repräsentativität im Querschnitt. Kritisch ist
+im Wesentlichen nur der Kostenaspekt. Durch eine Verringerung der Befragungshäufigkeit und
+den altersgebundenen Verzicht auf Wiederholungsbefragungen in Rentnerhaushalten könnte sich
+der Kostenaufwand beim heutigen Fallzahlumfang im Niedrigeinkommensbereich zwar weit-
+gehend im bestehenden Rahmen halten lassen. Hier dürfen allerdings mehrere Aspekte nicht
+übersehen werden. Zum ersten können bereits geringfügige Ausweitungen des Befragungs-
+umfangs für Personen außerhalb des Armutsbereichs zu erheblichem Kostenmehraufwand
+führen. Zum zweiten ist der Fallzahlumfang im Niedrigeinkommensbereich unter statistischen
+Gesichtspunkten eher als gering einzustufen. Um als Basis für differenzierte Armutsanalysen
+dienen zu können, müsste der Fallzahlumfang deutlich gegenüber dem bisherigen NIEP erhöht
+werden. Zum dritten ist schließlich eine adäquate Repräsentation der Ausländerpopulation
+anzustreben. Dies erfordert einen überproportional hohen technischen Aufwand durch mehr-
+sprachige Interviewführung.
+Als kostengünstige Alternative bietet sich die Nutzung und der mögliche Ausbau des bereits
+bestehenden SOEP als maßgebliche Quelle der Armutsberichterstattung an. Dieser Ansatz er-
+scheint zunächst vielversprechend, da das SOEP den Anforderungen an Querschnittsreprä-
+sentativität und Längsschnittbeobachtung potenziell weitgehend entspricht. Auch die Größen-
+ordnungen der Fallzahlen liegen teilweise deutlich über denen des NIEP. Ein grundsätzlich
+behebbares Defizit des SOEP besteht in der vergleichsweise geringen Fragetiefe zu Einkommens-
+komponenten. Ein empirisch fundierter Querschnittsvergleich von NIEP und SOEP führt jedoch
+zu dem Schluss, dass sich das SOEP in seiner jetzigen Form nur schlecht als Hauptinformations-
+quelle für die Armutsberichterstattung eignet. Das NIEP bildet den Querschnitt der Armuts-
+bevölkerung insgesamt besser ab als das SOEP und die strukturellen Abweichungen zum NIEP
+sind so gravierend, dass sie nicht ignoriert werden können. Eine Lösung durch gezielte Stich-
+probenauffüllung oder ein erweitertes Gewichtungsverfahren erscheint nur schwer vorstellbar.
+Insofern kann der Vorschlag, die Funktion des NIEP durch ein erweitertes SOEP zu ersetzen,
+24
+Schlussfolgerungen und Empfehlungen
+nach den vorliegenden Ergebnissen nicht empfohlen werden. Die Aussagefähigkeit des SOEP für
+Längsschnittanalysen ist davon unberührt.
+Der Kompromissvorschlag besteht in einer Aufteilung der Befragungsschwerpunkte. Dem Be-
+dürfnis einer differenzierten Untersuchung des Armutsbereichs kann durch eine entsprechend
+gestaltete und in mehrjährigen Abständen zu wiederholende Querschnittserhebung weitgehend
+Rechnung getragen werden. Die Erhebung wäre nach dem Vorbild des NIEP als Niedrigein-
+kommensbefragung (NIEB) zu konzipieren. Für Fragen der Armutsdynamik kann dagegen auf
+das SOEP als bestehende Datenquelle zurück gegriffen werden. Dabei wäre für das SOEP die
+Einbeziehung weiterer Lebenslagenaspekte sowie eine detailliertere Einkommenserfassung
+anzustreben. Der Vorschlag ist relativ kostengünstig, da das NIEB jeweils nur einmal pro
+Armutsbericht durchgeführt werden müsste. Der Verzicht auf den Längsschnittaspekt sollte durch
+eine repräsentative Einbeziehung der Ausländer zumindest teilweise aufgewogen werden. Dies ist
+durch ein mehrsprachiges Erhebungskonzept realisierbar. Darüber hinaus ist eine generelle
+Erhöhung der Fallzahl anzustreben. Für den Kompromissvorschlag spricht auch, dass die Alter-
+native einer verbesserten Gewinnung von Längsschnittinformationen durch ein ausgebautes NIEP
+gegenüber dem bestehenden SOEP mit vergleichsweise hohen Kosten erkauft werden müsste.
+Zudem ist nicht auszuschließen, dass sich das erweiterte NIEP im Zeitablauf ebenso zu einem
+mittelschichtlastigen Befragungsinstrument entwickelt wie das SOEP.
+Eine zusammenfassende Darstellung der Stärken und Schwächen der einzelnen Vorschläge findet
+sich in Tabelle 5.
+Tabelle 5: Qualität der vorgeschlagenen Konzepte zur Armutserfassunga
+neukonzipiertes NIEP
+SOEP
+„NIEB“ +SOEP
+Fallzahl im Niedrigeinkommensbereich
+Zugangsdynamik
+Austrittsdynamik
+Ursachen des Zugangs in Armut
+Ursachen der Armutsüberwindung
+Querschnittserfassung
+Einkommensinformationen
+Zielgruppenspezifisches Erhebungsprogramm
+Lebenslagenansatz
+Ausländererfassung
+Sozialtransferbezieher
+Repräsentativität im Niedrigeinkommensbereich
+Verknüpfung von Längs- und Querschnitt
+Kosteneffizienz
++
++
+++
+++
+++
++
+++
+++
+++
++
++
++
+++
+--
+0
++
++
++
++
+-
++
+0
++
++
+-
+-
+++
++
+a)
+Die folgenden Zeichen symbolisieren die Güte der Kriterienerfüllung: ++ = sehr gut; + = gut; 0 = neutral oder ungewiss;
+- = schlecht; -- = ungenügend.
++
++
++
++
++
+++
+++
++
+++
++
++
++
+-
+0
+25
+Schlussfolgerungen und Empfehlungen
+Zusammenfassend ist festzustellen, dass unter methodischen Gesichtspunkten eindeutig die
+Lösung eines neukonzipierten NIEP zu präferieren ist. Dagegen spricht lediglich die damit ver-
+bundene Kostenausweitung. Unter Kostengesichtspunkten wäre zweifellos das SOEP die zu
+präferierende Lösung. Das SOEP ist jedoch als Hauptquelle der Armutsberichterstattung nicht zu
+empfehlen, da es gravierende Probleme bei der Erfassung der Armutspopulation aufweist. Vor
+diesem Hintergrund stellt die Kombination von „NIEB“ für die Querschnittsbetrachtung und
+SOEP für die Längsschnittanalyse eine vernünftige Kompromisslösung dar.
+26
+Literaturverzeichnis
+Literaturverzeichnis
+<ref>Alisch, M.; Dangschat, J. S. (1998): Armut und soziale Integration. Strategien sozialer Stadtent-
+wicklung und lokaler Nachhaltigkeit, Leske + Budrich, Opladen.</ref>
+<ref>Andreß, H.-J. (1999): Leben in Armut. Analysen der Verhaltensweisen armer Haushalte mit
+Umfragedaten, Westdeutscher Verlag, Opladen/Wiesbaden.</ref>
+<ref>Bundesministerium für Arbeit und Sozialordnung (Hrsg.) (2001): Lebenslagen in Deutschland.
+Der erste Armuts- und Reichtumsbericht der Bundesregierung, Bonn.</ref>
+<ref>Deutscher Bundestag (1999): Bundestagsdrucksache 14/999.</ref>
+<ref>Dietz, B. (1997): Soziologie der Armut. Eine Einführung, Campus-Verlag, Frankfurt a.M.</ref>
+<ref>Haisken-DeNew, J. P.; Frick, J.R. (eds.) (2001): Desktop Companion to the German Socio-Eco-
+nomic Panel Study (GSOEP), Version 5.0, November 2001, Updated to Wave 17 (Q),
+DIW Berlin.</ref>
+<ref>Hauser, R.; Neumann, U. (1992): Armut in der Bundesrepublik Deutschland. Die sozialwissen-
+schaftliche Thematisierung nach dem Zweiten Weltkrieg, In: Leibfried, S.; Voges, W.
+(Hrsg.): Armut im modernen Wohlfahrtsstaat, Sonderheft 32, Kölner Zeitschrift für
+Soziologie und Sozialpsychologie, S. 237-271.</ref>
+<ref>Infratest Burke Sozialforschung (2000): Die Bevölkerung im unteren Einkommensbereich Demo-
+graphische Strukturen, Einstiegsgründe und Ausstiegsdynamik, Ergebnisse des Niedrig-
+einkommens-Panels (NIEP), München.</ref>
+<ref>Isengard, B. (2002): Machbarkeitsstudie zur Erhebung einkommensschwacher und einkommens-
+starker Haushalte im Sozio-Oekonomischen Panel (SOEP), DIW-Materialien Nr. 17,
+Berlin.</ref>
+<ref>Kortmann, K.; Sopp, P.; Thum, M. (2002): Das Niedrigeinkommens-Panel (NIEP), Methoden-
+bericht, Wellen 1 bis 5,</ref>
+<ref>Kortmann, K.; Stubig, H.-J. (1999): Analyse niedriger Einkommen, Bundesarbeitsblatt 6/1999,
+S. 10-12.</ref>
+<ref>Schneider, H.; Lang, C.; Rosenfeld, M.T.W.; Kempe, W.; Kolb, J. (2002): Anreizwirkungen der
+Sozialhilfe auf das Arbeitsangebot im Niedriglohnbereich, Schriften des Institutes für
+Wirtschaftsforschung Halle, Bd. 12, Nomos Verlagsgesellschaft, Baden-Baden.</ref>
+<ref>Schnell, R. (1997): Nonresponse in Bevölkerungsumfragen. Ausmaß, Entwicklung und Ursa-
+chen, Leske + Budrich, Opladen.</ref>
+27
+Tabellenanhang
+Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+Geschlecht
+Ostdeutschland
+Westdeutschland*
+Deutschland
+Alter
+Ostdeutschland
+Westdeutschland**
+Deutschland**
+Männlich
+Weiblich
+Männlich
+Weiblich
+Männlich
+Weiblich
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+N
+722
+829
+1.619
+1.945
+2.341
+2.774
+166
+271
+108
+133
+239
+285
+163
+154
+32
+575
+729
+165
+202
+593
+613
+266
+259
+162
+741
+1,000
+273
+335
+832
+898
+429
+413
+413
+194
+46,6
+53,4
+45,4
+54,6
+45,8
+54,2
+10,7
+17,5
+7,0
+8,6
+15,4
+18,4
+10,5
+9,9
+2,1
+16,1
+20,5
+4,6
+5,7
+16,6
+17,2
+7,5
+7,3
+4,5
+14,5
+19,6
+5,3
+6,5
+16,3
+17,6
+8,4
+8,1
+8,1
+3,8
+701
+760
+1.909
+2.047
+2.610
+2.807
+110
+218
+88
+165
+209
+253
+145
+184
+84
+469
+552
+206
+407
+655
+542
+327
+409
+375
+579
+770
+294
+572
+864
+795
+472
+593
+593
+459
+48,0
+52,0
+48,3
+51,7
+48,2
+51,8
+7,6
+15,0
+6,0
+11,3
+14,3
+17,4
+10,0
+12,6
+5,8
+11,9
+14,0
+5,2
+10,3
+16,6
+13,8
+8,3
+10,4
+9,5
+10,7
+14,3
+5,4
+10,6
+16,0
+14,7
+8,8
+11,0
+11,0
+8,5
+* Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+5 %-Niveau.
+** Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+1 %-Niveau.
+Tabellenanhang
+N
+1.055
+1.147
+2.758
+3.174
+3.813
+4.321
+153
+299
+147
+262
+270
+393
+244
+244
+180
+617
+863
+292
+541
+873
+863
+529
+609
+721
+770
+1,162
+439
+803
+1,143
+1,256
+773
+853
+853
+901
+47,9
+52,1
+46,5
+53,5
+46,9
+53,1
+7,0
+13,6
+6,7
+12,0
+12,3
+17,9
+11,1
+11,1
+8,2
+10,4
+14,6
+4,9
+9,2
+14,8
+14,6
+9,0
+10,3
+12,2
+9,5
+14,4
+5,4
+9,9
+14,1
+15,5
+9,6
+10,5
+10,5
+11,1
+28
+Schulabschluss
+Ostdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Westdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Deutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Berufsabschluss
+Ostdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Westdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Deutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Familienstand (ab 18 J.)
+Ostdeutschland
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+N
+15
+312
+543
+104
+27
+2
+76
+1.084
+521
+349
+36
+5
+91
+1.396
+1.064
+453
+63
+7
+837
+157
+111
+2
+1.347
+320
+574
+6
+2.184
+477
+685
+8
+530
+33
+149
+20
+274
+1,5
+31,1
+54,1
+10,4
+2,7
+0,2
+3,7
+52,3
+25,2
+16,9
+1,8
+0,2
+3,0
+45,4
+34,6
+14,7
+2,1
+0,2
+75,6
+14,2
+10,0
+0,2
+59,9
+14,2
+25,6
+0,3
+65,1
+14,2
+20,4
+0,2
+52,7
+3,3
+14,8
+2,0
+27,2
+Fortsetzung Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+10
+376
+476
+83
+14
+46
+268
+1.155
+359
+242
+450
+128
+278
+1.531
+835
+325
+464
+174
+803
+68
+132
+30
+1.282
+177
+1.118
+91
+2.085
+245
+1.250
+121
+540
+34
+120
+37
+280
+1,0
+37,4
+47,4
+8,3
+1,4
+4,6
+10,3
+44,4
+13,8
+9,3
+17,3
+4,9
+7,7
+42,4
+23.2
+9,0
+12,9
+4,8
+77,7
+6,6
+12,8
+2,9
+48,1
+6,6
+41,9
+3,4
+56,3
+6,6
+33,8
+3,3
+53,4
+3,4
+11,9
+3,7
+27,7
+Tabellenanhang
+N
+9
+612
+721
+144
+42
+11
+147
+1.962
+594
+444
+656
+110
+156
+2.574
+1,315
+588
+698
+121
+1.230
+116
+235
+2
+2.202
+282
+1.539
+10
+3.432
+398
+1.774
+12
+788
+53
+198
+53
+451
+0,6
+39,8
+46,8
+9,4
+2,7
+0,7
+3,8
+50,1
+15,2
+11,3
+16,8
+2,8
+2,9
+47,2
+24.1
+10,8
+12,8
+2,2
+77,7
+7,3
+14,8
+0,1
+54,6
+7,0
+38,2
+0,2
+61,1
+7,1
+31,6
+0,2
+51,1
+3,4
+12,8
+3,4
+29,2
+29
+Westdeutschland**
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+Deutschland**
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+(Nicht-)Erwerbsstatus (ab 16 J.)
+Ostdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz,-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Westdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz,-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+N
+1.122
+94
+311
+98
+470
+1.652
+127
+460
+118
+744
+190
+107
+17
+5
+319
+87
+14
+9
+44
+34
+99
+40
+327
+154
+188
+82
+424
+321
+269
+44
+26
+660
+211
+37
+4
+68
+469
+263
+95
+1.147
+124
+144
+133
+401
+53,6
+4,5
+14,8
+4,7
+22,4
+53,3
+4,1
+14,8
+3,8
+24,0
+17,7
+10,0
+1,6
+0,5
+29,8
+8,1
+1,3
+0,8
+4,1
+3,2
+9,3
+3,8
+30,6
+14,4
+17,6
+7,6
+39,6
+14,5
+12,2
+2,0
+1,2
+29,9
+9,6
+1,7
+0,2
+3,1
+21,2
+11,9
+4,2
+51,9
+5,6
+6,5
+6,0
+18,2
+N
+1.596
+78
+193
+156
+584
+2.136
+112
+313
+193
+864
+204
+111
+33
+9
+357
+51
+30
+9
+41
+19
+170
+28
+348
+159
+121
+48
+328
+535
+269
+87
+35
+926
+177
+51
+9
+82
+413
+505
+119
+1.356
+142
+128
+116
+386
+61,2
+3,0
+7,4
+6,0
+22,4
+59,0
+3,1
+8,7
+5,3
+23,9
+19,8
+10,7
+3,2
+0,9
+34,6
+4,9
+2,9
+0,9
+4,0
+1,8
+16,5
+2,7
+33,7
+15,4
+11,7
+4,6
+31,7
+20,0
+10,1
+3,3
+1,3
+34,7
+6,6
+1,9
+0,3
+3,1
+15,5
+18,9
+4,5
+50,8
+5,3
+4,8
+4,4
+14,5
+Tabellenanhang
+Fortsetzung Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+2.384
+102
+296
+277
+890
+3.170
+155
+494
+330
+1.341
+284
+188
+72
+19
+563
+99
+55
+15
+65
+34
+284
+14
+566
+176
+186
+92
+454
+860
+425
+105
+51
+1.441
+317
+46
+12
+151
+598
+850
+115
+2.089
+185
+186
+132
+503
+60,4
+2,6
+7,5
+7,0
+22,5
+57,8
+2,8
+9,0
+6,0
+24,4
+17,9
+11,9
+4,6
+1,2
+35,6
+6,3
+3,5
+0,9
+4,1
+2,1
+17,9
+0,9
+35,7
+11,1
+11,8
+5,8
+28,7
+21,3
+10,5
+2,6
+1,3
+35,7
+7,9
+1,1
+0,3
+3,7
+14,8
+21,1
+2,9
+51,8
+4,6
+4,6
+3,3
+12,5
+30
+Deutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Haushaltsgröße
+Ostdeutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Westdeutschland
+Deutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+N
+511
+376
+61
+31
+979
+298
+51
+13
+112
+503
+362
+135
+1.474
+278
+332
+215
+825
+139
+168
+141
+96
+33
+12
+1
+2
+1
+374
+310
+258
+233
+95
+38
+9
+10
+2
+513
+478
+399
+329
+128
+50
+10
+12
+3
+15,6
+11,5
+1,9
+0,9
+29,9
+9,1
+1,5
+0,4
+3,4
+15,3
+11,1
+4,1
+45,0
+8,5
+10,1
+6,6
+25,2
+23,4
+28,3
+23,8
+16,2
+5,6
+2,0
+0,2
+0,3
+0,2
+28,1
+23,3
+19,4
+17,5
+7,1
+2,9
+0,7
+0,8
+0,2
+26,7
+24,9
+20,8
+17,1
+6,7
+2,6
+0,5
+0,6
+0,2
+N
+739
+380
+120
+44
+1.283
+228
+81
+18
+123
+432
+675
+147
+1.704
+301
+249
+164
+714
+125
+159
+127
+104
+31
+8
+3
+0
+0
+348
+393
+259
+264
+117
+37
+16
+4
+5
+473
+552
+386
+368
+148
+45
+19
+4
+5
+20,0
+10,3
+3,2
+1,2
+34,7
+6,2
+2,2
+0,5
+3,3
+11,7
+18,2
+4,0
+46,1
+8,1
+6,7
+4,4
+19,2
+22,4
+28,5
+22,8
+18,7
+5,6
+1,4
+0,5
+0
+0
+24,1
+27,2
+17,9
+18,3
+8,1
+2,6
+1,1
+0,3
+0,4
+23,6
+27,6
+19,3
+18,4
+7,4
+2,2
+1,0
+0,2
+0,3
+Fortsetzung Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+Tabellenanhang
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+1144
+613
+177
+70
+2.004
+416
+92
+27
+216
+632
+1.134
+138
+2.655
+361
+372
+224
+957
+213
+286
+193
+122
+51
+11
+3
+1
+0
+627
+678
+353
+355
+178
+62
+17
+6
+4
+840
+964
+546
+477
+229
+73
+20
+7
+4
+20,4
+10,9
+3,2
+1,2
+35,7
+7,4
+1,6
+0,5
+3,8
+11,3
+20,2
+2,5
+47,3
+6,4
+6,6
+4,0
+17,0
+24,2
+32,5
+21,9
+13,9
+5,8
+1,3
+0,3
+0,1
+0
+27,5
+29,7
+15,5
+15,6
+7,8
+2,7
+0,7
+0,3
+0,2
+26,6
+30,5
+17,3
+15,1
+7,2
+2,3
+0,6
+0,2
+0,1
+31
+Fortsetzung Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+N
+Prozent
+N
+Prozent
+N
+Prozent
+Haushaltstyp
+Ostdeutschland
+Westdeutschland**
+Deutschland**
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Äquivalenzeinkommen nach alter OECD-Skala
+Ostdeutschland*
+Westdeutschland**
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+139
+100
+219
+109
+10
+3
+13
+374
+155
+418
+307
+10
+10
+18
+513
+255
+674
+416
+20
+13
+31
+6
+34
+88
+194
+160
+87
+15
+9
+22
+53
+124
+330
+419
+258
+99
+21
+23,4
+16,9
+36,9
+18,4
+1,7
+,5
+2,2
+28,0
+11,7
+34,2
+23,1
+0,8
+0,8
+1,4
+26,7
+13,3
+35,1
+21,6
+1,0
+0,7
+1,6
+1,0
+5,7
+14,9
+32,7
+27,0
+14,7
+2,5
+1,5
+1,7
+4,0
+9,3
+24,9
+31,6
+19,4
+7,5
+1,6
+125
+113
+214
+75
+8
+9
+13
+348
+285
+591
+159
+17
+20
+23
+473
+398
+805
+234
+25
+29
+36
+19
+32
+109
+181
+155
+46
+15
+0
+38
+97
+218
+425
+361
+243
+53
+8
+22,5
+20,3
+38,4
+13,5
+1,4
+1,6
+2,3
+24,1
+19,8
+40,9
+11,0
+1,2
+1,4
+1,6
+23,7
+19,9
+40,2
+11,7
+1,2
+1,5
+1,8
+3,4
+5,7
+19,6
+32,5
+27,8
+8,3
+2,7
+0,0
+2,6
+6,7
+15,1
+29,5
+25,0
+16,8
+3,7
+0,6
+Tabellenanhang
+213
+201
+306
+122
+18
+9
+11
+627
+489
+803
+269
+18
+37
+37
+840
+690
+1.109
+391
+36
+46
+48
+22
+77
+153
+249
+239
+112
+24
+4
+91
+146
+373
+584
+561
+411
+92
+22
+24,2
+22,8
+34,8
+13,9
+2,0
+1,0
+1,3
+27,5
+21,5
+35,2
+11,8
+0,8
+1,6
+1,6
+26,6
+21,8
+35,1
+12,4
+1,1
+1,5
+1,5
+2,5
+8,8
+17,4
+28,3
+27,2
+12,7
+2,7
+0,5
+4,0
+6,4
+16,4
+25,6
+24,6
+18,0
+4,0
+1,0
+32
+Tabellenanhang
+Fortsetzung Tabelle A.1: gesamte Niedrigeinkommenspopulation, in Fallzahlen
+Deutschland**
+NIEP 1998
+SOEP 1998
+SOEP 2000
+N
+Prozent
+N
+Prozent
+N
+Prozent
+113
+223
+526
+833
+800
+523
+116
+26
+9
+34
+108
+157
+237
+177
+119
+39
+51
+101
+225
+343
+468
+548
+420
+124
+60
+135
+333
+500
+705
+725
+539
+163
+74
+220
+294
+212
+337
+549
+3,6
+7,1
+16,6
+26,4
+25,3
+16,6
+3,7
+0,8
+1,0
+3,9
+12,3
+17,8
+26,9
+20,1
+13,5
+4,4
+2,2
+4,4
+9,9
+15,0
+20,5
+24,0
+18,4
+5,4
+1,9
+4,3
+10,5
+15,8
+22,3
+22,9
+17,1
+5,2
+8,4
+9,6
+9,3
+24,1
+14,8
+17,4
+33
+Äquivalenzeinkommen nach neuer OECD-Skala
+Ostdeutschland*
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+Westdeutschland**
+Deutschland**
+Haushalte mit Sozialhilfebezug (HLU)
+Ostdeutschland
+Westdeutschland**
+Deutschland**
+Haushalte mit Wohngeldbezug
+Ostdeutschland**
+Westdeutschland**
+Deutschland**
+28
+87
+212
+524
+579
+345
+114
+30
+3
+16
+51
+85
+161
+156
+77
+44
+16
+24
+75
+150
+271
+336
+291
+163
+19
+40
+126
+235
+432
+492
+368
+207
+49
+254
+303
+228
+300
+528
+1,5
+4,5
+11,0
+27,3
+30,2
+18,0
+5,9
+1,6
+0,5
+2,7
+8,6
+14,3
+27,2
+26,3
+13,0
+7,4
+1,2
+1,8
+5,7
+11,3
+20,4
+25,3
+22,0
+12,3
+1,0
+2,1
+6,6
+12,2
+22,5
+25,6
+19,2
+10,8
+8,3
+19,1
+15,8
+38,4
+22,6
+27,5
+57
+129
+327
+606
+516
+289
+68
+8
+11
+17
+49
+96
+181
+128
+55
+20
+15
+49
+109
+229
+318
+379
+287
+57
+26
+66
+158
+325
+499
+507
+342
+77
+34
+142
+176
+145
+248
+393
+2,9
+6,5
+16,4
+30,3
+25,8
+14,5
+3,4
+0,4
+2,0
+3,1
+8,8
+17,2
+32,5
+23,0
+9,9
+3,6
+1,0
+3,4
+7,6
+15,9
+22,0
+26,3
+19,9
+4,0
+1,3
+3,3
+7,9
+16,3
+25,0
+25,4
+17,1
+3,9
+6,1
+9,8
+8,8
+26,0
+17,2
+19,6
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+N
+Prozent
+Tabellenanhang
+2.167
+2.377
+6.772
+8.324
+8.938
+10.702
+353
+528
+258
+412
+626
+741
+524
+583
+518
+1.507
+1.771
+598
+1.381
+2.207
+1.930
+1.474
+1.657
+2.571
+1.860
+2.299
+857
+1.793
+2.834
+2.671
+1.998
+2.240
+3.089
+47,7
+52,3
+44,9
+55,1
+45,5
+54,5
+7,8
+11,6
+5,7
+9,1
+13,8
+16,3
+11,5
+12,8
+11,4
+10,0
+11,7
+4,0
+9,1
+14,6
+12,8
+9,8
+11,0
+17,0
+9,5
+11,7
+4,4
+9,1
+14,4
+13,6
+10,2
+11,4
+15,7
+34
+Geschlecht
+Ostdeutschland*
+Westdeutschland
+Deutschland
+Alter
+Ostdeutschland*
+Westdeutschland*
+Deutschland*
+Männlich
+Weiblich
+Männlich
+Weiblich
+Männlich
+Weiblich
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+N
+1.357
+1.689
+3.929
+4.769
+5.287
+6.458
+329
+437
+167
+325
+503
+525
+310
+286
+164
+1.188
+1.295
+308
+663
+1.445
+1.413
+691
+836
+859
+1.517
+1.732
+475
+988
+1.949
+1.939
+1.000
+1.122
+1.023
+44,6
+55,4
+45,2
+54,8
+45,0
+55,0
+10,8
+14,3
+5,5
+10,7
+16,5
+17,2
+10,2
+9,4
+5,4
+13,7
+14,9
+3,5
+7,6
+16,6
+16,3
+7,9
+9,6
+9,9
+12,9
+14,7
+4,0
+8,4
+16,6
+16,5
+8,5
+9,6
+8,7
+2.203
+2.383
+7.970
+9.072
+10.173
+11.455
+371
+589
+204
+410
+796
+640
+506
+676
+412
+1.731
+1.956
+828
+1.533
+2.711
+2.198
+1.524
+1.903
+2.702
+2.102
+2.545
+1.032
+1.942
+3.507
+2.838
+2.030
+2.579
+3.114
+48,0
+52,0
+46,8
+53,2
+47,0
+53,0
+8,1
+12,8
+4,4
+8,9
+17,3
+13,9
+11,0
+14,7
+8,9
+10,1
+11,4
+4,8
+9,0
+15,9
+12,9
+8,9
+11,1
+15,8
+9,7
+11,7
+4,8
+9,0
+16,2
+13,1
+9,4
+11,9
+14,4
+* Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+5 %-Niveau.
+** Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+1 %-Niveau.
+Tabellenanhang
+Fortsetzung Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+N
+NIEP 1998
+Prozent
+N
+SOEP 1998
+Prozent
+N
+SOEP 2000
+Prozent
+Schulabschluss
+Ostdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Westdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Deutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Berufsabschluss
+Ostdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Westdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Deutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Familienstand (ab 18 J.)
+Ostdeutschland*
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+58
+668
+1.098
+216
+61
+15
+243
+3.076
+1.294
+1.064
+104
+15
+301
+3.744
+2.392
+1.281
+164
+30
+1.685
+259
+290
+17
+3.470
+836
+1.872
+19
+5.154
+1.095
+2.163
+36
+923
+63
+346
+58
+724
+2,8
+31,6
+51,9
+10,2
+2,9
+0,7
+4,2
+53,1
+22,3
+18,4
+1,7
+0,3
+3,8
+47,3
+30,2
+16,2
+2,1
+0,4
+74,9
+11,5
+12,9
+0,7
+56,0
+13,5
+30,2
+0,3
+61,0
+13,0
+35,6
+0,4
+43,7
+3,0
+16,4
+2,7
+34,2
+27
+1.373
+1.397
+253
+73
+242
+806
+6.583
+1.694
+1.338
+1.285
+741
+833
+7.956
+3.091
+1.591
+1.358
+983
+2.612
+173
+467
+187
+6.547
+705
+4.879
+624
+9.160
+877
+5.346
+811
+1.645
+100
+532
+166
+996
+0,8
+40,8
+41,5
+7,5
+2,2
+7,2
+6,5
+52,9
+13,6
+10,7
+10,3
+6,0
+5,3
+50,3
+19,5
+10,1
+8,6
+6,2
+75,9
+5,0
+13,6
+5,4
+51,3
+5,5
+38,3
+4,9
+56,6
+5,4
+33,0
+5,0
+47,8
+2,9
+15,5
+4,8
+29,0
+19
+1.456
+1.463
+314
+102
+34
+343
+5.938
+1.735
+1.390
+1.421
+316
+362
+7.394
+3.199
+1.704
+1.523
+349
+2.758
+193
+511
+5
+6.251
+794
+4.331
+28
+9.009
+986
+4.843
+33
+1.570
+129
+572
+147
+1.049
+0,6
+43,0
+43,2
+9,3
+3,0
+1,0
+3,1
+53,3
+15,6
+12,5
+12,8
+2,8
+2,5
+50,9
+22,0
+11,7
+10,5
+2,4
+79,6
+5,6
+14,8
+0,1
+54,8
+7,0
+38,0
+0,2
+60,6
+6,6
+32,6
+0,2
+45,3
+3,7
+16,5
+4,2
+30,3
+35
+Westdeutschland**
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+Deutschland**
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+(Nicht-)Erwerbsstatus (ab 16 J.)
+Ostdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Westdeutschland* (bzw. disaggr. **)
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+N
+2.630
+253
+819
+599
+1.606
+3.553
+316
+1.165
+657
+2.329
+354
+209
+31
+7
+601
+175
+24
+13
+94
+70
+292
+112
+781
+274
+435
+129
+838
+782
+662
+90
+58
+1.591
+572
+103
+11
+129
+1.004
+1.199
+332
+3.351
+296
+431
+454
+1.181
+44,5
+4,3
+13,9
+10,1
+27,2
+44,3
+3,9
+14,5
+8,2
+29,0
+16,0
+9,4
+1,4
+0,3
+27,1
+7,9
+1,1
+0,6
+4,2
+3,2
+13,2
+5,0
+35,2
+12,3
+19,6
+5,8
+37,7
+12,8
+10,8
+1,5
+0,9
+26,0
+9,3
+1,7
+0,2
+2,1
+16,4
+19,6
+5,4
+54,7
+4,8
+7,0
+7,4
+19,3
+N
+6.646
+383
+1.218
+1.295
+3.213
+8.292
+483
+1.750
+1.461
+4.209
+645
+312
+92
+52
+1.101
+136
+86
+21
+136
+45
+749
+12
+1.187
+544
+392
+215
+1.151
+2.217
+1.239
+381
+122
+3.960
+848
+225
+40
+403
+1.721
+3.367
+323
+6.928
+572
+717
+578
+1.867
+52,1
+3,0
+9,5
+10,1
+25,2
+51,2
+3,0
+10,8
+9,0
+26,0
+18,7
+9,1
+2,7
+1,5
+32,0
+4,0
+2,5
+0,6
+4,0
+1,3
+21,8
+0,3
+34,5
+15,8
+11,4
+6,3
+33,5
+17,4
+9,7
+3,0
+1,0
+31,1
+6,6
+1,8
+0,3
+3,2
+13,5
+26,4
+2,5
+54,3
+4,5
+5,6
+4,5
+14,6
+Fortsetzung Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+Tabellenanhang
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+5.879
+252
+926
+1.265
+3.078
+7.449
+381
+1.498
+1.412
+4.127
+583
+415
+157
+25
+1.180
+195
+128
+29
+114
+47
+700
+7
+1.220
+410
+436
+221
+1.067
+2.143
+1.181
+360
+113
+3.797
+887
+188
+28
+417
+1.483
+2.951
+274
+6.228
+517
+476
+386
+1.379
+51,6
+2,2
+8,1
+11,1
+27,0
+50,0
+2,6
+10,1
+9,5
+27,8
+16,8
+12,0
+4,5
+0,7
+34,0
+5,6
+3,7
+0,8
+3,3
+1,4
+20,2
+0,2
+35,2
+11,8
+12,6
+6,4
+30,8
+18,8
+10,3
+3,2
+1,0
+33,3
+7,8
+1,6
+0,2
+3,7
+13,0
+25,9
+2,4
+54,6
+4,5
+4,2
+3,4
+12,1
+36
+Deutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Haushaltsgröße
+Ostdeutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Westdeutschland**
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Deutschland**
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+N
+1.136
+871
+121
+64
+2.192
+747
+127
+24
+223
+1.074
+1.492
+445
+4.132
+570
+865
+583
+2.018
+548
+305
+284
+147
+49
+26
+1
+5
+1
+1.991
+882
+491
+467
+190
+55
+22
+12
+8
+2.539
+1.186
+776
+614
+239
+81
+23
+17
+9
+13,6
+10,4
+1,5
+0,8
+26,3
+8,9
+1,5
+0,3
+2,7
+12,9
+17,9
+5,3
+49,5
+6,8
+10,4
+7,0
+24,2
+40,1
+22,3
+20,8
+10,8
+3,6
+1,9
+0,1
+0,3
+0,1
+48,4
+21,4
+11,9
+11,3
+4,6
+1,3
+0,5
+0,3
+0,2
+46,3
+21,6
+14.1
+11,2
+4,4
+1,5
+0,4
+0,3
+0,2
+N
+2.862
+1.552
+473
+175
+5.062
+984
+311
+62
+539
+1.766
+4.117
+336
+8.115
+1.116
+1.109
+793
+3.018
+772
+569
+405
+244
+85
+12
+5
+0
+0
+2.632
+2.283
+1.028
+938
+371
+116
+46
+33
+12
+3.404
+2.852
+1.432
+1.182
+456
+129
+51
+33
+12
+17,7
+9,6
+2,9
+1,1
+31,3
+6,1
+1,9
+0,4
+3,3
+10,9
+25,4
+2,1
+45,1
+6,9
+6,8
+4,9
+18,6
+36,9
+27,2
+19,4
+11,6
+4,0
+0,6
+0,2
+0
+0
+35,3
+30,6
+13,8
+12,6
+5,0
+1,6
+0,6
+0,4
+0,2
+35,6
+29,9
+15,0
+12,4
+4,8
+1,3
+0,5
+0,3
+0,2
+Fortsetzung Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+Tabellenanhang
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+2.726
+1.596
+517
+138
+4.977
+1.082
+316
+57
+531
+1.530
+3.652
+280
+7.448
+927
+912
+607
+2.446
+736
+645
+413
+199
+74
+16
+3
+2
+0
+2.621
+1.957
+876
+793
+346
+100
+39
+14
+20
+3.357
+2.602
+1.289
+992
+419
+115
+42
+16
+20
+18,3
+10,7
+3,5
+0,9
+33,5
+7,3
+2,1
+0,4
+3,6
+10,3
+24,6
+1,9
+50,1
+6,2
+6,1
+4,1
+16,4
+35,3
+30,9
+19,8
+9,5
+3,5
+0,7
+0,1
+0,1
+0
+38,7
+28,9
+12,9
+11,7
+5,1
+1,5
+0,6
+0,2
+0,3
+37,9
+29,4
+14,6
+11,2
+4,7
+1,3
+0,5
+0,2
+0,2
+37
+Haushaltstyp
+Ostdeutschland*
+Westdeutschland**
+Deutschland**
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Äquivalenzeinkommen nach alter OECD-Skala
+Ostdeutschland**
+Westdeutschland**
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+N
+548
+185
+409
+168
+12
+5
+38
+1.991
+489
+947
+576
+36
+21
+59
+2.539
+674
+1.356
+744
+47
+26
+97
+6
+44
+255
+404
+407
+201
+31
+18
+127
+216
+353
+965
+1.170
+797
+414
+61
+40,1
+13,5
+30,0
+12,3
+0,9
+0,4
+2,8
+48,4
+11,9
+23,0
+14,0
+0,9
+0,5
+1,4
+46,3
+12,3
+24,7
+13,6
+0,9
+0,5
+1,8
+0,5
+3,2
+18,7
+29,6
+29,8
+14,7
+2,2
+1,3
+3,1
+5,3
+8,6
+23,5
+28,5
+19,4
+10,1
+1,5
+Fortsetzung Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+772
+398
+557
+256
+18
+32
+59
+2.632
+1.544
+2.140
+893
+78
+86
+86
+3.404
+1.942
+2.697
+1.149
+95
+118
+145
+75
+176
+349
+694
+591
+162
+46
+0
+173
+474
+1.134
+2.206
+1.737
+1.356
+328
+52
+36,9
+19,0
+26,6
+12,2
+0,9
+1,5
+2,8
+35,3
+20,7
+28,7
+12,0
+1,0
+1,2
+1,2
+35,7
+20,3
+28,2
+12,0
+1,0
+1,2
+1,5
+3,6
+8,4
+16,7
+33,2
+28,2
+7,7
+2,2
+0
+2,3
+6,4
+15,2
+29,6
+23,3
+18,2
+4,4
+0,7
+Tabellenanhang
+N
+736
+446
+560
+262
+40
+20
+23
+2.621
+1.388
+1.788
+740
+54
+86
+89
+3.357
+1.834
+2.347
+1.002
+94
+106
+111
+45
+142
+351
+607
+618
+258
+50
+16
+310
+351
+1.039
+1.663
+1.543
+1.472
+322
+67
+Prozent
+35,3
+21,4
+26,8
+12,5
+1,9
+1,0
+1,1
+38,7
+20,5
+26,4
+10,9
+0,8
+1,3
+1,3
+37,9
+20,7
+26,5
+11,3
+1,1
+1,2
+1,3
+2,2
+6,8
+16,8
+29,1
+29,6
+12,3
+2,4
+0,7
+4,6
+5,2
+15,4
+24,6
+22,8
+21,8
+4,8
+1,0
+38
+Äquivalenzeinkommen nach neuer OECD-Skala
+Ostdeutschland*
+Deutschland**
+Westdeutschland**
+Deutschland
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+N
+133
+260
+608
+1.369
+1.577
+997
+445
+79
+3
+24
+152
+229
+413
+332
+139
+72
+111
+149
+254
+559
+946
+915
+774
+397
+115
+173
+406
+788
+1.359
+1.247
+913
+468
+185
+911
+1.096
+444
+696
+1.140
+Prozent
+2,4
+4,8
+11,1
+25,0
+28,9
+18,2
+8,1
+1,4
+0,3
+1,8
+11,1
+16,8
+30,3
+24,4
+10,2
+5,3
+2,7
+3,6
+6,2
+13,6
+23,0
+22,3
+18,9
+9,7
+2,1
+3,2
+7,4
+14,4
+24,8
+22,8
+16,7
+8,6
+13,6
+22,1
+20,0
+32,6
+16,9
+20,8
+N
+249
+650
+1.483
+2.900
+2.328
+1.517
+373
+52
+62
+111
+212
+348
+723
+414
+170
+50
+68
+222
+661
+1.391
+1.833
+1.754
+1.262
+268
+130
+333
+874
+1.740
+2.556
+2.168
+1.432
+318
+203
+730
+933
+595
+1.255
+1.850
+Fortsetzung Tabelle A.2: gesamte Niedrigeinkommenspopulation, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Tabellenanhang
+Prozent
+Prozent
+Haushalte mit Sozialhilfebezug (HLU)
+Ostdeutschland**
+Westdeutschland**
+Deutschland**
+Haushalte mit Wohngeldbezug
+Ostdeutschland**
+Westdeutschland
+Deutschland
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+2,6
+6,8
+15,5
+30,4
+24,4
+15,9
+3,9
+0,5
+3,0
+5,3
+10,1
+16,6
+34,6
+19,8
+8,1
+2,4
+0,9
+3,0
+8,9
+18,7
+24,6
+23,5
+16,9
+3,6
+1,4
+3,5
+9,1
+18,2
+26,8
+22,7
+15,0
+3,3
+9,7
+9,8
+9,8
+28,5
+16,8
+19,4
+N
+355
+493
+1.389
+2.270
+2.161
+1.729
+372
+82
+22
+81
+258
+403
+591
+371
+279
+82
+200
+281
+712
+1.096
+1.334
+1.648
+1.089
+406
+222
+362
+969
+1.498
+1.925
+2.019
+1.368
+488
+210
+602
+812
+487
+947
+1.434
+4,0
+5,6
+15,7
+25,6
+24,4
+19,5
+4,2
+0,9
+1,1
+3,9
+12,4
+19,3
+28,3
+17,8
+13,4
+3,9
+2,9
+4,2
+10,5
+16,2
+19,7
+24,4
+16,1
+6,0
+2,5
+4,1
+11,0
+16,9
+21,8
+22,8
+15,5
+5,5
+10,1
+8,9
+9,2
+23,3
+14,0
+16,2
+39
+Tabellenanhang
+Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+Geschlecht
+Ostdeutschland
+Westdeutschland
+Deutschland
+Alter
+Ostdeutschland
+Männlich
+Weiblich
+Männlich
+Weiblich
+Männlich
+Weiblich
+Westdeutschland**
+Deutschland**
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+N
+722
+829
+1.619
+1.945
+2.341
+2.774
+166
+271
+108
+133
+239
+285
+163
+154
+32
+575
+729
+165
+202
+593
+613
+266
+259
+162
+741
+1.000
+273
+335
+832
+898
+429
+413
+194
+46,6
+53,4
+45,4
+54,6
+45,8
+54,2
+10,7
+17,5
+7,0
+8,6
+15,4
+18,4
+10,5
+9,9
+2,1
+16,1
+20,5
+4,6
+5,7
+16,6
+17,2
+7,5
+7,3
+4,5
+14,5
+19,6
+5,3
+6,5
+16,3
+17,6
+8,4
+8,1
+3,8
+696
+757
+1.064
+1.219
+1.760
+1.976
+110
+217
+87
+165
+208
+252
+144
+184
+81
+232
+290
+116
+213
+365
+326
+187
+239
+307
+342
+507
+203
+378
+573
+578
+331
+423
+388
+47,9
+52,1
+46,6
+53,4
+47,1
+52,9
+7,6
+15,0
+6,0
+11,4
+14,4
+17,4
+9,9
+12,7
+5,6
+10,2
+12,8
+5,1
+9,4
+16,0
+14,3
+8,2
+10,5
+13,5
+9,2
+13,6
+5,5
+10,1
+15,4
+15,5
+8,9
+11,4
+10,4
+N
+1.037
+1.119
+1.792
+2.215
+2.829
+3.334
+145
+291
+144
+257
+261
+386
+239
+244
+179
+367
+542
+190
+358
+533
+616
+340
+423
+618
+512
+833
+334
+615
+794
+1.002
+579
+667
+797
+48,1
+51,9
+44,7
+55,3
+45,9
+54,1
+6,7
+13,6
+6,7
+12,0
+12,2
+18,0
+11,1
+11,4
+8,3
+9,2
+13,6
+4,8
+9,0
+13,4
+15,4
+8,5
+10,6
+15,5
+8,4
+13,6
+5,4
+10,0
+13,0
+16,3
+9,4
+10,9
+13,0
+40
+* Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+5 %-Niveau.
+** Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+1 %-Niveau.
+Tabellenanhang
+Fortsetzung Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+Schulabschluss
+Ostdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Westdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Deutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Berufsabschluss
+Ostdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Westdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Deutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Familienstand (ab 18 J.)
+Ostdeutschland
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+N
+15
+312
+543
+104
+27
+2
+76
+1.084
+521
+349
+36
+5
+91
+1.396
+1.064
+453
+63
+7
+837
+157
+111
+2
+1.347
+320
+574
+6
+2.184
+477
+685
+8
+530
+33
+149
+20
+274
+1,5
+31,1
+54,1
+10,4
+2,7
+0,2
+3,7
+52,3
+25,2
+16,9
+1,8
+0,2
+3,0
+45,4
+34,6
+14,7
+2,1
+0,2
+75,6
+14,2
+10,0
+0,2
+59,9
+14,2
+25,6
+0,3
+65,1
+14,2
+20,4
+0,2
+52,7
+3,3
+14,8
+2,0
+27,2
+10
+374
+474
+83
+12
+46
+61
+912
+272
+182
+63
+75
+71
+1.286
+746
+265
+75
+121
+798
+68
+130
+30
+902
+106
+523
+70
+1.700
+174
+653
+100
+538
+34
+119
+35
+279
+1,0
+37,4
+47,5
+8,3
+1,2
+4,6
+3,9
+58,3
+17,4
+11,6
+4,0
+4,8
+2,8
+50,2
+29.1
+10,3
+2,9
+4,7
+77,8
+6,6
+12,7
+2,9
+56,3
+6,6
+32,7
+4,4
+64,7
+6,6
+24,9
+3,8
+53,5
+3,4
+11,8
+3,5
+27,8
+N
+8
+608
+716
+142
+32
+9
+53
+1.634
+479
+349
+194
+45
+61
+2.242
+1,195
+491
+226
+54
+1.218
+113
+225
+2
+1.689
+199
+916
+10
+2.907
+312
+1.141
+12
+776
+48
+197
+52
+445
+0,5
+40,1
+47,3
+9,4
+2,1
+0,6
+1,9
+59,3
+17,4
+12,7
+7,1
+1,6
+1,4
+52,5
+28.0
+11,5
+5,3
+1,3
+78,2
+7,3
+14,4
+0,1
+60,0
+7,1
+32,6
+0,4
+66,5
+7,1
+26,1
+0,3
+51,1
+3,2
+13,0
+3,4
+29,3
+41
+Westdeutschland*
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+Deutschland
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+(Nicht-)Erwerbsstatus (ab 16 J.)
+Ostdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Westdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+N
+1.122
+94
+311
+98
+470
+1.652
+127
+460
+118
+744
+190
+107
+17
+5
+319
+87
+14
+9
+44
+34
+99
+40
+327
+154
+188
+82
+424
+321
+269
+44
+26
+660
+211
+37
+4
+68
+469
+263
+95
+1.147
+124
+144
+133
+401
+53,6
+4,5
+14,8
+4,7
+22,4
+53,3
+4,1
+14,8
+3,8
+24,0
+17,7
+10,0
+1,6
+0,5
+29,8
+8,1
+1,3
+0,8
+4,1
+3,2
+9,3
+3,8
+30,6
+14,4
+17,6
+7,6
+39,6
+14,5
+12,2
+2,0
+1,2
+29,9
+9,6
+1,7
+0,2
+3,1
+21,2
+11,9
+4,2
+51,9
+5,6
+6,5
+6,0
+18,2
+N
+839
+50
+152
+124
+401
+1.377
+84
+271
+159
+680
+204
+109
+32
+9
+354
+50
+29
+9
+41
+19
+169
+28
+345
+159
+121
+47
+327
+265
+208
+65
+30
+568
+117
+34
+5
+48
+211
+379
+47
+841
+77
+62
+53
+192
+53,6
+3,2
+9,7
+7,9
+25,6
+53,6
+3,3
+10,5
+6,2
+26,4
+19,9
+10,6
+3,1
+0,9
+34,5
+4,9
+2,8
+0,9
+4,0
+1,9
+16,5
+2,7
+33,6
+15,5
+11,8
+4,6
+31,9
+16,5
+13,0
+4,1
+1,9
+35,5
+7,3
+2,1
+0,3
+3,0
+13,2
+23,7
+2,9
+52,5
+4,8
+3,8
+3,3
+12,0
+Tabellenanhang
+Fortsetzung Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+1.511
+82
+238
+253
+674
+2.287
+130
+435
+305
+1.119
+281
+187
+69
+17
+554
+97
+53
+15
+62
+32
+283
+12
+554
+175
+185
+90
+450
+530
+334
+90
+49
+1.003
+215
+47
+10
+103
+351
+704
+52
+1.482
+122
+125
+82
+329
+54,8
+3,0
+8,6
+9,2
+24,4
+53,5
+3,0
+10,2
+7,1
+26,2
+18,0
+12,0
+4,4
+1,1
+35,6
+6,2
+3,4
+1,0
+4,0
+2,0
+18,2
+0,8
+35,6
+11,2
+11,9
+5,8
+28,9
+18,8
+11,9
+3,2
+1,7
+35,6
+7,6
+1,7
+0,4
+3,7
+12,5
+25,0
+1,8
+52,7
+4,3
+4,5
+2,9
+11,7
+42
+Deutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Haushaltsgröße
+Ostdeutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Westdeutschland*
+Deutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+N
+511
+376
+61
+31
+979
+298
+51
+13
+112
+503
+362
+135
+1.474
+278
+332
+215
+825
+139
+168
+141
+96
+33
+12
+1
+2
+1
+374
+310
+258
+233
+95
+38
+9
+10
+2
+513
+478
+399
+329
+128
+50
+10
+12
+3
+15,6
+11,5
+1,9
+0,9
+29,9
+9,1
+1,5
+0,4
+3,4
+15,3
+11,1
+4,1
+45,0
+8,5
+10,1
+6,6
+25,2
+23,4
+28,3
+23,8
+16,2
+5,6
+2,0
+0,2
+0,3
+0,2
+28,1
+23,3
+19,4
+17,5
+7,1
+2,9
+0,7
+0,8
+0,2
+26,7
+24,9
+20,8
+17,1
+6,7
+2,6
+0,5
+0,6
+0,2
+N
+469
+317
+97
+39
+922
+167
+63
+14
+89
+230
+548
+75
+1.186
+236
+183
+100
+519
+122
+158
+126
+104
+31
+8
+3
+0
+0
+284
+279
+160
+139
+52
+15
+8
+1
+0
+406
+437
+286
+243
+83
+23
+11
+1
+0
+17,8
+12,1
+3,7
+1,5
+35,1
+6,3
+2,4
+0,5
+3,4
+8,7
+20,9
+2,9
+45,1
+9,0
+7,0
+3,8
+19,8
+22,1
+28,6
+22,8
+18,8
+5,6
+1,4
+0,5
+0
+0
+30,3
+29,7
+17,1
+14,8
+5,5
+1,6
+0,9
+0,1
+0
+27,2
+29,3
+19,2
+16,3
+5,6
+1,5
+0,7
+0,1
+0
+Tabellenanhang
+Fortsetzung Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+811
+521
+159
+66
+1.557
+312
+100
+25
+165
+383
+987
+64
+2.036
+297
+310
+172
+779
+209
+282
+190
+120
+49
+11
+2
+1
+0
+536
+542
+240
+231
+93
+30
+8
+4
+1
+745
+824
+430
+351
+142
+41
+10
+5
+1
+18,6
+11,9
+3,6
+1,5
+35,6
+7,1
+2,2
+0,6
+3,8
+8,8
+22,6
+1,5
+46,6
+6,8
+7,1
+3,9
+17,8
+24,2
+32,6
+22,0
+13,9
+5,7
+1,3
+0,2
+0,1
+0
+31,8
+32,2
+14,2
+13,7
+5,5
+1,8
+0,5
+0,2
+0,1
+29,2
+32,3
+16,9
+13,8
+5,6
+1,6
+0,4
+0,2
+0,0
+43
+Fortsetzung Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+NIEP 1998
+SOEP 1998
+SOEP 2000
+N
+Prozent
+N
+Prozent
+N
+Prozent
+Haushaltstyp
+Ostdeutschland
+Westdeutschland**
+Deutschland**
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Westdeutschland*
+Äquivalenzeinkommen nach alter OECD-Skala
+Ostdeutschland*
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+139
+100
+219
+109
+10
+3
+13
+374
+155
+418
+307
+10
+10
+18
+513
+255
+674
+416
+20
+13
+31
+6
+34
+88
+194
+160
+87
+15
+9
+22
+53
+124
+330
+419
+258
+99
+21
+23,4
+16,9
+36,9
+18,4
+1,7
+,5
+2,2
+28,0
+11,7
+34,2
+23,1
+0,8
+0,8
+1,4
+26,7
+13,3
+35,1
+21,6
+1,0
+0,7
+1,6
+1,0
+5,7
+14,9
+32,7
+27,0
+14,7
+2,5
+1,5
+1,7
+4,0
+9,3
+24,9
+31,6
+19,4
+7,5
+1,6
+122
+112
+214
+74
+8
+9
+13
+284
+192
+306
+121
+10
+5
+20
+406
+304
+520
+195
+18
+14
+33
+19
+32
+108
+180
+152
+46
+15
+0
+24
+57
+124
+249
+240
+188
+49
+7
+22,2
+20,3
+38,8
+13,4
+1,4
+1,6
+2,4
+30,2
+20,5
+32,6
+12,9
+1,1
+0,5
+2,1
+27,2
+20,4
+34,9
+13,1
+1,2
+0,9
+2,2
+3,4
+5,8
+19,6
+32,6
+27,5
+8,3
+2,7
+0
+2,6
+6,1
+13,2
+26,5
+25,6
+20,0
+5,2
+0,7
+Tabellenanhang
+209
+199
+300
+118
+18
+9
+11
+536
+380
+475
+226
+13
+26
+29
+745
+579
+775
+344
+31
+35
+40
+20
+74
+149
+246
+238
+109
+24
+4
+54
+99
+251
+419
+415
+348
+80
+19
+24,2
+23,0
+34,7
+13,7
+2,1
+1,0
+1,3
+31,8
+22,6
+28,2
+13,4
+0,8
+1,5
+1,7
+29,2
+22,7
+30,4
+13,5
+1,2
+1,4
+1,6
+2,3
+8,6
+17,2
+28,5
+27,5
+12,6
+2,8
+0,5
+3,2
+5,9
+14,9
+24,9
+24,6
+20,7
+4,7
+1,1
+44
+Tabellenanhang
+Fortsetzung Tabelle A.3: Population ohne Ausländer und Zuwanderer des SOEP, in Fallzahlen
+Deutschland
+NIEP 1998
+SOEP 1998
+SOEP 2000
+N
+Prozent
+N
+Prozent
+N
+Prozent
+74
+173
+400
+665
+653
+457
+104
+23
+8
+34
+102
+156
+232
+176
+117
+39
+31
+72
+162
+241
+354
+401
+329
+95
+39
+106
+264
+397
+586
+577
+446
+134
+70
+151
+221
+208
+233
+441
+2,9
+6,8
+15,7
+26,1
+25,6
+17,9
+4,1
+0,9
+0,9
+3,9
+11,8
+18,1
+26,9
+20,4
+13,5
+4,5
+1,8
+4,3
+9,6
+14,3
+21,0
+23,8
+19,5
+5,6
+1,5
+4,2
+10,4
+15,6
+23,0
+22,6
+17,5
+5,3
+8,1
+9,0
+8,7
+24,1
+13,8
+17,3
+45
+Äquivalenzeinkommen nach neuer OECD-Skala
+Ostdeutschland*
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+Westdeutschland**
+Deutschland**
+Haushalte mit Sozialhilfebezug (HLU)
+Ostdeutschland
+Westdeutschland**
+Deutschland**
+Haushalte mit Wohngeldbezug
+Ostdeutschland**
+Westdeutschland**
+Deutschland**
+28
+87
+212
+524
+579
+345
+114
+30
+3
+16
+51
+85
+161
+156
+77
+44
+16
+24
+75
+150
+271
+336
+291
+163
+19
+40
+126
+235
+432
+492
+368
+207
+49
+254
+303
+228
+300
+528
+1,5
+4,5
+11,0
+27,3
+30,2
+18,0
+5,9
+1,6
+0,5
+2,7
+8,6
+14,3
+27,2
+26,3
+13,0
+7,4
+1,2
+1,8
+5,7
+11,3
+20,4
+25,3
+22,0
+12,3
+1,0
+2,1
+6,6
+12,2
+22,5
+25,6
+19,2
+10,8
+8,3
+19,1
+15,8
+38,4
+22,6
+27,5
+43
+89
+232
+429
+392
+234
+64
+7
+11
+17
+48
+96
+178
+128
+54
+20
+10
+28
+71
+148
+203
+230
+209
+39
+21
+45
+119
+244
+381
+358
+263
+59
+33
+91
+124
+143
+149
+292
+2,9
+6,0
+15,6
+28,8
+26,3
+15,7
+4,3
+0,5
+2,0
+3,1
+8,7
+17,4
+32,2
+23,2
+9,8
+3,6
+1,1
+3,0
+7,6
+15,8
+21,6
+24,5
+22,3
+4,2
+1,4
+3,0
+8,0
+16,4
+25,6
+24,0
+17,7
+4,0
+6,0
+9,7
+8,3
+25,9
+15,9
+19,6
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+Tabellenanhang
+Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+Geschlecht
+Ostdeutschland*
+Westdeutschland
+Deutschland
+Alter
+Ostdeutschland*
+Männlich
+Weiblich
+Männlich
+Weiblich
+Männlich
+Weiblich
+Westdeutschland**
+Deutschland**
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+unter 7 Jahren
+7 bis 14 Jahre
+15 bis 17 Jahre
+18 bis 24 Jahre
+25 bis 34 Jahre
+35 bis 44 Jahre
+45 bis 54 Jahre
+55 bis 64 Jahre
+ab 65 Jahre
+N
+1.357
+1.689
+3.929
+4.769
+5.287
+6.458
+329
+437
+167
+325
+503
+525
+310
+286
+164
+1.188
+1.295
+308
+663
+1.445
+1.413
+691
+836
+859
+1.517
+1.732
+475
+988
+1.949
+1.939
+1.000
+1.122
+1.023
+44,6
+55,4
+45,2
+54,8
+45,0
+55,0
+10,8
+14,3
+5,5
+10,7
+16,5
+17,2
+10,2
+9,4
+5,4
+13,7
+14,9
+3,5
+7,6
+16,6
+16,3
+7,9
+9,6
+9,9
+12,9
+14,7
+4,0
+8,4
+16,6
+16,5
+8,5
+9,6
+8,7
+2.167
+2.363
+5.615
+6.921
+7.782
+9.284
+371
+584
+199
+410
+796
+635
+492
+676
+386
+1.247
+1.207
+521
+937
+1.986
+1.601
+1.049
+1.556
+2.475
+1.618
+1.791
+720
+1.347
+2.783
+2.236
+1.541
+2.232
+2.861
+47,8
+52,2
+44,8
+55,2
+45,6
+54,4
+8,2
+12,8
+4,4
+9,0
+17,5
+14,0
+10,8
+14,9
+8,5
+9,9
+9,6
+4,1
+7,4
+15,8
+12,7
+8,3
+12,4
+19,7
+9,4
+10,5
+4,2
+7,9
+16,2
+13,1
+9,0
+13,0
+16,7
+N
+2.131
+2.304
+4.853
+6.458
+6.983
+8.762
+330
+511
+252
+403
+611
+719
+518
+583
+508
+1.002
+1.119
+408
+966
+1.604
+1.456
+1.016
+1.353
+2.386
+1.332
+1.631
+660
+1.369
+2.215
+2.175
+1.534
+1.936
+2.894
+48,0
+52,0
+42,9
+57,1
+44,4
+55,6
+7,4
+11,5
+5,7
+9,1
+13,8
+16,2
+11,7
+13,1
+11,4
+8,9
+9,9
+3,6
+8,5
+14,2
+12,9
+9,0
+12,0
+21,1
+8,5
+10,4
+4,2
+8,7
+14,1
+13,8
+9,7
+12,3
+18,4
+46
+* Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+5 %-Niveau.
+** Verteilung der Merkmalsausprägungen zwischen dem NIEP 1998 und SOEP 1998 unterscheiden sich signifikant auf dem
+1 %-Niveau.
+Tabellenanhang
+Fortsetzung Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+Prozent
+Schulabschluss
+Ostdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Westdeutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Deutschland**
+kein Schulabschluss
+Haupt- oder Volksschule
+Mittlere Reife (DDR: POS)
+Abitur, Fachhochschulreife
+Anderer Schulabschluss
+Keine Angabe
+Berufsabschluss
+Ostdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Westdeutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Deutschland**
+abgeschlossene Ausbildung
+in Berufsausbildung
+keine Berufsausbildung
+Keine Angabe
+Familienstand (ab 18 J.)
+Ostdeutschland*
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+N
+58
+668
+1.098
+216
+61
+15
+243
+3.076
+1.294
+1.064
+104
+15
+301
+3.744
+2.392
+1.281
+164
+30
+1.685
+259
+290
+17
+3.470
+836
+1.872
+19
+5.154
+1.095
+2.163
+36
+923
+63
+346
+58
+724
+2,8
+31,6
+51,9
+10,2
+2,9
+0,7
+4,2
+53,1
+22,3
+18,4
+1,7
+0,3
+3,8
+47,3
+30,2
+16,2
+2,1
+0,4
+74,9
+11,5
+12,9
+0,7
+56,0
+13,5
+30,2
+0,3
+61,0
+13,0
+35,6
+0,4
+43,7
+3,0
+16,4
+2,7
+34,2
+27
+1.353
+1.392
+253
+53
+242
+302
+5.888
+1.473
+1.141
+287
+443
+329
+7.241
+2.865
+1.393
+340
+685
+2.579
+173
+450
+187
+5.502
+514
+3.283
+411
+8.081
+687
+3.734
+598
+1.628
+100
+527
+144
+991
+0,8
+40,8
+41,9
+7,6
+1,6
+7,3
+3,2
+61,8
+15,4
+12,0
+3,0
+4,6
+2,6
+56,3
+22,3
+10,8
+2,7
+5,3
+76,1
+5,1
+13,3
+5,5
+56,7
+5,3
+33,8
+4,2
+61,7
+5,2
+28,5
+4,6
+48,0
+3,0
+15,6
+4,2
+29,2
+N
+17
+1.451
+1.453
+310
+66
+28
+170
+5.353
+1.481
+1.196
+462
+122
+187
+6.804
+2.934
+1.507
+528
+150
+2.725
+185
+487
+5
+5.284
+606
+2.998
+28
+8.009
+791
+3.485
+33
+1.544
+119
+569
+137
+1.034
+0,5
+43,6
+43,7
+9,3
+2,0
+0,8
+1,9
+60,9
+16,9
+13,6
+5,3
+1,4
+1,6
+56,2
+24,2
+12,4
+4,4
+1,2
+80,1
+5,4
+14,3
+0,1
+59,3
+6,8
+33,6
+0,3
+65,0
+6,4
+28,3
+0,3
+45,4
+3,5
+16,7
+4,0
+30,4
+47
+Westdeutschland
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+Deutschland
+verheiratet, zus.-lebend
+verheiratet, getrennt lebend
+geschieden
+verwitwet
+ledig
+(Nicht-)Erwerbsstatus (ab 16 J.)
+Ostdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Westdeutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+N
+2.630
+253
+819
+599
+1.606
+3.553
+316
+1.165
+657
+2.329
+354
+209
+31
+7
+601
+175
+24
+13
+94
+70
+292
+112
+781
+274
+435
+129
+838
+782
+662
+90
+58
+1.591
+572
+103
+11
+129
+1.004
+1.199
+332
+3.351
+296
+431
+454
+1.181
+44,5
+4,3
+13,9
+10,1
+27,2
+44,3
+3,9
+14,5
+8,2
+29,0
+16,0
+9,4
+1,4
+0,3
+27,1
+7,9
+1,1
+0,6
+4,2
+3,2
+13,2
+5,0
+35,2
+12,3
+19,6
+5,8
+37,7
+12,8
+10,8
+1,5
+0,9
+26,0
+9,3
+1,7
+0,2
+2,1
+16,4
+19,6
+5,4
+54,7
+4,8
+7,0
+7,4
+19,3
+N
+4.617
+273
+1.097
+1.195
+2.529
+6.245
+372
+1.624
+1.339
+3.520
+645
+296
+86
+52
+1.079
+131
+86
+21
+136
+45
+741
+12
+1.173
+544
+392
+201
+1.137
+1.437
+1.066
+352
+112
+2.966
+622
+187
+23
+359
+1.131
+2.981
+96
+5.399
+428
+501
+416
+1.345
+47,6
+2,8
+11,3
+12,3
+26,0
+47,7
+2,8
+12,4
+10,2
+26,9
+19,0
+8,7
+2,5
+1,5
+31,8
+3,9
+2,5
+0,6
+4,0
+1,3
+21,9
+0,4
+34,6
+16,1
+11,6
+5,9
+33,6
+14,8
+11,0
+3,6
+1,2
+30,5
+6,4
+1,9
+0,2
+3,7
+11,6
+30,7
+1,0
+55,6
+4,4
+5,2
+4,3
+13,9
+Tabellenanhang
+Fortsetzung Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+N
+4.159
+219
+812
+1.217
+2.504
+5.704
+338
+1.381
+1.353
+3.538
+576
+414
+148
+21
+1.159
+191
+122
+29
+107
+43
+685
+7
+1.184
+406
+433
+220
+1.059
+1.448
+986
+329
+109
+2.873
+680
+154
+26
+343
+940
+2.689
+114
+4.945
+419
+383
+296
+1.098
+46,7
+2,5
+9,1
+13,6
+28,1
+46,3
+2,7
+11,2
+11,0
+28,7
+16,9
+12,2
+4,3
+0,6
+34,1
+5,6
+3,6
+0,9
+3,2
+1,3
+20,1
+0,2
+34,8
+11,9
+12,7
+6,5
+31,1
+16,2
+11,1
+3,7
+1,2
+32,2
+7,6
+1,7
+0,3
+3,9
+10,5
+30,2
+1,3
+55,5
+4,7
+4,3
+3,3
+12,3
+48
+Fortsetzung Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Deutschland**
+Arbeiter
+Angestellter
+Selbstständige
+Sonstige/ Keine Angabe
+Erwerbstätige gesamt
+Schüler, Studenten
+FuU/Praktikum
+Wehr-/Zivildienstleistender
+Mutterschafts-/ Erz.-urlaub
+Hausfrau/Hausmann
+Rentner/Pensionär
+Sonstiges
+Nichterwerbstätige gesamt
+Arbeitslosengeld
+Arbeitslosenhilfe
+Keine Leistungen
+beim AA Gemeldete gesamt
+Haushaltsgröße
+Ostdeutschland
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Westdeutschland**
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+Deutschland**
+1 Person
+2 Personen
+3 Personen
+4 Personen
+5 Personen
+6 Personen
+7 Personen
+8 Personen
+9 und mehr Personen
+N
+2.082
+1.361
+438
+164
+4.045
+753
+273
+45
+495
+1.176
+3.722
+108
+6.572
+971
+893
+618
+2.482
+741
+558
+400
+244
+85
+12
+5
+0
+0
+2.382
+2.013
+790
+617
+182
+65
+37
+3
+0
+3.123
+2.571
+1.190
+860
+267
+77
+42
+3
+0
+15,9
+10,4
+3,3
+1,3
+30,9
+5,8
+2,1
+0,3
+3,8
+9,0
+28,4
+0,8
+50,2
+7,4
+6,8
+4,7
+18,9
+36,3
+27,3
+19,6
+11,9
+4,1
+0,6
+0,2
+0
+0
+39,1
+33,1
+13,0
+10,1
+3,0
+1,1
+0,6
+0,1
+0
+38,4
+31,6
+14,6
+10,6
+3,3
+0,9
+0,5
+0,0
+0
+N
+1.136
+871
+121
+64
+2.192
+747
+127
+24
+223
+1.074
+1.492
+445
+4.132
+570
+865
+583
+2.018
+548
+305
+284
+147
+49
+26
+1
+5
+1
+1.991
+882
+491
+467
+190
+55
+22
+12
+8
+2.539
+1.186
+776
+614
+239
+81
+23
+17
+9
+13,6
+10,4
+1,5
+0,8
+26,3
+8,9
+1,5
+0,3
+2,7
+12,9
+17,9
+5,3
+49,5
+6,8
+10,4
+7,0
+24,2
+40,1
+22,3
+20,8
+10,8
+3,6
+1,9
+0,1
+0,3
+0,1
+48,4
+21,4
+11,9
+11,3
+4,6
+1,3
+0,5
+0,3
+0,2
+46,3
+21,6
+14,1
+11,2
+4,4
+1,5
+0,4
+0,3
+0,2
+Tabellenanhang
+N
+2.024
+1.400
+477
+131
+4.032
+872
+277
+55
+432
+982
+3.374
+121
+6.130
+826
+815
+515
+2.156
+722
+636
+406
+195
+68
+16
+1
+2
+0
+2.425
+1.730
+661
+539
+172
+52
+25
+6
+1
+3.147
+2.366
+1.067
+734
+239
+68
+26
+7
+1
+Prozent
+16,4
+11,4
+3,9
+1,1
+32,7
+7,1
+2,245
+0,445
+3,5
+8,0
+27,4
+1,0
+49,8
+6,7
+6,6
+4,2
+17,5
+35,3
+31,1
+19,8
+9,5
+3,3
+0,8
+0,1
+0,1
+0
+43,2
+30,8
+11,8
+9,6
+3,1
+0,9
+0,4
+0,1
+0,0
+41,1
+30,9
+13,9
+9,6
+3,1
+0,9
+0,3
+0,1
+0,0
+49
+Haushaltstyp
+Ostdeutschland*
+Westdeutschland**
+Deutschland**
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Alleinlebende
+Paare ohne Kinder
+Paare mit Kindern
+Alleinerziehende Frauen
+Alleinerziehende Männer
+Drei-Generationen-Familie
+Sonstige
+Äquivalenzeinkommen nach alter OECD-Skala
+Ostdeutschland**
+Westdeutschland**
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+N
+548
+185
+409
+168
+12
+5
+38
+1.991
+489
+947
+576
+36
+21
+59
+2.539
+674
+1.356
+744
+47
+26
+97
+6
+44
+255
+404
+407
+201
+31
+18
+127
+216
+353
+965
+1.170
+797
+414
+61
+40,1
+13,5
+30,0
+12,3
+0,9
+0,4
+2,8
+48,4
+11,9
+23,0
+14,0
+0,9
+0,5
+1,4
+46,3
+12,3
+24,7
+13,6
+0,9
+0,5
+1,8
+0,5
+3,2
+18,7
+29,6
+29,8
+14,7
+2,2
+1,3
+3,1
+5,3
+8,6
+23,5
+28,5
+19,4
+10,1
+1,5
+Fortsetzung Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+N
+Prozent
+741
+387
+557
+250
+18
+32
+59
+2.382
+1.330
+1.384
+806
+55
+47
+85
+3.123
+1.717
+1.941
+1.057
+72
+79
+144
+75
+176
+335
+683
+569
+162
+46
+0
+126
+352
+879
+1.718
+1.433
+1.214
+315
+52
+36,3
+18,9
+27,2
+12,2
+0,9
+1,6
+2,9
+39,1
+21,8
+22,7
+13,2
+0,9
+0,8
+1,4
+38,4
+21,1
+23,9
+13,0
+0,9
+1,0
+1,8
+3,7
+8,6
+16,4
+33,4
+27,8
+7,9
+2,2
+0
+2,1
+5,8
+14,4
+28,2
+23,5
+19,9
+5,2
+0,9
+Tabellenanhang
+N
+722
+443
+545
+253
+40
+20
+23
+2.425
+1.202
+1.142
+672
+36
+63
+70
+3.148
+1.644
+1.687
+925
+76
+84
+93
+42
+134
+346
+601
+608
+248
+50
+16
+201
+273
+787
+1.344
+1.283
+1.354
+305
+63
+Prozent
+35,3
+21,7
+26,6
+12,4
+2,0
+1,0
+1,1
+43,2
+21,4
+20,4
+12,0
+0,6
+1,1
+1,3
+41,1
+21,5
+22,0
+12,1
+1,0
+1,1
+1,2
+2,1
+6,5
+16,9
+29,4
+29,7
+12,1
+2,4
+0,8
+3,6
+4,9
+14,0
+24,0
+22,9
+24,1
+5,4
+1,1
+50
+Tabellenanhang
+Fortsetzung Tabelle A.4: Population ohne Ausländer und Zuwanderer des SOEP, gewichtet
+NIEP 1998
+SOEP 1998
+SOEP 2000
+Prozent
+Prozent
+Prozent
+Äquivalenzeinkommen nach neuer OECD-Skala
+Ostdeutschland*
+Deutschland*
+Westdeutschland**
+Deutschland
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+unter 600 DM
+600 – 800 DM
+800 – 1000 DM
+1000 – 1200 DM
+1200 – 1400 DM
+1400 – 1600 DM
+1600 – 1800 DM
+über 1800 DM
+N
+133
+260
+608
+1.369
+1.577
+997
+445
+79
+3
+24
+152
+229
+413
+332
+139
+72
+111
+149
+254
+559
+946
+915
+774
+397
+115
+173
+406
+788
+1.359
+1.247
+913
+468
+185
+911
+1.096
+444
+696
+1.140
+2,4
+4,8
+11,1
+25,0
+28,9
+18,2
+8,1
+1,4
+0,3
+1,8
+11,1
+16,8
+30,3
+24,4
+10,2
+5,3
+2,7
+3,6
+6,2
+13,6
+23,0
+22,3
+18,9
+9,7
+2,1
+3,2
+7,4
+14,4
+24,8
+22,8
+16,7
+8,6
+13,6
+22,1
+20,0
+32,6
+16,9
+20,8
+Haushalte mit Sozialhilfebezug (HLU)
+Ostdeutschland**
+Westdeutschland**
+Deutschland**
+Haushalte mit Wohngeldbezug
+Ostdeutschland**
+Westdeutschland
+Deutschland
+Quelle: Berechnungen des IZA unter Verwendung der ersten Welle des NIEP und der Wellen O und Q des SOEP
+N
+201
+528
+1.214
+2.400
+2.002
+1.376
+361
+52
+62
+111
+199
+348
+695
+414
+165
+50
+48
+160
+555
+1.126
+1.502
+1.361
+1.128
+208
+110
+271
+754
+1.475
+2.197
+1.775
+1.293
+258
+189
+564
+754
+565
+994
+1.558
+2,5
+6,5
+14,9
+29,5
+24,6
+16,9
+4,4
+0,6
+3,0
+5,4
+9,7
+17,0
+34,0
+20,3
+8,1
+2,4
+0,8
+2,6
+9,1
+18,5
+24,7
+22,4
+18,5
+3,4
+1,4
+3,3
+9,3
+18,1
+27,0
+21,8
+15,9
+3,2
+9,3
+9,3
+9,3
+27,6
+16,3
+19,2
+N
+244
+407
+1.133
+1.946
+1.891
+1.603
+355
+79
+21
+81
+246
+399
+575
+368
+273
+82
+136
+221
+569
+916
+1.114
+1.379
+914
+363
+157
+301
+815
+1.315
+1.689
+1.747
+1.187
+445
+206
+414
+620
+472
+751
+1.223
+3,2
+5,3
+14,8
+25,4
+24,7
+20,9
+4,6
+1,0
+1,0
+3,9
+12,0
+19,5
+28,1
+18,0
+13,4
+4,0
+2,4
+3,9
+10,1
+16,3
+19,9
+24,6
+16,3
+6,5
+2,1
+3,9
+10,7
+17,2
+22,1
+22,8
+15,5
+5,8
+10,1
+7,4
+8,1
+23,1
+13,4
+16,0
+51

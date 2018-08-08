@@ -1,0 +1,804 @@
+Steuerhinterziehung als Straftatbestand – eine Analyse in
+wirtschaftsethischer Perspektive*
+UTE SCHMIEL**
+Tax evasion as a criminal offence – an analysis from a business ethical point of
+view
+In the present article is analyzed if from a business ethical point of view there is good reason to qualify
+tax evasion as a criminal offence. The analysis is based on the fictitious agreement among parties in
+the contractual setting and with reference to Popper’s logic of situation. The result of this analysis is
+that from this viewpoint compelling arguments are at hand for the qualification of tax evasion as a
+criminal offence which cannot be queried by the counter-arguments put forward in the economical
+literature. The substantiation stated here that tax evasion constitutes a criminal offence has conse-
+quences on numerous issues of taxation. It entails, for example, a critical attitude towards tax
+amnesty.
+Keywords: Straftatbestand Steuerhinterziehung, vertragstheoretische Begründung, Rationalitätsprin-
+zip, Steueramnestie
+1.
+Einleitung
+Das deutsche Steuerrecht qualifiziert Steuerhinterziehung, die sich durch vorsätzliches
+Verhalten von Steuerordnungswidrigkeiten unterscheidet, als kriminelle Steuerstraftat.
+Steuerhinterziehung wird nach § 370 AO mit einer Freiheitsstrafe bis zu fünf Jahren,
+in besonders schweren Fällen bis zu 10 Jahren, oder einer Geldstrafe bestraft. Im
+Hinblick auf diesen Strafrahmen ist Steuerhinterziehung mit dem Betrug nach
+§ 263 StGB vergleichbar (Tipke 1993: 1438). Im ökonomischen Schrifttum wird das
+mit einer kriminellen Straftat verbundene moralisch negative Werturteil über die
+Hinterziehung von Steuern nicht uneingeschränkt geteilt: Beckmann erwägt in konstitu-
+tionenökonomischer Perspektive, Steuerhinterziehung nicht unter Strafe zu stellen,
+sondern vielmehr als Möglichkeit zu verstehen, „die in der Besteuerung inhärente
+________________________
+*
+Beitrag eingereicht am 28.02.2005; nach doppelt verdecktem Gutachterverfahren überarbeitete
+Fassung angenommen am 15.09.2005.
+** Prof. Dr. Ute Schmiel, Lehrstuhl für ABWL, insbes. Steuerlehre/Prüfungswesen an der Technischen
+Universität Ilmenau, Helmholtzplatz 3, D-98693 Ilmenau, Tel.: ++49-(0)3677-694498, Fax: ++49-
+(0)3677-694499, E-Mail: Ute.Schmiel@tu-ilmenau.de, Forschungsschwerpunkte: Ökonomische Ana-
+lyse ausgewählter steuer- und bilanzrechtlicher Probleme, methodologische Fragen der Betriebswirt-
+schaftslehre/Betriebswirtschaftlichen Steuerlehre.
+zfwu 6/2 (2005), 155-172
+155
+156
+Monopolmacht“ des Staates zu begrenzen (Beckmann 2003: 2, 225-236, 324).1 Schnei-
+der bezeichnet es als seine persönliche Wertung, dass „unter den derzeitigen Steuer-
+rechtsgegebenheiten eine ethische Verurteilung von Steuerhinterziehungen nicht zu
+begründen ist (…). Solange die ordnungspolitischen Defizite Sozialer Marktwirtschaft
+vorwiegend aus dem Nichtbeachten ethischer Grundsätze der Gesetzesmacht Anord-
+nenden und Ausübenden folgen, ist Steuerhinterziehung weder moralisch zu verwer-
+fen noch zu rechtfertigen.“ Steuerhinterziehung bleibe deshalb „jenseits des ethisch zu
+Wertenden einzuordnen“ (Schneider 1997a: 490).2
+Vor dem Hintergrund dieser konträren Positionen analysiert der vorliegende Beitrag
+Steuerhinterziehung als Straftatbestand in einer wirtschaftsethischen Perspektive.
+Dabei wird auf eine vertragstheoretische Argumentationsstruktur rekurriert. Demzu-
+folge lautet die Leitfrage dieses Beitrags:
+Unter welchen Bedingungen entscheiden sich Wirtschaftssubjekte für die ge-
+setzliche Kodifizierung der Steuerhinterziehung als Straftatbestand?
+Um diese Frage nach der Rechtfertigung einer Regel, die Steuerhinterziehung als Straftatbestand
+implementiert, zu beantworten, wird zunächst in Kapitel 2 die hier eingenommene
+wirtschaftsethische und methodologische Position konkretisiert. In Kapitel 3 wird
+analysiert, unter welchen Voraussetzungen die Implementierung eines Straftatbestands
+Steuerhinterziehung eine in diesem Sinne „rationale Entscheidung“ der betroffenen
+Wirtschaftssubjekte darstellt. Darüber hinaus werden die Positionen von Beckmann
+und Schneider einer wirtschaftsethischen Betrachtung unterzogen. Kapitel 4 stellt die
+mit einem Straftatbestand Steuerhinterziehung verbundenen Konsequenzen für das
+materielle und formelle Steuerrecht sowie das Steuerstrafrecht heraus. Der Beitrag
+schließt in Kapitel 5 mit dem Ergebnis der Analyse.3
+________________________
+1
+2
+3
+Siehe zur Steuerhinterziehung als „durchaus rationale Reaktionen auf eine Politik (…), bei der die
+Präferenzen eines Grossteils der politischen Nachfrager zu wenig berücksichtigt wurden“ (Pomme-
+rehne 1983: 279) und zur Auffassung, es fehle eine kohärente Begründung, warum „das Phänomen
+der Steuerhinterziehung per se so unerwünscht sein sollte, dass es vordringlich durch drastische Stra-
+fen zu beseitigen ist“ (Weck-Hannemann/Pommerehne 1989: 551).
+Siehe auch Schneider (2002: 95f.), wobei Schneider sich hier darauf beschränkt auszuführen, dass
+„eine ethische Verurteilung von Steuerhinterziehungen nicht zu begründen ist“.
+Die Blickrichtung dieses Beitrags unterscheidet sich somit von dem umfangreichen Schrifttum, in
+dem Steuerhinterziehungsverhalten von Wirtschaftssubjekten vor dem Hintergrund einer bereits gege-
+benen gesetzlichen Sanktion der Steuerhinterziehung erklärt wird. Siehe zu einem Überblick Pommerehne
+(1985) sowie Andreoni et al. (1998). Dabei sind Ansätze mit vornehmlich analytischer Ausrichtung –
+siehe zu einer umfassenden Diskussion Beckmann (2003) – von empirischen Ansätzen zu unter-
+scheiden. Letztere können weiter in experimentelle und ökonometrische Ansätze ausdifferenziert
+werden: Siehe zu experimentellen Ansätzen der Kölner Schule Mackscheidt (2004), zu einem Über-
+blick über experimentelle Forschung Kirchler/Maciejovsky (2002), zu einer Übersicht über ökono-
+metrische Arbeiten Pommerehne/Weck-Hannemann (1992: 445-461) und zu deren Ansatz Weck-
+Hannemann/Pommerehne (1989).
+2. Wirtschaftsethischer und methodologischer Bezugsrahmen
+Die Analyse des Straftatbestands Steuerhinterziehung erfolgt in diesem Beitrag vor
+dem Hintergrund eines vertragstheoretischen Bezugsrahmens: Rechtsregeln werden
+als Institutionen mit der (fiktiven) Akzeptanz der betroffenen eigennutzorientiert und
+rational handelnden Individuen legitimiert. Dabei wird in einem Gedankenexperiment
+eine Entscheidungssituation auf konstitutioneller Ebene angenommen: Wirtschafts-
+subjekte entscheiden über Regeln, ohne dass sie sich bereits in einer Situation befin-
+den, in der die Regeln zur Anwendung kommen sollen und ohne dass sie wissen,
+welche Situation sie nach der Vereinbarung solcher Regeln vorfinden werden.4
+Charakteristisch für diese Ansätze ist deren Anspruch, dass sie „lediglich ‚schwache‘,
+d. h. von pluralistischen Werteinstellungen und unterschiedlichen Theorien möglichst
+unabhängige und daher weithin geteilte Voraussetzungen“ (Homann 1999: 58) formu-
+lieren.5 Auch wenn Sozialvertragsansätze auf die Ziele der betroffenen Individuen
+rekurrieren, ist zu beachten, dass sie nicht geeignet sind, Rechtsregeln abschließend zu
+rechtfertigen. Vielmehr sind in kritisch-rationaler Perspektive die den Wirtschaftssub-
+jekten zugrunde gelegten Ziele, die Rechtsregeln, mit denen diese Ziele erreicht wer-
+den sollen, und schließlich auch die Herleitung dieser Rechtsregeln selbst der Kritik zu
+unterziehen.6
+Die vertragstheoretische Herleitung des Straftatbestands Steuerhinterziehung aus dem
+individuellen Handeln von Wirtschaftssubjekten impliziert erstens die Entscheidung
+zum methodologischen Individualismus: Damit wird vorausgesetzt, dass sich soziale
+Erscheinungen besser durch das Handeln des Einzelnen als unmittelbar durch Opera-
+tionen sozialer Größen, wie beispielsweise Organisationen oder Systeme,7 erklären
+lassen (von Hayek 1976: 15f., Popper 1992: 108). Die vertragstheoretische Herleitung
+des Straftatbestands Steuerhinterziehung aus dem individuellen Handeln von Wirt-
+schaftssubjekten legt zweitens eigennutzorientiertes und rationales Verhalten der be-
+troffenen Wirtschaftssubjekte zugrunde. Rationales Handeln wird dabei grundsätzlich
+als Handeln expliziert, bei dem Wirtschaftssubjekte danach streben, ihren Zielerrei-
+chungsgrad zu maximieren (Tietzel 1985: 95, Schäfer/Ott 2000: 56-69). In diesem
+Beitrag wird jedoch die Auffassung vorgetragen, dass es nicht möglich ist, aus der
+Annahme eigennutzorientiert und rational handelnder Wirtschaftssubjekte Rechtsre-
+geln zu entwerfen. Dabei wird es nicht etwa als problematisch angesehen, dass die
+Annahme eigennutzorientierten Handelns als empirische Tatsachenbehauptung nicht
+________________________
+4
+5
+6
+7
+Dieser von Rawls eingeführte Schleier des Nichtwissens, siehe Rawls (2003: 40), siehe auch Bren-
+nan/Buchanan (1988: 4f., 14), soll bewirken, dass die Vertragsschließenden sich für eine Regelung
+entscheiden, die aus der Sicht verschiedener möglicher Positionen in der zukünftigen Gesellschaft
+vorteilhaft ist und deshalb Akzeptanz findet.</ref>
+Diese Idee liegt Sozialvertragsansätzen zugrunde, wie sie in unterschiedlichen Ausprägungen bei-
+spielsweise von Rawls (2003: 24-29), Brennan/Buchanan (1988: 1-15), Homann (1999: 58-92) sowie</ref>
+<ref>Schäfer/Ott (2000: 3, 23f.), vertreten werden.</ref>
+<ref>Siehe zum Prinzip der kritischen Prüfung als allgemeines Postulat Albert (1991: 44-50).</ref>
+Siehe zu einer solchen methodologisch-holistischen Position in der BWL auf der Grundlage der
+Systemtheorie Luhmanns Schreyögg (1991: 266-268, 273-285).
+zfwu 6/2 (2005), 155-172
+157
+158
+immer und überall gilt, weil Personen offensichtlich nicht nur eigennützig, sondern
+auch aus altruistischen Motiven oder moralisch handeln.8 Denn die empirische Wahr-
+heit in diesem Sinne ist für die Legitimation von Rechtsregeln nicht notwendig. Viel-
+mehr ist es ausreichend, dass eigennutzorientiertes Handeln denkmöglich ist, die
+Annahme eigennutzorientierten Handelns mithin den Charakter einer hypothetischen,
+aber „realistischen“ Annahme hat.9 Das Kernproblem der Annahme eigennutzorien-
+tierten und rationalen Verhaltens besteht nach der hier vertretenen Auffassung viel-
+mehr in den Voraussetzungen, die das Rationalitätsprinzip erfordert, wenn man es als
+objektiven Maßstab zur Bewertung von Institutionen verwendet: Die entscheidungs-
+logische Beantwortung der Leitfrage, ob sich eigennutzorientiert und rational han-
+delnde Wirtschaftssubjekte für einen Straftatbestand Steuerhinterziehung entscheiden,
+ist unter anderem daran gebunden, dass der Entscheidende die Menge potentieller
+Zukunftslagen kennt (Watkins 1978: 46, 60, Schäfer/Ott 2000: 57f.). Watkins stellt
+heraus, dass selbst „unter ‚Ungewißheitsbedingungen‘ (…) der Entscheidende einen
+großen Teil mehr über seine Situation wissen [muss], als dies bei einem faktisch
+Entscheidenden üblicherweise der Fall ist“ (Watkins 1978: 64). Sollten Entscheidun-
+gen von dem Verhalten anderer Wirtschaftssubjekte abhängen, erfordert eine solche
+„Spielsituation“, dass Wirtschaftssubjekte den gleichen Kenntnisstand haben (Watkins
+1978: 69).
+Hier wird jedoch in Anlehnung an Schneider die Auffassung vertreten, dass Entschei-
+dungssituationen durch die Erfahrungstatbestände der Unsicherheit und der Un-
+gleichverteilung des Wissens charakterisiert sind. Unter Unsicherheit versteht Schneider
+die Tatsache, dass nicht ins Entscheidungskalkül einbezogene Zustände – so genannte
+Ex-post-Überraschungen – eintreten können. Wirtschaftssubjekte können die Hand-
+lungsmöglichkeiten anderer nicht übersehen. Außerdem unterliegen sie auch hinsicht-
+lich ihrer eigenen Handlungsalternativen Irrtümern. Zudem wird die Zukunft durch
+die Wahl einer Entscheidung selbst beeinflusst. Ungleichverteilung des Wissens
+definiert Schneider in dem Sinne, dass das unvollständige Wissen einer menschlichen
+Gesellschaft bei dem Einzelnen nur zum Teil und regelmäßig in anderer Form vor-
+handen ist als bei einem anderen (Schneider 1995: 13; 1997b: 43f.; 2001: 469). Für eine
+Entscheidungssituation, die Unsicherheit und Ungleichverteilung des Wissens zugrun-
+de legt, existiert aber kein objektiver Bewertungsmaßstab rationalen Handelns: Es
+fehlt die Stringenz, mit der ein bestimmtes Handeln entscheidungslogisch aus den
+Prämissen erzwungen wird. Gesagt werden kann lediglich, dass sich für das beobach-
+tete Verhalten von Wirtschaftssubjekten Argumente anführen lassen, aus denen die
+________________________
+8
+9
+Überdies schließt eigennütziges Verhalten altruistisches oder moralisches Verhalten zwar in neoklas-
+sischer Perspektive, nicht aber generell aus, siehe zur Eigennutz-Annahme Kirchgässner (2000: 46-
+64).
+Für die Annahme eigennutzorientierten Handelns spricht, dass die Einhaltung gesellschaftlicher
+Regelungen eher gewährleistet erscheint, wenn deren Befolgung für eigennutzorientiert handelnde
+Wirtschaftssubjekte vorteilhaft ist, als wenn diese altruistisches oder moralisches Handeln erfordern
+würde (Brennan/Buchanan 1988: 19f.; Schäfer/Ott 2000: 68f). In der Diktion Adam Smiths (1999:
+17), erwarten wir nicht „vom Wohlwollen des Metzgers, Brauers und Bäckers (…), was wir zum Es-
+sen brauchen, sondern davon, daß sie ihre eigenen Interessen wahrnehmen.“
+jeweilige Regel zwar nicht entscheidungslogisch deduziert werden kann, die sie aber
+als begründete Regel ausweisen.
+Wenn aber kein objektiver Maßstab existiert, dann ist es nach der hier vertretenen
+Auffassung auch nicht sinnvoll, dem Rationalitätsprinzip die Funktion eines Maßstabs
+zu geben: Das Ziel der hier vorgelegten Analyse besteht nicht darin, den Straftatbe-
+stand Steuerhinterziehung in Relation zu einem vorgegebenen Maßstab als Ergebnis
+rationalen oder irrationalen Handelns zu qualifizieren. Vielmehr soll die Bedeutung
+des Rationalitätsprinzips darin bestehen, Erkenntnisse über die mögliche Entschei-
+dungssituation, aus der eine zu beobachtende Rechtsregel – hier der Straftatbestand
+Steuerhinterziehung – resultieren könnte, zu gewinnen: Gemäß dieser Deutung, die
+sich an dem von Popper explizierten Prinzip der Situationslogik orientiert (Popper
+1978: 120f.; 2000: 356; Watkins 1978: 35-43),10 besagt das Rationalitätsprinzip, dass
+sich Wirtschaftssubjekte immer und überall situationsangemessen verhalten. Entspre-
+chend einer solchen Explikation des Rationalitätsprinzips wird der Straftatbestand
+Steuerhinterziehung als Ergebnis situationsangemessenen Handelns verstanden.
+Demzufolge besteht das Ziel der Analyse darin, eine Situation zu rekonstruieren, als
+deren situationsangemessenes Verhalten die Implementierung des Straftatbestands
+Steuerhinterziehung angesehen werden kann. Unter Unsicherheit und Ungleichvertei-
+lung des Wissens stellt dieses situationsangemessene Verhalten keine logische Deduk-
+tion aus der rekonstruierten Situation dar. Es werden lediglich Gründe angeführt, die
+dafür sprechen, dass situationsangemessenes Verhalten vorliegt.11 In einem nächsten
+Schritt ist diese Begründung des Straftatbestands Steuerhinterziehung im Hinblick auf
+den Realitätsgehalt und die Konsistenz der rekonstruierten Situation zu bewerten.12
+Dies geschieht in diesem Beitrag durch den Vergleich mit der rekonstruierten Situati-
+on, die implizit der Argumentation von Beckmann und Schneider zugrunde liegt.
+3. Rekonstruktion des Straftatbestands Steuerhinterziehung
+Im Lichte der in Kapitel 2 skizzierten wirtschaftsethischen und methodologischen
+Position stellt sich die Frage, wie eine Situation beschaffen sein müsste, zu der die
+Entscheidung für eine Regel „Steuerhinterziehung als Straftatbestand“ angemessen
+wäre. Die Rechtfertigung eines Straftatbestands Steuerhinterziehung erfordert zu-
+nächst eine Erklärung dafür, warum Wirtschaftssubjekte Steuern hinterziehen. Steuer-
+________________________
+10 Allerdings sind Poppers Stellungnahmen nicht konsistent. In Popper (1979a: 110f.; 1979b: 167; 1992:
+114f.; 2000: 354) hat das Rationalitätsprinzip den Charakter eines Maßstabs.
+11 Zu berücksichtigen ist, dass auch Rawls (2003: 135f., 208f.) sowie Brennan/Buchanan (1988: 258),
+trotz anderer Informationsannahmen die fehlende Stringenz der Herleitung gesellschaftlicher Regeln
+herausstellen.
+12 Die Bewertung des Realitätsgehalts wird dadurch eingeschränkt, dass in kritisch-realistischer Perspek-
+tive jede Beobachtung im wissenschaftlichen Kontext theoriebeladen ist. Die vorläufige Bestätigung
+oder Widerlegung von Aussagen ist demzufolge nicht objektiv durch „reine“ Beobachtung möglich,
+sondern an (nur intersubjektiv gültige) Vereinbarungen einer wissenschaftlichen Gemeinschaft ge-
+bunden (Popper 1994: 66-76; Albert 1987: 6, 43-62, 107, 111-116). Diese Einschränkung trifft auch
+die hier vorgenommene Qualifizierung, dass Entscheidungssituationen durch Unsicherheit und Un-
+gleichverteilung des Wissens gekennzeichnet sind.
+zfwu 6/2 (2005), 155-172
+159
+160
+hinterziehung ist ihrerseits offensichtlich an das Vorhandensein von Steuern gebun-
+den. Warum sollten sich eigennutzorientierte Wirtschaftssubjekte auf einer konstituti-
+onellen Ebene für eine Besteuerung entscheiden? Eigennutzorientiert handelnde
+Wirtschaftssubjekte werden auf einer konstitutionellen Ebene nur dann für eine
+Besteuerung votieren, wenn sie dafür Einnahmen aus öffentlichen Gütern erhalten
+und diese Einnahmen insgesamt mindestens den geleisteten Aufwendungen entspre-
+chen.13 Darüber hinaus lassen sich Argumente anführen, dass Wirtschaftssubjekte die
+Einführung einer Steuer an den Grundsatz einer horizontal gerechten Besteuerung
+binden, bei der gleiche wirtschaftliche Sachverhalte gleich und ungleiche Sachverhalte
+(relativ gleich) ungleich behandelt werden. Hinter einem Schleier des Nichtwissens ist
+Wirtschaftssubjekten nicht bekannt, ob sie zu den Bevorzugten oder den Benachteilig-
+ten aus einer horizontal ungerechten Besteuerung gehören werden. Deshalb wäre es
+situationsangemessen, sich für eine horizontal gerechte Besteuerung zu entscheiden.
+Ferner ist zu berücksichtigen, dass eine horizontal ungerechte Besteuerung Umvertei-
+lungseffekte hervorruft, von denen nicht gesagt werden kann, inwieweit diese einer
+unter Umständen gewünschten Umverteilung entsprechen.14 Denn die Position eines
+Bevorzugten oder Benachteiligten korreliert nur zufällig mit der eines Reichen oder
+Armen.15
+Wenn für die sozialvertragliche Einigung einer Steuer als Gegenleistung für öffentliche
+Güter Gründe angeführt werden können, stellt sich die Frage, warum es notwendig
+ist, einen (gesellschaftliche Kosten verursachenden) Sanktionsmechanismus zu imp-
+lementieren, der den Vertragsbruch sanktioniert: Warum sollten Individuen, die
+Interesse an einer sozialvertraglichen Regelung haben, ihrer Verpflichtung nicht
+nachkommen? Ein denkmöglicher Anreiz zur Steuerhinterziehung und damit zum
+Vertragsbruch resultiert erstens aus dem Charakteristikum, dass (bestimmte) öffentliche
+Güter vom Konsum nicht ausschließen. Zweitens ist die Position der betroffenen
+Individuen von den Entscheidungen anderer Wirtschaftssubjekte abhängig. Dies sei
+an dem folgenden Beispiel illustriert: Unterstellt sei eine Zwei-Personen-Gesellschaft,
+in der sich die beiden Personen in einer identischen wirtschaftlichen Situation befin-
+den, so dass die horizontal gerechte Steuer in absolut gleicher Höhe auf beide verteilt
+________________________
+13 Eine solche abstrakte Äquivalenz wird nach der hier vertretenen Auffassung mit § 3 Abs. 1 AO (und
+der darin verankerten Ablehnung des Äquivalenzprinzips) als vereinbar angesehen. Öffentliche Güter
+werden hier auf solche beschränkt, bei denen kein Ausschluss vom Konsum besteht, siehe zur Defi-
+nition öffentlicher Güter statt vieler Kirchgässner (2001: 55-58).
+14 Die Frage, inwieweit in dieser Perspektive Argumente für vertikale Steuergerechtigkeit angeführt
+werden können, bleibt in diesem Beitrag unberücksichtigt.
+15 Auch wenn sich Wirtschaftssubjekte auf konstitutioneller Ebene nicht hinter einem Schleier des
+Nichtwissens befinden, sind nicht nur für die Benachteiligten, sondern auch für die Bevorzugten
+Vorteile aus einer horizontal gerechten Besteuerung denkbar. Für Bevorzugte besteht ein Anreiz,
+wenn sie erwarten, dass die Benachteiligten durch entsprechende Sachverhaltsgestaltungen versuchen
+werden, der Ungerechtigkeit zu entgehen und wenn damit zu rechnen ist, dass der hieraus für die Be-
+vorzugten entstehende Nachteil den Vorteil aus der Ungerechtigkeit überkompensiert. Ein solcher
+Nachteil könnte daraus resultieren, dass aufgrund von Sachverhaltsgestaltungen gesunkene Steuer-
+einnahmen sinkende „Einnahmen“ aus der Inanspruchnahme des Gemeinwesens zur Folge haben.
+wird. Vereinbart ist, dass jeder Vertragspartner eine Steuer in Höhe von 2 Geldeinhei-
+ten leistet. Beide Personen bewerten auch die Einnahmen aus dem Gemeinwesen
+gleich. Die Gesamteinnahmen betragen das 1,5-fache der gezahlten Steuern. In dieser
+Gesellschaft existiere keine Sanktion der Steuerhinterziehung.16 Des Weiteren sei
+unterstellt, die Handlungsstrategien der beiden Personen beschränkten sich darauf,
+Steuern in voller Höhe zu zahlen oder in voller Höhe zu hinterziehen. Hinsichtlich der
+Ergebnisse dieser Entscheidungen bestehe Sicherheit und das Wissen über diese
+jeweiligen Entscheidungsalternativen sei gleichverteilt. Damit entsteht die folgende
+„Dilemmasituation“: Jedes Wirtschaftssubjekt kann die hälftige Gesamteinnahme in
+Anspruch nehmen, unabhängig davon, ob es selbst zahlt oder nicht. Dementspre-
+chend ergäbe sich für jeden die höchste Nettoeinnahme, wenn er selbst hinterzieht,
+der andere hingegen zahlt. Gleichzeitig muss aber jeder damit rechnen, dass nicht nur
+er selbst mit dem Gedanken spielt, nicht zu zahlen, sondern auch der andere diese
+Strategie in Erwägung zieht. Zahlen beide nicht, entsteht kein öffentliches Gut. Zahlt
+nur einer, so tritt für ihn die schlechteste Position ein, weil er die Einnahme mit dem
+anderen teilen, die Steuern hingegen allein aufbringen muss.
+Die folgende Matrix gibt die jeweilige Nettoeinnahme der betroffenen Personen in
+Abhängigkeit vom Verhalten der anderen Person wieder:
+2
+Bezahlt
+Hinterzogen
+1
+Bezahlt
+1/1
+Hinterzogen
+1,5/-0,5
+-0,5/1,5
+0/0
+Abbildung 1: Illustration des Steuerzahlungsdilemmas
+Unter den gegebenen Annahmen ist für beide Personen die Strategie „Hinterziehung“
+dominant. Denn diese ist für beide unabhängig von der Entscheidung der anderen
+Person vorteilhaft: Zahlt der andere, partizipiert der Hinterzieher als Trittbrettfahrer
+am öffentlichen Gut. Hinterziehen beide, verhindern sie zumindest ihre jeweils
+schlechteste Position, in der sie dem anderen das Trittbrettfahren ermöglichen. Das
+Ergebnis – es hinterziehen beide – ist dadurch gekennzeichnet, dass sich keine Person
+durch Abweichen von ihrer Strategie verbessern kann, solange die andere Person bei
+ihrer Strategie bleibt. Allerdings wäre es für jede einzelne Person – also nicht erst in
+________________________
+16 Hiervon abgesehen wird aber die bundesdeutsche Rechtsordnung, insbesondere eine freiheitlich-
+demokratische Grundordnung als gegeben unterstellt.
+zfwu 6/2 (2005), 155-172
+161
+162
+der gesamtgesellschaftlichen Perspektive, die einen interpersonellen Nutzenvergleich
+voraussetzen würde – besser, wenn beide kooperieren würden.17
+Hebt man die Annahmen „Sicherheit“ und „gleichverteiltes Wissen“ auf, fehlt die
+entscheidungslogische Stringenz, mit der die Hinterziehung beider Personen erzwun-
+gen wird.18 Gleichwohl ist zu berücksichtigen, dass die Vereinbarung, Steuern zur
+Finanzierung öffentlicher Güter zu zahlen, auch dann in ihrer Umsetzung durch
+Anreize zur Defektion gefährdet ist: Erstens gibt die Möglichkeit des Free-Ridings den
+Anreiz, sich als Defektierer zu verhalten, was jedoch nicht bedeutet, dass sich zwin-
+gend jeder als solcher verhält. Zweitens motiviert unter Umständen auch die Sorge um
+das mögliche Defektieren des anderen die ursprünglich kooperationsbereite Person
+zur Hinterziehung (Homann 2002a: 78-84). Beide Anreize verstärken sich mit zuneh-
+mender Anzahl der Personen, die die gegenteilige Strategie anwenden: Der Vorteil des
+Defektierers steigt mit der Anzahl kooperationsbereiter Personen. Ebenso nimmt der
+Nachteil des Kooperativen mit der Anzahl der Defektierer zu. In einer Mehrperso-
+nengesellschaft unter Unsicherheit und Ungleichverteilung des Wissens ist zwar nicht
+der „Zusammenbruch“ der Produktion öffentlicher Güter zu erwarten. Wenn aber
+Defektieren eine typische Handlungsweise darstellt – es ist nicht erforderlich, dass alle
+Steuerpflichtigen immer und überall defektieren –, ist zumindest die verringerte
+Produktion öffentlicher Güter zu erwarten. Darüber hinaus wird eine ursprünglich
+vereinbarte Gleichmäßigkeit der Besteuerung nicht umgesetzt. Steuern werden zwar
+nach der gesetzlichen Konzeption gleichmäßig verteilt, aber nicht gleichmäßig gezahlt.
+Diese Erklärung von Steuerhinterziehungsverhalten setzt offensichtlich voraus, dass
+Steuerpflichtige die Steuerzahlung nicht isoliert, sondern in Verbindung mit Einnah-
+men aus dem öffentlichen Gemeinwesen betrachten. Empirische Untersuchungen
+heben eine solche Verknüpfung hervor (Pommerehne/Weck-Hannemann 1992:
+460f.). Blendet man die Einnahmenseite aus, würden eigennutzorientierte Steuer-
+pflichtige immer – losgelöst von dem Verhalten anderer Gesellschaftsmitglieder und
+unabhängig von der Möglichkeit zum Trittbrettfahren – versuchen, Steuerhinterzie-
+hung zu maximieren.19
+Ein Straftatbestand Steuerhinterziehung würde den Anreiz zu einer solchen Defektion
+verringern: Wird Steuerhinterziehung unter Strafe gestellt und entsprechend verfolgt,
+ist davon auszugehen, dass ein potentieller Defektierer die Möglichkeit der Geld-
+________________________
+17 Die Verknüpfung von Steuerhinterziehung und Gefangenendilemma ist nicht neu. Siehe hierzu
+Gaertner (1988: 112-128). Allerdings verwendet Gaertner dieses nicht (wie hier) in vertragstheoreti-
+scher Perspektive zur Begründung des Steuerstraftatbestands. Vielmehr grenzt Gaertner diese spiel-
+theoretische Erklärung (unter Berücksichtigung spieltheoretischer Rationalität) des Steuerhinterzie-
+hungsverhaltens vom klassischen Erklärungsmodell der Steuerhinterziehung, das gesellschaftliche
+Probleme weitgehend unberücksichtigt lässt, ab. Siehe zu einem kurzen Hinweis zur Deutung der
+Steuerhinterziehungsproblematik als Dilemmaproblem auch Homann (1999: 80) und Leschke (1997:
+159f., 168-172), zur Untermauerung seiner Hypothese, steuer(un)ehrliches Verhalten sei durch einen
+Hysteresis-Effekt gekennzeichnet.
+18 Siehe kritisch zur spieltheoretischen Rationalität Watkins (1978: 74f.), Schneider (2001: 440-442).
+19 Siehe zu einer entscheidungslogischen Analyse der Vorteilhaftigkeit von Steuerhinterziehung unter
+Berücksichtigung steuerstrafrechtlicher Regelungen Hundsdoerfer (1996: 22, 87-102).
+und/oder Freiheitsstrafe in seinem Kalkül berücksichtigt. Steuerhinterziehung wird
+demzufolge weniger attraktiv. Dieses Wissen könnte gleichzeitig die Bereitschaft des
+(ursprünglich) Kooperativen erhöhen, sich weiterhin kooperativ zu verhalten. Auf den
+ersten Blick spricht hiergegen jedoch eine auf die Schweiz bezogene ökonometrische
+Untersuchung von Weck-Hannemann und Pommerehne, nach der kein statistisch signifi-
+kanter Zusammenhang zwischen der Höhe des Strafmaßes und dem Ausmaß der
+Steuerhinterziehung bestehe.20 Allerdings ist dieses Resultat zu relativieren: Weck-
+Hannemann und Pommerehne erfassen in dieser Untersuchung die Abweichung zwischen
+tatsächlichem Einkommen gemäß Volkseinkommensberechnung (in modifizierter
+Form) und Einkommen gemäß Steuerstatistik. Damit berücksichtigen sie nicht nur
+vorsätzlich, sondern auch fahrlässig verheimlichte Einkommensteile. Des Weiteren wird
+das Strafmaß durch den objektiven Steuerstrafsatz approximiert. Dabei erfolgt keine
+Differenzierung zwischen Steuerstrafen für einfache Steuerhinterziehung und Steuer-
+strafen für Steuerbetrug (Weck-Hannemann/Pommerehne 1989: 523-531, 548-552).
+Die schweizerische Strafe für eine einfache Steuerhinterziehung umfasst Fahrlässigkeit
+und bestimmte vorsätzliche Handlungen und entspricht hinsichtlich ihrer moralischen
+Indifferenz der Geldbuße einer Steuerordnungswidrigkeit nach deutschem Recht, die
+allerdings Vorsatz ausschließt. Ein moralisch negatives Werturteil trifft nach schweize-
+rischem Recht nur den Steuerbetrug. Dieser ist mit der Steuerhinterziehung im deut-
+schen Recht hinsichtlich des Vorsatzes als Tatbestandsmerkmal vergleichbar. Aller-
+dings setzt ein Steuerbetrug darüber hinaus auch die Verwendung verfälschter oder
+inhaltlich unwahrer Urkunden (z. B. Geschäftsbücher, Bilanzen, nicht hingegen die
+Steuererklärung) voraus (z. B. Artikel 247-275 Steuergesetz St. Gallen; Kirchgässner
+2001: 10). Entgegen dieser fehlenden Differenzierung bei Weck-Hannemann und
+Pommerehne ist aber zu vermuten, dass sich eine moralisch indifferente Geldstrafe auf die
+Sorgfalt des Handelns anders auswirkt als auf die vorsätzliche einfache Steuerhinterziehung.
+Überdies werden sich diese Wirkungen von der Wirkung einer Geldstrafe, die ein mora-
+lisch negatives Werturteil impliziert, auf den vorsätzlichen Steuerbetrug unterscheiden. Erstens
+ist zu vermuten, dass eine als kriminell gewertete Strafe, die auch die Möglichkeit der
+Freiheitsstrafe inkludiert, eine höhere Abschreckungswirkung entfaltet als eine mora-
+lisch neutrale Geldstrafe. Zweitens ist zu erwarten, dass ein gesetzlich getroffenes
+moralisch negatives Werturteil – anders als eine moralisch indifferente Geldstrafe –
+die inhaltliche Ausbildung individueller Steuermoral, mithin die Bereitschaft zur
+Kooperation, beeinflusst.21 Deshalb wird hier davon ausgegangen, dass ein Straftatbe-
+stand Steuerhinterziehung zur Verringerung von Steuerhinterziehung und somit zur
+Umsetzung der getroffenen gesellschaftsvertraglichen Besteuerungsvereinbarung
+beiträgt.
+________________________
+20 Siehe hingegen zu unterschiedlichen Ergebnissen experimenteller Untersuchungen im Hinblick auf
+den Einfluss von Steuerstrafen den Überblick bei Kirchler/Maciejovsky (2002: 5-8).
+21 Siehe zur Herausstellung der Steuermoral beispielsweise Kirchgässner (2001: 5), Mackscheidt (2004).
+Siehe zu unterschiedlichen Möglichkeiten, Steuermoral in ökonomische Betrachtungen zu integrieren,
+Schmidchen (1994).
+zfwu 6/2 (2005), 155-172
+163
+164
+Als Zwischenergebnis ist somit festzuhalten: Sofern Wirtschaftssubjekte auf konstitu-
+tioneller Ebene der hier vorgelegten Erklärung von Steuerhinterziehungsverhalten
+folgen, ist die Entscheidung für einen Straftatbestand Steuerhinterziehung situations-
+angemessen. Damit ist allerdings noch nichts über die inhaltliche Ausgestaltung des
+Straftatbestands, insbesondere über das Strafmaß, gesagt. Verlangt man, dass sich das
+Strafmaß in die Rechtsordnung einfügt – und nicht etwa, dass Steuerhinterziehung
+umfassend vermieden wird, was drastisch hohe Strafen erfordern würde –, ist das
+Strafmaß im deutschen Recht konsistent: Das Strafmaß für Steuerhinterziehung
+entspricht dem des Betrugs nach § 263 StGB. In vertragstheoretischer Perspektive ist
+Steuerhinterziehung ein Betrug gegenüber dem Steuerehrlichen.22 Im Folgenden ist zu
+prüfen, ob dieses Ergebnis durch die Argumentation von Beckmann oder den Ansatz
+von Schneider in Frage gestellt wird. Dazu wird die hier rekonstruierte Situation jeweils
+mit der von Beckmann und von Schneider auf ihren Realitätsgehalt und ihre Konsistenz
+verglichen.
+Beckmann legt eine andere Erklärung des Steuerhinterziehungsverhaltens vor. Nach
+Beckmann wirkt Steuerhinterziehung in einem Leviathan-Staat, der bestrebt ist, das
+verfügbare Steueraufkommen nach Abzug produktiver Aufwendungen zu maximie-
+ren, ausgabenmindernd. Beckmann konzediert, die Realitätsnähe des Leviathan-Staates
+sei zu hinterfragen.23 Akzeptiere man jedoch das Leviathan-Modell, seien Konstellati-
+onen konstruierbar, in denen diese Budgetbeschränkung zum gesellschaftlichen
+Vorteil führe. Deshalb sei es möglich, dass sich die Bürger auf einer konstitutionellen
+Ebene gegen die Sanktionierung von Steuerhinterziehung aussprechen (Beckmann
+2003: 225-236, 324f.). Beckmann legt damit zwar ebenfalls einen vertragstheoretischen
+Bezugsrahmen zugrunde. Er betrachtet aber nicht das Verhältnis der Wirtschaftssubjekte
+untereinander, sondern deren Verhältnis zum Leviathan-Staat. Dass die Entscheidungs-
+kompetenz sowohl über die Produktion öffentlicher Güter als auch über die Vor-
+schriften zur gleichmäßigen Verteilung der Steuerlast „in der Realität“ von der Ge-
+samtheit der Sozialvertragspartner den politischen Agenten übertragen wird, bleibt
+hingegen in der hier vorgelegten Erklärung des Steuerhinterziehungsverhaltens unbe-
+rücksichtigt. Wenn diese Übertragung ausgeblendet wird, dann nicht, weil Interes-
+senskonflikte zwischen Prinzipalen und politischen Agenten negiert werden. Anders als
+von Beckmann wird Steuerhinterziehungsverhalten aber nicht aus dem Vorhandensein
+solcher Interessenskonflikte erklärt, so dass diese zur Vereinfachung unbeachtet
+bleiben können.
+Beckmann unterstellt den Individuen neoklassische Rationalität. Er modelliert die
+Besteuerung als Spiel zwischen Leviathan-Staat und einem repräsentativen Steuer-
+pflichtigen. Danach zahlen Steuerpflichtige Steuern, soweit diese zum gesellschaftli-
+________________________
+22 Siehe zu einer solchen Qualifizierung auch Tipke (1993: 1412–1414). Allerdings wird im juristischen
+Schrifttum überwiegend die Auffassung vertreten, das durch den Steuerstraftatbestand zu schützende
+Rechtsgut sei das Vermögensinteresse des steuererhebenden Staates, siehe Joecks (2005: Einleitung,
+Rz. 8-11b).
+23 Siehe hingegen zur Deutung des Leviathan-Staates als denkmögliches, nicht hingegen immer und
+überall gegebenes staatliches Verhalten Brennan/Buchanan (1988: 19f.).
+chen Vorteil führen, wobei Beckmann zwischen verschiedenen Konstellationen der
+Feststellung dieses Vorteils unterscheidet. Darüber hinaus auferlegte Steuern werden
+hinterzogen. Dieses Verhalten der Steuerpflichtigen erfordert jedoch entweder das
+Wissen um die gesellschaftliche Vorteilhaftigkeit oder eine „unsichtbare Hand“, die
+die Übereinstimmung zwischen eindeutig zu bestimmendem individuellem und gesell-
+schaftlichem Vorteil herbeiführt. Sofern man Unsicherheit und Ungleichverteilung des
+Wissens als Erfahrungstatbestände qualifiziert, existieren weder dieses Wissen noch
+diese „unsichtbare Hand“. Damit bleibt offen, wie es dazu kommen soll, dass nur bis
+zur Erreichung gesellschaftlicher Vorteilhaftigkeit Steuern gezahlt, darüber hinaus
+Steuern hinterzogen werden.
+Die von Beckmann rekonstruierte Situation erfordert weiter, dass der zu hinterziehende
+Betrag beliebig gestückelt werden kann und für Steuerpflichtige die Möglichkeit zur
+Steuerhinterziehung gleichmäßig verteilt ist. Es dürften demzufolge beispielsweise
+keine Unterschiede in der Erhebungsform bestehen, so wie sie die Ertragsbesteuerung
+des geltenden deutschen Rechts vorsieht. Schließlich bleibt in den Überlegungen
+Beckmanns die skizzierte Dilemmaproblematik der Besteuerung unberücksichtigt. Die
+Möglichkeit des eigenen Free-Ridings geht in das Kalkül der Steuerpflichtigen ebenso
+wenig ein wie die Überlegung, dass sich andere Steuerpflichtige als Trittbrettfahrer
+verhalten könnten. Vielmehr bleibt die Hinterziehungsentscheidung des einzelnen
+Steuerpflichtigen von den Auswirkungen des (möglichen) Steuerhinterziehungsverhal-
+tens anderer Steuerpflichtiger unbeeinflusst. Losgelöst davon, ob man mit Homann
+Dilemmastrukturen generell (Homann 2002b: 114-117) oder im Zusammenhang mit
+Steuerhinterziehung als realistisch erachtet, ist die Argumentation Beckmanns inkonsis-
+tent: Zwar handeln politische Agenten bei der Verfolgung ihres Nutzens auf Kosten
+von Steuerpflichtigen. Steuerpflichtige ziehen aber untereinander eine solche Möglich-
+keit nicht in Betracht. Aufgrund dieser Einwände wird die von Beckmann rekonstruier-
+te Situation im Vergleich zur hier vorgelegten Situationsrekonstruktion als weniger
+realistisch und konsistent angesehen.
+Anders als Beckmann argumentiert Schneider nicht in einer vertragstheoretischen – und
+damit in Bezug auf die Erklärung von Steuerhinterziehung auch erfahrungswissen-
+schaftlichen – Perspektive, sondern in einem „ausschließlich“ ethischen Bezugsrah-
+men. Nach Schneider ist Steuerhinterziehung gegenüber dem Staat nicht unmoralisch,
+solange politische Agenten Steuergelder verschwenden. Steuerhinterzieher handeln
+nach Schneider ebenso wenig unmoralisch gegenüber Steuerehrlichen, solange Gleich-
+mäßigkeit der Besteuerung nicht näherungsweise verwirklicht ist.24 Allerdings ist zu
+vermuten, dass sich das Urteil Schneiders, Steuerhinterziehung sei kein Regelverstoß,
+auf eine moralische Bewertung beschränkt. Denn wenn Schneider betont, Ethik werde
+„lediglich mißbraucht, wenn sie als Lehre von der einseitigen Verpflichtung des Unter-
+________________________
+24 Anders als Schneider vertritt Siegel hingegen die Auffassung, Steuerhinterziehung als Notwehr setze
+„ein erhebliches Ausmaß des faktischen Unrechts voraus“, was im geltenden Recht nicht verwirklicht
+sei. Darüber hinaus expliziert Siegel (1999: 391) aber faktisches Unrecht dahingehend, dass „ein stark
+überwiegender Teil der Steuerzahler sanktionslos Steuern“ hinterzieht. Siehe zur Anerkennung von
+Steuerhinterziehung als „Notwehr“ bereits Findeisen (1923: 173).
+zfwu 6/2 (2005), 155-172
+165
+166
+tanen benutzt wird, um Staatsmacht vorab durch moralisches An-den-Pranger-stellen
+und nicht nur über Strafandrohungen durchzusetzen“ (Schneider 1997b: 487), scheint
+Schneider nicht für eine Straffreiheit der Steuerhinterziehung einzutreten. Schneider
+plädiert offensichtlich lediglich gegen ein darüber hinaus gehendes Erzwingen von
+Steuerehrlichkeit durch moralisch negative Werturteile (Schneider 1997b: 487-490).
+Konsequenter wäre es dann allerdings, wenn Schneider sich dafür aussprechen würde,
+Steuerhinterziehung überhaupt nicht zu sanktionieren oder aber nur als moralisch
+neutrale Steuerordnungswidrigkeit zu qualifizieren.
+Ungeachtet dessen stellt Schneider eine Frage in den Raum, die seiner Auffassung nach
+die Wirtschaftsethik zu beantworten unterlassen habe. Schneider fragt: „Nimmt das
+Nichteinhalten ethischer Normen im Steuerrecht und bei der Staatseinnahmenver-
+wendung gesetzeswidrigem Handeln einzelner Stpfl. den moralischen Makel, auch
+gegenüber den Steuerehrlichen?“ und beantwortet dies eindeutig positiv (Schneider
+1997b: 489f.).25 Im Folgenden wird diese Frage in modifizierter Form aufgegriffen.
+Gefragt wird, ob die Verschwendung von Steuergeldern und die Nichtverwirklichung
+gleichmäßiger Besteuerung gegen einen Straftatbestand Steuerhinterziehung sprechen. Mit
+anderen Worten: Ist anzunehmen, dass Wirtschaftssubjekte auf einer konstitutionellen
+Ebene Steuerhinterziehung nur dann als Regelverstoß ansehen, sofern gewährleistet
+ist, dass in der nachkonstitutionellen Phase öffentliche Güter ordnungsgemäß produ-
+ziert werden und Gleichmäßigkeit der Besteuerung besteht? Zur Beantwortung dieser
+Frage wird davon ausgegangen, dass die Wirtschaftssubjekte auf konstitutioneller
+Ebene der hier vorgelegten Erklärung der Steuerhinterziehung folgen und dass sie in
+dieser gewählten Perspektive konsistent entscheiden: Gemäß der hier vorgetragenen
+Argumentation wird die Verpflichtung zur Steuerzahlung als Verpflichtung der Ge-
+sellschaftsmitglieder untereinander angesehen. Hiervon ist die sich anschließende
+Beauftragung der Agenten durch die Gesamtheit der Gesellschaftsmitglieder zu
+trennen. Gemäß dieser zwei Verträge würde die Sanktionierung von Regelverstößen
+der politischen Agenten mittels Steuerhinterziehung in Kauf nehmen, dass die Gesell-
+schaftsmitglieder gegen den zwischen ihnen zuvor geschlossenen Gesellschaftsvertrag
+verstoßen. Selbst wenn man diesen Verstoß tolerieren würde, spräche hiergegen, dass
+sich die Gesellschaftsmitglieder durch Steuerhinterziehung nur ihrer Verpflichtung
+entledigen, gleichwohl aber an den öffentlichen Gütern, von deren Konsum sie nicht
+ausgeschlossen werden können, partizipieren. Es liegt damit nur ein einseitiger „Aus-
+stieg“ aus der Verpflichtung gegenüber den Gesellschaftsmitgliedern vor.26 Auch
+wenn Steuerhinterziehung geeignet sein könnte, das Handeln politischer Agenten zu
+steuern, wirkt sich Steuerhinterziehung zu Lasten der nicht hinterziehenden Gesell-
+schaftsmitglieder aus. Dies wiegt umso schwerer, als dass die Chance zur Steuerhinter-
+ziehung von der steuerlichen Behandlung der wirtschaftlichen Position abhängt. Selbst
+________________________
+25 Siehe zu einer solchen Auffassung im Hinblick auf die effiziente Produktion öffentlicher Güter auch
+Kirchgässner (2001: 10), allerdings ohne Berücksichtigung horizontaler Steuergerechtigkeit.
+26 In diesem Zusammenhang ist es bemerkenswert, dass Buchanan (1985: 10–12), der ethische Grenzen
+in der Höhe der Besteuerung zur Begrenzung des Leviathan-Staates formuliert, diese an einen umfas-
+senden Ausstieg von Rechten und Pflichten bindet.
+wenn alle Steuerpflichtigen die politischen Agenten durch Steuerhinterziehung sankti-
+onieren wollten, hätten dazu nicht alle die Gelegenheit. Denn die Möglichkeit zur
+Steuerhinterziehung ist bereits ungleichmäßig verteilt, wenn unterschiedliche Erhe-
+bungsformen – Quellenabzug einerseits, Veranlagung andererseits – vorliegen.
+Schließlich besteht das Problem, hinsichtlich der Explikation einer gleichmäßigen
+Besteuerung Übereinstimmung zu erzielen. Von offensichtlichen Extremfällen abge-
+sehen – beispielsweise der ausschließlichen Einkommensbesteuerung weiblicher oder
+männlicher Steuerpflichtiger –, wird kein Konsens über die inhaltliche Ausdifferenzie-
+rung des Grundsatzes der Gleichmäßigkeit und somit darüber zu erzielen sein, wann
+Steuerhinterziehung zulässig ist und wann nicht. Dazu ist es nicht erforderlich, auf das
+subjektive Gerechtigkeitsgefühl von Steuerpflichtigen und die damit einhergehenden
+unterschiedlichen Auffassungen in einer nachkonstitutionellen Phase hinzuweisen.
+Auch hinter einem Schleier des Nichtwissens, der das subjektive, von der jeweiligen
+Position abhängige, Gerechtigkeitsgefühl ausblendet, ist ein Konsens nicht zu erwar-
+ten. Denn allein die im ökonomischen Schrifttum geführte wissenschaftliche Kontroverse
+darüber, ob Gleichmäßigkeit der Besteuerung durch eine Einkommensbesteuerung
+(Schneider 2002: 231-274) oder eine Konsumbesteuerung (Wagner 2003: 377) reali-
+siert wird, zeigt die Schwierigkeit, einen Regelverstoß an verwirklichte Ungleichmäßig-
+keit zu binden.
+Diese Argumente sprechen gegen Steuerhinterziehung als zulässiges Sanktionsinstru-
+ment politischer Agenten. Das heißt nicht, dass Sanktionierungsmöglichkeiten nicht
+als notwendig erachtet werden, sondern nur, dass Steuerhinterziehung ein ungeeigne-
+tes Sanktionsmittel darstellt.27 Eine Trennung zwischen „Prinzipalvertrag“ und der
+Beauftragung von Agenten sowie einer daraus resultierenden eigenständigen Sanktio-
+nierung von Agenten ist im Übrigen auch in anderem Kontext gebräuchlich: So wird
+beispielsweise ein GmbH-Gesellschafter von seiner Einlagepflicht gegenüber der
+Gesellschaft nicht befreit, weil der GmbH-Geschäftsführer seinen Verpflichtungen
+nicht nachkommt. Gegen den pflichtwidrig handelnden Geschäftsführer kommen
+eigene Sanktionsmaßnahmen zur Anwendung: Der Geschäftsführer haftet nach § 43
+Abs. 2 GmbHG der Gesellschaft für den entstandenen Schaden.28
+Sofern die Wirtschaftssubjekte auf konstitutioneller Ebene der hier vorgelegten Erklä-
+rung der Steuerhinterziehung folgen, wäre es inkonsistent, wenn sie Steuerhinterzie-
+hung nur dann als Regelverstoß ansehen würden, sofern öffentliche Güter ordnungs-
+gemäß produziert und Gleichmäßigkeit der Besteuerung gewahrt würde. Die hier
+vorgelegten Argumente für einen Straftatbestand Steuerhinterziehung werden somit
+weder durch die – in eine vertragstheoretische Perspektive eingebundene – erfah-
+________________________
+27 Dass solche Instrumente vorliegen, wird hier mit der Annahme einer freiheitlich-demokratischen
+Grundordnung unterstellt (siehe Fn. 16). Eine andere – hier nur im Hinblick auf steuerliche Regeln in
+Kapitel 4 thematisierte – Frage ist die, ob diese Sanktionsmöglichkeiten ausreichen oder verbesse-
+rungsfähig sind.
+28 Siehe zur Ablehnung eines individuellen Widerstandsrechts gegen das Handeln politischer Agenten
+Kirchgässner (2001: 11), dessen Argumentation von der hier vorgelegten sich jedoch erheblich unter-
+scheidet, insbesondere die aufgezeigte Dilemmastruktur nicht thematisiert.
+zfwu 6/2 (2005), 155-172
+167
+168
+rungswissenschaftliche Argumentation von Beckmann noch durch die (hier modifizier-
+te) „ausschließlich“ ethische Argumentation von Schneider entkräftet.
+4.
+Implikationen eines Straftatbestands Steuerhinterziehung
+Übernimmt man die hier vorgetragene Position, dass der Straftatbestand Steuerhinter-
+ziehung in einer Welt mit Unsicherheit und Ungleichverteilung des Wissens auch dann
+begründet ist, wenn politische Agenten Steuergelder verschwenden und Gleichmäßig-
+keit der Besteuerung angezweifelt wird, ergeben sich hieraus die folgenden grundle-
+genden Konsequenzen: Ein implementierter Straftatbestand Steuerhinterziehung
+entfaltet seine Wirkung nur dann, wenn er kontinuierlich verfolgt wird: Deshalb ist
+eine Steueramnestie, so wie sie jüngst das deutsche Recht im Strafbefreiungserklä-
+rungsgesetz mit dem Anreiz (vermeintlich) günstiger Steuersätze vorsah,29 aus zwei
+Gründen abzulehnen. Erstens büßt das moralisch negative Werturteil seine Glaubwür-
+digkeit ein. Um Steuereinnahmen zu erzielen, wird Steuerhinterziehung ex post legali-
+siert. Ein moralisch negatives Werturteil lässt jedoch solche Ausnahmen nicht zu.
+Vielmehr wird der Eindruck vermittelt, dass der Straftatbestand Steuerhinterziehung
+weniger von einer moralischen Einschätzung der Steuerhinterziehung als vielmehr
+vom Finanzbedarf des Staates determiniert ist. Von dieser öffentlichen Einschätzung
+sind Auswirkungen auf die Steuermoral und daraus auf das Steuerzahlungsverhalten
+zu erwarten. Etwas anderes gilt hingegen für die Selbstanzeige nach § 371 AO. Gäbe
+es diese Möglichkeit der straffreien Rückkehr in die Steuerehrlichkeit unter „norma-
+ler“ Besteuerung nicht, wäre dieser Weg häufig verschlossen: Steuerehrliches Verhal-
+ten späterer Perioden – beispielsweise die Angabe von Zinsen in entsprechender
+Höhe – trägt die Gefahr der Entdeckung früherer Steuerhinterziehung in sich. Gegen
+eine Steueramnestie spricht zweitens, dass damit die Unzulänglichkeit der Aufdeckung
+von Steuerhinterziehungen eingestanden wird. Es ist davon auszugehen, dass dieses
+Eingeständnis fehlender Kontrolleffizienz die Abschreckungswirkung des Straftatbe-
+stands Steuerhinterziehung negativ beeinflusst.30
+Des Weiteren erfordert ein implementierter Straftatbestand Steuerhinterziehung, dass
+diese konsistent und umfassend verfolgt wird. Deshalb ist bei der Konzeption von
+Steuergesetzen die „Hinterziehungsanfälligkeit“ von Besteuerungsregeln – wie sie im
+deutschen Steuerrecht beispielsweise für Einkünfte aus Kapitalvermögen oder aus
+privaten Veräußerungsgeschäften besteht – zu berücksichtigen. Die Möglichkeit der
+Steuerhinterziehung ist bereits im materiellen Recht einzuschränken. Außerdem sind
+verfahrensrechtliche Maßnahmen notwendig, die die Überprüfung des Steuerzahlungsver-
+haltens ermöglichen. Ein Straftatbestand Steuerhinterziehung entfaltet seine Abschre-
+ckungswirkung nur, wenn er mit entsprechenden Kontrollen verbunden ist. In dieser
+Perspektive ist der in § 30a AO festgelegte Schutz von Bankkunden kritisch, eine
+________________________
+29 Breithecker (2003) hebt hervor, dass sich die Vorteilhaftigkeit der Steueramnestie im Vergleich zur
+Selbstanzeige auf wenige Bereiche beschränkt. Vermutlich liegt hierin auch eine Ursache, dass die
+Inanspruchnahme der Steueramnestie weit hinter den ursprünglichen Erwartungen zurückblieb.
+30 Siehe kritisch zur Steueramnestie Andreoni et al. (1998: 853f.).
+umfassendere Kontrollmöglichkeit der Finanzverwaltung, beispielsweise die Möglich-
+keit zu Kontoabfragen, grundsätzlich positiv zu beurteilen.31
+Außerdem zeigt die hier vertretene Position, nach der Steuerhinterziehung als Sankti-
+onsmaßnahme politischer Agenten abgelehnt wird, die Notwendigkeit auf, andere
+Maßnahmen zur Kontrolle und Sanktion politischer Agenten zu entwickeln und zu
+kodifizieren. Im Hinblick auf die Besteuerung ist hier an eine Eingrenzung des diskre-
+tionären Spielraums politischer Agenten zu denken. In diesem Sinne kann der Vor-
+schlag Schneiders verstanden werden, die Anzahl von Steueränderungsgesetzen auf ein
+Gesetz pro Jahr zu limitieren (Schneider 1997b: 490). Zu überdenken wäre aber auch,
+ob nicht die im deutschen Recht verankerte Zielsetzung einer vertikalen Steuergerech-
+tigkeit aufgegeben und statt dessen Umverteilung durch andere, die politischen Agen-
+ten besser zu kontrollierende Instrumente, angestrebt werden sollte (Elschen 1989:
+277f.).32 Schließlich ist auch im Rahmen des Besteuerungsverfahrens darauf zu achten,
+dass Kontrollmaßnahmen der Finanzverwaltung ebenfalls der Überwachung unterlie-
+gen, politische Agenten somit selbst wiederum kontrolliert werden. Dass die Einhal-
+tung solcher „Mindeststandards“ nicht von vornherein gewährleistet ist, sondern
+eingefordert werden muss, zeigt die insoweit kritisch zu beurteilende gesetzliche
+Neuregelung der §§ 93 Abs. 7, 8, 93b AO, mit der der Finanzverwaltung Kontoabfra-
+gen ermöglicht werden.
+Ein Straftatbestand Steuerhinterziehung, so lässt sich resümieren, setzt voraus, auch
+die in diesem Kapitel aufgezeigten „Nebenwirkungen“ anzuerkennen.
+5.
+Ergebnis
+Das deutsche Steuerrecht qualifiziert Steuerhinterziehung als kriminelle Steuerstraftat,
+die nach § 370 AO mit einer Freiheitsstrafe bis zu fünf Jahren, in besonders schweren
+Fällen bis zu 10 Jahren, oder einer Geldstrafe bestraft wird. Gemäß der hier vorge-
+nommenen Analyse ist diese gesetzliche Regelung begründet: Steuerhinterziehung
+resultiert aus der Dilemmaproblematik der Besteuerungssituation. Der Anreiz zum
+Trittbrettfahrerverhalten sowie das Wissen um mögliches Free-Riding anderer Gesell-
+schaftsmitglieder führen in einer Mehrpersonengesellschaft unter Unsicherheit und
+Ungleichverteilung des Wissens zwar nicht unbedingt den Zusammenbruch der
+Produktion öffentlicher Güter herbei, verringern diese aber und verhindern überdies
+bereits im Ansatz eine horizontal gerechte Besteuerung. Ein Straftatbestand Steuerhin-
+terziehung vermindert bei potentiellen Defektieren den Anreiz zum Free-Riding und
+stabilisiert dadurch gleichzeitig die Kooperationsbereitschaft kooperativer Steuer-
+pflichtiger.
+________________________
+31 Allerdings ist zu beachten, dass eine Ausweitung des Kontrollumfangs zwar eine Erhöhung der
+Abschreckungswirkung erwarten lässt, aber auch negative Effekte auf die Steuermoral hervorrufen
+kann. Frey spricht in diesem Zusammenhang von einer Verdrängung intrinsischer Motivation zur
+Steuerzahlung durch das Besteuerungsverfahren (Frey 2004: 50-56).
+32 Siehe zu einer anderen Auffassung hingegen Schneider (2002: 232-234, 257-260).
+zfwu 6/2 (2005), 155-172
+169
+170
+Soll auf der Grundlage dieser Analyse eine Entscheidung für eine Beibehaltung des
+Straftatbestands Steuerhinterziehung getroffen werden, ist Folgendes zu berücksichti-
+gen: Dieses Ergebnis ist erstens an die eingenommene vertragstheoretische Perspekti-
+ve in einer Welt mit Unsicherheit und Ungleichverteilung des Wissens gebunden:
+Über eine Rechtsregel Steuerhinterziehung entscheiden eigennutzorientiert handelnde
+Steuerpflichtige hinter einem Schleier des Nichtwissens. Zweitens setzt die Erklärung
+von Steuerhinterziehungsverhalten aus der Dilemmaproblematik der Besteuerungssi-
+tuation voraus, dass Steuerpflichtige „in der Realität“ Steuern nicht isoliert, sondern
+im Zusammenhang mit Einnahmen aus öffentlichen Gütern betrachten. Außerdem
+wird unterstellt, dass eigennutzorientiertes Handeln auch auf Kosten anderer ein
+realistisches (wenn auch nicht unbedingt immer und überall geltendes) Handeln
+darstellt. Drittens ist zu beachten, dass dieses Ergebnis keine logische Deduktion aus
+der Annahme eigennutzorientierten und rationalen Verhaltens darstellt. Weil hier eine
+Welt mit Unsicherheit und Ungleichverteilung des Wissens zugrunde gelegt wurde,
+kann nicht gesagt werden, dass sich eigennutzorientiert und rational handelnde Wirt-
+schaftssubjekte hinter einem Schleier des Nichtwissens für einen Straftatbestand
+Steuerhinterziehung entscheiden werden. Es werden aber Gründe dafür angeführt,
+dass die rekonstruierte Situation, zu der die Entscheidung für einen Straftatbestand
+Steuerhinterziehung situationsangemessenes Handeln darstellt, realistischer und
+konsistenter ist als die von Beckmann vorgelegte Erklärung von Steuerhinterzie-
+hungsverhalten, aus der es situationsangemessen wäre, auf einen Straftatbestand
+Steuerhinterziehung zu verzichten. Überdies lässt sich begründen, dass Wirtschafts-
+subjekte, die hinter einem Schleier des Nichtwissens der hier vorgelegten Erklärung
+von Steuerhinterziehungsverhalten folgen, sich gegen die modifiziert ethische Argu-
+mentation Schneiders aussprechen werden: Entgegen Schneider ist Steuerhinterzie-
+hung als Sanktionsinstrument politischer Agenten nicht gerechtfertigt, weil sie sich
+aufgrund des „einseitigen Ausstiegs“ immer zu Lasten der Gesellschaftsvertragspart-
+ner auswirkt. Viertens ist zu berücksichtigen, dass mit dem Straftatbestand Steuerhin-
+terziehung Konsequenzen im Hinblick auf materielles und formelles Steuerrecht sowie
+die Ausgestaltung des Steuerstrafrechts verbunden sind, die als „Nebenwirkungen“ bei
+einer Entscheidung für die Beibehaltung des Tatbestands in Kauf genommen werden
+müssen.
+Literaturverzeichnis
+<ref>Albert, H. (1987): Kritik der reinen Erkenntnislehre, Tübingen: Mohr Siebeck.</ref>
+<ref>Albert, H. (1991): Traktat über kritische Vernunft, 5. Aufl., Tübingen: Mohr Siebeck.</ref>
+<ref>Andreoni, J./ Erard, B./ Feinstein, J. (1998): Tax Compliance, in: Journal of Economic Literature,
+Vol. XXXVI, 818-860.</ref>
+<ref>Beckmann, K. (2003): Steuerhinterziehung, Tübingen: Mohr Siebeck.</ref>
+<ref>Breithecker, V. (2003): Lohnt die strafbefreiende Erklärung nach dem Steuerbefreiungserklä-
+rungsgesetz vom 23.12.2003?, in: Carstens, K./ Fleck, G./ Loeper, K.-D. v. (Hrsg.): StB-
+Handbuch, Band 1, 2. Aufl., Berlin: Erich Schmidt.</ref>
+<ref>Brennan, G./ Buchanan, J. M. (1988): Besteuerung und Staatsgewalt, Hamburg: Steuer- und
+Wirtschaftsverlag.</ref>
+<ref>Buchanan, J. M. (1985): The Ethical Limits of Taxation, in: FØrsund, F. R./ Honkapohja, S.
+(Eds.): Limits and Problems of Taxation, Houndmills: Macmillan, 4-16.</ref>
+<ref>Elschen, R. (1989): Institutionale oder personale Besteuerung von Unternehmensgewinnen?,
+Hamburg: Steuer- und Wirtschaftsverlag.</ref>
+<ref>Findeisen, F. (1923): Unternehmung und Steuer, Stuttgart: Poeschel.</ref>
+<ref>Frey, B. S. (2004): Politische Partizipation und Steuermoral, in: Bizer, K./ Falk, A./ Lange, J.
+(Hrsg.): Am Staat vorbei, Berlin: Duncker & Humblot, 47-57.</ref>
+<ref>Gaertner, W. (1988): Untergrundwirtschaft, Steuerhinterziehung und Moral, in: Hesse, H.
+(Hrsg.): Wirtschaftswissenschaft und Ethik, Berlin: Duncker & Humblot, 109-130.</ref>
+<ref>Hayek, F. A. v. (1976): Wahrer und falscher Individualismus, in: Individualismus und wirt-
+schaftliche Ordnung, 2. Aufl., Salzburg: Neugebauer, 9-48.</ref>
+<ref>Homann, K. (1999): Die Legitimation von Institutionen, in: Korff, W. (Hrsg.): Handbuch der
+Wirtschaftsethik, Band 2, Gütersloh: Gütersloher Verlagshaus, 50-94.</ref>
+<ref>Homann, K. (2002a): Homo oeconomicus und Dilemmastrukturen (Erstveröffentlichung 1994),
+in: Lütge, C. (Hrsg.): Vorteile und Anreize, Tübingen: Mohr Siebeck, 69-93.</ref>
+<ref>Homann, K. (2002b): Sinn und Grenze der ökonomischen Methode in der Wirtschaftsethik
+(Erstveröffentlichung 1997), in: Lütge, C. (Hrsg.): Vorteile und Anreize, Tübingen: Mohr
+Siebeck, 106-135.</ref>
+<ref>Hundsdoerfer, J. (1996): Die Steuerhinterziehung und ihre Integration in betriebswirtschaftliche
+Entscheidungsmodelle – Eine Wirkungsanalyse, Köln: Verlag für Betriebswirtschaft und
+Steuern.</ref>
+<ref>Joecks, W. (2005): Einleitung, in: Franzen, K./ Gast-de Haan, B./ Joecks, W. (Hrsg.): Steuer-
+strafrecht mit Zoll- und Verbrauchsteuerrecht, 6. Aufl., München: Beck.</ref>
+<ref>Kirchgässner, G. (2000): Homo Oeconomicus, 2. Aufl., Tübingen: Mohr Siebeck.</ref>
+<ref>Kirchgässner, G. (2001): Moralische Aspekte der Besteuerung, Discussion Paper no. 2001-19,
+Forschungsgemeinschaft für Nationalökonomie an der Universität St. Gallen.</ref>
+<ref>Kirchler, E./ Maciejowsky, B. (2002): Steuermoral und Steuerhinterziehung, Discussion Papers on
+Strategic Interaction, no. 18-2002, Max-Planck-Institut zur Erforschung von Wirtschafts-
+systemen.</ref>
+<ref>Leschke, M. (1997): Das Problem der Steuerhinterziehung. Eine moralökonomische Analyse, in:
+Lohmann, K. R. (Hrsg.): Ökonomie und Moral, München: Oldenbourg, 157-174.</ref>
+<ref>Mackscheidt, K. (2004): Die Entwicklung der Steuermoralforschung, in: Bizer, K./ Falk, A./
+Lange, J. (Hrsg.): Am Staat vorbei, Berlin: Duncker & Humblot, 15-28.</ref>
+<ref>Pommerehne, W. (1983): Steuerhinterziehung und Schwarzarbeit als Grenzen der Staatstätigkeit,
+in: Schweizerische Zeitschrift für Volkswirtschaft und Statistik, o. J./ Heft 3, 261-284.</ref>
+<ref>Pommerehne, W. (1985): Was wissen wir eigentlich über Steuerhinterziehung?, in: Rivista Inter-
+nazionale di Scienze Economiche e Commerciali, Vol. 32/ N. 12, 1155-1186.</ref>
+<ref>Pommerehne, W. W./ Weck-Hannemann, H. (1992): Steuerhinterziehung: Einige romantische,
+realistische und nicht zuletzt empirische Befunde, in: Zeitschrift für Wirtschafts- und Sozi-
+alwissenschaften, Jg. 112/ Heft 3, 433-466.</ref>
+<ref>Popper, K. R. (1978): Die Logik der Sozialwissenschaften, (Erstveröffentlichung 1962), in:
+Adorno, T. W./ Dahrendorf, R./ Pilot, H./ Albert, H./ Habermas, J./ Popper, K. R.
+(Hrsg.): Der Positivismusstreit in der deutschen Soziologie, 6. Aufl., Darmstadt: Luchter-
+hand, 103-123.</ref>
+<ref>Popper, K. R. (1979a): Das Elend des Historizismus, 5. Aufl., Tübingen: Mohr Siebeck.</ref>
+<ref>Popper, K. R. (1979b): Ausgangspunkte, Hamburg: Hoffmann und Campe.</ref>
+zfwu 6/2 (2005), 155-172
+171
+172
+<ref>Popper, K. R. (1992): Die offene Gesellschaft und ihre Feinde II, 7. Aufl. Tübingen: Mohr
+Siebeck.</ref>
+<ref>Popper, K. R. (1994): Logik der Forschung, 10. Aufl., Tübingen: Mohr Siebeck.</ref>
+<ref>Popper, K. R. (2000): Das Rationalitätsprinzip (Erstveröffentlichung 1967), in: Miller, D. (Hrsg.):
+Popper Lesebuch, Tübingen: Mohr Siebeck, 350-359.</ref>
+<ref>Rawls, J. (2003): Gerechtigkeit als Fairneß. Ein Neuentwurf, Frankfurt a. M.: Suhrkamp.</ref>
+<ref>Schäfer, H.-B./ Ott, C. (2000): Lehrbuch der ökonomischen Analyse des Zivilrechts, 3. Aufl.,
+Berlin: Springer.</ref>
+<ref>Schmidtchen, D. (1994): Vom nichtmarginalen Charakter der Steuermoral, in: Smekal, C./
+Theurl, E. (Hrsg.): Stand und Entwicklung der Finanzpsychologie, Baden-Baden: Nomos,
+185-211.</ref>
+<ref>Schneider, D. (1995): Betriebswirtschaftslehre, Band 1: Grundlagen, 2. Aufl., München: Olden-
+bourg.</ref>
+<ref>Schneider, D. (1997a): Betriebswirtschaftslehre, Band 3: Theorie der Unternehmung, München:
+Oldenbourg.</ref>
+<ref>Schneider, D. (1997b): Steuervermeidung – ein Kavaliersdelikt?, in: Der Betrieb, Jg. 50/ Heft 10,
+485-490.</ref>
+<ref>Schneider, D. (2001): Betriebswirtschaftslehre, Band 4: Geschichte und Methoden der Wirt-
+schaftswissenschaft, München: Oldenbourg.</ref>
+<ref>Schneider, D. (2002): Steuerlast und Steuerwirkung, München: Oldenbourg.</ref>
+<ref>Schreyögg, G. (1991): Der Managementprozeß – neu gesehen, in: Staehle, W. H./ Sydow, J.
+(Hrsg.): Managementforschung 1, Berlin: de Gruyter, 255-289.</ref>
+<ref>Siegel, T. (1999): Steuern, in: Korff, W. (Hrsg.): Handbuch der Wirtschaftsethik, Band 3,
+Gütersloh: Gütersloher Verlagshaus, 354-398.</ref>
+<ref>Smith, A. (1999): Der Wohlstand der Nationen, 8. Aufl., München: dtv.</ref>
+<ref>Tietzel, M. (1985): Wirtschaftstheorie und Unwissen, Tübingen: Mohr Siebeck.</ref>
+<ref>Tipke, K. (1993): Die Steuerrechtsordnung, Band 3, 2. Aufl., Köln: Dr. Otto Schmidt.</ref>
+<ref>Wagner, F. W. (2003), Die real existierende Einkommensteuer ist eine konsumorientierte
+Besteuerung, in: Ahlheim, M./ Wenzel, H.-D./ Wiegard, W. (Hrsg.): Steuerpolitik – Von
+der Theorie zur Praxis, Festschrift für Manfred Rose, Berlin: Springer, 369-390.</ref>
+<ref>Watkins, J. W. N. (1978): Freiheit und Entscheidung, Tübingen: Mohr Siebeck.</ref>
+<ref>Weck-Hannemann, H./ Pommerehne, W. (1989): Einkommenssteuerhinterziehung in der Schweiz:
+Eine empirische Analyse, in: Schweizerische Zeitschrift für Volkswirtschaft und Statistik,
+o. J./ Heft 4, 515-556.</ref>
