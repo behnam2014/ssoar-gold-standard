@@ -3,12 +3,8 @@ This repository contains manually inspected datasets for evaluating the differen
 All datasets consist of research papers which come from the **[SSOAR repository](http://www.ssoar.info/)**. 
 This corpus will grow constantly.
 
-## Versioning
-* former version is available in [v1-2017-Jun](v1-2017-Jun/) 
-* latest update is available in [v2-2018-Mai](v2-2018-Mai)
 * and guideline files are available in [guidelinefiles](guidelinefiles/)
 
-** the following note is related to the last version.
 
 ## big picture of "gold standard process"
 ![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/guidelinefiles/goldstandard-process.PNG "gold standard process")
@@ -17,40 +13,33 @@ This corpus will grow constantly.
 
 At the moment there are 105 German and 100 English papers in this repository.
 ### How access to German papers:
-* [Access to all Files](v2-2018-Mai/1-German_papers)
-    1. [pdfs](v2-2018-Mai/1-German_papers/1-pdfs)
-        * contains 105 papers which selected randomly.
-    2. [layouts](v2-2018-Mai/1-German_papers/2-layouts)
-        * contains extracted layout files from selected pdfs.
-        * **[refext](https://github.com/exciteproject/refext)** is used for layout extraction
-    3. [Layout_and_refs_merged_and_checked_by_Anno1](v2-2018-Mai/1-German_papers/3-Layout_and_refs_merged_and_checked_by_Anno1)
-        * contains layout files with annotated reference strings.
-        * These reference strings are checked and edited by our [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1)
-    4. [References_extracted_from_Layout](v2-2018-Mai/1-German_papers/4-References_extracted_from_Layout)
+There is five different folder in this repository.
+* 1-[105 papers in German language which have a reference section at end of paper] (German_papers_ref_section_at_end_of_paper_1)
+* 2-[100 papers in English language which have a reference section at end of paper] (2-English_papers)
+* 3-[20 papers in German language which have references in footnote] (3-German_papers_with_footnote)
+* 4-[117 papers in German language which have a reference section at end of paper] (4-References_extracted_from_Layout)
+    * These papers are the second group of papers in German language which have a reference section at end of paper.
+    * for these papers the layouts are extracted from pdf files but references are not checked manually.
+* 5-[12 papers in German language which have a reference section at end of paper plus some short citation as footnote] (5-References_segmented_by_Annotatortool2)
+    
+* each folder again contains these  sub-folders
+    1. pdfs
+        * this folder contains pdf files which randomly picked from [SSOAR publications](http://www.ssoar.info/) (for understanding how they are selected see Selection method (### Selection method)).
+    2. layouts
+        * this folder contains extracted layout files from selected pdfs.
+        * [CERMINE](https://github.com/CeON/CERMINE) is used for layout extraction
+    3. Layout with references checked manually by EXRef-Identifier Tool
+        * this folder contains layout files which all references strings are annotated and checked manually.
+        * [EXRef-Identifier](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1) is used for checking identified reference strings in layout
+    4. extracted References from Layouts
         * contains extracted reference strings from annotated layout files (the output of step 3).
-    5. [References_segmented_by_Anno2](v2-2018-Mai/1-German_papers/5-References_segmented_by_Anno2).
-        * contains segmented reference strings 
-        * These reference strings are checked and edited by [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2).
-    6. [Layout_and_segmentated_ref_merged](v2-2018-Mai/1-German_papers/6-Layout_and_segmentated_ref_merged)
-        * contains a merge of layout and segmented reference strings.
+        * [refext ](https://github.com/exciteproject/refext) is used for extracting reference strings from layout files.
+    5. segmented References
+        * this folder contains segmented reference strings
+        * references are checked and edited manually by [EXRefmeta-Extractor Tool](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2)
+    6. merged Layout and segmented references
+        * this folder contains files that are a merge of layout and segmented reference strings.
 
-### How access to English papers
-* [Access to all Files](v2-2018-Mai/2-English_papers)
-    1. [pdfs](v2-2018-Mai/2-English_papers/1-pdfs)
-        * contains selected pdf files.
-    2. [layouts](v2-2018-Mai/2-English_papers/2-layouts)
-        * contains extracted layout files from selected pdfs.
-        * **[refext](https://github.com/exciteproject/refext)** is used for layout extraction
-    3. [Layout_and_refs_merged_and_checked_by_Anno1](v2-2018-Mai/2-English_papers/3-Layout_and_refs_merged_and_checked_by_Anno1)
-        * contains layout files with annotated reference strings.
-        * These reference strings are checked and edited by our [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1)
-    4. [References_extracted_from_Layout](v2-2018-Mai/2-English_papers/4-References_extracted_from_Layout)
-        * contains extracted reference strings from annotated layout files (the output of step 3).
-    5. [References_segmented_by_Anno2](v2-2018-Mai/2-English_papers/5-References_segmented_by_Anno2).
-        * contains segmented reference strings 
-        * These reference strings are checked and edited by [Annotator Tools](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2).
-    6. [Layout_and_segmentated_ref_merged](v2-2018-Mai/2-English_papers/6-Layout_and_segmentated_ref_merged)
-        * contains a merge of layout and segmented reference strings.
         
 ### Selection method
 We randomly select our papers from the 33,954 available publications that were available on [SSOAR repository](http://www.ssoar.info/).
@@ -60,9 +49,8 @@ Files name are equal to SSOAR ID (For easier referencing).
 ### How access to papers in SSOAR repository
 By searching SSOARID (file name) in [https://www.gesis.org/ssoar/home/](https://www.gesis.org/ssoar/home/), you can access each paper(metadata and pdf).
 ### Selection criteria
-We excluded the following publications from our gold standard:
 
-* Non-German and Non-English publications
-* Publications that were in OCR or scanned (images) format or have watermark in background.
-* Publications that do not contain a reference section.
-* Publications that have more than 50 or less than 3 references in their reference section.
+* all selected papers are in German and English languages
+* Publications that were in OCR or scanned (images) format or have watermark in background are excluded.
+* all selected papers contain a reference section at end of paper or some citation as footnote .
+* Number of References are in the range of: (3 < Reference < 50) 
