@@ -9,8 +9,8 @@ This corpus will grow constantly.
 ## Content
 
 ### How access to German papers:
-There is six different folder in this repository.
-* [1-German_papers_ref_section_at_end_of_paper_1](German_papers_ref_section_at_end_of_paper_1)
+**There is six different folder in this repository.**
+* [1-German_papers_ref_section_at_end_of_paper_1](1-German_papers_ref_section_at_end_of_paper_1)
     * In this folder there is 105 papers in German language.
     * There is a reference section at end of these papers.
 * [2-English_papers](2-English_papers)
@@ -18,7 +18,7 @@ There is six different folder in this repository.
     * There is a reference section at end of these papers.
 * [3-German_papers_with_footnote](3-German_papers_with_footnote)
     * In this folder there is 20 papers in German language.
-    * These papers have references in footnote.
+    * These papers have some references as a footnote.
 * [4-References_extracted_from_Layout](4-References_extracted_from_Layout)
     * In this folder there is 117 papers in German language.
     * These papers are the second group of papers in German language which have a reference section at end of paper.
@@ -26,27 +26,28 @@ There is six different folder in this repository.
 * [5-References_segmented_by_Annotatortool2](5-References_segmented_by_Annotatortool2)
     * In this folder there is 12 papers in German language.
     * These papers have a reference section at end of paper plus some short citation as footnote.
+    * for these papers the layouts are extracted from pdf files but references are not checked manually.
 * [guidelinefiles](guidelinefiles/)
    * There is one guideline files in this folder.
 
     
-Each folder again contains several sub-folders:
-1. Pdfs
-    * This folder contains pdf files which randomly picked from [SSOAR publications](http://www.ssoar.info/)(for understanding how they are selected see Selection method).
-2. Layouts
+**Each folder again contains several sub-folders:**
+1. **Pdfs**
+    * This folder contains pdf files which randomly picked from [SSOAR publications](http://www.ssoar.info/)(for understanding how they are selected see **Selection method**).
+2. **Layouts**
     * This folder contains extracted layout files from selected pdfs.
-    * [CERMINE](https://github.com/CeON/CERMINE) is used for layout extraction
-3. Layout with references checked manually by EXRef-Identifier Tool
-    * This folder contains layout files which all references strings are annotated and checked manually.
+    * [CERMINE](https://github.com/CeON/CERMINE) is used for layout extraction.
+3. **Layout with identified references**
+    * This folder contains layout files plus identified references which all references strings are annotated and checked manually.
     * [EXRef-Identifier](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1) is used for checking identified reference strings in layout files.
-4. Extracted References from Layouts
+4. **Extracted References from Layouts**
     * This folder contains extracted reference strings from annotated layout files (the output of step 3).
     * [refext ](https://github.com/exciteproject/refext) is used for extracting reference strings from layout files.
-5. Segmented References
-    * this folder contains segmented reference strings
+5. **Segmented References**
+    * This folder contains segmented reference strings.
     * references are checked and edited manually by [EXRefmeta-Extractor Tool](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2)
 6. Merged Layout and segmented references
-    * this folder contains again layout files which are merged with segmented reference strings.
+    * This folder contains layout files(from step 3) which are merged with segmented reference strings(from step 5).
 
 ### Selection method
 We randomly select our papers from the 33,954 available publications in [SSOAR repository](http://www.ssoar.info/).
