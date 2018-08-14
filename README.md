@@ -4,9 +4,13 @@ All datasets consist of research papers which come from the **[SSOAR repository]
 This corpus will grow constantly.
 
 ## big picture of "gold standard process"
-![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/guidelinefiles/goldstandard-process.PNG "gold standard process")
+![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/6-Guidelinefiles/goldstandard-process.PNG "gold standard process")
 
 ## Content
+* Number of all papers in repository: 354
+* Number of German papers in repository: 254
+* Number of English papers in repository: 100
+* Number of processed papers up until now: 225
 
 ### How access to papers:
 **There are six different folders in this repository.**
@@ -20,7 +24,7 @@ This corpus will grow constantly.
 * [3-German_papers_with_footnote](3-German_papers_with_footnote)
     * In this folder there are 20 papers in German language.
     * These papers have some references as a footnote.
-* [4-German_papers_with_reference_section_at_end_of_paper_first_second_group](4-German_papers_with_reference_section_at_end_of_paper_first_second_group)
+* [4-German_papers_with_reference_section_at_end_of_paper_second_group](4-German_papers_with_reference_section_at_end_of_paper_second_group)
     * In this folder there are 117 papers in German language.
     * These papers are the second group of papers in German language which selected for processing.
     * At the end of each paper there is a reference section.
